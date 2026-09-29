@@ -1,0 +1,279 @@
+{
+  "assets": {
+    "original9": {
+      "path": "/assets/uniforms/primary-uniforms-01.png",
+      "width": 2560,
+      "height": 1053
+    },
+    "image25.png": {
+      "path": "/assets/uniforms/a2-autumn.png",
+      "width": 2560,
+      "height": 1440
+    },
+    "original17": {
+      "path": "/assets/uniforms/primary-uniforms-02.png",
+      "width": 2560,
+      "height": 905
+    },
+    "original25": {
+      "path": "/assets/uniforms/secondary-autumn-uniforms.png",
+      "width": 2560,
+      "height": 902
+    },
+    "image23.png": {
+      "path": "/assets/uniforms/a6-autumn.png",
+      "width": 204,
+      "height": 295
+    },
+    "image26.png": {
+      "path": "/assets/uniforms/w2-winter.png",
+      "width": 2560,
+      "height": 1440
+    },
+    "original14": {
+      "path": "/assets/uniforms/primary-winter-uniforms.png",
+      "width": 2560,
+      "height": 905
+    },
+    "image8.jpeg": {
+      "path": "/assets/uniforms/w4-winter.jpg",
+      "width": 1038,
+      "height": 1044
+    },
+    "original21": {
+      "path": "/assets/uniforms/secondary-winter-uniforms.png",
+      "width": 2560,
+      "height": 902
+    }
+  },
+  "items": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "title": "灰紫/藏蓝拼色运动套装",
+      "description": "款式编号 A1。原公示统计中共有 159 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "autumn",
+      "status": "published",
+      "image_path": "/assets/uniforms/primary-uniforms-01.png",
+      "image_width": 2560,
+      "image_height": 1053,
+      "image_crop": {
+        "x": 237,
+        "y": 609,
+        "width": 664,
+        "height": 431
+      },
+      "created_at": "2026-09-04T00:11:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "original9"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000002",
+      "title": "中学款藏蓝白拼色运动套装",
+      "description": "款式编号 A2。原公示统计中共有 111 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "autumn",
+      "status": "published",
+      "image_path": "/assets/uniforms/a2-autumn.png",
+      "image_width": 2560,
+      "image_height": 1440,
+      "image_crop": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 1440
+      },
+      "created_at": "2026-09-04T00:10:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "image25.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000003",
+      "title": "小学款白黑拼色运动套装",
+      "description": "款式编号 A3。原公示统计中共有 42 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "autumn",
+      "status": "published",
+      "image_path": "/assets/uniforms/primary-uniforms-01.png",
+      "image_width": 2560,
+      "image_height": 1053,
+      "image_crop": {
+        "x": 237,
+        "y": 161,
+        "width": 664,
+        "height": 431
+      },
+      "created_at": "2026-09-04T00:09:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "original9"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000004",
+      "title": "小学款藏蓝酒红拼色运动套装",
+      "description": "款式编号 A4。原公示统计中共有 16 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "autumn",
+      "status": "published",
+      "image_path": "/assets/uniforms/primary-uniforms-02.png",
+      "image_width": 2560,
+      "image_height": 905,
+      "image_crop": {
+        "x": 237,
+        "y": 460,
+        "width": 664,
+        "height": 434
+      },
+      "created_at": "2026-09-04T00:08:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "original17"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000005",
+      "title": "中学款白黑拼色运动套装",
+      "description": "款式编号 A5。原公示统计中共有 18 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "autumn",
+      "status": "published",
+      "image_path": "/assets/uniforms/secondary-autumn-uniforms.png",
+      "image_width": 2560,
+      "image_height": 902,
+      "image_crop": {
+        "x": 237,
+        "y": 17,
+        "width": 664,
+        "height": 424
+      },
+      "created_at": "2026-09-04T00:07:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "original25"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000006",
+      "title": "中学款红白藏蓝拼色运动套装",
+      "description": "款式编号 A6。原公示统计中共有 13 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "autumn",
+      "status": "published",
+      "image_path": "/assets/uniforms/a6-autumn.png",
+      "image_width": 204,
+      "image_height": 295,
+      "image_crop": {
+        "x": 0,
+        "y": 0,
+        "width": 204,
+        "height": 295
+      },
+      "created_at": "2026-09-04T00:06:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "image23.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000007",
+      "title": "深蓝紫拼色短外套/冲锋衣式套装",
+      "description": "款式编号 W1。原公示统计中共有 165 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "winter",
+      "status": "published",
+      "image_path": "/assets/uniforms/primary-uniforms-01.png",
+      "image_width": 2560,
+      "image_height": 1053,
+      "image_crop": {
+        "x": 1605,
+        "y": 161,
+        "width": 664,
+        "height": 431
+      },
+      "created_at": "2026-09-04T00:05:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "original9"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000008",
+      "title": "中学款深蓝连帽外套套装",
+      "description": "款式编号 W2。原公示统计中共有 132 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "winter",
+      "status": "published",
+      "image_path": "/assets/uniforms/w2-winter.png",
+      "image_width": 2560,
+      "image_height": 1440,
+      "image_crop": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 1440
+      },
+      "created_at": "2026-09-04T00:04:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "image26.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000009",
+      "title": "小学款藏蓝羽绒服",
+      "description": "款式编号 W3。原公示统计中共有 27 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "winter",
+      "status": "published",
+      "image_path": "/assets/uniforms/primary-winter-uniforms.png",
+      "image_width": 2560,
+      "image_height": 905,
+      "image_crop": {
+        "x": 1605,
+        "y": 460,
+        "width": 664,
+        "height": 434
+      },
+      "created_at": "2026-09-04T00:03:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "original14"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000010",
+      "title": "中学款藏蓝羽绒服",
+      "description": "款式编号 W4。原公示统计中共有 15 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "winter",
+      "status": "published",
+      "image_path": "/assets/uniforms/w4-winter.jpg",
+      "image_width": 1038,
+      "image_height": 1044,
+      "image_crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1038,
+        "height": 1044
+      },
+      "created_at": "2026-09-04T00:02:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "image8.jpeg"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000011",
+      "title": "小学款紫色拼接短外套",
+      "description": "款式编号 W5。原公示统计中共有 7 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "winter",
+      "status": "published",
+      "image_path": "/assets/uniforms/primary-winter-uniforms.png",
+      "image_width": 2560,
+      "image_height": 905,
+      "image_crop": {
+        "x": 1605,
+        "y": 17,
+        "width": 664,
+        "height": 429
+      },
+      "created_at": "2026-09-04T00:01:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "original14"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000012",
+      "title": "中学款灰色短款羽绒服",
+      "description": "款式编号 W6。原公示统计中共有 6 条学校、校区或学部采用记录。\n\n统计日期：2026 年 9 月 4 日。具体颜色、细节与选用情况以学校最新公示为准。",
+      "season": "winter",
+      "status": "published",
+      "image_path": "/assets/uniforms/secondary-winter-uniforms.png",
+      "image_width": 2560,
+      "image_height": 902,
+      "image_crop": {
+        "x": 1605,
+        "y": 17,
+        "width": 664,
+        "height": 424
+      },
+      "created_at": "2026-09-04T00:00:00.000Z",
+      "updated_at": "2026-09-04T00:00:00.000Z",
+      "asset_key": "original21"
+    }
+  ]
+}

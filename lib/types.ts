@@ -1,22 +1,13 @@
-export type Season = 'autumn' | 'winter' | 'summer' | 'other';
-export type Crop = { x: number; y: number; width: number; height: number };
-export type Uniform = {
-  id: string;
-  title: string;
-  description: string;
-  season: Season;
-  status: 'draft' | 'published';
-  image_path: string;
-  image_width: number;
-  image_height: number;
-  image_crop: Crop | null;
-  created_at: string;
-  updated_at: string;
+export const subjects = { math: '数学', chinese: '语文', english: '英语', science: '科学' } as const;
+export type Subject = keyof typeof subjects;
+export const grades = ['一年级', '二年级', '三年级', '四年级', '五年级', '六年级'];
+export type Question = { id: string; prompt: string; context: string; options: string[]; answer: number; hint: string; explanation: string };
+export type Lesson = {
+  id: string; title: string; description: string; subject: Subject; grade: number; topic: string;
+  minutes: number; status: 'draft' | 'published'; questions: Question[]; created_at: string; updated_at: string;
 };
-export type GalleryItem = Uniform & { image_url: string };
-export const seasonNames: Record<Season, string> = {
-  autumn: '春秋装', winter: '冬装', summer: '夏装', other: '其他',
+export type LessonSummary = Omit<Lesson, 'questions'> & { questionCount: number };
+export type LearningRecord = {
+  id: string; lessonId: string; title: string; subject: Subject; grade: number; correct: number; total: number;
+  seconds: number; completedAt: string; wrongIds: string[];
 };
-export const PAGE_SIZE = 6;
-export const ADMIN_PAGE_SIZE = 10;
-export const BUCKET = 'uniform-images';

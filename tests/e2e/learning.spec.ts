@@ -1,0 +1,141 @@
+import { test, expect } from '@playwright/test';
+import { readFileSync, existsSync } from 'node:fs';
+import { loadEnvConfig } from '@next/env';
+import { createClient } from '@supabase/supabase-js';
+
+let createdTitle: string | undefined;
+function adminCredentials() {
+  return Object.fromEntries(readFileSync('.env.admin.local','utf8').split('\n').filter(l=>l.includes('=')).map(l=>[l.slice(0,l.indexOf('=')),l.slice(l.indexOf('=')+1).trim()]));
+}
+test.afterEach(async () => {
+  if (!createdTitle) return;
+  loadEnvConfig(process.cwd());
+  const e = process.env, creds = adminCredentials();
+  const api = createClient((e.NEXT_PUBLIC_SUPABASE_URL || e.WYY_SUPABASE_URL)!, (e.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY || e.NEXT_PUBLIC_SUPABASE_ANON_KEY || e.NEXT_PUBLIC_WYY_SUPABASE_PUBLISHABLE_KEY || e.WYY_SUPABASE_ANON_KEY)!, {auth:{persistSession:false,autoRefreshToken:false}});
+  const login = await api.auth.signInWithPassword({email:creds.ADMIN_EMAIL,password:creds.ADMIN_PASSWORD});
+  if (login.error) throw new Error('Could not authenticate to clean up the temporary test lesson.');
+  const cleanup = await api.from('learning_lessons').delete().eq('title',createdTitle).eq('description','用于验证关卡编辑、发布与访问权限。');
+  await api.auth.signOut();
+  createdTitle = undefined;
+  if (cleanup.error) throw new Error('Could not clean up the temporary test lesson.');
+});
+
+test('mobile learning: filters, hints, resume, feedback, wrong-answer review and records', async ({ page }) => {
+  const errors: string[]=[];page.on('pageerror',e=>errors.push(e.message));
+  await page.goto('/');
+  await expect(page.getByRole('heading',{name:'今天想学点什么？'})).toBeVisible();
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+  await page.screenshot({path:'test-results/learning-mobile-home.png',fullPage:true});
+  await page.setViewportSize({width:1440,height:1000});
+  await page.screenshot({path:'test-results/learning-desktop-home.png',fullPage:true});
+  await page.setViewportSize({width:390,height:844});
+  await page.getByLabel('学习年级').selectOption('6');
+  await expect(page.getByRole('heading',{name:'新知识正在准备中'})).toBeVisible();
+  await page.getByLabel('学习年级').selectOption('2');
+  await page.getByRole('button',{name:'语文',exact:true}).click();
+  await expect(page.getByRole('heading',{name:'汉字找朋友'})).toBeVisible();
+  await expect(page.getByRole('heading',{name:'乘法有妙招'})).toHaveCount(0);
+  await page.getByRole('link',{name:'开始挑战'}).click();
+  await expect(page.getByRole('heading',{name:'苹果3元，牛奶5元，一共多少钱？'})).toBeVisible();
+  await expect(page.getByRole('button',{name:'确认答案'})).toBeDisabled();
+  await page.getByRole('button',{name:'给我一点提示'}).click();
+  await expect(page.getByText('把两件商品的价格加起来。')).toBeVisible();
+  await page.getByRole('button',{name:'A 6元',exact:true}).click();
+  await page.getByRole('button',{name:'确认答案'}).click();
+  await expect(page.getByRole('heading',{name:'没关系，我们一起想一想'})).toBeVisible();
+  await page.getByRole('button',{name:'下一题'}).click();
+  await page.screenshot({path:'test-results/learning-mobile-quiz.png',fullPage:true});
+  await page.reload();
+  await expect(page.getByText('第 2 / 5 题')).toBeVisible();
+  for (const [choice,last] of [['B 4元',false],['B 6元',false],['C 5元',false],['B 3元',true]] as const) {
+    await page.getByRole('button',{name:choice,exact:true}).click();
+    await page.getByRole('button',{name:'确认答案'}).click();
+    await expect(page.getByRole('heading',{name:'答对啦，想得很棒！'})).toBeVisible();
+    await page.getByRole('button',{name:last ? '看看学习成果' : '下一题'}).click();
+  }
+  await expect(page.getByRole('heading',{name:'挑战完成！'})).toBeVisible();
+  expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('fun-learning:records:v1') || '[]')[0].correct)).toBe(4);
+  await page.screenshot({path:'test-results/learning-mobile-result.png',fullPage:true});
+  await page.getByRole('button',{name:/再想一想，会更有收获/}).click();
+  await page.getByRole('button',{name:'C 8元',exact:true}).click();
+  await page.getByRole('button',{name:'确认答案'}).click();
+  await page.getByRole('button',{name:'看看学习成果'}).click();
+  await expect(page.getByRole('heading',{name:'复习完成！'})).toBeVisible();
+  await page.goto('/progress');
+  await expect(page.getByRole('heading',{name:'小小商店开门啦'})).toBeVisible();
+  expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('fun-learning:records:v1') || '[]').length)).toBe(1);
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+  await page.getByRole('button',{name:'清除本机学习记录'}).click();
+  await page.getByRole('button',{name:'保留记录'}).click();
+  await expect(page.getByRole('heading',{name:'小小商店开门啦'})).toBeVisible();
+  expect(errors).toEqual([]);
+});
+
+test('admin authentication, draft isolation, visual editor, publishing and deletion', async ({ page, browser }) => {
+  test.skip(!existsSync('.env.admin.local'),'Local admin credentials required for admin integration test.');
+  const creds=adminCredentials();
+  const errors: string[]=[];page.on('pageerror',e=>errors.push(e.message));
+  await page.setViewportSize({width:1440,height:1000});
+  await page.goto('/admin');
+  await expect(page).toHaveURL(/\/admin\/login/);
+  await page.getByLabel('邮箱',{exact:true}).fill(creds.ADMIN_EMAIL);
+  await page.getByLabel('密码',{exact:true}).fill(creds.ADMIN_PASSWORD);
+  await page.getByRole('button',{name:'登录后台'}).click();
+  await expect(page.getByRole('heading',{name:'关卡管理'})).toBeVisible();
+  await page.screenshot({path:'test-results/learning-admin-desktop.png',fullPage:true});
+  await page.setViewportSize({width:390,height:844});
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+  await page.screenshot({path:'test-results/learning-admin-mobile.png',fullPage:true});
+  await page.setViewportSize({width:1440,height:1000});
+  const title=`浏览器验证-${Date.now()}`;
+  createdTitle = title;
+  await page.getByRole('link',{name:'新建关卡'}).click();
+  await page.getByLabel('关卡名称',{exact:true}).fill(title);
+  await page.getByLabel('关卡简介',{exact:true}).fill('用于验证关卡编辑、发布与访问权限。');
+  await page.getByLabel('知识点',{exact:true}).fill('加法测试');
+  await page.getByLabel('题目',{exact:true}).fill('1 + 1 = ？');
+  for(const [i,answer] of ['1','2','3','4'].entries()) await page.getByRole('textbox',{name:`选项${String.fromCharCode(65+i)}`,exact:true}).fill(answer);
+  await page.getByLabel('设置选项B为正确答案').check();
+  await page.getByLabel('答题提示',{exact:true}).fill('从1开始，再往后数1个数。');
+  await page.getByLabel('答案解析',{exact:true}).fill('1 + 1 = 2。');
+  await page.getByRole('button',{name:'预览关卡'}).click();
+  await expect(page.getByRole('heading',{name:'1 + 1 = ？'})).toBeVisible();
+  await page.getByRole('button',{name:'返回编辑'}).click();
+  await page.screenshot({path:'test-results/learning-admin-editor.png',fullPage:true});
+  await page.getByRole('button',{name:'保存草稿',exact:true}).click();
+  await expect(page).toHaveURL(/\/admin\?saved=1/);
+  await page.getByLabel('搜索关卡').fill(title);
+  await page.getByRole('link',{name:'编辑',exact:true}).click();
+  await expect(page).toHaveURL(/\/admin\/[^/]+\/edit/);
+  const id=page.url().split('/admin/')[1].split('/')[0];
+  const visitor=await browser.newContext({baseURL:new URL(page.url()).origin,viewport:{width:390,height:844}});
+  const publicPage=await visitor.newPage();
+  try {
+    await publicPage.goto(`/learn/${id}`);
+    // Streamed Next.js not-found responses may have already sent HTTP 200.
+    await expect(publicPage.getByRole('heading',{name:'这个小挑战暂时不在这里'})).toBeVisible();
+    await expect(publicPage.getByRole('heading',{name:'1 + 1 = ？'})).toHaveCount(0);
+    await page.getByLabel('发布到前台', {exact:false}).check();
+    await page.getByRole('button',{name:'保存并发布'}).click();
+    await expect(page).toHaveURL(/\/admin\?saved=1/);
+    await publicPage.goto(`/learn/${id}`);
+    await expect(publicPage.getByRole('heading',{name:'1 + 1 = ？'})).toBeVisible();
+    await page.getByLabel('搜索关卡').fill(title);
+    await page.getByRole('link',{name:'编辑',exact:true}).click();
+    await page.getByLabel('保存为草稿',{exact:false}).check();
+    await page.getByRole('button',{name:'保存草稿',exact:true}).click();
+    await expect(page).toHaveURL(/\/admin\?saved=1/);
+    await publicPage.reload();
+    await expect(publicPage.getByRole('heading',{name:'这个小挑战暂时不在这里'})).toBeVisible();
+    await page.getByLabel('搜索关卡').fill(title);
+    await page.getByRole('link',{name:'编辑',exact:true}).click();
+    await page.getByRole('button',{name:'删除这个关卡',exact:true}).click();
+    await page.getByRole('button',{name:'确认删除',exact:true}).click();
+    await expect(page).toHaveURL(/\/admin$/);
+    await page.getByLabel('搜索关卡').fill(title);
+    await expect(page.getByRole('heading',{name:'没有符合条件的关卡'})).toBeVisible();
+    await page.getByRole('button',{name:'退出登录'}).click();
+    await expect(page).toHaveURL(/\/admin\/login/);
+    expect(errors).toEqual([]);
+  } finally {await visitor.close();}
+});

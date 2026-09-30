@@ -1,87 +1,72 @@
--- Run once in Supabase → SQL Editor. Re-running is safe for existing content.
+-- 趣味学习：可重复执行的独立学习题库。保留现有管理员身份。
 create table if not exists public.admins (
   user_id uuid primary key references auth.users(id) on delete cascade,
   created_at timestamptz not null default now()
 );
 alter table public.admins enable row level security;
-drop policy if exists "admins_read_self" on public.admins;
-create policy "admins_read_self" on public.admins for select to authenticated using (user_id = auth.uid());
+drop policy if exists admins_read_self on public.admins;
+create policy admins_read_self on public.admins for select to authenticated using (user_id = auth.uid());
 revoke all on public.admins from anon, authenticated;
 grant select on public.admins to authenticated;
-
 create or replace function public.is_admin() returns boolean
 language sql stable security definer set search_path = public
 as $$ select exists (select 1 from public.admins where user_id = auth.uid()) $$;
 revoke all on function public.is_admin() from public;
 grant execute on function public.is_admin() to anon, authenticated;
 
-create table if not exists public.uniforms (
+create or replace function public.valid_learning_questions(qs jsonb) returns boolean
+language plpgsql immutable set search_path = public as $$
+declare q jsonb; opt jsonb; ids text[] := '{}';
+begin
+  if jsonb_typeof(qs) <> 'array' or jsonb_array_length(qs) not between 1 and 20 then return false; end if;
+  for q in select value from jsonb_array_elements(qs) loop
+    if jsonb_typeof(q) <> 'object' or not (q ?& array['id','prompt','context','options','answer','hint','explanation']) then return false; end if;
+    if jsonb_typeof(q->'id') <> 'string' or (q->>'id') !~ '^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$' or (q->>'id') = any(ids) then return false; end if;
+    ids := array_append(ids, q->>'id');
+    if jsonb_typeof(q->'prompt') <> 'string' or char_length(trim(q->>'prompt')) not between 1 and 300 then return false; end if;
+    if jsonb_typeof(q->'context') <> 'string' or char_length(q->>'context') > 200 then return false; end if;
+    if jsonb_typeof(q->'hint') <> 'string' or char_length(trim(q->>'hint')) not between 1 and 300 then return false; end if;
+    if jsonb_typeof(q->'explanation') <> 'string' or char_length(trim(q->>'explanation')) not between 1 and 600 then return false; end if;
+    if jsonb_typeof(q->'answer') <> 'number' or (q->>'answer') !~ '^[0-3]$' then return false; end if;
+    if jsonb_typeof(q->'options') <> 'array' or jsonb_array_length(q->'options') <> 4 then return false; end if;
+    if (select count(distinct trim(value #>> '{}')) from jsonb_array_elements(q->'options')) <> 4 then return false; end if;
+    for opt in select value from jsonb_array_elements(q->'options') loop
+      if jsonb_typeof(opt) <> 'string' or char_length(trim(opt #>> '{}')) not between 1 and 100 then return false; end if;
+    end loop;
+  end loop;
+  return true;
+exception when others then return false;
+end; $$;
+create table if not exists public.learning_lessons (
   id uuid primary key default gen_random_uuid(),
-  title text not null check (char_length(trim(title)) between 1 and 80),
-  description text not null check (char_length(trim(description)) between 1 and 3000),
-  season text not null check (season in ('autumn', 'winter', 'summer', 'other')),
-  status text not null default 'draft' check (status in ('draft', 'published')),
-  image_path text not null check (image_path ~ '^[0-9a-f-]{36}/[0-9a-f-]{36}\.(jpg|jpeg|png|webp)$'),
-  image_width integer not null check (image_width between 1 and 20000),
-  image_height integer not null check (image_height between 1 and 20000),
-  image_crop jsonb,
+  title text not null check (char_length(trim(title)) between 1 and 60),
+  description text not null check (char_length(trim(description)) between 1 and 200),
+  subject text not null check (subject in ('math','chinese','english','science')),
+  grade integer not null check (grade between 1 and 6),
+  topic text not null check (char_length(trim(topic)) between 1 and 40),
+  minutes integer not null default 3 check (minutes between 1 and 30),
+  status text not null default 'draft' check (status in ('draft','published')),
+  questions jsonb not null check (public.valid_learning_questions(questions)),
   created_at timestamptz not null default now(),
-  updated_at timestamptz not null default now(),
-  constraint valid_image_crop check (
-    image_crop is null or (
-      jsonb_typeof(image_crop) = 'object'
-      and image_crop ?& array['x', 'y', 'width', 'height']
-      and (image_crop->>'x')::integer >= 0 and (image_crop->>'y')::integer >= 0
-      and (image_crop->>'width')::integer > 0 and (image_crop->>'height')::integer > 0
-      and (image_crop->>'x')::integer + (image_crop->>'width')::integer <= image_width
-      and (image_crop->>'y')::integer + (image_crop->>'height')::integer <= image_height
-    )
-  )
+  updated_at timestamptz not null default now()
 );
-create index if not exists uniforms_published_idx on public.uniforms (status, created_at desc, id desc);
-create index if not exists uniforms_image_idx on public.uniforms (image_path);
-alter table public.uniforms enable row level security;
-revoke all on public.uniforms from anon, authenticated;
-grant select on public.uniforms to anon;
-grant select, insert, update, delete on public.uniforms to authenticated;
-drop policy if exists "uniforms_read" on public.uniforms;
-create policy "uniforms_read" on public.uniforms for select to anon, authenticated
-using (status = 'published' or public.is_admin());
-drop policy if exists "uniforms_insert_admin" on public.uniforms;
-create policy "uniforms_insert_admin" on public.uniforms for insert to authenticated
-with check (public.is_admin() and split_part(image_path, '/', 1) = auth.uid()::text);
-drop policy if exists "uniforms_update_admin" on public.uniforms;
-create policy "uniforms_update_admin" on public.uniforms for update to authenticated
-using (public.is_admin()) with check (public.is_admin());
-drop policy if exists "uniforms_delete_admin" on public.uniforms;
-create policy "uniforms_delete_admin" on public.uniforms for delete to authenticated using (public.is_admin());
-
-create or replace function public.touch_uniform() returns trigger
+create index if not exists learning_lessons_catalog_idx on public.learning_lessons (status, grade, subject, created_at);
+alter table public.learning_lessons enable row level security;
+revoke all on public.learning_lessons from anon, authenticated;
+grant select on public.learning_lessons to anon;
+grant select, insert, update, delete on public.learning_lessons to authenticated;
+drop policy if exists lessons_read on public.learning_lessons;
+create policy lessons_read on public.learning_lessons for select to anon, authenticated using (status = 'published' or public.is_admin());
+drop policy if exists lessons_insert on public.learning_lessons;
+create policy lessons_insert on public.learning_lessons for insert to authenticated with check (public.is_admin());
+drop policy if exists lessons_update on public.learning_lessons;
+create policy lessons_update on public.learning_lessons for update to authenticated using (public.is_admin()) with check (public.is_admin());
+drop policy if exists lessons_delete on public.learning_lessons;
+create policy lessons_delete on public.learning_lessons for delete to authenticated using (public.is_admin());
+create or replace function public.touch_learning_lesson() returns trigger
 language plpgsql set search_path = public as $$
 begin new.updated_at = now(); return new; end; $$;
-drop trigger if exists uniform_updated_at on public.uniforms;
-create trigger uniform_updated_at before update on public.uniforms
-for each row execute function public.touch_uniform();
-
--- Private bucket: draft images cannot be read by visitors.
-insert into storage.buckets (id, name, public, file_size_limit, allowed_mime_types)
-values ('uniform-images', 'uniform-images', false, 5242880, array['image/jpeg', 'image/png', 'image/webp'])
-on conflict (id) do update set public = false, file_size_limit = excluded.file_size_limit, allowed_mime_types = excluded.allowed_mime_types;
-drop policy if exists "uniform_images_read" on storage.objects;
-create policy "uniform_images_read" on storage.objects for select to anon, authenticated using (
-  bucket_id = 'uniform-images' and (
-    public.is_admin() or exists (select 1 from public.uniforms u where u.image_path = name and u.status = 'published')
-  )
-);
-drop policy if exists "uniform_images_insert" on storage.objects;
-create policy "uniform_images_insert" on storage.objects for insert to authenticated
-with check (bucket_id = 'uniform-images' and public.is_admin() and (storage.foldername(name))[1] = auth.uid()::text);
-drop policy if exists "uniform_images_delete" on storage.objects;
-create policy "uniform_images_delete" on storage.objects for delete to authenticated
-using (bucket_id = 'uniform-images' and public.is_admin());
--- Uploaded objects are immutable. Replacements get a new random path.
-
--- After creating an email/password user in Authentication → Users, run:
--- insert into public.admins (user_id)
--- select id from auth.users where email = 'YOUR_ADMIN_EMAIL'
--- on conflict (user_id) do nothing;
+drop trigger if exists learning_lesson_updated on public.learning_lessons;
+create trigger learning_lesson_updated before update on public.learning_lessons for each row execute function public.touch_learning_lesson();
+-- 在 Authentication 中创建管理员后授权：
+-- insert into public.admins(user_id) select id from auth.users where email = 'YOUR_ADMIN_EMAIL' on conflict do nothing;

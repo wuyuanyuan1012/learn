@@ -2,72 +2,51 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { PGlite } from '@electric-sql/pglite';
+import { seedLessons } from '../lib/seed';
 
-test('database and image policies isolate admins, drafts and public content', async () => {
-  const db = new PGlite();
+test('learning database isolates drafts, rejects non-admin writes and validates question content', async () => {
+  const db=new PGlite();
   try {
-    await db.exec(`
-      create role anon; create role authenticated;
-      create schema auth; create schema storage;
-      create table auth.users (id uuid primary key, email text);
-      create function auth.uid() returns uuid language sql stable as $$ select nullif(current_setting('request.jwt.claim.sub', true), '')::uuid $$;
-      create table storage.buckets (id text primary key, name text, public boolean, file_size_limit bigint, allowed_mime_types text[]);
-      create table storage.objects (id uuid primary key default gen_random_uuid(), bucket_id text, name text);
-      alter table storage.objects enable row level security;
-      create function storage.foldername(name text) returns text[] language sql immutable as $$ select string_to_array(name, '/') $$;
-      grant usage on schema public, auth, storage to anon, authenticated;
-      grant select, insert, update, delete on storage.objects to anon, authenticated;
-    `);
-    const schema = await readFile(new URL('../supabase/schema.sql', import.meta.url), 'utf8');
-    await db.exec(schema);
-    await db.exec(schema); // Verify initialization is repeatable without destroying data structures.
-    const admin = '10000000-0000-4000-8000-000000000001';
-    const other = '10000000-0000-4000-8000-000000000002';
-    const publicId = '20000000-0000-4000-8000-000000000001';
-    const draftId = '20000000-0000-4000-8000-000000000002';
-    const publicPath = `${admin}/${publicId}.png`, draftPath = `${admin}/${draftId}.png`;
-    await db.query('insert into auth.users (id,email) values ($1,$2),($3,$4)', [admin, 'admin@example.com', other, 'reader@example.com']);
-    await db.query('insert into public.admins(user_id) values($1)', [admin]);
-    await db.query(`insert into public.uniforms(id,title,description,season,status,image_path,image_width,image_height) values ($1,'公开款','介绍','autumn','published',$2,1000,600),($3,'草稿款','介绍','winter','draft',$4,1000,600)`, [publicId, publicPath, draftId, draftPath]);
-    await db.query('insert into storage.objects(bucket_id,name) values ($1,$2),($1,$3)', ['uniform-images', publicPath, draftPath]);
-    async function asRole<T>(role: 'anon' | 'authenticated', user: string, run: () => Promise<T>) {
+    await db.exec(`create role anon;create role authenticated;create schema auth;
+      create table auth.users(id uuid primary key,email text);
+      create function auth.uid() returns uuid language sql stable as $$ select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid $$;
+      grant usage on schema public,auth to anon,authenticated;`);
+    const schema=await readFile(new URL('../supabase/schema.sql',import.meta.url),'utf8');
+    await db.exec(schema);await db.exec(schema);
+    const admin='60000000-0000-4000-8000-000000000001',other='60000000-0000-4000-8000-000000000002';
+    await db.query('insert into auth.users(id) values($1),($2)',[admin,other]);
+    await db.query('insert into public.admins(user_id) values($1)',[admin]);
+    const first=seedLessons[0],draft=seedLessons[1];
+    const insert=`insert into public.learning_lessons(id,title,description,subject,grade,topic,minutes,status,questions) values($1,$2,$3,$4,$5,$6,$7,$8,$9)`;
+    const values=(l: typeof first,status:string)=>[l.id,l.title,l.description,l.subject,l.grade,l.topic,l.minutes,status,JSON.stringify(l.questions)];
+    await db.query(insert,values(first,'published'));await db.query(insert,values(draft,'draft'));
+    async function asRole<T>(role:'anon'|'authenticated',user:string,run:()=>Promise<T>) {
       await db.exec('begin');
-      try {
-        await db.exec(`set local role ${role}`);
-        await db.query("select set_config('request.jwt.claim.sub',$1,true)", [user]);
-        const result = await run(); await db.exec('commit'); return result;
-      } catch (error) { await db.exec('rollback'); throw error; }
+      try {await db.exec(`set local role ${role}`);await db.query("select set_config('request.jwt.claim.sub',$1,true)",[user]);const result=await run();await db.exec('commit');return result;}
+      catch(error){await db.exec('rollback');throw error;}
     }
-    for (const [role, user] of [['anon', ''], ['authenticated', other]] as const) {
-      await asRole(role, user, async () => {
-        const records = await db.query('select id from public.uniforms');
-        assert.deepEqual(records.rows, [{ id: publicId }]);
-        const images = await db.query('select name from storage.objects');
-        assert.deepEqual(images.rows, [{ name: publicPath }]);
-        const deleted = await db.query('delete from storage.objects returning id');
-        assert.equal(deleted.rows.length, 0);
-      });
+    for(const [role,user] of [['anon',''],['authenticated',other]] as const) {
+      await asRole(role,user,async()=>{assert.deepEqual((await db.query('select id from public.learning_lessons')).rows,[{id:first.id}]);});
+      await assert.rejects(()=>asRole(role,user,()=>db.query(insert,values(seedLessons[2],'published'))));
     }
-    await assert.rejects(() => asRole('authenticated', other, () => db.query('insert into public.admins(user_id) values($1)', [other])));
-    await assert.rejects(() => asRole('authenticated', other, () => db.query(`insert into public.uniforms(title,description,season,image_path,image_width,image_height) values ('伪造','内容','autumn',$1,100,100)`, [`${other}/${publicId}.png`])));
-    await assert.rejects(() => asRole('authenticated', other, () => db.query('insert into storage.objects(bucket_id,name) values($1,$2)', ['uniform-images', `${other}/unauthorized.png`])));
-    await asRole('authenticated', admin, async () => {
-      assert.equal((await db.query('select id from public.uniforms')).rows.length, 2);
-      assert.equal((await db.query('select name from storage.objects')).rows.length, 2);
-      await db.query('update public.uniforms set status=$1 where id=$2', ['published', draftId]);
-      await db.query('insert into storage.objects(bucket_id,name) values($1,$2)', ['uniform-images', `${admin}/new.png`]);
+    await asRole('authenticated',other,async()=>{
+      assert.equal((await db.query("update public.learning_lessons set title='被篡改' returning id")).rows.length,0);
+      assert.equal((await db.query('delete from public.learning_lessons returning id')).rows.length,0);
     });
-    await asRole('anon', '', async () => {
-      assert.equal((await db.query('select id from public.uniforms')).rows.length, 2);
-      assert.equal((await db.query('select name from storage.objects')).rows.length, 2);
+    await assert.rejects(()=>asRole('authenticated',other,()=>db.query('insert into public.admins(user_id) values($1)',[other])));
+    await asRole('authenticated',admin,async()=>{
+      assert.equal((await db.query('select id from public.learning_lessons')).rows.length,2);
+      await db.query("update public.learning_lessons set status='published' where id=$1",[draft.id]);
+      await db.query(insert,values(seedLessons[2],'draft'));
     });
-    await assert.rejects(() => asRole('authenticated', admin, () => db.query('insert into storage.objects(bucket_id,name) values($1,$2)', ['uniform-images', `${other}/wrong-owner.png`])));
-    await asRole('authenticated', admin, async () => {
-      await db.query('update public.uniforms set status=$1 where id=$2', ['draft', publicId]);
-    });
-    await asRole('anon', '', async () => {
-      assert.deepEqual((await db.query('select name from storage.objects')).rows, [{ name: draftPath }]);
-    });
-    await assert.rejects(() => db.query('update public.uniforms set image_crop=$1 where id=$2', [{ x: 900, y: 0, width: 200, height: 100 }, publicId]));
-  } finally { await db.close(); }
+    await asRole('anon','',async()=>assert.equal((await db.query('select id from public.learning_lessons')).rows.length,2));
+    await asRole('authenticated',admin,()=>db.query("update public.learning_lessons set status='draft' where id=$1",[first.id]));
+    await asRole('anon','',async()=>assert.deepEqual((await db.query('select id from public.learning_lessons')).rows,[{id:draft.id}]));
+    const q=first.questions[0];
+    for(const invalid of [[],[{...q,answer:4}],[{...q,hint:''}],[{...q,options:['a','b','c','c']}],[{...q,options:['a','b','c',null]}],[q,q],[{...q,prompt:null}],[{...q,id:'invalid'}]]) {
+      await assert.rejects(()=>db.query('update public.learning_lessons set questions=$1 where id=$2',[JSON.stringify(invalid),first.id]));
+    }
+    await asRole('authenticated',admin,()=>db.query('delete from public.learning_lessons where id=$1',[first.id]));
+    assert.equal((await db.query('select id from public.learning_lessons where id=$1',[first.id])).rows.length,0);
+  } finally {await db.close();}
 });

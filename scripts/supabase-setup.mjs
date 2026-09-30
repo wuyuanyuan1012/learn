@@ -29,7 +29,7 @@ try {
     await db.query('begin');
     try { await db.query(await readFile('supabase/schema.sql', 'utf8')); await db.query('commit'); }
     catch (err) { await db.query('rollback'); throw err; }
-    console.log('Schema and storage policies initialized.');
+    console.log('Learning schema and access policies initialized.');
   } else if (mode === 'admin') {
     if (!email) throw new Error('ADMIN_EMAIL_REQUIRED');
     const api = createClient(url, secret, { auth: { persistSession: false, autoRefreshToken: false } });

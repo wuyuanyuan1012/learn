@@ -5,7 +5,7 @@ import { Icon } from '@/components/icon';
 
 export function LoginForm() {
   const [state, action, pending] = useActionState(login, {});
-  return <section className="login-card"><span className="section-icon"><Icon name="lock" size={26} /></span><p className="eyebrow">内容管理</p><h1>管理员登录</h1><p className="lede">管理校服图片、款式介绍与发布状态。</p>
+  return <section className="login-card"><span className="section-icon"><Icon name="lock" size={26} /></span><p className="eyebrow">趣味学习 · 内容管理</p><h1>管理员登录</h1><p className="lede">为孩子准备每一个有趣的小挑战。</p>
     <form action={action}>
       {state.error && <div className="alert error" role="alert">{state.error}</div>}
       <label className="field"><span className="field-label">邮箱</span><input name="email" type="email" autoComplete="username" required placeholder="请输入管理员邮箱" maxLength={254} /></label>

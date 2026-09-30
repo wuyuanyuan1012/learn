@@ -1,5 +1,5 @@
 {
-  "name": "shenyang-uniform-gallery",
+  "name": "fun-learning",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
-    "test": "node --import tsx --test tests/*.test.ts"
+    "test": "node --import tsx --test tests/*.test.ts",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "@supabase/ssr": "0.12.7",
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@electric-sql/pglite": "^0.3.0",
+    "@playwright/test": "^1.63.0",
     "@types/node": "^22.0.0",
     "@types/pg": "^8.23.1",
     "@types/react": "^19.0.0",

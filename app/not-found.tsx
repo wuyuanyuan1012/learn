@@ -1,2 +1,3 @@
 import Link from 'next/link';
-export default function NotFound() { return <main className="container empty-state"><h1>没有找到这条内容</h1><p>它可能尚未发布，或已被移除。</p><Link href="/" className="button">返回款式图册</Link></main>; }
+import { Icon } from '@/components/icon';
+export default function NotFound() { return <main className="container empty-state"><span className="section-icon"><Icon name="book" size={30} /></span><h1>这个小挑战暂时不在这里</h1><p>它可能还在准备中，或已经下架。先看看其他知识吧。</p><Link href="/" className="button">回到学习首页</Link></main>; }

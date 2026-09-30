@@ -1,30 +1,22 @@
 import { z } from 'zod';
-
-export const MAX_IMAGE_BYTES = 5 * 1024 * 1024;
-export const mimeExtensions: Record<string, string> = {
-  'image/jpeg': 'jpg', 'image/png': 'png', 'image/webp': 'webp',
-};
-export function validateImage(file: { size: number; type: string }) {
-  if (!mimeExtensions[file.type]) return '请选择 JPG、PNG 或 WebP 图片。';
-  if (!file.size || file.size > MAX_IMAGE_BYTES) return '图片不能为空，且不能超过 5 MB。';
-  return null;
-}
-export const uniformSchema = z.object({
+export const questionSchema = z.object({
+  id: z.uuid(),
+  prompt: z.string().trim().min(1, '请输入题目。').max(300),
+  context: z.string().trim().max(200).default(''),
+  options: z.array(z.string().trim().min(1, '请填写所有选项。').max(100)).length(4, '每道题需要四个选项。'),
+  answer: z.number().int().min(0).max(3),
+  hint: z.string().trim().min(1, '请填写提示。').max(300),
+  explanation: z.string().trim().min(1, '请填写解析。').max(600),
+}).refine(q => new Set(q.options).size === q.options.length, { message: '同一道题的选项不能重复。', path: ['options'] });
+export const lessonSchema = z.object({
   id: z.uuid().optional(),
-  title: z.string().trim().min(1, '请输入款式名称。').max(80, '名称不能超过 80 个字。'),
-  description: z.string().trim().min(1, '请输入款式介绍。').max(3000, '介绍不能超过 3000 个字。'),
-  season: z.enum(['autumn', 'winter', 'summer', 'other']),
+  title: z.string().trim().min(1, '请输入关卡名称。').max(60),
+  description: z.string().trim().min(1, '请输入关卡简介。').max(200),
+  subject: z.enum(['math', 'chinese', 'english', 'science']),
+  grade: z.number().int().min(1).max(6),
+  topic: z.string().trim().min(1, '请输入知识点。').max(40),
+  minutes: z.number().int().min(1).max(30),
   status: z.enum(['draft', 'published']),
-  image_path: z.string().max(250).regex(/^[0-9a-f-]{36}\/[0-9a-f-]{36}\.(jpg|jpeg|png|webp)$/, '图片路径无效。'),
-  image_width: z.number().int().min(1).max(20000),
-  image_height: z.number().int().min(1).max(20000),
-});
-export type UniformInput = z.infer<typeof uniformSchema>;
-export function pageNumber(value: string | string[] | undefined) {
-  const raw = Array.isArray(value) ? value[0] : value;
-  if (!raw || !/^\d+$/.test(raw)) return 1;
-  return Math.min(100000, Math.max(1, Number(raw)));
-}
-export function seasonFilter(value: string | string[] | undefined) {
-  return z.enum(['autumn', 'winter', 'summer', 'other']).safeParse(value).data;
-}
+  questions: z.array(questionSchema).min(1, '至少添加一道题。').max(20, '每关最多20道题。'),
+}).refine(l => new Set(l.questions.map(q => q.id)).size === l.questions.length, { message: '题目编号不能重复。', path: ['questions'] });
+export type LessonInput = z.infer<typeof lessonSchema>;

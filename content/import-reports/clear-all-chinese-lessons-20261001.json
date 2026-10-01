@@ -1,0 +1,54 @@
+{
+  "operation": "clear-all-chinese-lessons",
+  "completedAt": "2026-09-30T16:38:47.229Z",
+  "backupCreated": false,
+  "deleted": {
+    "lessons": 34,
+    "questions": 340
+  },
+  "remainingChinese": {
+    "lessons": 0,
+    "questions": 0
+  },
+  "otherSubjectsUnchanged": true,
+  "memberDataModified": false,
+  "before": [
+    {
+      "subject": "chinese",
+      "lessons": 34,
+      "questions": 340
+    },
+    {
+      "subject": "english",
+      "lessons": 36,
+      "questions": 360
+    },
+    {
+      "subject": "math",
+      "lessons": 199,
+      "questions": 1990
+    },
+    {
+      "subject": "science",
+      "lessons": 21,
+      "questions": 210
+    }
+  ],
+  "after": [
+    {
+      "subject": "english",
+      "lessons": 36,
+      "questions": 360
+    },
+    {
+      "subject": "math",
+      "lessons": 199,
+      "questions": 1990
+    },
+    {
+      "subject": "science",
+      "lessons": 21,
+      "questions": 210
+    }
+  ]
+}

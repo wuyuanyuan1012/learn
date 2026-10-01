@@ -1,8 +1,0 @@
-import { getLessons } from '@/lib/catalog';
-import { SiteHeader } from '@/components/site-header';
-import { LearningHome } from '@/components/learning-home';
-export const dynamic = 'force-dynamic';
-export default async function HomePage() {
-  const data = await getLessons();
-  return <><SiteHeader /><LearningHome {...data} /></>;
-}

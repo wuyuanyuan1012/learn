@@ -1,0 +1,2372 @@
+[
+  {
+    "id": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+    "title": "新起点一上·Starter 见面打招呼",
+    "description": "Starter：问候与自我介绍。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "问候与自我介绍",
+    "category": "english-conversation",
+    "tags": [
+      "新起点一年级上册",
+      "Starter",
+      "问候与自我介绍"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "59bd67ad-adf0-5f4a-81ee-32cc1b722b24",
+        "prompt": "早上到学校，想向吴老师说“早上好”，选哪一句？",
+        "context": "",
+        "options": [
+          "Good morning, Miss Wu!",
+          "Good afternoon, Miss Wu!",
+          "Goodbye, Miss Wu!",
+          "Thank you, Miss Wu!"
+        ],
+        "answer": 0,
+        "hint": "想想早上和下午的问候有什么不同。",
+        "explanation": "morning 是早上；Good morning! 用于早上问好。"
+      },
+      {
+        "id": "a5155b05-f643-50d8-8e80-c0ef4f0b76d5",
+        "prompt": "下午见到 Bill，哪句问候最符合这个时间？",
+        "context": "",
+        "options": [
+          "Thank you, Bill!",
+          "Good afternoon, Bill!",
+          "Good morning, Bill!",
+          "Goodbye, Bill!"
+        ],
+        "answer": 1,
+        "hint": "找出表示“下午”的词。",
+        "explanation": "afternoon 是下午，下午问好可以说 Good afternoon!"
+      },
+      {
+        "id": "e6de1a94-7127-54d7-b603-44db4e4a5dd7",
+        "prompt": "放学准备离开，你会对 Joy 说哪一句？",
+        "context": "",
+        "options": [
+          "My name is Joy.",
+          "I have a book.",
+          "Goodbye, Joy!",
+          "Good morning, Joy!"
+        ],
+        "answer": 2,
+        "hint": "这是告别的时候。",
+        "explanation": "Goodbye! 表示“再见”，适合离开时说。"
+      },
+      {
+        "id": "0e0ae6e7-3ddc-5574-a024-b9d4c81b40ed",
+        "prompt": "新朋友问你叫什么名字，你叫 Lily，选哪句回答？",
+        "context": "",
+        "options": [
+          "Goodbye, Lily!",
+          "This is my nose.",
+          "I have a ruler.",
+          "My name is Lily."
+        ],
+        "answer": 3,
+        "hint": "回答时要介绍自己的名字。",
+        "explanation": "My name is Lily. 表示“我叫莉莉”。"
+      },
+      {
+        "id": "d1730177-5d6b-54a8-a5d4-677e285b347d",
+        "prompt": "想知道新同学的名字，应该怎样问？",
+        "context": "",
+        "options": [
+          "What's your name?",
+          "What's this?",
+          "What colour is it?",
+          "How many birds are there?"
+        ],
+        "answer": 0,
+        "hint": "name 和名字有关。",
+        "explanation": "What's your name? 是询问对方姓名的常用句。"
+      },
+      {
+        "id": "05fdb94b-817f-559d-ba78-ff47f6e3eea1",
+        "prompt": "读到“I'm Bill.”，这里的说话人叫什么？",
+        "context": "",
+        "options": [
+          "Andy",
+          "Bill",
+          "Lily",
+          "Joy"
+        ],
+        "answer": 1,
+        "hint": "看 I'm 后面的名字。",
+        "explanation": "I'm Bill. 表示“我是比尔”，说话人是 Bill。"
+      },
+      {
+        "id": "988c6062-b298-5df8-8ce9-e20af668a522",
+        "prompt": "见面时 Andy 说“Hello!”。这里 Hello 表示什么？",
+        "context": "",
+        "options": [
+          "谢谢",
+          "请坐下",
+          "你好",
+          "再见"
+        ],
+        "answer": 2,
+        "hint": "想想见面时通常会说什么。",
+        "explanation": "Hello! 是见面问候语，意思是“你好”。"
+      },
+      {
+        "id": "4fa36a0d-e70d-5fe4-86f6-a9059823cdac",
+        "prompt": "Lily 挥手说“Bye!”后离开。Bye 的意思是什么？",
+        "context": "",
+        "options": [
+          "早上好",
+          "你好",
+          "我是莉莉",
+          "再见"
+        ],
+        "answer": 3,
+        "hint": "注意她正在离开。",
+        "explanation": "Bye! 是“再见”，用于告别。"
+      },
+      {
+        "id": "06599419-a591-5bd0-8565-d2b1ea41dd5e",
+        "prompt": "吴老师说“I'm Miss Wu.”，她正在做什么？",
+        "context": "",
+        "options": [
+          "介绍自己",
+          "询问颜色",
+          "数小鸟",
+          "说自己有一本书"
+        ],
+        "answer": 0,
+        "hint": "I'm 后面可以接自己的称呼。",
+        "explanation": "I'm Miss Wu. 意思是“我是吴老师”，是在介绍自己。"
+      },
+      {
+        "id": "6f28416c-fc05-55fe-bd44-aea82f7e1f42",
+        "prompt": "同学问“What's your name?”，下面哪句是在回答名字？",
+        "context": "",
+        "options": [
+          "I have a pencil.",
+          "My name is Andy.",
+          "It's a dog.",
+          "It's red."
+        ],
+        "answer": 1,
+        "hint": "找出 My name is 开头的句子。",
+        "explanation": "My name is Andy. 表示“我叫安迪”，回答了名字是什么。"
+      }
+    ]
+  },
+  {
+    "id": "19889247-6f15-5972-94ae-a80429429bf6",
+    "title": "新起点一上·U1 学校词汇",
+    "description": "Unit 1 School：学校词汇。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "学校词汇",
+    "category": "english-vocabulary",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 1 School",
+      "学校词汇"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "3c54710c-0b4e-550a-b5c0-4868149acea0",
+        "prompt": "School 单词卡写着“book”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "铅笔",
+          "书包",
+          "书本",
+          "尺子"
+        ],
+        "answer": 2,
+        "hint": "回想学校词汇中这个单词的意思。",
+        "explanation": "book 表示“书本”。"
+      },
+      {
+        "id": "ade9340a-6812-5768-a12e-8633f44cd378",
+        "prompt": "School 单词卡写着“ruler”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "书本",
+          "铅笔",
+          "书包",
+          "尺子"
+        ],
+        "answer": 3,
+        "hint": "回想学校词汇中这个单词的意思。",
+        "explanation": "ruler 表示“尺子”。"
+      },
+      {
+        "id": "0c020511-b5b0-5b8a-8574-a8ecd66d972a",
+        "prompt": "School 单词卡写着“pencil”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "铅笔",
+          "书本",
+          "尺子",
+          "书包"
+        ],
+        "answer": 0,
+        "hint": "回想学校词汇中这个单词的意思。",
+        "explanation": "pencil 表示“铅笔”。"
+      },
+      {
+        "id": "c4375dfe-71d7-5478-b53e-7c111b369c81",
+        "prompt": "School 单词卡写着“schoolbag”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "铅笔",
+          "书包",
+          "书本",
+          "尺子"
+        ],
+        "answer": 1,
+        "hint": "回想学校词汇中这个单词的意思。",
+        "explanation": "schoolbag 表示“书包”。"
+      },
+      {
+        "id": "80bef0f1-79eb-5997-91b4-36513aeb6717",
+        "prompt": "School 单词卡写着“teacher”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "尺子",
+          "铅笔",
+          "老师",
+          "书本"
+        ],
+        "answer": 2,
+        "hint": "回想学校词汇中这个单词的意思。",
+        "explanation": "teacher 表示“老师”。"
+      },
+      {
+        "id": "a3ee95c2-5613-5074-b8a7-cc2ed11e91c5",
+        "prompt": "制作学校词汇卡片时，“书本”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "ruler",
+          "pencil",
+          "schoolbag",
+          "book"
+        ],
+        "answer": 3,
+        "hint": "把“书本”与学过的英语单词连起来想一想。",
+        "explanation": "“书本”对应的英语单词是 book。"
+      },
+      {
+        "id": "478b1fe1-a820-5092-af8e-2197f259620d",
+        "prompt": "制作学校词汇卡片时，“尺子”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "ruler",
+          "book",
+          "pencil",
+          "schoolbag"
+        ],
+        "answer": 0,
+        "hint": "把“尺子”与学过的英语单词连起来想一想。",
+        "explanation": "“尺子”对应的英语单词是 ruler。"
+      },
+      {
+        "id": "bbd0da6b-8208-5134-bdf9-8857acf6a718",
+        "prompt": "制作学校词汇卡片时，“铅笔”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "schoolbag",
+          "pencil",
+          "book",
+          "ruler"
+        ],
+        "answer": 1,
+        "hint": "把“铅笔”与学过的英语单词连起来想一想。",
+        "explanation": "“铅笔”对应的英语单词是 pencil。"
+      },
+      {
+        "id": "80bb9154-0b7e-513a-9ce0-a79431d6fc97",
+        "prompt": "制作学校词汇卡片时，“书包”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "ruler",
+          "pencil",
+          "schoolbag",
+          "book"
+        ],
+        "answer": 2,
+        "hint": "把“书包”与学过的英语单词连起来想一想。",
+        "explanation": "“书包”对应的英语单词是 schoolbag。"
+      },
+      {
+        "id": "4b94e828-59f5-543e-a437-13f5a748f900",
+        "prompt": "制作学校词汇卡片时，“老师”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "book",
+          "ruler",
+          "pencil",
+          "teacher"
+        ],
+        "answer": 3,
+        "hint": "把“老师”与学过的英语单词连起来想一想。",
+        "explanation": "“老师”对应的英语单词是 teacher。"
+      }
+    ]
+  },
+  {
+    "id": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+    "title": "新起点一上·U1 我的书包与课堂指令",
+    "description": "Unit 1 School：学习用品与课堂指令。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "学习用品与课堂指令",
+    "category": "english-conversation",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 1 School",
+      "学习用品与课堂指令"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "d789fe9d-2beb-5ad0-8231-61fdef10b19d",
+        "prompt": "你拿着一把尺子，想说“我有一把尺子”，选哪一句？",
+        "context": "",
+        "options": [
+          "I have a schoolbag.",
+          "I have a pencil.",
+          "I have a ruler.",
+          "I have a book."
+        ],
+        "answer": 2,
+        "hint": "找出表示尺子的单词。",
+        "explanation": "ruler 是尺子，I have a ruler. 表示“我有一把尺子”。"
+      },
+      {
+        "id": "c9c24789-38f2-55a7-9ed0-d94abddeecda",
+        "prompt": "Bill 说“I have a pencil.”，他有哪样文具？",
+        "context": "",
+        "options": [
+          "尺子",
+          "书包",
+          "书本",
+          "铅笔"
+        ],
+        "answer": 3,
+        "hint": "注意 have 后面提到的东西。",
+        "explanation": "pencil 是铅笔，因此他说自己有一支铅笔。"
+      },
+      {
+        "id": "565b7c45-aadc-599b-95be-213be5edf8bf",
+        "prompt": "你想告诉朋友自己有一本书，应该选哪句？",
+        "context": "",
+        "options": [
+          "I have a book.",
+          "This is my ear.",
+          "It's a cat.",
+          "It's yellow."
+        ],
+        "answer": 0,
+        "hint": "“我有……”可以用 I have ... 表达。",
+        "explanation": "book 是书，I have a book. 表示“我有一本书”。"
+      },
+      {
+        "id": "dbc9ae5d-06c7-51e8-b46f-9ad683cfcf36",
+        "prompt": "老师说“Show me your schoolbag.”，应该给老师看什么？",
+        "context": "",
+        "options": [
+          "自己的书本",
+          "自己的书包",
+          "自己的尺子",
+          "自己的铅笔"
+        ],
+        "answer": 1,
+        "hint": "听指令时要注意 schoolbag。",
+        "explanation": "Show me your schoolbag. 是让你出示自己的书包。"
+      },
+      {
+        "id": "ad4c8087-9cab-505e-8e77-6b76332eed19",
+        "prompt": "听到“Stand up!”这条课堂指令，应该怎样做？",
+        "context": "",
+        "options": [
+          "闭上眼睛",
+          "打开书本",
+          "站起来",
+          "坐下"
+        ],
+        "answer": 2,
+        "hint": "up 在这里表示向上。",
+        "explanation": "Stand up! 表示“起立”，所以应该站起来。"
+      },
+      {
+        "id": "192652df-40c7-5219-91c4-1ac0b9b2359e",
+        "prompt": "老师指着座位说“Sit down, please.”，你应该怎样做？",
+        "context": "",
+        "options": [
+          "站起来",
+          "摸鼻子",
+          "出示铅笔",
+          "坐下"
+        ],
+        "answer": 3,
+        "hint": "想想 sit down 是什么动作。",
+        "explanation": "Sit down, please. 表示“请坐下”。"
+      },
+      {
+        "id": "9f620691-24c5-5926-97cf-3edfd238414e",
+        "prompt": "游戏开始，老师说“Close your eyes.”，应该怎样做？",
+        "context": "",
+        "options": [
+          "闭上眼睛",
+          "睁开眼睛",
+          "拿出书包",
+          "摸耳朵"
+        ],
+        "answer": 0,
+        "hint": "close 表示合上、关闭。",
+        "explanation": "Close your eyes. 表示“闭上眼睛”。"
+      },
+      {
+        "id": "4d7492dd-4fe3-5773-b341-da4e7774ef3d",
+        "prompt": "猜物游戏结束，听到“Open your eyes.”应做什么？",
+        "context": "",
+        "options": [
+          "收起尺子",
+          "睁开眼睛",
+          "闭上眼睛",
+          "站起来"
+        ],
+        "answer": 1,
+        "hint": "open 和 close 表示相反的动作。",
+        "explanation": "Open your eyes. 表示“睁开眼睛”。"
+      },
+      {
+        "id": "8fc9837b-5fa3-59b0-838d-8bfef5fa7fed",
+        "prompt": "老师说“Show me your pencil.”，下面哪样东西符合要求？",
+        "context": "",
+        "options": [
+          "尺子",
+          "书本",
+          "铅笔",
+          "书包"
+        ],
+        "answer": 2,
+        "hint": "留意指令末尾的 pencil。",
+        "explanation": "pencil 表示铅笔，老师让你出示自己的铅笔。"
+      },
+      {
+        "id": "a6b2c3b9-9780-5459-b97c-d207d4becc58",
+        "prompt": "桌上原有 book、ruler、pencil，现在只剩 book、pencil。What's missing?",
+        "context": "",
+        "options": [
+          "book",
+          "pencil",
+          "schoolbag",
+          "ruler"
+        ],
+        "answer": 3,
+        "hint": "比较原来的清单和现在的清单。",
+        "explanation": "原来有 ruler，现在的清单中没有它，所以不见的是尺子 ruler。"
+      }
+    ]
+  },
+  {
+    "id": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+    "title": "新起点一上·U2 五官词汇",
+    "description": "Unit 2 Face：五官词汇。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "五官词汇",
+    "category": "english-vocabulary",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 2 Face",
+      "五官词汇"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "949adf28-a207-58ff-a9f4-083e94128fc0",
+        "prompt": "Face 单词卡写着“face”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "脸",
+          "耳朵",
+          "眼睛",
+          "鼻子"
+        ],
+        "answer": 0,
+        "hint": "回想五官词汇中这个单词的意思。",
+        "explanation": "face 表示“脸”。"
+      },
+      {
+        "id": "74867405-242d-5b94-83c1-63be999996a7",
+        "prompt": "Face 单词卡写着“ear”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "鼻子",
+          "耳朵",
+          "脸",
+          "眼睛"
+        ],
+        "answer": 1,
+        "hint": "回想五官词汇中这个单词的意思。",
+        "explanation": "ear 表示“耳朵”。"
+      },
+      {
+        "id": "c8f5f1e3-e4be-5037-b839-e603bf981cc8",
+        "prompt": "Face 单词卡写着“eye”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "耳朵",
+          "鼻子",
+          "眼睛",
+          "脸"
+        ],
+        "answer": 2,
+        "hint": "回想五官词汇中这个单词的意思。",
+        "explanation": "eye 表示“眼睛”。"
+      },
+      {
+        "id": "dd94cd04-121d-59e0-bfbf-4202a066102f",
+        "prompt": "Face 单词卡写着“nose”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "脸",
+          "耳朵",
+          "眼睛",
+          "鼻子"
+        ],
+        "answer": 3,
+        "hint": "回想五官词汇中这个单词的意思。",
+        "explanation": "nose 表示“鼻子”。"
+      },
+      {
+        "id": "6e4ff2ad-2498-5e89-8beb-565abfddf95f",
+        "prompt": "Face 单词卡写着“mouth”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "嘴巴",
+          "脸",
+          "耳朵",
+          "眼睛"
+        ],
+        "answer": 0,
+        "hint": "回想五官词汇中这个单词的意思。",
+        "explanation": "mouth 表示“嘴巴”。"
+      },
+      {
+        "id": "6013ecfa-643e-5d12-8aaa-165a0e42801d",
+        "prompt": "制作五官词汇卡片时，“脸”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "nose",
+          "face",
+          "ear",
+          "eye"
+        ],
+        "answer": 1,
+        "hint": "把“脸”与学过的英语单词连起来想一想。",
+        "explanation": "“脸”对应的英语单词是 face。"
+      },
+      {
+        "id": "fcb82bca-155d-5b60-a087-4ebde8c92cf1",
+        "prompt": "制作五官词汇卡片时，“耳朵”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "eye",
+          "nose",
+          "ear",
+          "face"
+        ],
+        "answer": 2,
+        "hint": "把“耳朵”与学过的英语单词连起来想一想。",
+        "explanation": "“耳朵”对应的英语单词是 ear。"
+      },
+      {
+        "id": "ecde9f30-010d-54c4-9cd4-b10d27500325",
+        "prompt": "制作五官词汇卡片时，“眼睛”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "face",
+          "ear",
+          "nose",
+          "eye"
+        ],
+        "answer": 3,
+        "hint": "把“眼睛”与学过的英语单词连起来想一想。",
+        "explanation": "“眼睛”对应的英语单词是 eye。"
+      },
+      {
+        "id": "e572f345-1f66-5078-a05d-cfc44e5f8333",
+        "prompt": "制作五官词汇卡片时，“鼻子”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "nose",
+          "face",
+          "ear",
+          "eye"
+        ],
+        "answer": 0,
+        "hint": "把“鼻子”与学过的英语单词连起来想一想。",
+        "explanation": "“鼻子”对应的英语单词是 nose。"
+      },
+      {
+        "id": "fc1c2345-c040-5514-9b4b-c366836c16d7",
+        "prompt": "制作五官词汇卡片时，“嘴巴”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "eye",
+          "mouth",
+          "face",
+          "ear"
+        ],
+        "answer": 1,
+        "hint": "把“嘴巴”与学过的英语单词连起来想一想。",
+        "explanation": "“嘴巴”对应的英语单词是 mouth。"
+      }
+    ]
+  },
+  {
+    "id": "628de412-2751-5041-a53c-74f602f0c9b4",
+    "title": "新起点一上·U2 介绍五官与动作",
+    "description": "Unit 2 Face：介绍五官。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "介绍五官",
+    "category": "english-conversation",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 2 Face",
+      "介绍五官"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "0395d8a3-9c73-5259-a0d0-775467f7c941",
+        "prompt": "你指着自己的鼻子，应该怎样介绍？",
+        "context": "",
+        "options": [
+          "This is my nose.",
+          "This is my ear.",
+          "This is my eye.",
+          "This is my mouth."
+        ],
+        "answer": 0,
+        "hint": "先找出“鼻子”的英语。",
+        "explanation": "nose 是鼻子，This is my nose. 表示“这是我的鼻子”。"
+      },
+      {
+        "id": "37d8c8c8-fef8-543b-aaad-bae0614b49e7",
+        "prompt": "Joy 说“This is my mouth.”，她在介绍自己的哪里？",
+        "context": "",
+        "options": [
+          "眼睛",
+          "嘴巴",
+          "鼻子",
+          "耳朵"
+        ],
+        "answer": 1,
+        "hint": "mouth 是本单元的五官词。",
+        "explanation": "This is my mouth. 表示“这是我的嘴巴”。"
+      },
+      {
+        "id": "c43f2836-602e-5d12-8ee4-9b7ad876a630",
+        "prompt": "老师发出“Touch your ear.”的指令，应摸哪里？",
+        "context": "",
+        "options": [
+          "嘴巴",
+          "脸",
+          "耳朵",
+          "鼻子"
+        ],
+        "answer": 2,
+        "hint": "先认出 ear 的意思。",
+        "explanation": "Touch your ear. 表示“摸你的耳朵”。"
+      },
+      {
+        "id": "f7b6114c-92b8-539a-9bf8-41bc540ca25d",
+        "prompt": "游戏中听到“Touch your nose.”，应选择哪个动作？",
+        "context": "",
+        "options": [
+          "摸耳朵",
+          "摸嘴巴",
+          "摸脸",
+          "摸鼻子"
+        ],
+        "answer": 3,
+        "hint": "nose 指脸上的哪个部位？",
+        "explanation": "nose 是鼻子，指令要求摸鼻子。"
+      },
+      {
+        "id": "e80b2eb1-a47c-5f13-9243-764541eaed92",
+        "prompt": "你想说“这是我的眼睛”，应选择哪句？",
+        "context": "",
+        "options": [
+          "This is my eye.",
+          "This is my nose.",
+          "This is my face.",
+          "This is my ear."
+        ],
+        "answer": 0,
+        "hint": "眼睛的单词和耳朵的单词容易混淆，仔细看。",
+        "explanation": "eye 是眼睛，ear 是耳朵；这里应选 This is my eye."
+      },
+      {
+        "id": "3c881dde-984c-57ef-9524-dbe70b48cdc1",
+        "prompt": "Bill 说“This is my face.”，face 指什么？",
+        "context": "",
+        "options": [
+          "小鸟",
+          "脸",
+          "尺子",
+          "书本"
+        ],
+        "answer": 1,
+        "hint": "这句话在介绍身体部位。",
+        "explanation": "face 表示脸，整句是“这是我的脸”。"
+      },
+      {
+        "id": "e2f6b708-7d15-5d14-a3d5-facb1fc0886e",
+        "prompt": "哪句指令让你摸自己的嘴巴？",
+        "context": "",
+        "options": [
+          "Touch your ear.",
+          "Touch your face.",
+          "Touch your mouth.",
+          "Touch your nose."
+        ],
+        "answer": 2,
+        "hint": "找出表示嘴巴的词。",
+        "explanation": "mouth 是嘴巴，Touch your mouth. 就是“摸你的嘴巴”。"
+      },
+      {
+        "id": "4b647662-84a7-5f38-bae3-cd7d7cc9c177",
+        "prompt": "“This is my ear.”中的 my 表示什么意思？",
+        "context": "",
+        "options": [
+          "你的",
+          "什么",
+          "有",
+          "我的"
+        ],
+        "answer": 3,
+        "hint": "这句话在介绍自己的耳朵。",
+        "explanation": "my 表示“我的”，my ear 就是“我的耳朵”。"
+      },
+      {
+        "id": "d35d332f-f026-5cdd-bfb3-5d159456cb84",
+        "prompt": "你指着自己的耳朵，补全句子：This is my ___.",
+        "context": "",
+        "options": [
+          "ear",
+          "ruler",
+          "book",
+          "pencil"
+        ],
+        "answer": 0,
+        "hint": "句子最后需要一个身体部位的词。",
+        "explanation": "ear 是耳朵，This is my ear. 表示“这是我的耳朵”。"
+      },
+      {
+        "id": "4aa4d4f4-cc99-511a-ae15-106693d22b31",
+        "prompt": "游戏要求“Touch your face.”，下面哪个动作正确？",
+        "context": "",
+        "options": [
+          "拿出自己的尺子",
+          "摸自己的脸",
+          "拿出自己的书",
+          "指一只鸟"
+        ],
+        "answer": 1,
+        "hint": "face 是脸，touch 表示摸、触碰。",
+        "explanation": "Touch your face. 表示“摸你的脸”。"
+      }
+    ]
+  },
+  {
+    "id": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+    "title": "新起点一上·U3 动物词汇",
+    "description": "Unit 3 Animals：动物词汇。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "动物词汇",
+    "category": "english-vocabulary",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 3 Animals",
+      "动物词汇"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "3bf07f84-9c58-52e8-a7a6-43e96cc0b3cc",
+        "prompt": "Animals 单词卡写着“dog”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "老虎",
+          "猴子",
+          "狗",
+          "鸟"
+        ],
+        "answer": 2,
+        "hint": "回想动物词汇中这个单词的意思。",
+        "explanation": "dog 表示“狗”。"
+      },
+      {
+        "id": "0538fcc6-2701-571a-a66e-351145a850b6",
+        "prompt": "Animals 单词卡写着“bird”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "狗",
+          "老虎",
+          "猴子",
+          "鸟"
+        ],
+        "answer": 3,
+        "hint": "回想动物词汇中这个单词的意思。",
+        "explanation": "bird 表示“鸟”。"
+      },
+      {
+        "id": "5f80d36e-3c49-5de5-8975-508189a77113",
+        "prompt": "Animals 单词卡写着“tiger”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "老虎",
+          "狗",
+          "鸟",
+          "猴子"
+        ],
+        "answer": 0,
+        "hint": "回想动物词汇中这个单词的意思。",
+        "explanation": "tiger 表示“老虎”。"
+      },
+      {
+        "id": "19e8843b-6c26-5918-81fb-a19a5b75ac1a",
+        "prompt": "Animals 单词卡写着“monkey”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "老虎",
+          "猴子",
+          "狗",
+          "鸟"
+        ],
+        "answer": 1,
+        "hint": "回想动物词汇中这个单词的意思。",
+        "explanation": "monkey 表示“猴子”。"
+      },
+      {
+        "id": "e3b6e521-f73a-5ecd-a77d-b465d8233492",
+        "prompt": "Animals 单词卡写着“cat”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "鸟",
+          "老虎",
+          "猫",
+          "狗"
+        ],
+        "answer": 2,
+        "hint": "回想动物词汇中这个单词的意思。",
+        "explanation": "cat 表示“猫”。"
+      },
+      {
+        "id": "ad9b8d26-79bf-54df-acc2-13b3c139b801",
+        "prompt": "制作动物词汇卡片时，“狗”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "bird",
+          "tiger",
+          "monkey",
+          "dog"
+        ],
+        "answer": 3,
+        "hint": "把“狗”与学过的英语单词连起来想一想。",
+        "explanation": "“狗”对应的英语单词是 dog。"
+      },
+      {
+        "id": "095c6d79-fa19-5c52-98d2-ba8a045d296a",
+        "prompt": "制作动物词汇卡片时，“鸟”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "bird",
+          "dog",
+          "tiger",
+          "monkey"
+        ],
+        "answer": 0,
+        "hint": "把“鸟”与学过的英语单词连起来想一想。",
+        "explanation": "“鸟”对应的英语单词是 bird。"
+      },
+      {
+        "id": "a5c99d93-9991-5621-9d27-36432923e25e",
+        "prompt": "制作动物词汇卡片时，“老虎”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "monkey",
+          "tiger",
+          "dog",
+          "bird"
+        ],
+        "answer": 1,
+        "hint": "把“老虎”与学过的英语单词连起来想一想。",
+        "explanation": "“老虎”对应的英语单词是 tiger。"
+      },
+      {
+        "id": "c66ab773-4e03-5e0e-ac59-3fce5e82c2ab",
+        "prompt": "制作动物词汇卡片时，“猴子”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "bird",
+          "tiger",
+          "monkey",
+          "dog"
+        ],
+        "answer": 2,
+        "hint": "把“猴子”与学过的英语单词连起来想一想。",
+        "explanation": "“猴子”对应的英语单词是 monkey。"
+      },
+      {
+        "id": "cd8e5294-9f5e-5b1e-8088-f25e281bd06b",
+        "prompt": "制作动物词汇卡片时，“猫”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "dog",
+          "bird",
+          "tiger",
+          "cat"
+        ],
+        "answer": 3,
+        "hint": "把“猫”与学过的英语单词连起来想一想。",
+        "explanation": "“猫”对应的英语单词是 cat。"
+      }
+    ]
+  },
+  {
+    "id": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+    "title": "新起点一上·U3 动物猜猜看",
+    "description": "Unit 3 Animals：询问与介绍动物。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "询问与介绍动物",
+    "category": "english-conversation",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 3 Animals",
+      "询问与介绍动物"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "ca81ec1a-df6e-5022-bc7b-cca8be48f5c7",
+        "prompt": "看到一个动物玩偶，想问“这是什么”，选哪一句？",
+        "context": "",
+        "options": [
+          "What colour is it?",
+          "Goodbye!",
+          "What's this?",
+          "What's your name?"
+        ],
+        "answer": 2,
+        "hint": "这是在询问东西是什么。",
+        "explanation": "What's this? 表示“这是什么？”。"
+      },
+      {
+        "id": "19c9835b-5d72-50dc-9e3d-dfd28df86e8e",
+        "prompt": "朋友指着一只狗问“What's this?”，你该怎样回答？",
+        "context": "",
+        "options": [
+          "It's a cat.",
+          "It's a bird.",
+          "It's a tiger.",
+          "It's a dog."
+        ],
+        "answer": 3,
+        "hint": "回答时要用表示狗的单词。",
+        "explanation": "dog 是狗，因此回答 It's a dog."
+      },
+      {
+        "id": "bc45c05b-0420-546a-bd2d-c431f67edb8c",
+        "prompt": "你指着一只猫说“它是一只猫”，选哪句？",
+        "context": "",
+        "options": [
+          "It's a cat.",
+          "It's a dog.",
+          "It's a monkey.",
+          "It's a bird."
+        ],
+        "answer": 0,
+        "hint": "猫的英语是 cat。",
+        "explanation": "It's a cat. 表示“它是一只猫”。"
+      },
+      {
+        "id": "1a2bd843-d675-5973-a194-705e627c05bb",
+        "prompt": "猜谜卡的答案是老虎，应选哪个英语回答？",
+        "context": "",
+        "options": [
+          "It's a monkey.",
+          "It's a tiger.",
+          "It's a bird.",
+          "It's a dog."
+        ],
+        "answer": 1,
+        "hint": "找出表示老虎的单词。",
+        "explanation": "tiger 表示老虎，It's a tiger. 是正确回答。"
+      },
+      {
+        "id": "1bc83583-a4e2-5f78-830a-490dea1320ed",
+        "prompt": "Lily 回答“It's a monkey.”，她说的是什么动物？",
+        "context": "",
+        "options": [
+          "老虎",
+          "小狗",
+          "猴子",
+          "小鸟"
+        ],
+        "answer": 2,
+        "hint": "注意 monkey 这个词。",
+        "explanation": "monkey 是猴子，整句意思是“它是一只猴子”。"
+      },
+      {
+        "id": "a88cf430-8f9a-5d82-b6ed-bf39c53850bb",
+        "prompt": "卡片上写着“It's a bird.”，这张卡应该放入哪一栏？",
+        "context": "",
+        "options": [
+          "猫",
+          "狗",
+          "老虎",
+          "鸟"
+        ],
+        "answer": 3,
+        "hint": "找出 bird 的中文意思。",
+        "explanation": "bird 表示鸟，所以这张卡应放入“鸟”这一栏。"
+      },
+      {
+        "id": "1abcd178-3ff7-5477-8cb1-c781a5397cda",
+        "prompt": "听到“Act like a monkey.”，游戏要求模仿什么？",
+        "context": "",
+        "options": [
+          "猴子",
+          "小狗",
+          "小鸟",
+          "老虎"
+        ],
+        "answer": 0,
+        "hint": "Act like ... 表示模仿……的动作。",
+        "explanation": "monkey 是猴子，这条指令要求模仿猴子的动作。"
+      },
+      {
+        "id": "89ada780-4798-5477-aee8-970aa01b218e",
+        "prompt": "问句是“What's this?”，哪个选项完整地回答“它是一只鸟”？",
+        "context": "",
+        "options": [
+          "It's blue.",
+          "It's a bird.",
+          "I have a book.",
+          "My name is Bill."
+        ],
+        "answer": 1,
+        "hint": "找出说出动物名称的回答。",
+        "explanation": "It's a bird. 意思是“它是一只鸟”，回答了这是什么。"
+      },
+      {
+        "id": "13297bf6-f3f6-58f5-bfa3-2ef5038921b6",
+        "prompt": "玩偶盒里装的是一只小狗。补全介绍：It's a ___.",
+        "context": "",
+        "options": [
+          "pencil",
+          "schoolbag",
+          "dog",
+          "ruler"
+        ],
+        "answer": 2,
+        "hint": "空格里要填“小狗”的英语。",
+        "explanation": "dog 表示狗，It's a dog. 与盒里的玩偶相符。"
+      },
+      {
+        "id": "ded05f26-ccee-5916-b5b2-893ba126dd4e",
+        "prompt": "动物清单原有 cat、dog、bird，拿走猫后应留下哪组？",
+        "context": "",
+        "options": [
+          "cat、dog",
+          "cat、bird",
+          "cat、tiger",
+          "dog、bird"
+        ],
+        "answer": 3,
+        "hint": "先找出表示猫的词，再把它去掉。",
+        "explanation": "cat 是猫，去掉后剩下 dog（狗）和 bird（鸟）。"
+      }
+    ]
+  },
+  {
+    "id": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+    "title": "新起点一上·Revision 1 学校与动物复习",
+    "description": "Revision 1：学校五官动物综合。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "学校五官动物综合",
+    "category": "english-reading",
+    "tags": [
+      "新起点一年级上册",
+      "Revision 1",
+      "学校五官动物综合"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "97f054e2-b2b1-5dbc-bc38-c9f640b250bf",
+        "prompt": "读小介绍，Bill 有什么？",
+        "context": "Hello! I'm Bill. I have a ruler.",
+        "options": [
+          "铅笔",
+          "苹果",
+          "尺子",
+          "书包"
+        ],
+        "answer": 2,
+        "hint": "找到 I have 后面的物品名称。",
+        "explanation": "I have a ruler. 表示“我有一把尺子”。"
+      },
+      {
+        "id": "283f1c6e-845b-5d15-b4b5-1b11b367ca3d",
+        "prompt": "读 Joy 的介绍，她说的是自己的哪个部位？",
+        "context": "Hi! I'm Joy. This is my ear.",
+        "options": [
+          "鼻子",
+          "嘴巴",
+          "脸",
+          "耳朵"
+        ],
+        "answer": 3,
+        "hint": "找到 This is my 后面的词。",
+        "explanation": "ear 是耳朵，Joy 在介绍自己的耳朵。"
+      },
+      {
+        "id": "eb238b6c-da81-5185-9d41-d6c38e03f3a4",
+        "prompt": "读这段对话，回答中提到了什么动物？",
+        "context": "A: What's this? B: It's a monkey.",
+        "options": [
+          "猴子",
+          "猫",
+          "狗",
+          "老虎"
+        ],
+        "answer": 0,
+        "hint": "注意回答里 a 后面的动物名称。",
+        "explanation": "monkey 表示猴子，回答说“它是一只猴子”。"
+      },
+      {
+        "id": "5874f7d2-e4c8-5eab-b38e-b2e547d44e7d",
+        "prompt": "读这两句介绍，Lily 有哪样东西？",
+        "context": "Lily: I have a schoolbag. Andy: I have a book.",
+        "options": [
+          "铅笔",
+          "书包",
+          "书本",
+          "尺子"
+        ],
+        "answer": 1,
+        "hint": "区分 Lily 和 Andy 各自说的话。",
+        "explanation": "Lily 说 I have a schoolbag.，所以她有一个书包。"
+      },
+      {
+        "id": "ae0f0557-d5db-5378-896e-aae2dc3c5fb2",
+        "prompt": "读 Andy 的话，他介绍了哪两个身体部位？",
+        "context": "This is my eye. This is my nose.",
+        "options": [
+          "脸和耳朵",
+          "嘴巴和鼻子",
+          "眼睛和鼻子",
+          "耳朵和嘴巴"
+        ],
+        "answer": 2,
+        "hint": "分别找出 eye 和 nose 的意思。",
+        "explanation": "eye 是眼睛，nose 是鼻子，所以是眼睛和鼻子。"
+      },
+      {
+        "id": "70042050-d2f5-5383-8fe0-d27cbe156337",
+        "prompt": "读对话，Joy 按要求应拿出什么？",
+        "context": "Teacher: Show me your pencil. Joy: I have a pencil.",
+        "options": [
+          "书本",
+          "书包",
+          "尺子",
+          "铅笔"
+        ],
+        "answer": 3,
+        "hint": "先读懂老师让她出示什么。",
+        "explanation": "Show me your pencil. 要求出示铅笔，Joy 的回答也说她有铅笔。"
+      },
+      {
+        "id": "f3a445ae-bbcd-5664-bc23-e281fc88568a",
+        "prompt": "读物品清单，哪一项是动物？",
+        "context": "book / bird / ruler / schoolbag",
+        "options": [
+          "bird",
+          "book",
+          "ruler",
+          "schoolbag"
+        ],
+        "answer": 0,
+        "hint": "其余三项都是学习用品。",
+        "explanation": "bird 是鸟，属于动物；book、ruler、schoolbag 是学习用品。"
+      },
+      {
+        "id": "3db08ec6-6834-5e59-9373-a36ce52a30db",
+        "prompt": "看词卡清单，哪个词表示身体部位？",
+        "context": "cat / mouth / pencil / teacher",
+        "options": [
+          "teacher",
+          "mouth",
+          "cat",
+          "pencil"
+        ],
+        "answer": 1,
+        "hint": "回想 Face 单元的单词。",
+        "explanation": "mouth 是嘴巴，是身体部位；其他三个词分别是猫、铅笔、老师。"
+      },
+      {
+        "id": "3fe0280d-7c01-5b3c-882c-8dc4db2c2c9e",
+        "prompt": "读这段对话，被问到的东西是什么？",
+        "context": "Bill: What's this? Lily: It's a cat.",
+        "options": [
+          "一把尺子",
+          "一本书",
+          "一只猫",
+          "一只鸟"
+        ],
+        "answer": 2,
+        "hint": "第二个人的回答给出了答案。",
+        "explanation": "It's a cat. 表示“它是一只猫”。"
+      },
+      {
+        "id": "226d2c2d-0da2-5697-b57f-e845286341b5",
+        "prompt": "按顺序执行这两条指令，最后一个动作是什么？",
+        "context": "① Stand up! ② Sit down, please.",
+        "options": [
+          "站起来",
+          "摸鼻子",
+          "闭上眼睛",
+          "坐下"
+        ],
+        "answer": 3,
+        "hint": "题目问的是第二条指令。",
+        "explanation": "第二条 Sit down, please. 是“请坐下”，所以最后要坐下。"
+      }
+    ]
+  },
+  {
+    "id": "1311c74b-6340-5451-b3f8-82fba27196da",
+    "title": "新起点一上·U4 认识数字一到十",
+    "description": "Unit 4 Numbers：数字一到十。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "数字一到十",
+    "category": "english-vocabulary",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 4 Numbers",
+      "数字一到十"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "eaf68e0c-e2d9-5364-86d1-3746aa292a58",
+        "prompt": "数字卡片上写着 1，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "one",
+          "two",
+          "four",
+          "six"
+        ],
+        "answer": 0,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 1 的英语是 one。"
+      },
+      {
+        "id": "94def1d2-2c78-5214-903c-a80db1ac6719",
+        "prompt": "数字卡片上写着 2，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "seven",
+          "two",
+          "three",
+          "five"
+        ],
+        "answer": 1,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 2 的英语是 two。"
+      },
+      {
+        "id": "35aa14e4-6c1c-5cfa-84d9-c05387e8b4ff",
+        "prompt": "数字卡片上写着 3，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "six",
+          "eight",
+          "three",
+          "four"
+        ],
+        "answer": 2,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 3 的英语是 three。"
+      },
+      {
+        "id": "300ef36b-5f56-5a12-9d83-cc7d12f9e1a0",
+        "prompt": "数字卡片上写着 4，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "five",
+          "seven",
+          "nine",
+          "four"
+        ],
+        "answer": 3,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 4 的英语是 four。"
+      },
+      {
+        "id": "edd351bf-3d39-5a30-9348-5be817d75374",
+        "prompt": "数字卡片上写着 5，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "five",
+          "six",
+          "eight",
+          "ten"
+        ],
+        "answer": 0,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 5 的英语是 five。"
+      },
+      {
+        "id": "cb09ca58-4c01-5d4e-92a4-a9327381e95e",
+        "prompt": "数字卡片上写着 6，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "one",
+          "six",
+          "seven",
+          "nine"
+        ],
+        "answer": 1,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 6 的英语是 six。"
+      },
+      {
+        "id": "7dc096e5-4e79-5314-ae04-cd338719ec5b",
+        "prompt": "数字卡片上写着 7，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "ten",
+          "two",
+          "seven",
+          "eight"
+        ],
+        "answer": 2,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 7 的英语是 seven。"
+      },
+      {
+        "id": "d272b233-c6c7-5fc9-a631-200acd0c94ef",
+        "prompt": "数字卡片上写着 8，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "nine",
+          "one",
+          "three",
+          "eight"
+        ],
+        "answer": 3,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 8 的英语是 eight。"
+      },
+      {
+        "id": "baa419f8-9b9f-511d-b096-b2493076d14a",
+        "prompt": "数字卡片上写着 9，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "nine",
+          "ten",
+          "two",
+          "four"
+        ],
+        "answer": 0,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 9 的英语是 nine。"
+      },
+      {
+        "id": "f5a6fb80-7390-5c21-bb94-2eab7e886593",
+        "prompt": "数字卡片上写着 10，请给它选择英语标签。",
+        "context": "",
+        "options": [
+          "five",
+          "ten",
+          "one",
+          "three"
+        ],
+        "answer": 1,
+        "hint": "从 one 开始按顺序数一数。",
+        "explanation": "数字 10 的英语是 ten。"
+      }
+    ]
+  },
+  {
+    "id": "5c193250-9bab-501d-8f1a-3051cc65326b",
+    "title": "新起点一上·U4 用英语数一数",
+    "description": "Unit 4 Numbers：询问数量。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "询问数量",
+    "category": "english-conversation",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 4 Numbers",
+      "询问数量"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "f0025723-a6dc-5d55-9acb-89a7a17fb939",
+        "prompt": "玩具架有三只小鸟。How many birds are there? 应怎样回答？",
+        "context": "",
+        "options": [
+          "Three.",
+          "Two.",
+          "Five.",
+          "Eight."
+        ],
+        "answer": 0,
+        "hint": "用英语说出数量三。",
+        "explanation": "three 表示三，所以有三只鸟时回答 Three."
+      },
+      {
+        "id": "f05f33b9-42e8-51b1-a02e-33ab3c36f3cd",
+        "prompt": "盒子里有六只小狗玩偶。How many dogs are there? 应选哪项？",
+        "context": "",
+        "options": [
+          "Four.",
+          "Six.",
+          "Seven.",
+          "Nine."
+        ],
+        "answer": 1,
+        "hint": "先确定中文数量，再找英语。",
+        "explanation": "six 是六，盒子里的小狗玩偶共有六只。"
+      },
+      {
+        "id": "32cfd0ec-68e1-50bf-9b95-2e3d9c0e1571",
+        "prompt": "图画说明写着“老虎共五只”。回答 How many tigers are there? 应选哪项？",
+        "context": "",
+        "options": [
+          "Ten.",
+          "Two.",
+          "Five.",
+          "One."
+        ],
+        "answer": 2,
+        "hint": "问题问的是老虎的数量。",
+        "explanation": "five 表示五，所以应回答 Five."
+      },
+      {
+        "id": "125e4d24-de69-5e84-8626-c308fc078a0b",
+        "prompt": "想知道小鸟有多少只，应该选哪个问题？",
+        "context": "",
+        "options": [
+          "What colour is it?",
+          "What's your name?",
+          "Do you like apples?",
+          "How many birds are there?"
+        ],
+        "answer": 3,
+        "hint": "询问数量时可以用 How many ...。",
+        "explanation": "How many birds are there? 表示“有多少只鸟？”。"
+      },
+      {
+        "id": "0953f3f8-7b86-5699-89fd-721ed0f529c7",
+        "prompt": "老师说“Show me five.”，应该举起哪张数字卡？",
+        "context": "",
+        "options": [
+          "5",
+          "3",
+          "7",
+          "9"
+        ],
+        "answer": 0,
+        "hint": "想想 five 对应的数字。",
+        "explanation": "five 是五，所以应举起数字 5 的卡片。"
+      },
+      {
+        "id": "51551b4d-2331-5e0b-bf86-3a4b155d5e91",
+        "prompt": "听到“Show me eight.”，应该选择哪个数字？",
+        "context": "",
+        "options": [
+          "10",
+          "8",
+          "6",
+          "4"
+        ],
+        "answer": 1,
+        "hint": "从 one 数到 eight。",
+        "explanation": "eight 表示八，对应数字 8。"
+      },
+      {
+        "id": "a5fa0ab8-b3b1-5ab4-98a8-50b083918a3c",
+        "prompt": "桌上有九支铅笔，用一个英语单词回答数量，应选哪个？",
+        "context": "",
+        "options": [
+          "Ten.",
+          "Two.",
+          "Nine.",
+          "Six."
+        ],
+        "answer": 2,
+        "hint": "这里需要表示九的英语单词。",
+        "explanation": "nine 表示九，回答数量时可以说 Nine."
+      },
+      {
+        "id": "e1200ee8-b85b-50b0-a898-2ea551cf2485",
+        "prompt": "从小到大数数：one、two、___、four。空格应填哪个词？",
+        "context": "",
+        "options": [
+          "five",
+          "seven",
+          "ten",
+          "three"
+        ],
+        "answer": 3,
+        "hint": "想想二后面、四前面是什么数。",
+        "explanation": "one、two、three、four 分别是一、二、三、四。"
+      },
+      {
+        "id": "e409f554-e8f2-5852-a4e6-5f1783d0fade",
+        "prompt": "从小到大读数字：six、seven、eight、___、ten。缺少哪个词？",
+        "context": "",
+        "options": [
+          "nine",
+          "five",
+          "two",
+          "four"
+        ],
+        "answer": 0,
+        "hint": "八和十中间是几？",
+        "explanation": "nine 是九，在 eight（八）和 ten（十）之间。"
+      },
+      {
+        "id": "f0471eda-54c9-5f4d-a49f-be083c532e24",
+        "prompt": "小组里有十个小鸟贴纸，想用英语说出“十”，应选哪个？",
+        "context": "",
+        "options": [
+          "seven",
+          "ten",
+          "one",
+          "four"
+        ],
+        "answer": 1,
+        "hint": "十是本单元数数练习的最后一个数。",
+        "explanation": "ten 表示十，十个贴纸的数量可用 ten 表达。"
+      }
+    ]
+  },
+  {
+    "id": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+    "title": "新起点一上·U5 颜色词汇",
+    "description": "Unit 5 Colours：颜色词汇。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "颜色词汇",
+    "category": "english-vocabulary",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 5 Colours",
+      "颜色词汇"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "cc9b349d-1b8c-544d-a977-2d4ebf1a24ac",
+        "prompt": "Colours 单词卡写着“black”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "黑色",
+          "黄色",
+          "蓝色",
+          "红色"
+        ],
+        "answer": 0,
+        "hint": "回想颜色词汇中这个单词的意思。",
+        "explanation": "black 表示“黑色”。"
+      },
+      {
+        "id": "e619b0e3-baae-5489-8439-041664679f65",
+        "prompt": "Colours 单词卡写着“yellow”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "红色",
+          "黄色",
+          "黑色",
+          "蓝色"
+        ],
+        "answer": 1,
+        "hint": "回想颜色词汇中这个单词的意思。",
+        "explanation": "yellow 表示“黄色”。"
+      },
+      {
+        "id": "14ab683c-2574-5d95-a746-e938f92c794a",
+        "prompt": "Colours 单词卡写着“blue”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "黄色",
+          "红色",
+          "蓝色",
+          "黑色"
+        ],
+        "answer": 2,
+        "hint": "回想颜色词汇中这个单词的意思。",
+        "explanation": "blue 表示“蓝色”。"
+      },
+      {
+        "id": "86031247-458e-5b90-8b03-26db5a8fc7a8",
+        "prompt": "Colours 单词卡写着“red”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "黑色",
+          "黄色",
+          "蓝色",
+          "红色"
+        ],
+        "answer": 3,
+        "hint": "回想颜色词汇中这个单词的意思。",
+        "explanation": "red 表示“红色”。"
+      },
+      {
+        "id": "28696dd9-2046-5a73-bb4e-03ce1f725e68",
+        "prompt": "Colours 单词卡写着“green”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "绿色",
+          "黑色",
+          "黄色",
+          "蓝色"
+        ],
+        "answer": 0,
+        "hint": "回想颜色词汇中这个单词的意思。",
+        "explanation": "green 表示“绿色”。"
+      },
+      {
+        "id": "049c77c6-c60a-57c4-8421-7f19acc30680",
+        "prompt": "制作颜色词汇卡片时，“黑色”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "red",
+          "black",
+          "yellow",
+          "blue"
+        ],
+        "answer": 1,
+        "hint": "把“黑色”与学过的英语单词连起来想一想。",
+        "explanation": "“黑色”对应的英语单词是 black。"
+      },
+      {
+        "id": "d45c4c64-31d1-50b9-9d6c-5f7f71541b4e",
+        "prompt": "制作颜色词汇卡片时，“黄色”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "blue",
+          "red",
+          "yellow",
+          "black"
+        ],
+        "answer": 2,
+        "hint": "把“黄色”与学过的英语单词连起来想一想。",
+        "explanation": "“黄色”对应的英语单词是 yellow。"
+      },
+      {
+        "id": "d08ceced-f321-5525-b06b-eb14cc7dcc13",
+        "prompt": "制作颜色词汇卡片时，“蓝色”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "black",
+          "yellow",
+          "red",
+          "blue"
+        ],
+        "answer": 3,
+        "hint": "把“蓝色”与学过的英语单词连起来想一想。",
+        "explanation": "“蓝色”对应的英语单词是 blue。"
+      },
+      {
+        "id": "e8960b74-1c81-56d5-8797-c75995f7bfd6",
+        "prompt": "制作颜色词汇卡片时，“红色”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "red",
+          "black",
+          "yellow",
+          "blue"
+        ],
+        "answer": 0,
+        "hint": "把“红色”与学过的英语单词连起来想一想。",
+        "explanation": "“红色”对应的英语单词是 red。"
+      },
+      {
+        "id": "ab3f79af-2816-56e4-983a-dbdf860d9be5",
+        "prompt": "制作颜色词汇卡片时，“绿色”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "blue",
+          "green",
+          "black",
+          "yellow"
+        ],
+        "answer": 1,
+        "hint": "把“绿色”与学过的英语单词连起来想一想。",
+        "explanation": "“绿色”对应的英语单词是 green。"
+      }
+    ]
+  },
+  {
+    "id": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+    "title": "新起点一上·U5 问一问颜色",
+    "description": "Unit 5 Colours：询问颜色。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "询问颜色",
+    "category": "english-conversation",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 5 Colours",
+      "询问颜色"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "c382062a-7dd5-59f1-a447-7a7831e1ca85",
+        "prompt": "想问一支铅笔是什么颜色，应该选哪句？",
+        "context": "",
+        "options": [
+          "How many dogs are there?",
+          "Do you like pears?",
+          "What colour is it?",
+          "What's your name?"
+        ],
+        "answer": 2,
+        "hint": "colour 表示颜色。",
+        "explanation": "What colour is it? 表示“它是什么颜色？”。"
+      },
+      {
+        "id": "f41550e5-1a2c-5e0e-9231-30488872c346",
+        "prompt": "这支铅笔是红色的。别人问 What colour is it?，应怎样回答？",
+        "context": "",
+        "options": [
+          "It's blue.",
+          "It's green.",
+          "It's black.",
+          "It's red."
+        ],
+        "answer": 3,
+        "hint": "根据题目给出的红色选择。",
+        "explanation": "red 表示红色，It's red. 表示“它是红色的”。"
+      },
+      {
+        "id": "daae589d-4eb1-5f8f-b6a9-925db6c73b42",
+        "prompt": "题目说明这本书是蓝色的，应选哪个颜色词？",
+        "context": "",
+        "options": [
+          "blue",
+          "yellow",
+          "red",
+          "green"
+        ],
+        "answer": 0,
+        "hint": "蓝色的英语以 b 开头。",
+        "explanation": "blue 是蓝色，与题目中的书的颜色相符。"
+      },
+      {
+        "id": "1709a3d5-bff9-5ca1-aad3-0c16a9680c18",
+        "prompt": "你拿到一张黄色卡片，应怎样介绍它的颜色？",
+        "context": "",
+        "options": [
+          "It's black.",
+          "It's yellow.",
+          "It's green.",
+          "It's blue."
+        ],
+        "answer": 1,
+        "hint": "先回想 yellow 的意思。",
+        "explanation": "yellow 是黄色，It's yellow. 表示“它是黄色的”。"
+      },
+      {
+        "id": "2f6c7428-536a-50d3-ac28-e1637ae49642",
+        "prompt": "“It's green.”说的是哪种颜色？",
+        "context": "",
+        "options": [
+          "黑色",
+          "红色",
+          "绿色",
+          "蓝色"
+        ],
+        "answer": 2,
+        "hint": "留意 green 这个词。",
+        "explanation": "green 表示绿色，整句是“它是绿色的”。"
+      },
+      {
+        "id": "82f7b6dc-438f-54c3-9591-da7e08aec6a8",
+        "prompt": "一只玩具狗涂成黑色。What colour is it? 应回答哪句？",
+        "context": "",
+        "options": [
+          "It's red.",
+          "It's yellow.",
+          "It's blue.",
+          "It's black."
+        ],
+        "answer": 3,
+        "hint": "颜色已经在题目中给出。",
+        "explanation": "black 表示黑色，玩具狗是黑色的，应回答 It's black."
+      },
+      {
+        "id": "48afb72c-8905-52cd-bb16-83437510779b",
+        "prompt": "老师说“Show me red.”，应该出示什么颜色的卡片？",
+        "context": "",
+        "options": [
+          "红色",
+          "蓝色",
+          "绿色",
+          "黄色"
+        ],
+        "answer": 0,
+        "hint": "这条指令要求找一种颜色。",
+        "explanation": "red 是红色，Show me red. 要求出示红色的东西。"
+      },
+      {
+        "id": "83fc4f73-e4b1-5eef-8c5a-7163df14b011",
+        "prompt": "你指着一只绿色玩具鸟。哪句话介绍的是它的颜色？",
+        "context": "",
+        "options": [
+          "My name is Joy.",
+          "It's green.",
+          "It's a bird.",
+          "I have a book."
+        ],
+        "answer": 1,
+        "hint": "注意区分“是什么”与“什么颜色”。",
+        "explanation": "It's green. 说明它是绿色的；It's a bird. 说明它是一只鸟。"
+      },
+      {
+        "id": "92684e46-3d9f-5747-ae02-bb6e62518948",
+        "prompt": "回答“It's yellow.”是在告诉别人什么？",
+        "context": "",
+        "options": [
+          "自己的名字",
+          "它是不是书包",
+          "它的颜色",
+          "它的数量"
+        ],
+        "answer": 2,
+        "hint": "yellow 属于颜色词。",
+        "explanation": "yellow 表示黄色，这个回答是在说明颜色。"
+      },
+      {
+        "id": "08aba539-c76a-5a17-8778-1f7941266744",
+        "prompt": "彩笔盒里有 red、blue、green，取走蓝色后剩下哪组颜色词？",
+        "context": "",
+        "options": [
+          "blue、green",
+          "red、blue",
+          "yellow、black",
+          "red、green"
+        ],
+        "answer": 3,
+        "hint": "先把表示蓝色的词找出来。",
+        "explanation": "blue 是蓝色，取走后剩下 red（红色）和 green（绿色）。"
+      }
+    ]
+  },
+  {
+    "id": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+    "title": "新起点一上·U6 水果词汇",
+    "description": "Unit 6 Fruit：水果词汇。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "水果词汇",
+    "category": "english-vocabulary",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 6 Fruit",
+      "水果词汇"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "8f74a386-8100-5920-b312-66704a128ce6",
+        "prompt": "Fruit 单词卡写着“apple”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "香蕉",
+          "橙子",
+          "苹果",
+          "梨"
+        ],
+        "answer": 2,
+        "hint": "回想水果词汇中这个单词的意思。",
+        "explanation": "apple 表示“苹果”。"
+      },
+      {
+        "id": "bd2cff7c-b383-5a93-bb4a-45dbc7ab9476",
+        "prompt": "Fruit 单词卡写着“pear”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "苹果",
+          "香蕉",
+          "橙子",
+          "梨"
+        ],
+        "answer": 3,
+        "hint": "回想水果词汇中这个单词的意思。",
+        "explanation": "pear 表示“梨”。"
+      },
+      {
+        "id": "61042911-b99a-5544-a308-59023f31ec6c",
+        "prompt": "Fruit 单词卡写着“banana”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "香蕉",
+          "苹果",
+          "梨",
+          "橙子"
+        ],
+        "answer": 0,
+        "hint": "回想水果词汇中这个单词的意思。",
+        "explanation": "banana 表示“香蕉”。"
+      },
+      {
+        "id": "ea525122-70ec-5e5d-9218-cb4bdbbe23d3",
+        "prompt": "Fruit 单词卡写着“orange”，应配上哪个中文标签？",
+        "context": "",
+        "options": [
+          "香蕉",
+          "橙子",
+          "苹果",
+          "梨"
+        ],
+        "answer": 1,
+        "hint": "回想水果词汇中这个单词的意思。",
+        "explanation": "orange 表示“橙子”。"
+      },
+      {
+        "id": "f2508e44-4b0a-5aad-8924-ac78fdf4f164",
+        "prompt": "制作水果词汇卡片时，“苹果”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "banana",
+          "orange",
+          "apple",
+          "pear"
+        ],
+        "answer": 2,
+        "hint": "把“苹果”与学过的英语单词连起来想一想。",
+        "explanation": "“苹果”对应的英语单词是 apple。"
+      },
+      {
+        "id": "cb61495a-93ff-587f-9cc7-9827ce125c3c",
+        "prompt": "制作水果词汇卡片时，“梨”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "apple",
+          "banana",
+          "orange",
+          "pear"
+        ],
+        "answer": 3,
+        "hint": "把“梨”与学过的英语单词连起来想一想。",
+        "explanation": "“梨”对应的英语单词是 pear。"
+      },
+      {
+        "id": "f7ee2f8a-ed0c-5a72-b5f4-eb21baa3497f",
+        "prompt": "制作水果词汇卡片时，“香蕉”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "banana",
+          "apple",
+          "pear",
+          "orange"
+        ],
+        "answer": 0,
+        "hint": "把“香蕉”与学过的英语单词连起来想一想。",
+        "explanation": "“香蕉”对应的英语单词是 banana。"
+      },
+      {
+        "id": "1b8e6404-dc68-5349-8cb1-472ea93ec408",
+        "prompt": "制作水果词汇卡片时，“橙子”下面应该写哪个英语单词？",
+        "context": "",
+        "options": [
+          "banana",
+          "orange",
+          "apple",
+          "pear"
+        ],
+        "answer": 1,
+        "hint": "把“橙子”与学过的英语单词连起来想一想。",
+        "explanation": "“橙子”对应的英语单词是 orange。"
+      },
+      {
+        "id": "2b341efd-7306-5d23-8918-3dfe463ba211",
+        "prompt": "整理单词卡时，哪一组全部是水果？",
+        "context": "",
+        "options": [
+          "pear、cat",
+          "banana、book",
+          "apple、pear",
+          "apple、ruler"
+        ],
+        "answer": 2,
+        "hint": "逐个看看这些词表示水果还是其他东西。",
+        "explanation": "apple 是苹果，pear 是梨，这一组都是水果。"
+      },
+      {
+        "id": "651b75fc-77da-5941-bb89-9bed2e003f41",
+        "prompt": "水果篮标签是“banana”，应把什么放进去？",
+        "context": "",
+        "options": [
+          "尺子",
+          "书本",
+          "铅笔",
+          "香蕉"
+        ],
+        "answer": 3,
+        "hint": "想想 banana 属于哪种水果。",
+        "explanation": "banana 表示香蕉，所以应放入香蕉。"
+      }
+    ]
+  },
+  {
+    "id": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+    "title": "新起点一上·U6 我喜欢的水果",
+    "description": "Unit 6 Fruit：询问水果喜好。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "询问水果喜好",
+    "category": "english-conversation",
+    "tags": [
+      "新起点一年级上册",
+      "Unit 6 Fruit",
+      "询问水果喜好"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "24e39f98-04ae-5212-be63-725075838048",
+        "prompt": "想问朋友喜不喜欢香蕉，应该选哪句？",
+        "context": "",
+        "options": [
+          "Do you like bananas?",
+          "What colour is it?",
+          "What's your name?",
+          "How many birds are there?"
+        ],
+        "answer": 0,
+        "hint": "询问“喜欢……吗”可用 Do you like ...?。",
+        "explanation": "Do you like bananas? 表示“你喜欢香蕉吗？”。"
+      },
+      {
+        "id": "571b6465-d9db-5e51-8e68-902f791a7f3d",
+        "prompt": "你很喜欢苹果，朋友问“Do you like apples?”，应怎样回答？",
+        "context": "",
+        "options": [
+          "My name is Bill.",
+          "Yes, I do.",
+          "No, I don't.",
+          "It's a dog."
+        ],
+        "answer": 1,
+        "hint": "题目已经说明你喜欢苹果。",
+        "explanation": "喜欢时可以回答 Yes, I do.，表示“是的，我喜欢”。"
+      },
+      {
+        "id": "71e2e281-8435-52e9-9c07-fb7b3198b5fd",
+        "prompt": "你不喜欢梨，别人问“Do you like pears?”，应怎样回答？",
+        "context": "",
+        "options": [
+          "It's green.",
+          "I have a ruler.",
+          "No, I don't.",
+          "Yes, I do."
+        ],
+        "answer": 2,
+        "hint": "不喜欢时用否定回答。",
+        "explanation": "No, I don't. 表示“不，我不喜欢”，符合题意。"
+      },
+      {
+        "id": "dd4675f0-6eb2-5653-8240-fa72af6a21b6",
+        "prompt": "“Do you like oranges?”问的是喜不喜欢什么？",
+        "context": "",
+        "options": [
+          "梨",
+          "苹果",
+          "香蕉",
+          "橙子"
+        ],
+        "answer": 3,
+        "hint": "找出 oranges 对应的水果。",
+        "explanation": "orange 是橙子，oranges 在这里表示橙子这类水果。"
+      },
+      {
+        "id": "9a909e9f-ba0d-5980-a4cf-3881b645fa88",
+        "prompt": "老师说“Show me an apple.”，应该拿起哪种水果？",
+        "context": "",
+        "options": [
+          "苹果",
+          "香蕉",
+          "梨",
+          "橙子"
+        ],
+        "answer": 0,
+        "hint": "看清 apple 这个词。",
+        "explanation": "apple 表示苹果，这条指令要求出示一个苹果。"
+      },
+      {
+        "id": "1dc7efc4-b946-50a5-a539-3dd621fb1bf2",
+        "prompt": "你喜欢香蕉，想说出自己的喜好，应该选哪句？",
+        "context": "",
+        "options": [
+          "I like oranges.",
+          "I like bananas.",
+          "I like pears.",
+          "I like apples."
+        ],
+        "answer": 1,
+        "hint": "找到表示香蕉的单词。",
+        "explanation": "I like bananas. 表示“我喜欢香蕉”。"
+      },
+      {
+        "id": "fd455d75-4e60-57c4-b90e-b47bdb95b16f",
+        "prompt": "你不喜欢橙子。对“Do you like oranges?”应选择哪句回答？",
+        "context": "",
+        "options": [
+          "It's a cat.",
+          "Good morning!",
+          "No, I don't.",
+          "Yes, I do."
+        ],
+        "answer": 2,
+        "hint": "先根据题目判断是喜欢还是不喜欢。",
+        "explanation": "不喜欢橙子时，要回答 No, I don't."
+      },
+      {
+        "id": "d97ccd16-c6bf-5525-90b0-443fa5920d27",
+        "prompt": "Joy 说“I like pears.”，她喜欢哪种水果？",
+        "context": "",
+        "options": [
+          "苹果",
+          "香蕉",
+          "橙子",
+          "梨"
+        ],
+        "answer": 3,
+        "hint": "注意 pears 这个词。",
+        "explanation": "pear 是梨，I like pears. 表示“我喜欢梨”。"
+      },
+      {
+        "id": "ae60cae8-1aeb-5500-bc25-fec5e97b3d10",
+        "prompt": "要询问朋友是否喜欢苹果，应选哪句话？",
+        "context": "",
+        "options": [
+          "Do you like apples?",
+          "Do you like bananas?",
+          "Do you like pears?",
+          "Do you like oranges?"
+        ],
+        "answer": 0,
+        "hint": "四句都在询问喜好，仔细找苹果这个词。",
+        "explanation": "apples 表示苹果，Do you like apples? 是询问是否喜欢苹果。"
+      },
+      {
+        "id": "51960286-951e-50c2-a1c5-01bfff171959",
+        "prompt": "选数字游戏中听到“Choose a number, please.”，应该做什么？",
+        "context": "",
+        "options": [
+          "闭上眼睛",
+          "选一个数字",
+          "摸摸耳朵",
+          "站起来"
+        ],
+        "answer": 1,
+        "hint": "number 表示数字。",
+        "explanation": "Choose a number, please. 表示“请选一个数字”。"
+      }
+    ]
+  },
+  {
+    "id": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+    "title": "新起点一上·Revision 2 数字颜色水果复习",
+    "description": "Revision 2：数字颜色水果综合。根据教材知识点编写，含中文提示与解析。",
+    "subject": "english",
+    "grade": 1,
+    "topic": "数字颜色水果综合",
+    "category": "english-reading",
+    "tags": [
+      "新起点一年级上册",
+      "Revision 2",
+      "数字颜色水果综合"
+    ],
+    "minutes": 6,
+    "status": "published",
+    "questions": [
+      {
+        "id": "6db561f6-9d92-5237-b142-03e50eb5e78c",
+        "prompt": "读这段对话，小鸟有几只？",
+        "context": "A: How many birds are there? B: Seven.",
+        "options": [
+          "7只",
+          "3只",
+          "5只",
+          "9只"
+        ],
+        "answer": 0,
+        "hint": "问题问数量，答案是 Seven。",
+        "explanation": "seven 是七，说明小鸟有七只。"
+      },
+      {
+        "id": "df89d2af-ee58-5a71-bb88-de0d726c4f56",
+        "prompt": "读两句介绍，这支铅笔是什么颜色？",
+        "context": "It's a pencil. It's black.",
+        "options": [
+          "红色",
+          "黑色",
+          "绿色",
+          "蓝色"
+        ],
+        "answer": 1,
+        "hint": "第二句介绍了颜色。",
+        "explanation": "black 表示黑色，所以这支铅笔是黑色的。"
+      },
+      {
+        "id": "42607d32-5c79-5049-a690-90c4bcc1d247",
+        "prompt": "读 Lily 的回答，她喜欢梨吗？",
+        "context": "Bill: Do you like pears? Lily: Yes, I do.",
+        "options": [
+          "只说了名字，无法知道",
+          "只说了颜色，无法知道",
+          "喜欢",
+          "不喜欢"
+        ],
+        "answer": 2,
+        "hint": "看她回答的是 Yes 还是 No。",
+        "explanation": "Yes, I do. 是肯定回答，表示 Lily 喜欢梨。"
+      },
+      {
+        "id": "a645688c-9e66-590d-9ecb-125d730a268e",
+        "prompt": "读 Andy 的回答，他喜欢香蕉吗？",
+        "context": "Joy: Do you like bananas? Andy: No, I don't.",
+        "options": [
+          "喜欢",
+          "只说了数量，无法知道",
+          "只说了名字，无法知道",
+          "不喜欢"
+        ],
+        "answer": 3,
+        "hint": "No, I don't. 是否定回答。",
+        "explanation": "Andy 回答 No, I don't.，说明他不喜欢香蕉。"
+      },
+      {
+        "id": "8215948b-73fb-50a8-a76b-9a3fe1d5de7c",
+        "prompt": "读两次问答，玩具鸟的颜色和数量分别是什么？",
+        "context": "玩具鸟都涂成同一种颜色。问颜色，回答 Blue.；问数量，回答 Four.",
+        "options": [
+          "蓝色，4只",
+          "蓝色，8只",
+          "绿色，4只",
+          "绿色，8只"
+        ],
+        "answer": 0,
+        "hint": "分别读懂 Blue 和 Four。",
+        "explanation": "blue 是蓝色，four 是四，所以是蓝色、四只。"
+      },
+      {
+        "id": "44c4bf2e-894d-5eb7-89fd-ae271c948f41",
+        "prompt": "读水果喜好记录，谁喜欢橙子？",
+        "context": "Bill: I like oranges. Joy: I like apples. Lily: I like pears. Andy: I like bananas.",
+        "options": [
+          "Andy",
+          "Bill",
+          "Joy",
+          "Lily"
+        ],
+        "answer": 1,
+        "hint": "找到 oranges，再看对应的名字。",
+        "explanation": "Bill 说 I like oranges.，表示他喜欢橙子。"
+      },
+      {
+        "id": "2d23cb60-2b9d-5db1-b011-5f777421c570",
+        "prompt": "按清单整理卡片，哪张是数字卡？",
+        "context": "yellow / pear / eight / dog",
+        "options": [
+          "pear",
+          "dog",
+          "eight",
+          "yellow"
+        ],
+        "answer": 2,
+        "hint": "找出表示数量的单词。",
+        "explanation": "eight 是八，是数字；yellow 是颜色，pear 是水果，dog 是动物。"
+      },
+      {
+        "id": "7a29bb6b-a91e-5936-92df-2981f6bd7f07",
+        "prompt": "读这段问答，回答描述的是书的哪方面？",
+        "context": "指着一本书。A: What colour is it? B: It's green.",
+        "options": [
+          "数量",
+          "价格",
+          "大小",
+          "颜色"
+        ],
+        "answer": 3,
+        "hint": "green 属于哪一类词？",
+        "explanation": "green 是绿色，回答描述的是这本书的颜色。"
+      },
+      {
+        "id": "40f50e0b-9b13-5dea-8417-55064b45b217",
+        "prompt": "读两张标签，哪张标签写着“十”？",
+        "context": "卡片甲：two。卡片乙：ten。",
+        "options": [
+          "卡片乙",
+          "卡片甲",
+          "两张都是",
+          "两张都不是"
+        ],
+        "answer": 0,
+        "hint": "区分 two 和 ten。",
+        "explanation": "two 是二，ten 是十，所以卡片乙写着“十”。"
+      },
+      {
+        "id": "e8703b80-df71-5185-9ca6-18d4ec3fa4d8",
+        "prompt": "读这两条指令，第二次应拿起什么？",
+        "context": "① Show me red. ② Show me an apple.",
+        "options": [
+          "蓝色卡片",
+          "苹果",
+          "红色卡片",
+          "梨"
+        ],
+        "answer": 1,
+        "hint": "只看第二条指令里的物品。",
+        "explanation": "第二条 Show me an apple. 要求出示一个苹果。"
+      }
+    ]
+  }
+]

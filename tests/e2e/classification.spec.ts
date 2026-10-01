@@ -1,0 +1,37 @@
+import { test, expect } from './member-fixture';
+
+test('mobile categories filter lessons, reset across subjects and grades, and search tags', async ({ page }) => {
+  const errors: string[] = [];
+  page.on('pageerror', e => errors.push(e.message));
+  await page.goto('/practice');
+  await page.getByLabel('学习年级').selectOption('1');
+  await page.getByRole('button', { name: '语文', exact: true }).click();
+  const filters = page.getByRole('group', { name: '知识分类筛选' });
+  await expect(filters.getByRole('button', { name: '拼音', exact: true })).toBeVisible();
+  await expect(filters.getByRole('button', { name: '汉字', exact: true })).toHaveCount(0);
+  await filters.getByRole('button', { name: '拼音', exact: true }).click();
+  await expect(page.locator('.lesson-card')).toHaveCount(13);
+  await expect(page.getByRole('heading', { name: '反义词碰碰车' })).toHaveCount(0);
+  await page.getByLabel('搜索关卡').fill('bpmf 声调');
+  await expect(page.locator('.lesson-card')).toHaveCount(9);
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+  await page.screenshot({ path: 'test-results/categories-mobile.png', fullPage: true });
+  await page.getByLabel('搜索关卡').fill('');
+  await page.getByLabel('学习年级').selectOption('2');
+  await expect(filters.getByRole('button', { name: '全部分类', exact: true })).toHaveAttribute('aria-pressed', 'true');
+  await expect(filters.getByRole('button', { name: '拼音', exact: true })).toHaveCount(0);
+  await filters.getByRole('button', { name: '汉字', exact: true }).click();
+  await expect(page.locator('.lesson-card')).toHaveCount(2);
+  await page.getByRole('button', { name: '数学', exact: true }).click();
+  await expect(filters.getByRole('button', { name: '全部分类', exact: true })).toHaveAttribute('aria-pressed', 'true');
+  await filters.getByRole('button', { name: '计算', exact: true }).click();
+  await expect(page.getByRole('heading', { name: '乘法有妙招' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '小小商店开门啦' })).toHaveCount(0);
+  await page.getByRole('button', { name: '全部', exact: true }).click();
+  await expect(filters).toHaveCount(0);
+  await expect(page.getByRole('heading', { name: '小小商店开门啦' })).toBeVisible();
+  await page.setViewportSize({ width: 1440, height: 1000 });
+  await page.getByRole('button', { name: '语文', exact: true }).click();
+  await page.screenshot({ path: 'test-results/categories-desktop.png', fullPage: true });
+  expect(errors).toEqual([]);
+});

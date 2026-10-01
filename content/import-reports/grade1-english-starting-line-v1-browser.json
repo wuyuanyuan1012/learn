@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-09-30T15:35:59.590Z",
+  "surface": "local production build connected to database",
+  "mobileViewport": "390x844",
+  "visibleNewLessons": 15,
+  "categoryCounts": {
+    "vocabulary": 6,
+    "conversation": 7,
+    "reading": 2
+  },
+  "completedLessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+  "correct": 10,
+  "total": 10,
+  "hintsAndExplanationsVerified": true,
+  "horizontalOverflow": false
+}

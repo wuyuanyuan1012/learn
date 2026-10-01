@@ -1,0 +1,14 @@
+{
+  "batch": "ten-questions-per-lesson-v1",
+  "mode": "check-only",
+  "lessons": 121,
+  "questionsPerLesson": 10,
+  "beforeQuestions": 605,
+  "addedQuestions": 0,
+  "pendingQuestions": 605,
+  "afterQuestions": 605,
+  "targetQuestions": 1210,
+  "originalQuestionsPreserved": true,
+  "metadataPreserved": true,
+  "sha256": "fd346498fbd26cd73180bce1b75e67d83b3ab8a9ea650c8c9be88771f98fe2a4"
+}

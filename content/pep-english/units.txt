@@ -1,0 +1,505 @@
+# Format: @book unit; five word=meaning pairs; five prompt|correct|wrong1|wrong2|wrong3|explanation
+@g1a 1
+book=书;ruler=尺子;pencil=铅笔;schoolbag=书包;teacher=老师
+想告诉同桌“我有一本书”，选哪一句？|I have a book.|I am a book.|I have a cat.|It is red.|I have... 表示“我有……”，book 是书。
+老师说“Stand up.”，你应该怎样做？|站起来|坐下|闭眼|画画|Stand up. 是“站起来”。
+老师说“Sit down, please.”，你应该怎样做？|坐下|举起书包|跑步|拍手|Sit down. 是“坐下”，please 表示礼貌。
+“Show me your pencil.”让你展示什么？|你的铅笔|你的鼻子|一只鸟|一朵花|your pencil 指“你的铅笔”。
+补全“我有一把尺子”：I ___ a ruler.|have|am|is|are|表达拥有某物，用 I have...。
+@g1a 2
+face=脸;ear=耳朵;eye=眼睛;nose=鼻子;mouth=嘴
+“Touch your nose.”要求你摸哪里？|鼻子|耳朵|嘴|眼睛|touch 是“触摸”，nose 是鼻子。
+介绍“这是我的脸”，选哪一句？|This is my face.|I have a book.|It is a cat.|This is my ruler.|This is my... 用来介绍“这是我的……”。
+补全“这是我的耳朵”：This ___ my ear.|is|am|are|have|This 指单个事物，后面用 is。
+“This is my mouth.”中的 my 表示什么？|我的|你的|他的|她的|my 是“我的”，用在名词前。
+“Touch your eye.”中的动作词是哪一个？|Touch|your|eye|This|Touch 表示“触摸”，是动作词。
+@g1a 3
+dog=狗;bird=鸟;tiger=老虎;monkey=猴子;cat=猫
+想询问“这是什么”，应该怎样说？|What's this?|How many?|Goodbye!|Thank you.|What's this? 用来询问眼前事物是什么。
+看到一只猫，怎样回答“What's this?”？|It's a cat.|It's a dog.|It's a ruler.|It's a tiger.|It's a cat. 表示“它是一只猫”。
+“Act like a monkey.”要求模仿哪种动物？|猴子|猫|狗|老虎|Act like... 表示“模仿……”，monkey 是猴子。
+补全“它是一只鸟”：It's ___ bird.|a|an|am|are|bird 以辅音音素开头，单数前用 a。
+“It's a tiger.”里的 It's 是什么的缩写？|It is|I am|It has|This is|It's 在本句中是 It is 的缩写。
+@g1a 4
+one=一;two=二;three=三;four=四;five=五
+六只鸟中的“六”用英语怎样说？|six|seven|eight|nine|six 表示数字六。
+七只猫中的“七”用英语怎样说？|seven|six|ten|eight|seven 表示数字七。
+八只猴子中的“八”用英语怎样说？|eight|nine|seven|ten|eight 表示数字八。
+九只老虎中的“九”用英语怎样说？|nine|six|eight|ten|nine 表示数字九。
+有十只鸟。回答“How many birds are there?”应选什么？|Ten.|Red.|A dog.|My nose.|How many 问数量，ten 是十。
+@g1a 5
+black=黑色;yellow=黄色;blue=蓝色;red=红色;green=绿色
+想问一支铅笔是什么颜色，应选哪一句？|What colour is it?|What's your name?|How many dogs?|Sit down.|What colour... 用来询问颜色。
+已知书包是红色，怎样回答“What colour is it?”？|It's red.|It's green.|It's blue.|It's yellow.|题干说明书包是红色，应答 It's red.。
+“Show me blue.”要求展示什么颜色？|蓝色|绿色|黄色|红色|blue 是蓝色，Show me... 表示“给我看……”。
+“The bird is yellow.”说这只鸟是什么颜色？|黄色|黑色|蓝色|绿色|yellow 在句中表示黄色。
+补全颜色问句：What ___ is it? — It's black.|colour|many|name|book|回答是颜色，因此用 What colour 提问。
+@g1a 6
+apple=苹果;pear=梨;banana=香蕉;orange=橙子;like=喜欢
+你喜欢香蕉，怎样回答“Do you like bananas?”？|Yes, I do.|No, I don't.|It's red.|I'm a cat.|喜欢时作肯定回答：Yes, I do.。
+你不喜欢梨，怎样回答“Do you like pears?”？|No, I don't.|Yes, I do.|It's blue.|Five.|不喜欢时用 No, I don't.。
+补全“给我看一个苹果”：Show me ___ apple.|an|a|am|is|apple 以元音音素开头，前面用 an。
+想问朋友喜不喜欢橙子，选哪一句？|Do you like oranges?|Are you an orange?|How many books?|This is my nose.|Do you like... ? 用来询问喜好。
+“I like apples.”表达什么？|我喜欢苹果|我有五个苹果|苹果是黄色的|我不喜欢苹果|I like... 表示“我喜欢……”。
+@g1b 1
+chair=椅子;desk=课桌;blackboard=黑板;on=在……上面;under=在……下面
+尺子在课桌上，怎样回答“Where is the ruler?”？|It's on the desk.|It's under the desk.|It's in the bag.|It's a bird.|on the desk 表示在课桌上。
+“Put your schoolbag under the chair.”把书包放在哪里？|椅子下面|课桌上面|门后面|盒子里面|under the chair 表示椅子下面。
+想问书在哪里，选哪一句？|Where is the book?|What colour is it?|How many books?|Do you like milk?|Where is... ? 用来问位置。
+书在书包里面，补全：The book is ___ the schoolbag.|in|on|under|near|in 表示在内部。
+“The pencil is under the desk.”中铅笔在哪里？|课桌下面|课桌上面|椅子上面|门后面|under the desk 就是课桌下面。
+@g1b 2
+light=灯;bed=床;door=门;box=盒子;behind=在……后面
+门后是一把椅子，回答“What's behind the door?”选什么？|A chair.|A bird.|A book.|A cat.|题干明确门后是椅子，因此选 A chair.。
+“The box is near the bed.”表示盒子在哪里？|床附近|床里面|课桌上|门外面|near 表示在附近。
+想问课桌下面有什么，选哪一句？|What's under the desk?|What colour is the desk?|Do you like the desk?|I have a desk.|What's under... ? 询问某物下面有什么。
+补全“灯在盒子后面”：The light is ___ the box.|behind|on|in|under|behind 表示在后面。
+“What's behind the door?”是在问什么？|门后有什么|门是什么颜色|有几扇门|你喜欢门吗|what 问事物，behind the door 指门后。
+@g1b 3
+plane=飞机;ball=球;doll=玩具娃娃;train=火车;car=小汽车
+想要一个玩具熊，应怎样礼貌地问？|Can I have a bear?|I am a bear.|It's my nose.|How many bears?|Can I have... ? 用来提出请求。
+同意把玩具汽车给朋友，选哪一句？|Sure. Here you are.|Sorry, no.|I'm hungry.|It's blue.|Sure 表示同意，Here you are. 表示“给你”。
+不能把玩具借给朋友，怎样礼貌回应？|Sorry, no.|Sure.|Here you are.|Yes, please.|Sorry, no. 用于礼貌地拒绝。
+别人把球递给你说“Here you are.”，是什么意思？|给你|你在哪里|请站起来|有几只球|递东西时 Here you are. 表示“给你”。
+补全请求：Can I ___ a doll?|have|am|is|are|Can I have... ? 是请求得到某物的句型。
+@g1b 4
+rice=米饭;noodles=面条;vegetable=蔬菜;fish=鱼肉;chicken=鸡肉
+“I'm hungry.”表达什么感受？|我饿了|我渴了|我很高|我很冷|hungry 表示饥饿的。
+想吃米饭和蔬菜，选哪一句？|I want rice and vegetables.|I want a doll.|I like my shirt.|I'm thirsty.|want 表示想要，and 连接米饭与蔬菜。
+“I want noodles.”中的 want 表示什么？|想要|数一数|看见|打开|want 表示“想要”。
+补全“米饭和鱼肉”：rice ___ fish|and|is|am|under|and 连接并列的两种食物。
+对方说“I'm hungry. I want an egg.”，他想要什么？|一个鸡蛋|一杯水|一个玩具|一把尺子|an egg 指一个鸡蛋。
+@g1b 5
+juice=果汁;tea=茶;milk=牛奶;water=水;thirsty=口渴的
+有人问“Do you want water?”，你想喝，应怎样礼貌回答？|Yes, please.|No, thanks.|It's a cat.|Goodbye.|接受饮品时可以用 Yes, please.。
+不想喝茶，怎样礼貌拒绝？|No, thanks.|Yes, please.|Here you are.|It's green.|No, thanks. 表示“不，谢谢”。
+想表达“我想要牛奶”，选哪一句？|I want milk.|I want rice.|I am milk.|I have a doll.|I want... 用来表达想要某物。
+“I'm thirsty. I want water.”中这个人要什么？|水|面条|玩具熊|衬衫|I want water. 明确表示要水。
+给你果汁后，你想道谢，应选什么？|Thanks.|No.|Sorry, no.|Stand up.|Thanks. 用于表示感谢。
+@g1b 6
+shirt=衬衫;T-shirt=T恤衫;skirt=短裙;dress=连衣裙;socks=袜子
+朋友夸“I like your skirt.”，你怎样礼貌回应？|Thank you.|I'm hungry.|It's a cat.|Sit down.|受到夸奖时可以说 Thank you.。
+“Put on your shirt.”让你做什么？|穿上衬衫|脱下袜子|拿出书本|关门|put on 表示穿上。
+“Look at my dress.”希望别人看什么？|我的连衣裙|我的课桌|我的尺子|我的玩具|Look at... 表示“看……”，my dress 是我的连衣裙。
+想夸朋友的T恤衫，选哪一句？|I like your T-shirt.|I want juice.|I have a book.|It's a tiger.|I like your... 可以表达对别人衣物的喜爱。
+“I like your shorts.”中的 shorts 是什么？|短裤|袜子|衬衫|短裙|shorts 表示短裤，注意它与 shirt、skirt 的区别。
+@g2a 1
+father=爸爸;mother=妈妈;brother=兄弟;sister=姐妹;grandmother=奶奶或外婆
+指着自己的爸爸，怎样回答“Who's he?”？|He is my father.|She is my mother.|It is a bird.|I am a cat.|爸爸是男性，用 He is my father.。
+指着自己的妈妈，怎样回答“Who's she?”？|She is my mother.|He is my father.|It is a dog.|I have a ball.|妈妈是女性，用 She is my mother.。
+“My grandfather”指哪位家人？|爷爷或外公|兄弟|姐妹|妈妈|grandfather 可以指爷爷或外公。
+补全介绍姐妹的句子：___ is my sister.|She|He|I|You|指女性第三人称单数用 she。
+介绍自己的哥哥，哪一句正确？|This is my brother.|This is my mother.|This is my sister.|This is my grandmother.|brother 可以表示哥哥或弟弟。
+@g2a 2
+classmate=同学;friend=朋友;woman=成年女子;girl=女孩;boy=男孩
+男孩叫Sam，回答“What's his name?”选什么？|His name is Sam.|Her name is Sam.|My name is Sam.|It's a book.|询问他的名字，用 His name is... 回答。
+女孩叫Candy，怎样介绍她的名字？|Her name is Candy.|His name is Candy.|Your name is Candy.|I am Candy.|她的名字用 Her name 表达。
+补全“他是一个男孩”：He ___ a boy.|is|am|are|have|He 后的 be 动词用 is。
+想问一个女孩叫什么名字，选哪一句？|What's her name?|What's his name?|How many girls?|Where is the book?|her 指“她的”，What's her name? 问她的名字。
+“He is a man.”中 man 指什么？|成年男子|女孩|婴儿|成年女子|man 表示成年男子，与 woman 相对。
+@g2a 3
+big=大的;tall=高的;pretty=漂亮的;thin=瘦的;short=矮的
+要问朋友长什么样，选哪一句？|What does he look like?|Where are you going?|What time is it?|Can you swim?|What does he look like? 用来询问外貌。
+已知新同学个子高，哪句符合？|He is tall.|He is short.|He is a book.|He is a dog.|tall 描述个子高。
+“She is tall and pretty.”描述了哪两方面？|身高和外貌|名字和年龄|日期和时间|地点和天气|tall 描述身高，pretty 描述外貌。
+补全“她是我的新朋友”：She is my ___ friend.|new|now|no|nine|new 表示新的，修饰 friend。
+“He is handsome.”表达什么？|他很帅气|他很饿|他很渴|他很累|handsome 常用来形容男子帅气。
+@g2a 4
+bookshop=书店;zoo=动物园;school=学校;supermarket=超市;hospital=医院
+你正要去公园，怎样回答“Where are you going?”？|I'm going to the park.|I'm from China.|It's red.|It's Monday.|I'm going to the park. 表示正要去公园。
+想问朋友打算去哪儿，选哪一句？|Where are you going?|How old are you?|What's your name?|Do you like cats?|Where are you going? 询问将去的地方。
+“She is at the zoo.”说她在哪里？|动物园|医院|学校|书店|at the zoo 表示在动物园。
+补全“我要去书店”：I'm going ___ the bookshop.|to|on|under|behind|go to 后面接目的地。
+朋友说“I'm going to school.”，你也一样，可以说什么？|Me too.|I'm thirsty.|It's a cat.|Thank you.|Me too. 表示“我也是”。
+@g2a 5
+grass=草;tree=树;flower=花;boat=小船;lake=湖
+公园里有一只狗，应该说哪一句？|There is a dog in the park.|There are a dog in the park.|There is dogs in the park.|I am a dog in the park.|a dog 是单数，用 There is。
+公园里有几棵树，补全：There ___ trees in the park.|are|is|am|be|trees 是复数，存在句用 There are。
+“There is a boat on the lake.”中小船在哪里？|湖上|树上|房间里|山上|on the lake 表示在湖面上。
+“There are birds in the park.”说明公园里有什么？|鸟|鱼|汽车|课桌|birds 是 bird 的复数，表示鸟。
+“We can see a hill.”中的 hill 是什么？|小山|湖|草|船|hill 表示小山或山丘。
+@g2a 6
+Christmas=圣诞节;Father Christmas=圣诞老人;Christmas tree=圣诞树;card=卡片;present=礼物
+收到朋友说“Here is a present for you.”，怎样道谢？|Thank you.|I'm hungry.|Go straight.|It's cold.|收到礼物后用 Thank you. 表示感谢。
+元旦向朋友送上祝福，选哪一句？|Happy New Year!|Good night!|I'm sorry.|How many?|Happy New Year! 是“新年快乐”。
+朋友祝你“Merry Christmas!”时，哪句表示同样祝福对方？|You too!|No, thanks.|It's a cat.|I can swim.|You too! 在此表示“也祝你圣诞快乐”。
+补全“这是给你的卡片”：Here is a card ___ you.|for|under|behind|at|for you 表示“给你的”。
+“Merry Christmas!”是哪种祝福？|圣诞快乐|生日快乐|新年快乐|一路平安|Merry Christmas! 是圣诞节祝福语。
+@g2b 1
+play football=踢足球;fly a kite=放风筝;ride a bike=骑自行车;make a model plane=制作飞机模型;swim=游泳
+你会游泳，怎样回答“Can you swim?”？|Yes, I can.|No, I can't.|Yes, I do.|It's sunny.|Can you... ? 的肯定回答是 Yes, I can.。
+你不会骑自行车，应怎样回答“Can you ride a bike?”？|No, I can't.|Yes, I can.|No, I don't.|It's Monday.|不会做某事，用 No, I can't.。
+补全能力表达：I can ___ football.|play|plays|playing|played|can 后接动词原形 play。
+“make a snowman”是什么活动？|堆雪人|放风筝|踢足球|游泳|snowman 是雪人，make a snowman 表示堆雪人。
+想问朋友会不会放风筝，选哪一句？|Can you fly a kite?|Do you like milk?|What time is it?|Where is my book?|Can you... ? 可以询问能否做某事。
+@g2b 2
+rainy=下雨的;cloudy=多云的;snowy=下雪的;windy=有风的;sunny=晴朗的
+想询问今天的天气，应选哪一句？|What's the weather like today?|What day is it today?|What's your name?|Where is the zoo?|What's the weather like...? 用来询问天气。
+已知上海今天下雨，哪句天气描述正确？|It's rainy in Shanghai.|It's sunny in Shanghai.|It's snowy in Shanghai.|It's hot and sunny in Shanghai.|rainy 表示下雨的，与题干相符。
+“Take an umbrella.”中的 umbrella 是什么？|雨伞|足球|课桌|袜子|umbrella 表示雨伞。
+补全天气句：It ___ sunny today.|is|am|are|have|天气句中主语 it 后用 is。
+“Let's go and play football.”表示什么？|我们去踢足球吧|我不会踢足球|这是一个足球|足球在桌上|Let's... 表示提出一起做某事的建议。
+@g2b 3
+spring=春天;summer=夏天;autumn=秋天;winter=冬天;season=季节
+问最喜欢的季节，选哪一句？|What's your favourite season?|What's your name?|How many seasons are there?|What time is it?|favourite season 表示最喜欢的季节。
+“I like winter. I can make a snowman.”给出的喜欢冬天的原因是什么？|能堆雪人|能穿短裤|能看花展|能吃月饼|句中的 I can make a snowman. 说明原因。
+补全“在春天”：___ spring|in|on|at|under|季节名称前通常用 in。
+“It's warm.”描述怎样的天气感受？|暖和|寒冷|凉爽|炎热|warm 是暖和的，区别于 cold、cool 和 hot。
+已知今天又冷又有风，哪句符合？|It's cold and windy.|It's hot and sunny.|It's warm and rainy.|It's cool and cloudy.|cold 是冷的，windy 是有风的。
+@g2b 4
+eleven=十一;twelve=十二;twenty=二十;thirty=三十;forty=四十
+问现在几点，哪一句正确？|What time is it?|What colour is it?|What day is it?|What's your name?|What time is it? 询问钟点。
+时间为7:40，选出对应读法。|seven forty|seven fourteen|four seven|seven four|7:40 可以读作 seven forty。
+“It's two fifty.”对应哪个时间？|2:50|2:15|5:20|12:50|two 是二，fifty 是五十，合起来是两点五十。
+时间为3:15，选出正确表达。|It's three fifteen.|It's three fifty.|It's fifteen three.|It's thirty five.|3:15 可以读作 three fifteen。
+“It's playtime.”是什么意思？|到游戏时间了|现在十二点|今天星期日|明天下雨|playtime 表示游戏或活动时间。
+@g2b 5
+get up=起床;eat breakfast=吃早餐;go to school=去上学;eat lunch=吃午餐;go to bed=上床睡觉
+每天7点起床，怎样回答“When do you get up?”？|At seven.|In the zoo.|It's green.|I'm seven.|when 问时间，At seven. 表示在七点。
+补全“我每天六点半起床”：I get up ___ six thirty every day.|at|on|under|behind|具体钟点前用 at。
+“I go home at five.”中 go home 是什么？|回家|上学|吃晚餐|睡觉|go home 表示回家，home 前不加 to。
+想询问朋友每天何时吃早餐，选哪一句？|When do you eat breakfast every day?|Where is your breakfast?|Do you like blue?|How many eggs?|When do you... ? 用来问做某事的时间。
+“every day”表示怎样的频率？|每天|每周|每月|每年|every day 是“每天”。
+@g2b 6
+Monday=星期一;Tuesday=星期二;Wednesday=星期三;Thursday=星期四;Friday=星期五
+今天星期日，怎样回答“What day is it today?”？|It's Sunday.|It's sunny.|It's seven.|It's summer.|Sunday 是星期日，问星期用 What day。
+星期六的英语是哪一个？|Saturday|Sunday|Tuesday|Thursday|Saturday 表示星期六。
+今天星期一，明天是星期几？|Tuesday|Monday|Friday|Sunday|星期一之后是星期二 Tuesday。
+“It's Wednesday.”说的是哪一天？|星期三|星期二|星期四|星期五|Wednesday 表示星期三。
+想问今天星期几，选哪一句？|What day is it today?|What's the weather like today?|What time is it?|What colour is it?|What day is it today? 专门询问星期。
+@g3a 1
+my=我的;your=你的;name=名字;class=班级;grade=年级
+你今年九岁，怎样回答“How old are you?”？|I'm nine years old.|I'm in Class Two.|My name is Tom.|It's nine o'clock.|How old 问年龄，用 I'm... years old. 回答。
+你在二班，怎样回答“Which class are you in?”？|I'm in Class Two.|I'm two years old.|It's two o'clock.|I have two books.|Which class 问班级，in Class Two 表示在二班。
+新同学问你叫什么，你叫Lily，应选什么？|My name is Lily.|Her name is Lily.|I'm in Class One.|I'm eight.|问自己的名字，用 My name is... 回答。
+补全年龄句：I ___ eight years old.|am|is|are|has|主语为 I，be 动词用 am。
+“I'm new here.”说明什么？|我是新来的|我八岁了|我在三班|我要回家|new here 表示刚到这里。
+@g3a 2
+body=身体;head=头;hair=头发;arm=手臂;hand=手
+脚疼时，怎样回答“What's the matter?”？|My foot hurts.|It's a foot.|I have two books.|It's sunny.|My foot hurts. 用来说明脚疼。
+朋友受伤了，哪句表示主动帮助？|Let me help you.|Let me count books.|What colour is it?|It's a bird.|Let me help you. 表示“让我来帮助你”。
+补全“我的腿疼”：My leg ___.|hurts|hurted|hurting|are|My leg 是单数，一般现在时用 hurts。
+foot的复数是哪一个？|feet|foots|footes|footies|foot 的不规则复数是 feet。
+“I have two hands.”中的 two hands 指什么？|两只手|两只脚|两条腿|两个头|hands 是 hand 的复数，two hands 表示两只手。
+@g3a 3
+bread=面包;cake=蛋糕;fruit=水果;potato=土豆;tomato=西红柿
+想知道朋友晚饭想吃什么，选哪一句？|What do you want for dinner?|What colour is dinner?|Where is your pencil?|How old is your friend?|What do you want for dinner? 询问晚饭想吃什么。
+补全“我想要一些面包”：I want ___ bread.|some|a|an|two|bread 通常不可数，some bread 表示一些面包。
+两个西红柿应写成哪一个？|two tomatoes|two tomatos|two tomato|two tomatoies|tomato 的复数形式为 tomatoes。
+“I want meat and potatoes for lunch.”中这个人午餐想吃什么？|肉和土豆|面包和牛奶|米饭和鱼肉|蛋糕和水果|meat and potatoes 表示肉和土豆。
+补全询问午餐：What do you want ___ lunch?|for|under|behind|between|for lunch 表示作为午餐。
+@g3a 4
+duck=鸭子;rabbit=兔子;snake=蛇;turtle=乌龟;tail=尾巴
+“It has long ears and red eyes.”描述了动物的哪些部位？|耳朵和眼睛|尾巴和脚|腿和嘴|头和翅膀|ears 是耳朵，eyes 是眼睛。
+补全“这只兔子有长耳朵”：The rabbit ___ long ears.|has|have|are|am|The rabbit 是第三人称单数，用 has 表示拥有。
+别人问“What does your pet look like?”，哪句直接回答外貌？|It's white and small.|It's in the room.|It's three years old.|I like apples.|white 和 small 描述颜色及大小。
+你养了一只鸭子，怎样回答“Do you have a pet?”？|Yes. I have a duck.|No. I have no pets.|It's Monday.|I can read.|题干有宠物，应先肯定，再说明种类。
+“A long snake”中的 long 描述什么？|长度长|数量多|颜色绿|年龄大|long 用来描述长度。
+@g3a 5
+cap=帽子;coat=外套;shoes=鞋子;sweater=毛衣;gloves=手套
+今天寒冷下雪，哪条穿衣建议合适？|Wear your coat and gloves.|Wear only shorts.|Wear only a T-shirt.|Don't wear any shoes.|寒冷天气应选择能保暖的衣物。
+补全建议句：You should ___ your sweater.|wear|wears|wearing|wore|should 后接动词原形 wear。
+拿着一双手套介绍，哪句正确？|These are gloves.|This are gloves.|These is gloves.|This am gloves.|gloves 是复数，指近处复数物品用 These are。
+今天有体育课，需要运动鞋，应选哪一句？|Wear your sports shoes.|Wear your dress only.|Take off your shoes.|Wear your scarf only.|sports shoes 是运动鞋，适合体育课。
+“What should I wear today?”是在询问什么？|今天该穿什么|今天星期几|衣服有多少|衣服是什么颜色|should 表示应该，wear 表示穿戴。
+@g3a 6
+January=一月;February=二月;March=三月;April=四月;May=五月
+生日在十一月，怎样回答“When is your birthday?”？|It's in November.|It's on Monday.|I'm eleven.|It's eleven o'clock.|November 是十一月，月份前用 in。
+补全“我的生日在六月”：My birthday is ___ June.|in|on|at|under|仅表示月份时用 in。
+七月的英语是哪一个？|July|June|August|September|July 表示七月。
+“Her birthday is in October.”说她的生日在哪个月？|十月|八月|九月|十二月|October 是十月。
+一年中最后一个月的英语是哪一个？|December|September|August|November|一年最后一个月是十二月 December。
+@g3b 1
+Chinese=语文;English=英语;science=科学;PE=体育;music=音乐
+周一有英语和音乐课，怎样回答“What classes do you have on Monday?”？|We have English and music.|We have maths and art.|It's Monday.|I go to school.|题干给定课程是 English 和 music。
+补全星期前的介词：We have art ___ Friday.|on|in|at|under|星期名称前用 on。
+“computer class”是什么课？|计算机课|美术课|数学课|体育课|computer 表示计算机。
+“I like maths.”说喜欢哪门学科？|数学|科学|语文|美术|maths 是数学。
+你喜欢美术，应怎样回答“Do you like art?”？|Yes, I do.|No, I don't.|Yes, I am.|No, I can't.|Do you like... ? 的肯定回答是 Yes, I do.。
+@g3b 2
+classroom=教室;library=图书馆;toilet=厕所;playground=操场;floor=楼层
+图书馆在一楼，怎样回答“Where is the library?”？|It's on the first floor.|It's on the third floor.|It's on the second floor.|It's near my home.|first floor 表示一楼。
+学校有图书馆，怎样回答“Do you have a library?”？|Yes, we do.|No, we don't.|Yes, we are.|Yes, we can.|以 do 提问，主语是我们时回答 Yes, we do.。
+补全楼层表达：The art room is ___ the second floor.|on|in|at|under|在某楼层用 on the... floor。
+“third floor”是第几层？|第三层|第一层|第二层|第四层|third 是第三的序数词。
+学校没有电脑室，哪句符合？|We don't have a computer room.|We have a computer room.|We are a computer room.|We can a computer room.|don't have 表示没有。
+@g3b 3
+after school=放学后;play sports=做体育运动;draw pictures=画画;play chess=下棋;sing songs=唱歌
+放学后计划唱歌，怎样回答“What are you going to do after school?”？|I'm going to sing songs.|I'm singing now.|I sang yesterday.|It's a song.|be going to 表示计划要做某事。
+补全计划句：She is going to ___ pictures.|draw|draws|drawing|drew|going to 后面的动词用原形 draw。
+“He is going to read books.”说他计划做什么？|读书|下棋|唱歌|跳舞|read books 表示读书。
+想加入朋友的游戏，哪句是合适的请求？|Can I play with you?|Where is your book?|I'm nine.|It's a pencil.|Can I play with you? 请求和对方一起玩。
+补全“She ___ going to dance after school.”。|is|am|are|have|She 后用 is，构成 is going to。
+@g3b 4
+uncle=叔伯舅、姑父或姨父;aunt=姑妈姨妈、婶婶或舅妈等;cousin=堂或表兄弟姐妹;handsome=帅气的;beautiful=美丽的
+照片中的女人确实是你的姨妈，怎样回答“Is she your aunt?”？|Yes, she is.|No, she isn't.|Yes, he is.|Yes, I do.|Is she... ? 的肯定回答是 Yes, she is.。
+照片中的男子是叔叔而非爸爸，怎样回答“Is he your father?”？|No, he isn't. He's my uncle.|Yes, he is.|No, she isn't.|Yes, I am.|要先否定“爸爸”，再说明他是叔叔。
+“This is my cousin.”中的 cousin 能确定性别吗？|不能，男女都可以|只能是男孩|只能是女孩|只能是成年男子|cousin 本身不区分男性或女性。
+补全“她有长头发”：She ___ long hair.|has|have|are|am|She 是第三人称单数，表示拥有用 has。
+“She is beautiful.”是对哪个方面的描述？|外貌|年龄|职业|所在位置|beautiful 表示美丽的，描述外貌。
+@g3b 5
+cooking dinner=正在做晚饭;walking the dog=正在遛狗;watering the plants=正在给植物浇水;cleaning the room=正在打扫房间;listening to music=正在听音乐
+你正在看电视，怎样回答“What are you doing?”？|I'm watching TV.|I watched TV yesterday.|I will watch TV tomorrow.|I like TV.|问正在做什么，用 am/is/are 加动词-ing 形式。
+补全正在进行的动作：She is ___ the fish.|feeding|feed|feeds|fed|is 后接 feeding 构成现在进行时。
+“He is cooking dinner.”中谁在做晚饭？|他|她|他们|我们|He 是“他”，is cooking 表示正在做饭。
+“in one hour”表示多久以后？|一小时以后|一分钟以后|一天以后|一周以后|hour 是小时，in one hour 表示一小时以后。
+补全“We ___ cleaning the room now.”。|are|is|am|be|We 后用 are，构成现在进行时。
+@g3b 6
+bedroom=卧室;living room=客厅;bathroom=浴室;dining room=餐厅;kitchen=厨房
+妈妈正在厨房做饭，怎样回答“Where is your mother?”？|She's in the kitchen.|She's in the bedroom.|She's in the bathroom.|She's at school.|题干给出所在房间为 kitchen。
+“He is in the study.”中的 study 在这里指什么？|书房|花园|浴室|楼梯|in the study 中 study 是表示房间的名词“书房”。
+补全“奶奶正在卧室里”：Grandma is ___ the bedroom.|in|on|under|between|在房间内部用 in。
+姐妹正在浴室洗手，怎样回答“What's she doing?”？|She's washing her hands.|She's reading a book.|She's cooking.|She's sleeping.|wash her hands 表示洗手，正在洗用 is washing。
+“Your living room is so nice!”是怎样的表达？|赞美对方的客厅|询问对方的年龄|拒绝帮助|介绍天气|so nice 在这里是对客厅的赞美。
+@g4a 1
+running=跑步;basketball=篮球;roller skating=轮滑;jumping rope=跳绳;ping-pong=乒乓球
+你经常打篮球，怎样回答“Do you often play basketball?”？|Yes, I do.|No, I don't.|Yes, I am.|No, I can't.|用 Do 提问习惯，肯定回答用 Yes, I do.。
+补全“擅长游泳”：be good ___ swimming|at|on|in|to|be good at 是“擅长”的固定搭配。
+你擅长打乒乓球，怎样回答“Are you good at ping-pong?”？|Yes, I am.|Yes, I do.|Yes, I can.|No, I don't.|以 Are you 提问，肯定回答用 Yes, I am.。
+补全运动短语：___ basketball|play|go|do to|make|球类运动前常用 play，不加 the。
+“I often go swimming.”中的 often 表示什么？|经常|从不|昨天|明天|often 表示经常发生的频率。
+@g4a 2
+climb a hill=爬山;pick fruit=采摘水果;go fishing=去钓鱼;go to the cinema=去看电影;on the weekend=在周末
+想知道朋友周末通常做什么，选哪一句？|What do you do on the weekend?|Where were you born?|How old is your sister?|What colour is the apple?|What do you do on the weekend? 询问周末活动。
+“I often visit my grandparents.”表示常做什么？|看望祖父母或外祖父母|去看电影|去钓鱼|去画画俱乐部|visit my grandparents 表示看望祖辈。
+补全“她经常摘水果”：She often ___ fruit.|picks|pick|picking|picked|She 是第三人称单数，一般现在时用 picks。
+“go to a drawing club”是什么活动？|去绘画俱乐部|去游泳俱乐部|去商店|去电影院|drawing club 是绘画俱乐部。
+周末你通常去钓鱼，哪句符合？|I usually go fishing on the weekend.|I never go fishing.|I went fishing yesterday only.|I'm a fish.|usually 表示通常，go fishing 表示钓鱼。
+@g4a 3
+by bus=乘公交车;by subway=乘地铁;by plane=乘飞机;by train=乘火车;on foot=步行
+你通常步行上学，怎样回答“How do you usually go to school?”？|I usually go to school on foot.|I'm in Class One.|I go to school at seven.|My school is big.|How 在这里询问交通方式，on foot 表示步行。
+补全乘车表达：I go to the park ___ car.|by|on|under|in a by|by car 表示乘小汽车。
+“by school bus”是哪种交通方式？|乘校车|骑自行车|乘出租车|乘船|school bus 是校车。
+想问朋友通常怎样去学校，选哪一句？|How do you usually go to school?|When do you go to bed?|Where is the schoolbag?|What's your favourite subject?|How do you... ? 在此问方式。
+“He goes to school by bike.”表示他怎样上学？|骑自行车|步行|乘飞机|乘火车|by bike 表示骑自行车。
+@g4a 4
+pen=钢笔;knife=小刀;eraser=橡皮;scissors=剪刀;glue stick=固体胶
+想借同学的固体胶，哪句最合适？|Can I use your glue stick, please?|I am your glue stick.|How old is your glue stick?|Your glue stick is green.|Can I use... please? 是礼貌借用物品的请求。
+你正用着尺子，不能借出，怎样说明？|Sorry. I'm using it.|Sure. Here you are.|I don't like school.|It's Monday.|I'm using it. 说明正在使用它。
+朋友因不能借出东西说抱歉，你表示没关系，应说什么？|That's OK.|It's mine.|I'm hungry.|Go away.|That's OK. 在这里表示没关系。
+商店有橡皮，怎样回答“Do you have erasers?”？|Yes, we do.|No, we don't.|Yes, we are.|Yes, it is.|用 Do 提问拥有情况，肯定答复用 do。
+补全“我正在使用这支笔”：I am ___ this pen.|using|use|uses|used|am 后接 using 表示正在使用。
+@g4a 5
+dangerous=危险的;safe=安全的;sidewalk=人行道;stairs=楼梯;fire=火
+想提醒朋友别玩火，选哪一句？|Don't play with fire.|Play with fire.|Run down the stairs.|Climb on the window ledge.|Don't 后接动词原形，表示不要做某事。
+“Be careful!”是什么意思？|小心|快跑|坐下|晚安|Be careful! 用于提醒小心。
+补全禁止句：Don't ___ down the stairs.|run|runs|running|ran|Don't 后接动词原形 run。
+教材建议行人等绿灯，选出对应表达。|Wait for the green light.|Wait for the red light.|Run across now.|Close your eyes.|green light 是绿灯，wait for 表示等待。
+“Use the sidewalk.”让行人走哪里？|人行道|窗台|车道中央|屋顶|sidewalk 指供行人行走的人行道。
+@g4a 6
+doctor=医生;nurse=护士;cook=厨师;farmer=农民;worker=工人
+将来想当医生，怎样回答“What do you want to be in the future?”？|I want to be a doctor.|I am at the doctor's.|I have a doctor.|I go to the hospital.|want to be... 表示想成为某种职业的人。
+补全职业愿望：I want ___ a nurse.|to be|be|being|am|want to be 是表达职业愿望的结构。
+“bus driver”是哪种职业？|公交车司机|出租车司机|警察|工人|bus 表示公交车，driver 表示司机。
+“police officer”是哪种职业？|警察|厨师|医生|农民|police officer 表示警察。
+照片中的人确实是农民，怎样回答“Is she a farmer?”？|Yes, she is.|Yes, he is.|Yes, I do.|No, she isn't.|Is she 提问时，肯定回答为 Yes, she is.。
+@g4b 1
+across from=在……对面;next to=紧挨着;between=在……之间;post office=邮局;bank=银行
+问路前怎样礼貌地引起注意？|Excuse me.|Good night.|I'm full.|See you tomorrow.|Excuse me. 常用于向陌生人问路前。
+“Go straight and turn left.”的正确顺序是什么？|先直走，再左转|先左转，再右转|先后退，再直走|先右转，再停下|and 连接按顺序进行的动作。
+补全位置句：The bank is between the school ___ the park.|and|or|but|so|between A and B 表示在A与B之间。
+别人为你指路后，你说“Thank you.”，对方可怎样回应？|You're welcome.|I'm thirsty.|It's dangerous.|I want a doll.|You're welcome. 表示不客气。
+“Turn right at the first crossroads.”要求在哪里右转？|第一个十字路口|第二个十字路口|第三个十字路口|最后一个房间|first crossroads 表示第一个十字路口。
+@g4b 2
+city=城市;street=街道;sports centre=体育中心;hotel=旅馆;square=广场
+你要问怎样去体育中心，选哪一句？|How can I get to the sports centre?|What colour is the sports centre?|How old are you?|What do you want for lunch?|How can I get to... ? 询问到达某处的方法。
+“You can take a bus.”建议采用什么交通方式？|乘公交车|骑自行车|步行|乘飞机|take a bus 表示乘公交车。
+玩具店在Banana Street，哪句位置说明正确？|It's on Banana Street.|It's a banana.|It's under a banana.|It's next Sunday.|在某条街上用 on... Street。
+“see a film”表示哪种活动？|看电影|买玩具|划船|购物|see a film 表示看电影。
+补全“城里有一家旅馆”：There ___ a hotel in the city.|is|are|am|have|a hotel 是单数，存在句用 There is。
+@g4b 3
+sea=海;ski=滑雪;eat seafood=吃海鲜;row a boat=划船;take photos=拍照
+你想去三亚，怎样回答“Where do you want to go?”？|I want to go to Sanya.|I want to swim.|I go by train.|I go in July.|Where 问地点，Sanya 是地点。
+想在海里游泳，怎样回答“What do you want to do there?”？|I want to swim in the sea.|I want to go to Sanya.|I go by bus.|It's sunny.|What do you want to do... ? 问具体活动。
+补全旅行意愿：She wants to ___ the Great Wall.|visit|visits|visiting|visited|wants to 后接动词原形 visit。
+“I want to visit the Mogao Caves.”说想参观哪里？|莫高窟|长城|西湖|故宫|the Mogao Caves 指莫高窟。
+“We can row a boat on West Lake.”说在哪里划船？|西湖|海里|沙漠|山上|West Lake 指西湖。
+@g4b 4
+reading=阅读;skateboarding=玩滑板;singing=唱歌;dancing=跳舞;collecting erasers=收集橡皮
+想询问对方的爱好，选哪一句？|What are your hobbies?|What time is it?|Where is the bank?|How old is your father?|hobbies 是 hobby 的复数，询问爱好用此句。
+“I like doing jigsaw puzzles.”说喜欢什么？|玩拼图|搭帐篷|做家务|踢足球|doing jigsaw puzzles 表示玩拼图。
+补全“她喜欢制作模型”：She ___ making models.|likes|like|liking|to like|She 是第三人称单数，谓语用 likes。
+把“I like reading.”改为主语Tom，哪一句正确？|Tom likes reading.|Tom like reading.|Tom liking reading.|Tom am reading.|一般现在时第三人称单数用 likes。
+朋友说了爱好后问“What about you?”，主要想知道什么？|你的爱好|你的年龄|你的家庭地址|你的姓名拼写|结合谈论爱好的上下文，这里是追问你的爱好。
+@g4b 5
+go for a picnic=去野餐;play the violin=拉小提琴;go skating=去滑冰;go camping=去露营;do the housework=做家务
+每周滑冰两次，怎样回答“How often do you go skating?”？|Twice a week.|At two o'clock.|In the park.|For two hours.|How often 问频率，Twice a week. 表示每周两次。
+“once a week”表示什么频率？|每周一次|每周两次|每天一次|每月一次|once 是一次，a week 是每周。
+补全乐器短语：play ___ violin|the|a|an|to|表示演奏小提琴通常说 play the violin。
+“I never go camping.”说明什么？|我从不去露营|我每天露营|我每周露营|我经常露营|never 表示从不。
+“three times a week”表示什么？|一周三次|一天三次|三周一次|一月三次|three times 是三次，a week 指每周。
+@g4b 6
+Canada=加拿大;Australia=澳大利亚;the UK=英国;the USA=美国;China=中国
+你来自中国，怎样回答“Where are you from?”？|I'm from China.|I'm going to China.|I like China.|I'm in China now.|be from 表示来自，区别于打算去或当前在某地。
+补全国籍来源表达：He is ___ Canada.|from|to|under|between|be from 后接来源地。
+“You can see koalas in Australia.”中的 koalas 指什么？|考拉|熊猫|企鹅|鲸|koala 是考拉，koalas 是其复数。
+“I'm from the UK.”表明说话者来自哪里？|英国|加拿大|美国|澳大利亚|the UK 表示英国。
+想邀请别人到中国看长城，哪句符合？|You can visit the Great Wall in China.|You can visit Big Ben in China.|You can ski on the moon.|You can see the Great Wall in Canada.|the Great Wall 指中国的长城。
+@g5a 1
+clever=聪明的;careless=粗心的;polite=有礼貌的;quiet=安静的;helpful=乐于助人的
+想了解同学的性格，哪句提问合适？|What's he like?|What time is it?|Where is his bag?|How many pencils?|What's he like? 可以询问他的性格等特征。
+“Tom often helps others.”最能体现哪种品质？|helpful|careless|lazy|rude|经常帮助他人，体现 helpful（乐于助人）。
+“Lily says please and thank you.”最能体现哪种品质？|polite|careless|rude|lazy|使用礼貌用语体现 polite。
+补全“我们都喜欢他”：We all like ___.|him|he|his|he's|动词 like 后用宾格 him。
+“He often forgets to feed his dog.”说明他照顾狗时怎样？|有些粗心|一定很安静|一定很高|从不忘事|经常忘记喂狗，体现 careless。
+@g5a 2
+wear glasses=戴眼镜;slim=苗条的;curly=卷曲的;straight=笔直的;young=年轻的
+老师教数学，怎样回答“What does he teach?”？|He teaches maths.|He teach maths.|He teaching maths.|He is maths.|He 是第三人称单数，teach 要变为 teaches。
+补全“她有卷发”：She ___ curly hair.|has|have|are|am|has 后接拥有的事物，curly hair 是卷发。
+“He wears glasses.”中 glasses 指什么？|眼镜|玻璃窗|玻璃杯的价格|望远镜|wear glasses 的 glasses 指眼镜。
+想问朋友最喜欢哪位老师，选哪一句？|Who's your favourite teacher?|Where is your teacher's desk?|What colour is your teacher's bag?|How many teachers are there?|Who's... ? 询问人物，favourite 表示最喜欢的。
+把“She teaches us English.”译成中文，哪项正确？|她教我们英语|我们教她英语|她向我们学数学|我们教她音乐|She 是主语，us 是被教的对象，English 是学科。
+@g5a 3
+elephant=大象;panda=熊猫;horse=马;cow=奶牛;sheep=绵羊
+想问对方最喜欢的动物，选哪一句？|What's your favourite animal?|What colour is your shirt?|What's your favourite TV show?|Where is your school?|favourite animal 表示最喜欢的动物。
+“I want to see elephants because they have long noses.”给出的原因是什么？|大象有长鼻子|大象会飞|大象有翅膀|大象没有腿|because 后说明喜欢看大象的原因。
+补全复数：There are two ___ on the farm.|sheep|sheeps|sheepes|sheepies|sheep 的单数和复数形式相同。
+蜜蜂能飞，怎样回答“Can a bee fly?”？|Yes, it can.|No, it can't.|Yes, it is.|No, it isn't.|can 提问能力，用 can 回答。
+“butterfly”的复数是哪一个？|butterflies|butterflys|butterflyes|butterflis|辅音字母加y结尾，变复数时把y改为ies。
+@g5a 4
+exercise book=练习本;pencil sharpener=卷笔刀;a pair of scissors=一把剪刀;pencil box=铅笔盒;a box of crayons=一盒蜡笔
+想问一个文具盒的价格，选哪一句？|How much is it?|How many is it?|How old is it?|Where is it from?|How much is it? 询问单件物品的价格。
+售货员说“Can I help you?”，你想买练习本，应怎样回答？|Yes, please. I want an exercise book.|I'm ten years old.|It's sunny today.|I'm from Canada.|在商店说明想买的物品是合适的回应。
+“It's thirty yuan.”表示多少钱？|30元|13元|3元|300元|thirty 是三十，区别于 thirteen。
+决定购买某件商品时，可以怎样说？|I'll take it.|I'll eat it now.|I'm nine.|It's my birthday.|购物时 I'll take it. 表示“我买下它”。
+补全复数价格问句：How much ___ these pencils?|are|is|am|be|these pencils 是复数，be 动词用 are。
+@g5a 5
+cartoons=动画片;news shows=新闻节目;nature shows=自然类节目;sports shows=体育节目;music shows=音乐节目
+你最喜欢体育节目，怎样回答“What are your favourite TV shows?”？|My favourite TV shows are sports shows.|My favourite sport is running.|I play sports every day.|The TV is in my room.|问题问节目类型，sports shows 是体育节目。
+补全观看时间：I watch cartoons ___ Saturday evening.|on|in|at|under|具体到某一天的晚上，用 on。
+“They're fantastic.”对节目的评价是什么？|棒极了|很无聊|太危险|很肮脏|fantastic 在此是极好的、精彩的。
+想问朋友通常何时看新闻，哪句合适？|When do you usually watch news shows?|Where is your TV?|What colour is your TV?|How much is your TV?|When 询问时间，usually 表示通常。
+“My favourite shows are cartoons. I watch them on Sunday.”中的 them 指什么？|动画片|星期日|我的朋友|电视机|them 指代上一句的 cartoons。
+@g5a 6
+chore=家务活;make the bed=整理床铺;take out the rubbish=倒垃圾;tidy the desk=整理书桌;sweep the floor=扫地
+想问朋友通常做哪些家务，选哪一句？|What chores do you usually do?|What colour is your desk?|How old is your bed?|Where is your school?|What chores... ? 用于询问家务活动。
+你每天整理床铺，哪句符合？|I make my bed every day.|I made my bed only yesterday.|I never make my bed.|I am a bed.|every day 表示每天。
+补全“我喜欢帮助父母”：I enjoy ___ my parents.|helping|helps|helped|to help|enjoy 后接动词-ing 形式。
+“I'm sweeping the floor now.”描述什么？|现在正在扫地|昨天扫过地|明天去扫地|从不扫地|am sweeping 加 now 表示当前正在进行。
+朋友正在做家务，约你等有空时再联系，哪句符合？|Call me when you're free.|Never call me.|I'm a phone.|I have a red book.|when you're free 表示当你有空时。
+@g5b 1
+candy=糖果;early=早;tired=疲倦的;headache=头痛;toothache=牙痛
+补全健康建议：We should ___ our hands before eating.|wash|washes|washing|washed|should 后用动词原形 wash。
+“Don't eat with dirty hands.”建议什么？|不要用脏手吃东西|不要洗手|饭前要吃糖|吃饭前去睡觉|dirty hands 是脏手，Don't 表示禁止或劝阻。
+哪句表达“不应该吃太多糖果”？|We shouldn't eat too much candy.|We should eat too much candy.|We shouldn't wash our hands.|We should never exercise.|shouldn't 表示不应该，too much candy 指太多糖果。
+“go to bed early”强调什么？|早点睡觉|睡得很晚|早晨踢球|吃更多糖|early 表示早，go to bed 表示上床睡觉。
+“I've got a stomachache.”表示哪里不舒服？|肚子疼|牙疼|头疼|耳朵疼|stomachache 指胃痛或肚子疼。
+@g5b 2
+Tree Planting Day=植树节;Mother's Day=母亲节;Children's Day=儿童节;Teachers' Day=教师节;National Day=国庆节
+中国的植树节是3月12日，哪句表达正确？|It's on March 12th.|It's in March 1st.|It's on May 12th.|It's at March 12th.|具体日期前用 on，March 12th 是3月12日。
+中国的教师节在什么时候？|September 10th|June 1st|October 1st|January 1st|中国教师节是9月10日，即 September 10th。
+补全日期介词：Children's Day in China is ___ June 1st.|on|in|at|under|具体日期前用 on。
+“the second Sunday in May”指什么时间？|五月的第二个星期日|五月二日|六月第二个星期日|每月第二天|second 修饰 Sunday，指第二个星期日，不是2日。
+“make a poster for Tree Planting Day”要制作什么？|植树节海报|生日蛋糕|圣诞树|飞机模型|poster 表示海报。
+@g5b 3
+send an email=发电子邮件;write a letter=写信;make a phone call=打电话;send a short message=发短信;make a video call=打视频电话
+希望用能互相看见的方式远程联系，哪项最合适？|Make a video call.|Write a letter.|Mail a present.|Send a paper card.|video call 可以进行视频通话。
+补全“我想给妈妈写信”：I want to write a letter ___ my mother.|to|under|between|over|write a letter to someone 表示给某人写信。
+朋友建议制作卡片，你认为很好，可以说什么？|That's a great idea.|It's a rainy day.|I can't find my shoe.|What colour is it?|That's a great idea. 表示赞同好主意。
+补全礼貌意愿句：I would like ___ a card.|to make|making|makes|made|would like to do 表示想要做某事。
+“mail a present”表示通过邮寄送出什么？|礼物|电话号码|当面问候|一场演出|present 是礼物，mail 在此是邮寄。
+@g5b 4
+cleaned the window=擦了窗户;watched TV=看了电视;climbed a hill=爬了山;visited grandparents=看望了祖辈;stayed at home=待在了家里
+补全上周末的经历：I ___ chess last weekend.|played|play|plays|playing|last weekend 指过去，play 的过去式是 played。
+想问朋友上周末做了什么，选哪一句？|What did you do last weekend?|What do you do every day?|What are you doing now?|What will you do tomorrow?|过去时间用 What did you do... ? 提问。
+补全过去问句：Did you ___ TV yesterday?|watch|watched|watching|watches|助动词 did 后用动词原形 watch。
+周末过得很棒，怎样回答“How was your weekend?”？|It was wonderful.|It's next week.|I am eleven.|It's on my desk.|How was... ? 问过去的体验，用 It was... 回答。
+“I'm sorry to hear that.”适合回应哪种消息？|朋友说自己生病了|朋友说自己获奖了|朋友说今天生日|朋友说买到了喜欢的书|听到不幸消息时，这句话表示关心和遗憾。
+@g5b 5
+went to the beach=去了海滩;drank cold drinks=喝了冷饮;swam=游了泳;bought some gifts=买了一些礼物;took photos=拍了照片
+补全过去的旅行：We ___ to Beijing last summer.|went|go|goes|going|last summer 是过去时间，go 的过去式是 went。
+“I ate Beijing duck.”中的 ate 是哪个动词的过去式？|eat|at|eight|take|ate 是 eat 的不规则过去式。
+补全问句：Where did you ___ on vacation?|go|went|going|goes|did 后接原形 go。
+“We saw many flowers.”中的 saw 表示什么？|看见了|看见（现在时）|将会看到|正在看|saw 是 see 的过去式。
+“I felt happy after the trip.”说明旅行后怎样？|感到开心|感到害怕|感到生气|感到口渴|felt 是 feel 的过去式，happy 是开心的。
+@g5b 6
+was born=出生了;started to speak=开始说话了;learned to walk=学会走路了;went to kindergarten=上幼儿园了;learned to swim=学会游泳了
+补全出生日期：I was born ___ May 15th.|on|in|at|under|具体日期前用 on。
+“when I was three”表示什么时候？|我三岁时|三天以后|三点钟|第三周|was 后的 three 在成长语境中表示三岁。
+补全过去经历：I learned to ___ a bike at six.|ride|rode|riding|rides|learned to 后接动词原形 ride。
+想问朋友什么时候开始学英语，选哪一句？|When did you start to study English?|Where is your English book?|How many books do you have?|What colour is English?|When did you start... ? 问过去开始的时间。
+把“I am five.”改成过去的情况，选哪一句？|I was five.|I were five.|I is five.|I be five.|主语 I 对应 am 的过去式为 was。
+@g6a 1
+morning tea=早茶;soup=汤;garden=花园;the Potala Palace=布达拉宫;the Terracotta Army=兵马俑
+“It's in the west of China.”说某地位于中国哪个方向？|西部|东部|南部|北部|west 是西，in the west of... 表示在……的西部。
+补全“苏州以园林闻名”：Suzhou is famous ___ its gardens.|for|on|to|under|be famous for 表示因……而闻名。
+“Where did you go on your summer vacation?”应怎样回答去过广州？|I went to Guangzhou.|I go to Guangzhou every week.|I will go to Guangzhou.|I am going to Guangzhou tomorrow.|did 问过去，回答用 went。
+地图方向缩写N表示什么？|north|south|east|west|N 是 north（北）的缩写。
+“We tasted soup in Guangzhou.”中的 tasted 表示什么？|品尝了|画出了|买衣服|打电话|tasted 是 taste 的过去式，表示品尝了。
+@g6a 2
+London=伦敦;Toronto=多伦多;Sydney=悉尼;the British Museum=大英博物馆;the White House=白宫
+想说寒假打算去伦敦，哪句符合？|I want to go to London this winter vacation.|I went to London last year.|I live in London now.|I never want to travel.|want to go 表示想去，this winter vacation 指这个寒假。
+“It's in the southeast of the UK.”中的 southeast 是哪个方向？|东南|西南|东北|西北|south 加 east 组成 southeast，表示东南。
+“The CN Tower is in Toronto.”说明加拿大国家电视塔在哪座城市？|Toronto|London|Sydney|Beijing|句中 in Toronto 直接给出城市。
+“You can see kangaroos in Australia.”中的 kangaroos 指什么？|袋鼠|熊猫|骆驼|企鹅|kangaroo 是袋鼠，kangaroos 是复数。
+补全旅行计划问句：What do you want to ___ there?|do|did|does|doing|want to 后接动词原形 do。
+@g6a 3
+reptile=爬行动物;mammal=哺乳动物;insect=昆虫;penguin=企鹅;whale=鲸
+鲸属于哪类动物？|mammals|fish|insects|reptiles|鲸生活在水中，但属于哺乳动物 mammals。
+“Penguins are birds, but they cannot fly.”中 but 表示什么关系？|转折|并列递进|原因|时间先后|but 表示转折：是鸟，但不会飞。
+蝴蝶属于哪类动物？|insects|mammals|fish|birds|蝴蝶属于昆虫 insects。
+“Monkeys can climb trees.”中 can 后为何用 climb？|情态动词后用动词原形|因为必须用过去式|因为主语是单数|因为climb是名词|can 后接动词原形，与主语单复数无关。
+“Sharks are fish.”中的 sharks 指哪种动物？|鲨鱼|鲸|企鹅|海豚|shark 是鲨鱼，鲨鱼属于鱼类。
+@g6a 4
+scared=害怕的;worried=担心的;angry=生气的;proud=自豪的;excited=兴奋的
+“I was sad because I was ill.”中伤心的原因是什么？|生病了|赢了比赛|收到礼物|外出游玩|because 后的 I was ill 说明原因。
+补全原因句：She was happy ___ her friend came to see her.|because|but|or|until|because 引出原因：朋友来看她。
+想问朋友昨天为何担心，哪句合适？|Why were you worried yesterday?|Where is your bag?|How many friends do you have?|What colour is your coat?|Why 询问原因，yesterday 搭配过去式 were。
+“I felt proud when I won the race.”中的 won 是哪个动词的过去式？|win|want|walk|write|won 是 win（赢）的过去式。
+“You look sad.”关注的是对方哪一方面？|情绪|国籍|职业|年龄|sad 表示难过的，是情绪词。
+@g6a 5
+inventor=发明家;artist=艺术家;scientist=科学家;poet=诗人;writer=作家
+李白写了很多诗，哪句介绍符合？|He was a poet.|He was a farmer.|He was a pilot.|He was a nurse.|poet 是诗人，符合李白的身份。
+补全人物介绍：Xu Beihong was ___ artist.|an|a|am|are|artist 以元音音素开头，用 an。
+“He was good at painting horses.”中的 painting 为什么加-ing？|介词at后用动名词|因为是过去式|因为horses是复数|因为是比较级|be good at 后接名词或动名词。
+“Jean-Henri Fabre was a French scientist.”说明法布尔是哪国科学家？|法国|英国|丹麦|美国|French 表示法国的。
+“He is famous for his inventions.”中的 inventions 指什么？|发明|诗歌|生日|衣服|invention 是发明，inventions 是复数。
+@g6a 6
+winter vacation=寒假;Spring Festival=春节;dumpling=饺子;match=比赛;plan=计划
+补全寒假计划：I am going to ___ dumplings.|make|made|making|makes|be going to 后接动词原形 make。
+“We are going to Harbin to play in the snow.”给出的出行目的是什么？|玩雪|游泳看珊瑚|参观沙漠|采摘椰子|to play in the snow 说明去哈尔滨的目的。
+想问对方寒假打算做什么，选哪一句？|What are you going to do in your winter vacation?|What did you do yesterday?|What are you doing now?|What do you do every morning?|are going to 用来询问计划。
+补全“他们准备看一场足球赛”：They ___ going to watch a football match.|are|is|am|was|They 对应 are，构成 are going to。
+“celebrate Spring Festival”表达什么？|庆祝春节|庆祝儿童节|参加篮球比赛|做英语作业|celebrate 是庆祝，Spring Festival 是春节。
+@g6b 1
+live=居住;scarf=围巾;airport=机场;pupil=小学生;arrive=到达
+计划在加拿大住五个月，应怎样回答“How long are you going to stay?”？|For five months.|At five o'clock.|Five years old.|Five books.|How long 问时长，for five months 表示五个月。
+补全居住信息：Ted ___ with his parents.|lives|live|living|are|Ted 是第三人称单数，一般现在时用 lives。
+“We will miss our friends.”中的 miss 在此表示什么？|想念|错过公交车|小姐称呼|丢失钥匙|miss 接 friends，在此表示想念朋友。
+加拿大此行目的地正在下雪且很冷，哪组衣物最合适？|A warm coat and a scarf.|Only shorts and sandals.|Only a thin T-shirt.|Only a swimsuit.|题干明确冷且下雪，应选择保暖衣物。
+“His friends will email him every week.”说明朋友多久联系一次？|每周|每天|每月|每年|every week 表示每周。
+@g6b 2
+art gallery=美术馆;public library=公共图书馆;downtown=市中心;stadium=体育场;Lake Ontario=安大略湖
+“Go straight. Turn left at the second crossroads.”要求在哪个路口转弯？|第二个十字路口|第一个十字路口|第三个十字路口|第四个十字路口|second 是第二。
+补全介绍城市：There ___ many shops on this street.|are|is|am|was|many shops 是复数，用 There are。
+“The library is across from the cinema.”说图书馆与电影院是什么关系？|在对面|在里面|在屋顶|在地下|across from 表示在对面。
+“Ted is showing Bill around his school.”中 show ... around 表示什么？|带……参观|给……写信|向……借钱|让……离开|show someone around 表示带某人参观。
+“English is hard but fun.”表达了怎样的评价？|有难度但有趣|容易且无聊|完全不可能学会|不难也没趣|hard 是难的，but 表示转折，fun 是有趣的。
+@g6b 3
+volunteer=志愿者;sandwich=三明治;habit=习惯;at least=至少;less=更少
+补全习惯句：Bill usually ___ up at seven.|gets|get|getting|got|Bill 是第三人称单数，usually 表示习惯，使用 gets。
+“I never do homework on Sunday nights.”中 never 表示怎样的频率？|从不|总是|经常|有时|never 表示从不发生。
+做三明治的步骤用First、Next、Last连接，Last表示哪一步？|最后一步|第一步|任意一步|前一步|Last 在步骤说明中表示最后。
+“You need at least two pieces of bread.”最少需要几片面包？|2片|1片|0片|必须正好3片|at least two 意为至少两片。
+补全“她每天刷牙”：She ___ her teeth every day.|brushes|brush|brushing|brushed|第三人称单数，brush 以sh结尾，加es。
+@g6b 4
+hockey=冰球;talk about=谈论;together=一起;beaver=河狸;raccoon=浣熊
+“Bill goes to a hockey club twice a week.”每周去几次？|两次|一次|三次|每天一次|twice a week 表示每周两次。
+补全爱好句：Tina enjoys ___ and dancing.|singing|sings|sang|to sing|enjoys 后接动词-ing 形式，并与 dancing 并列。
+“They help old people do their housework.”说明他们怎样帮助老人？|帮做家务|让老人代写作业|只给老人拍照|要求老人搬家|help old people do their housework 表示帮助老人做家务。
+“Sometimes I go to an art club, but not every week.”最符合哪项？|有时去美术社团|每周必去七次|从来不去社团|只去体育社团|Sometimes 和 not every week 表明不是固定每周都去。
+补全明天的活动计划：We ___ going to have a picnic tomorrow.|are|is|am|was|主语 We 搭配 are going to。
+@g6b 5
+countryside=乡村;Thanksgiving=感恩节;roast turkey=烤火鸡;squirrel=松鼠;swan=天鹅
+美国感恩节在十一月，加拿大在十月。哪句描述加拿大正确？|Thanksgiving is in October in Canada.|Thanksgiving is in November in Canada.|Thanksgiving is in June in Canada.|Thanksgiving is in July in Canada.|题干明确加拿大的感恩节在十月。
+“People get together at Mid-Autumn Festival.”中 get together 表示什么？|团聚|迷路|分离|起床|get together 表示聚在一起。
+补全“夏天天气热，所以我喜欢游泳”：It's hot in summer, ___ I like swimming.|so|but|or|before|so 引出由前面原因带来的结果。
+“Spring is a good time to fly kites.”推荐哪个季节放风筝？|春天|夏天|秋天|冬天|Spring 是春天。
+“wild goose”指哪种动物？|大雁|天鹅|松鼠|青蛙|wild goose 表示大雁，区别于 swan 天鹅。
+@g6b 6
+English-Chinese dictionary=英汉词典;shopping centre=购物中心;amazing=令人惊叹的;hot pot=火锅;diary=日记
+补全旅行时间：We are leaving ___ July 15th.|on|in|at|under|具体日期前用 on。
+计划停留六天，怎样回答“How long will you stay in London?”？|For six days.|On July 15th.|By plane.|With my sister.|How long 问时长，用 for 加一段时间。
+“Yesterday I bought a scarf for my mum.”中的 bought 是哪个词的过去式？|buy|bring|build|begin|buy 的不规则过去式是 bought。
+补全交通计划：They are going to London ___ plane.|by|on a by|under|between|by plane 表示乘飞机。
+明信片里写“I didn't swim in the sea.”，说明什么？|我没有在海里游泳|我正在海里游泳|我每天在海里游泳|我一定会去游泳|didn't 加动词原形表示过去没有做某事。

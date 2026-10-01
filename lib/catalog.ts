@@ -1,26 +1,23 @@
 import 'server-only';
 import { z } from 'zod';
-import { createClient } from '@/lib/supabase/server';
+import { memberQuery } from '@/lib/members/database';
 import { supabaseConfig } from '@/lib/config';
-import { seedLessons } from '@/lib/seed';
+import { expandedSeedLessons as seedLessons } from '@/content/ten-question-lessons';
 import type { Lesson, LessonSummary } from '@/lib/types';
+import { withClassification } from '@/lib/classification';
 
 export function summarize(lesson: Lesson): LessonSummary {
   const { questions, ...rest } = lesson;
-  return { ...rest, questionCount: questions.length };
+  return { ...withClassification(rest), questionCount: questions.length };
 }
-export async function getLessons() {
+export async function getLessons(ids?:string[]) {
   if (!supabaseConfig()) return { lessons: seedLessons.map(summarize), demo: true };
-  const supabase = await createClient();
-  const { data, error } = await supabase.from('learning_lessons').select('*').eq('status', 'published').order('created_at').order('id');
-  if (error) throw new Error('题库暂时无法加载，请检查学习数据库是否已初始化。');
-  return { lessons: (data as Lesson[]).map(summarize), demo: false };
+  const {rows}=await memberQuery<LessonSummary>(`select id,title,description,subject,grade,topic,minutes,status,category,tags,created_at::text,updated_at::text,jsonb_array_length(questions) as "questionCount" from learning_lessons where status='published' and ($1::uuid[] is null or id=any($1::uuid[])) order by learning_lessons.created_at,learning_lessons.id`,[ids??null]);
+  return {lessons:rows.map(withClassification),demo:false};
 }
 export async function getLesson(id: string) {
   if (!z.uuid().safeParse(id).success) return null;
   if (!supabaseConfig()) return seedLessons.find(l => l.id === id) ?? null;
-  const supabase = await createClient();
-  const { data, error } = await supabase.from('learning_lessons').select('*').eq('id', id).eq('status', 'published').maybeSingle();
-  if (error) throw new Error('关卡暂时无法加载，请稍后重试。');
-  return data as Lesson | null;
+  const {rows}=await memberQuery<Lesson>("select *,created_at::text,updated_at::text from learning_lessons where id=$1 and status='published'",[id]);
+  return rows[0]??null;
 }

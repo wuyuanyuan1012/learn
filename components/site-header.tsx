@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Icon, type IconName } from './icon';
-const links: { href: string; title: string; icon: IconName }[] = [{ href: '/', title: '学习首页', icon: 'home' }, { href: '/practice', title: '趣味练习', icon: 'book' }, { href: '/progress', title: '我的成长', icon: 'chart' }];
+const links: { href: string; title: string; icon: IconName }[] = [{ href: '/', title: '今日挑战', icon: 'home' }, { href: '/practice', title: '全部练习', icon: 'book' }, { href: '/progress', title: '我的成长', icon: 'chart' }];
 export function SiteHeader({ admin = false }: { admin?: boolean }) {
   const pathname = usePathname();
   return <><header className="site-header"><div className="header-inner">

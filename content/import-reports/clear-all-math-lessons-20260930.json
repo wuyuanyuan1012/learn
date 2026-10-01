@@ -1,0 +1,54 @@
+{
+  "operation": "clear-all-math-lessons",
+  "completedAt": "2026-09-30T15:48:27.735Z",
+  "backupCreated": false,
+  "deleted": {
+    "lessons": 101,
+    "questions": 1010
+  },
+  "remainingMath": {
+    "lessons": 0,
+    "questions": 0
+  },
+  "otherSubjectsUnchanged": true,
+  "memberDataModified": false,
+  "before": [
+    {
+      "subject": "chinese",
+      "lessons": 34,
+      "questions": 340
+    },
+    {
+      "subject": "english",
+      "lessons": 36,
+      "questions": 360
+    },
+    {
+      "subject": "math",
+      "lessons": 101,
+      "questions": 1010
+    },
+    {
+      "subject": "science",
+      "lessons": 21,
+      "questions": 210
+    }
+  ],
+  "after": [
+    {
+      "subject": "chinese",
+      "lessons": 34,
+      "questions": 340
+    },
+    {
+      "subject": "english",
+      "lessons": 36,
+      "questions": 360
+    },
+    {
+      "subject": "science",
+      "lessons": 21,
+      "questions": 210
+    }
+  ]
+}

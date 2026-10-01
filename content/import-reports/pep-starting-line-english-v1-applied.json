@@ -1,0 +1,27 @@
+{
+  "batch": "pep-starting-line-english-v1",
+  "mode": "applied",
+  "checkedAt": "2026-09-30T17:27:21.441Z",
+  "sha256": "dd004ca77fa08afbcbfd55d49d01bce23ec907d6866c4a10917b69b70167ac87",
+  "before": {
+    "lessons": 354,
+    "questions": 3540
+  },
+  "batchTotal": {
+    "lessons": 84,
+    "questions": 840
+  },
+  "pending": {
+    "lessons": 84,
+    "questions": 840
+  },
+  "inserted": {
+    "lessons": 84,
+    "questions": 840
+  },
+  "after": {
+    "lessons": 438,
+    "questions": 4380
+  },
+  "existingDataPreserved": true
+}

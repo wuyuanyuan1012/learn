@@ -1,0 +1,756 @@
+{
+  "repository": "https://github.com/TapXWorld/ChinaTextbook",
+  "commit": "5a80345f2043ba6f8db8d7be9cf3db82725ff1f7",
+  "books": [
+    {
+      "id": "g1a",
+      "grade": 1,
+      "term": "上册",
+      "name": "义务教育教科书·数学一年级上册.pdf",
+      "pages": 109,
+      "sha256": "dd5fcd5deeba22f846972a7d06804d8a199f9d88aeaea340c2983ce7f36c5c80",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学一年级上册.pdf",
+          "path": "小学/数学/北师大版/义务教育教科书·数学一年级上册.pdf",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "bytes": 52038985,
+          "sha256": "dd5fcd5deeba22f846972a7d06804d8a199f9d88aeaea340c2983ce7f36c5c80"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 4,
+          "name": "生活中的数"
+        },
+        {
+          "startPrintedPage": 18,
+          "name": "比较"
+        },
+        {
+          "startPrintedPage": 24,
+          "name": "加与减（一）"
+        },
+        {
+          "startPrintedPage": 52,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 57,
+          "name": "分类"
+        },
+        {
+          "startPrintedPage": 62,
+          "name": "位置与顺序"
+        },
+        {
+          "startPrintedPage": 70,
+          "name": "认识图形"
+        },
+        {
+          "startPrintedPage": 74,
+          "name": "加与减（二）"
+        },
+        {
+          "startPrintedPage": 88,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 92,
+          "name": "认识钟表"
+        },
+        {
+          "startPrintedPage": 94,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g1b",
+      "grade": 1,
+      "term": "下册",
+      "name": "义务教育教科书·数学一年级下册.pdf",
+      "pages": 99,
+      "sha256": "ef3aeb6a93d31c384051637c67c1dcf96789440d37f1429fc5d210dc000fdbe2",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学一年级下册.pdf",
+          "path": "小学/数学/北师大版/义务教育教科书·数学一年级下册.pdf",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "bytes": 44951064,
+          "sha256": "ef3aeb6a93d31c384051637c67c1dcf96789440d37f1429fc5d210dc000fdbe2"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "加与减（一）"
+        },
+        {
+          "startPrintedPage": 18,
+          "name": "观察物体"
+        },
+        {
+          "startPrintedPage": 22,
+          "name": "生活中的数"
+        },
+        {
+          "startPrintedPage": 36,
+          "name": "有趣的图形"
+        },
+        {
+          "startPrintedPage": 44,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 49,
+          "name": "加与减（二）"
+        },
+        {
+          "startPrintedPage": 64,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 68,
+          "name": "加与减（三）"
+        },
+        {
+          "startPrintedPage": 84,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g2a",
+      "grade": 2,
+      "term": "上册",
+      "name": "义务教育教科书·数学二年级上册.pdf",
+      "pages": 119,
+      "sha256": "3a06a81945591caaac38fb6fef43d7ee5c4f321522c09909812ec5d1d44c2050",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学二年级上册.pdf.1",
+          "path": "小学/数学/北师大版/义务教育教科书·数学二年级上册.pdf.1",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.1",
+          "bytes": 36700160,
+          "sha256": "6a80653346d282e9a6ea016840fb4189eeea749db6ad79e1621849c9dbbd1800"
+        },
+        {
+          "name": "义务教育教科书·数学二年级上册.pdf.2",
+          "path": "小学/数学/北师大版/义务教育教科书·数学二年级上册.pdf.2",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.2",
+          "bytes": 16545907,
+          "sha256": "1a9996bb2cee717881819be2bf6f4c746d4579400e7dce292cd8b4237e4a4c27"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "加与减"
+        },
+        {
+          "startPrintedPage": 10,
+          "name": "购物"
+        },
+        {
+          "startPrintedPage": 16,
+          "name": "数一数与乘法"
+        },
+        {
+          "startPrintedPage": 26,
+          "name": "图形的变化"
+        },
+        {
+          "startPrintedPage": 30,
+          "name": "2～5的乘法口诀"
+        },
+        {
+          "startPrintedPage": 44,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 49,
+          "name": "测量"
+        },
+        {
+          "startPrintedPage": 58,
+          "name": "分一分与除法"
+        },
+        {
+          "startPrintedPage": 78,
+          "name": "6～9的乘法口诀"
+        },
+        {
+          "startPrintedPage": 86,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 90,
+          "name": "除法"
+        },
+        {
+          "startPrintedPage": 97,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g2b",
+      "grade": 2,
+      "term": "下册",
+      "name": "义务教育教科书·数学二年级下册.pdf",
+      "pages": 109,
+      "sha256": "95e98f169f0c0d3853b032d051790c74f9a12273d8504dd223bf11e4f9a4d9d9",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学二年级下册.pdf",
+          "path": "小学/数学/北师大版/义务教育教科书·数学二年级下册.pdf",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "bytes": 49323077,
+          "sha256": "95e98f169f0c0d3853b032d051790c74f9a12273d8504dd223bf11e4f9a4d9d9"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "除法"
+        },
+        {
+          "startPrintedPage": 15,
+          "name": "方向与位置"
+        },
+        {
+          "startPrintedPage": 19,
+          "name": "生活中的大数"
+        },
+        {
+          "startPrintedPage": 34,
+          "name": "测量"
+        },
+        {
+          "startPrintedPage": 38,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 43,
+          "name": "加与减"
+        },
+        {
+          "startPrintedPage": 62,
+          "name": "认识图形"
+        },
+        {
+          "startPrintedPage": 75,
+          "name": "时、分、秒"
+        },
+        {
+          "startPrintedPage": 82,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 86,
+          "name": "调查与记录"
+        },
+        {
+          "startPrintedPage": 90,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g3a",
+      "grade": 3,
+      "term": "上册",
+      "name": "义务教育教科书·数学三年级上册.pdf",
+      "pages": 111,
+      "sha256": "278a8675a328d70c609d604f71b60c9d3a2804b4fef00b6fc549e6160e477d87",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学三年级上册.pdf",
+          "path": "小学/数学/北师大版/义务教育教科书·数学三年级上册.pdf",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "bytes": 50956204,
+          "sha256": "278a8675a328d70c609d604f71b60c9d3a2804b4fef00b6fc549e6160e477d87"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "混合运算"
+        },
+        {
+          "startPrintedPage": 13,
+          "name": "观察物体"
+        },
+        {
+          "startPrintedPage": 17,
+          "name": "加与减"
+        },
+        {
+          "startPrintedPage": 30,
+          "name": "乘与除"
+        },
+        {
+          "startPrintedPage": 40,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 45,
+          "name": "周长"
+        },
+        {
+          "startPrintedPage": 52,
+          "name": "乘法"
+        },
+        {
+          "startPrintedPage": 67,
+          "name": "年、月、日"
+        },
+        {
+          "startPrintedPage": 74,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 80,
+          "name": "认识小数"
+        },
+        {
+          "startPrintedPage": 92,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g3b",
+      "grade": 3,
+      "term": "下册",
+      "name": "义务教育教科书·数学三年级下册.pdf",
+      "pages": 113,
+      "sha256": "ad2bfa376dcdfbb0d88f1e65fac10835713297610ce6e8d1c8baf38715318ddb",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学三年级下册.pdf",
+          "path": "小学/数学/北师大版/义务教育教科书·数学三年级下册.pdf",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "bytes": 48833868,
+          "sha256": "ad2bfa376dcdfbb0d88f1e65fac10835713297610ce6e8d1c8baf38715318ddb"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "除法"
+        },
+        {
+          "startPrintedPage": 23,
+          "name": "图形的运动"
+        },
+        {
+          "startPrintedPage": 30,
+          "name": "乘法"
+        },
+        {
+          "startPrintedPage": 40,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 45,
+          "name": "千克、克、吨"
+        },
+        {
+          "startPrintedPage": 49,
+          "name": "面积"
+        },
+        {
+          "startPrintedPage": 61,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 67,
+          "name": "认识分数"
+        },
+        {
+          "startPrintedPage": 80,
+          "name": "数据的整理和表示"
+        },
+        {
+          "startPrintedPage": 84,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g4a",
+      "grade": 4,
+      "term": "上册",
+      "name": "义务教育教科书·数学四年级上册.pdf",
+      "pages": 115,
+      "sha256": "e0c174a0bcff4bc6a33da959eded73278e7056775ec744240bb0f3a8c44adff1",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学四年级上册.pdf.1",
+          "path": "小学/数学/北师大版/义务教育教科书·数学四年级上册.pdf.1",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.1",
+          "bytes": 36700160,
+          "sha256": "7c1b2b519bb223cadc4bdfc51697497c4bd134dadeed1fc60daf6fb5d4ff6c72"
+        },
+        {
+          "name": "义务教育教科书·数学四年级上册.pdf.2",
+          "path": "小学/数学/北师大版/义务教育教科书·数学四年级上册.pdf.2",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf.2",
+          "bytes": 17293003,
+          "sha256": "3f67db568930a0d0425e0155fe81be322818feea9fd38417b22ca9c3cad6eb89"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "认识更大的数"
+        },
+        {
+          "startPrintedPage": 16,
+          "name": "线与角"
+        },
+        {
+          "startPrintedPage": 30,
+          "name": "乘法"
+        },
+        {
+          "startPrintedPage": 42,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 47,
+          "name": "运算律"
+        },
+        {
+          "startPrintedPage": 61,
+          "name": "方向与位置"
+        },
+        {
+          "startPrintedPage": 66,
+          "name": "除法"
+        },
+        {
+          "startPrintedPage": 84,
+          "name": "生活中的负数"
+        },
+        {
+          "startPrintedPage": 88,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 95,
+          "name": "可能性"
+        },
+        {
+          "startPrintedPage": 99,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g4b",
+      "grade": 4,
+      "term": "下册",
+      "name": "义务教育教科书·数学四年级下册.pdf",
+      "pages": 117,
+      "sha256": "93ef86297a51b8f219bdf458a1287656035155b6841616bcf2a2245be3177b17",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学四年级下册.pdf",
+          "path": "小学/数学/北师大版/义务教育教科书·数学四年级下册.pdf",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "bytes": 49973640,
+          "sha256": "93ef86297a51b8f219bdf458a1287656035155b6841616bcf2a2245be3177b17"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "小数的意义和加减法"
+        },
+        {
+          "startPrintedPage": 20,
+          "name": "认识三角形和四边形"
+        },
+        {
+          "startPrintedPage": 33,
+          "name": "小数乘法"
+        },
+        {
+          "startPrintedPage": 48,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 53,
+          "name": "观察物体"
+        },
+        {
+          "startPrintedPage": 61,
+          "name": "认识方程"
+        },
+        {
+          "startPrintedPage": 76,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 83,
+          "name": "数据的表示和分析"
+        },
+        {
+          "startPrintedPage": 96,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g5a",
+      "grade": 5,
+      "term": "上册",
+      "name": "义务教育教科书·数学五年级上册.pdf",
+      "pages": 125,
+      "sha256": "5a5e8e434b662770d3ad70c60458b162f8060580665747d02e07f34a688509be",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学五年级上册.pdf",
+          "path": "小学/数学/北师大版/义务教育教科书·数学五年级上册.pdf",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "bytes": 51641244,
+          "sha256": "5a5e8e434b662770d3ad70c60458b162f8060580665747d02e07f34a688509be"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "小数除法"
+        },
+        {
+          "startPrintedPage": 21,
+          "name": "轴对称和平移"
+        },
+        {
+          "startPrintedPage": 31,
+          "name": "倍数与因数"
+        },
+        {
+          "startPrintedPage": 44,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 49,
+          "name": "多边形的面积"
+        },
+        {
+          "startPrintedPage": 63,
+          "name": "分数的意义"
+        },
+        {
+          "startPrintedPage": 88,
+          "name": "组合图形的面积"
+        },
+        {
+          "startPrintedPage": 94,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 101,
+          "name": "可能性"
+        },
+        {
+          "startPrintedPage": 106,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g5b",
+      "grade": 5,
+      "term": "下册",
+      "name": "义务教育教科书·数学五年级下册.pdf",
+      "pages": 111,
+      "sha256": "4c99baf7ed2da47c726b68734b06da9aeff718fd8991e1fc2f90a8a4a8fc1cec",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学五年级下册.pdf",
+          "path": "小学/数学/北师大版/义务教育教科书·数学五年级下册.pdf",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+          "bytes": 45086347,
+          "sha256": "4c99baf7ed2da47c726b68734b06da9aeff718fd8991e1fc2f90a8a4a8fc1cec"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "分数加减法"
+        },
+        {
+          "startPrintedPage": 11,
+          "name": "长方体（一）"
+        },
+        {
+          "startPrintedPage": 22,
+          "name": "分数乘法"
+        },
+        {
+          "startPrintedPage": 36,
+          "name": "长方体（二）"
+        },
+        {
+          "startPrintedPage": 50,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 55,
+          "name": "分数除法"
+        },
+        {
+          "startPrintedPage": 65,
+          "name": "确定位置"
+        },
+        {
+          "startPrintedPage": 69,
+          "name": "用方程解决问题"
+        },
+        {
+          "startPrintedPage": 75,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 82,
+          "name": "数据的表示和分析"
+        },
+        {
+          "startPrintedPage": 92,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g6a",
+      "grade": 6,
+      "term": "上册",
+      "name": "义务教育教科书·数学六年级上册.pdf",
+      "pages": 117,
+      "sha256": "b02e02349a2b5d52bb65c916663522521b4759433084bf35de5866f0ed01e595",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学六年级上册.pdf",
+          "path": "小学/数学/北师大版/义务教育教科书·数学六年级上册.pdf",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+          "bytes": 50618072,
+          "sha256": "b02e02349a2b5d52bb65c916663522521b4759433084bf35de5866f0ed01e595"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "圆"
+        },
+        {
+          "startPrintedPage": 21,
+          "name": "分数混合运算"
+        },
+        {
+          "startPrintedPage": 32,
+          "name": "观察物体"
+        },
+        {
+          "startPrintedPage": 39,
+          "name": "百分数"
+        },
+        {
+          "startPrintedPage": 52,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 57,
+          "name": "数据处理"
+        },
+        {
+          "startPrintedPage": 69,
+          "name": "比的认识"
+        },
+        {
+          "startPrintedPage": 80,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 87,
+          "name": "百分数的应用"
+        },
+        {
+          "startPrintedPage": 100,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    },
+    {
+      "id": "g6b",
+      "grade": 6,
+      "term": "下册",
+      "name": "义务教育教科书·数学六年级下册.pdf",
+      "pages": 119,
+      "sha256": "743266f9fa24a9f0860cc15e8e496c0d8bb6bd92a0045319326a4e8885d1a845",
+      "sourceFiles": [
+        {
+          "name": "义务教育教科书·数学六年级下册.pdf.1",
+          "path": "小学/数学/北师大版/义务教育教科书·数学六年级下册.pdf.1",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.1",
+          "bytes": 36700160,
+          "sha256": "0a39c466a360a84b9b80046754b916f905b89946c9711251c1347cb57a094316"
+        },
+        {
+          "name": "义务教育教科书·数学六年级下册.pdf.2",
+          "path": "小学/数学/北师大版/义务教育教科书·数学六年级下册.pdf.2",
+          "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf.2",
+          "bytes": 23222474,
+          "sha256": "dfb76042e24c5f38af5c630cd2dfee0cdd916d37cbfb3dbc46b5906a11931009"
+        }
+      ],
+      "units": [
+        {
+          "startPrintedPage": 2,
+          "name": "圆柱与圆锥"
+        },
+        {
+          "startPrintedPage": 16,
+          "name": "比例"
+        },
+        {
+          "startPrintedPage": 28,
+          "name": "图形的运动"
+        },
+        {
+          "startPrintedPage": 39,
+          "name": "正比例与反比例"
+        },
+        {
+          "startPrintedPage": 51,
+          "name": "数学好玩"
+        },
+        {
+          "startPrintedPage": 58,
+          "name": "整理与复习"
+        },
+        {
+          "startPrintedPage": 63,
+          "name": "总复习"
+        }
+      ],
+      "printedPageOffset": 4
+    }
+  ],
+  "totalPages": 1364
+}

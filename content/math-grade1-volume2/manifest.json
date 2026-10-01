@@ -1,0 +1,4316 @@
+{
+  "batch": "grade1-math-volume2-v1",
+  "textbook": "人教版义务教育教科书数学一年级下册",
+  "sourceFile": "义务教育教科书·数学一年级下册.pdf",
+  "sourceSha256": "00e450e1c867e901e17aa41231b88ca3d99540747524ed5a7777ed5a0e7fe960",
+  "pageMapping": "PDF页码 = 印刷页码 + 5",
+  "kind": "根据教材知识点原创编题，并非原书练习逐题转录",
+  "lessonCount": 20,
+  "questionCount": 200,
+  "questions": [
+    {
+      "questionId": "83268a94-f03a-5402-889f-7a34273e8ac5",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "三角形",
+      "proof": null
+    },
+    {
+      "questionId": "ce4b018b-c05e-5472-b8fa-919d160e75de",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "圆",
+      "proof": null
+    },
+    {
+      "questionId": "ffdb563a-8357-5103-92a4-cd2b175d2d2d",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "三角形",
+      "proof": null
+    },
+    {
+      "questionId": "7aa16ea8-84d7-5834-bec3-9e06b15f0d74",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "4条",
+      "proof": null
+    },
+    {
+      "questionId": "888556cb-18c2-53c9-a2b6-be062215a3da",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "正方形",
+      "proof": null
+    },
+    {
+      "questionId": "0dfa1ffb-6d77-5804-9c7f-95f94dce2ea1",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "圆",
+      "proof": null
+    },
+    {
+      "questionId": "148fc0f0-fbc6-5c7d-8bf4-ae108ba95294",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "平行四边形",
+      "proof": null
+    },
+    {
+      "questionId": "94d85a4f-d0dd-5d07-985b-53ace1c5ec14",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "7块",
+      "proof": null
+    },
+    {
+      "questionId": "779563a9-8110-595d-b34a-3dda9c81d525",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "长方形",
+      "proof": null
+    },
+    {
+      "questionId": "1e495465-8e7e-58fb-9eef-529754a5a99b",
+      "lessonId": "a073305c-9c18-5c23-a48d-da89cf80e0bc",
+      "unit": "第1单元 认识图形（二）",
+      "printedPages": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "pdfPages": [
+        7,
+        8,
+        9,
+        11
+      ],
+      "correctAnswer": "三角形",
+      "proof": null
+    },
+    {
+      "questionId": "6ec4e235-ae37-5540-a7f8-30b78462e065",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "2",
+      "proof": {
+        "expression": "11-9",
+        "value": 2,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "16b92ad3-e30b-5772-ac86-07f5e553df5e",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "3",
+      "proof": {
+        "expression": "12-9",
+        "value": 3,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "acb6cf3e-d3d7-5289-ba01-57b42692f745",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "5",
+      "proof": {
+        "expression": "14-9",
+        "value": 5,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "d3c57a0b-0296-51cc-838d-eb6da64e06d9",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "7",
+      "proof": {
+        "expression": "16-9",
+        "value": 7,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "dcfff1eb-e30e-5b44-8020-4d5fbe2d4e64",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "9",
+      "proof": {
+        "expression": "18-9",
+        "value": 9,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "a897c1b5-16c1-539e-9f3f-2c218b64196c",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "3",
+      "proof": {
+        "expression": "11-8",
+        "value": 3,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "d9f3e30d-fef3-535d-882d-be5a3d27cd33",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "5",
+      "proof": {
+        "expression": "13-8",
+        "value": 5,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "f60ef001-bc9b-5ee6-94b0-cd27fed457e1",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "6",
+      "proof": {
+        "expression": "14-8",
+        "value": 6,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "3fcb68c8-8e3a-52c6-a062-57c12661148a",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "7",
+      "proof": {
+        "expression": "15-8",
+        "value": 7,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "81e67f64-e0be-51ca-9ecc-4aafe58251fd",
+      "lessonId": "4d8ab5fa-e9e7-55da-8637-d9d11a20ab4e",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        10,
+        13
+      ],
+      "pdfPages": [
+        15,
+        18
+      ],
+      "correctAnswer": "9",
+      "proof": {
+        "expression": "17-8",
+        "value": 9,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "860e173c-68be-558d-8a9a-bad216b67ed0",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "4",
+      "proof": {
+        "expression": "11-7",
+        "value": 4,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "ccaff25c-f426-5d49-bde5-c29ef702d45d",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "5",
+      "proof": {
+        "expression": "12-7",
+        "value": 5,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "53011696-c15b-5ad3-8007-53e9ea2ee0dd",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "8",
+      "proof": {
+        "expression": "15-7",
+        "value": 8,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "e8e1876b-1445-529e-a9c4-da589bb36aae",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "5",
+      "proof": {
+        "expression": "11-6",
+        "value": 5,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "554ef58b-50a6-5b84-8808-d7a074043f11",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "8",
+      "proof": {
+        "expression": "14-6",
+        "value": 8,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "7fd077f1-e3d8-5a22-b4f1-19eb6a26ee1f",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "7",
+      "proof": {
+        "expression": "12-5",
+        "value": 7,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "1922be1e-037c-5dee-88f8-dc5f77684051",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "9",
+      "proof": {
+        "expression": "14-5",
+        "value": 9,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "fd3da016-01c1-5668-8332-3d2783d0177c",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "7",
+      "proof": {
+        "expression": "11-4",
+        "value": 7,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "7d4cedcb-5a26-510b-94ae-f7a13de5e74f",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "9",
+      "proof": {
+        "expression": "12-3",
+        "value": 9,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "c03eb4b5-3422-5916-bf36-073ae268029c",
+      "lessonId": "dfcf6783-654b-56bc-8307-6b3a1a14bbb5",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        14,
+        17
+      ],
+      "pdfPages": [
+        19,
+        22
+      ],
+      "correctAnswer": "9",
+      "proof": {
+        "expression": "11-2",
+        "value": 9,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "8908b055-c432-5d2e-a3bd-547b452cab9f",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "8朵",
+      "proof": {
+        "expression": "17-9",
+        "value": 8,
+        "suffix": "朵"
+      }
+    },
+    {
+      "questionId": "19fdd927-8937-53be-b62f-684b5c256765",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "6个",
+      "proof": {
+        "expression": "13-7",
+        "value": 6,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "b304aa30-9b58-55f1-9a61-bfdbec9bc42f",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "6张",
+      "proof": {
+        "expression": "14-8",
+        "value": 6,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "789fdce3-8f93-5d34-8c59-5af233c2a4af",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "6只",
+      "proof": {
+        "expression": "12-6",
+        "value": 6,
+        "suffix": "只"
+      }
+    },
+    {
+      "questionId": "203c2ab7-60e5-5760-be96-2d269b33fbe2",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "8本",
+      "proof": {
+        "expression": "15-7",
+        "value": 8,
+        "suffix": "本"
+      }
+    },
+    {
+      "questionId": "c5dda6d6-3627-51ad-be51-e22af2b83db1",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "8张",
+      "proof": {
+        "expression": "16-8",
+        "value": 8,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "e913666a-2d52-56ec-b5d1-fb931a621eac",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "7辆",
+      "proof": {
+        "expression": "11-4",
+        "value": 7,
+        "suffix": "辆"
+      }
+    },
+    {
+      "questionId": "64569f83-a9a6-5ee0-8f98-335b4d48ee5b",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "9朵",
+      "proof": {
+        "expression": "18-9",
+        "value": 9,
+        "suffix": "朵"
+      }
+    },
+    {
+      "questionId": "eb295ab1-b534-5bf6-835d-540a6100ccb6",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "8个",
+      "proof": {
+        "expression": "13-5",
+        "value": 8,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "b830ca53-8300-52dd-9a24-804af89f2493",
+      "lessonId": "ba011b4a-a3f8-569f-9ae5-4b7fcbb51d81",
+      "unit": "第2单元 20以内的退位减法",
+      "printedPages": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "correctAnswer": "9支",
+      "proof": {
+        "expression": "12-3",
+        "value": 9,
+        "suffix": "支"
+      }
+    },
+    {
+      "questionId": "78a2cfc8-c092-5630-abda-d20a91ff8150",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "颜色",
+      "proof": null
+    },
+    {
+      "questionId": "7005e550-1b5d-5414-a3cb-0ca016f1b159",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "形状",
+      "proof": null
+    },
+    {
+      "questionId": "1147de1a-3b07-53ea-9a64-1f07bccb2389",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "大小",
+      "proof": null
+    },
+    {
+      "questionId": "8b9045df-630e-5d1b-a15f-6c575c46efb0",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "水果种类",
+      "proof": null
+    },
+    {
+      "questionId": "5955b172-046c-513e-89f1-12fc8271dd8b",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "红圆片和红三角片",
+      "proof": null
+    },
+    {
+      "questionId": "5deb385f-5d4a-55b5-a4ad-c0db3d09abc3",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "红圆片和蓝圆片",
+      "proof": null
+    },
+    {
+      "questionId": "2ceae235-6ff7-55f5-a22c-0723ea4dff04",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "本子的用途",
+      "proof": null
+    },
+    {
+      "questionId": "bf3e50cf-ecc1-5541-aa2b-5091b2e69e01",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "不一定相同",
+      "proof": null
+    },
+    {
+      "questionId": "d3a765a0-31cc-584c-b654-de716b8d87ee",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "3组",
+      "proof": null
+    },
+    {
+      "questionId": "b0061e91-ea0b-53a2-bd0b-db7f071e7339",
+      "lessonId": "ee87b4c8-f497-55ec-bfa0-7238003c2059",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        29,
+        32
+      ],
+      "pdfPages": [
+        32,
+        33,
+        34,
+        37
+      ],
+      "correctAnswer": "每人只记录一次",
+      "proof": null
+    },
+    {
+      "questionId": "a33cb701-05e6-5c0a-acba-0ddd404a9e6b",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "6张",
+      "proof": {
+        "expression": "6",
+        "value": 6,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "004ee186-5df1-57e0-b5af-a43d616907b3",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "13张",
+      "proof": {
+        "expression": "6+4+3",
+        "value": 13,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "329183d8-e165-5e1e-8f78-cce5d8092e52",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "3张",
+      "proof": {
+        "expression": "6-3",
+        "value": 3,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "b2811c4e-af78-5578-9cb2-085aa25d9d69",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "12个",
+      "proof": {
+        "expression": "5+7",
+        "value": 12,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "eb5bef43-0ae0-56e1-ae45-c06690d611bd",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "13人",
+      "proof": {
+        "expression": "8+5",
+        "value": 13,
+        "suffix": "人"
+      }
+    },
+    {
+      "questionId": "b5e8e312-6020-513e-ab93-574bb9a4d0e0",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "3个",
+      "proof": {
+        "expression": "7-4",
+        "value": 3,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "5c501367-ec0a-5f3b-bb4a-ff7c7b9c54c5",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "红色",
+      "proof": null
+    },
+    {
+      "questionId": "0be5fb80-1ce1-5de3-9a8e-d63f696c48d6",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "梨",
+      "proof": null
+    },
+    {
+      "questionId": "0ad29920-79e1-5915-9279-dc8566f69bc3",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "积木和玩偶",
+      "proof": null
+    },
+    {
+      "questionId": "aef62293-26d7-55fc-9b17-b47e35051f5b",
+      "lessonId": "784a2537-346e-5048-b435-d65de1d73496",
+      "unit": "第3单元 分类与整理",
+      "printedPages": [
+        27,
+        28,
+        31
+      ],
+      "pdfPages": [
+        32,
+        33,
+        36
+      ],
+      "correctAnswer": "8个",
+      "proof": null
+    },
+    {
+      "questionId": "b5e28146-e3fe-57f2-9e2f-bdb4f944af39",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "26",
+      "proof": {
+        "expression": "2*10+6",
+        "value": 26,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "eb59f0f9-20fe-57b0-a393-c1793b891f3a",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "43",
+      "proof": {
+        "expression": "4*10+3",
+        "value": 43,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "5ca897cc-043e-52af-a6a6-9e2e7156574f",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "50",
+      "proof": {
+        "expression": "5*10+0",
+        "value": 50,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "d28e145c-dfa0-5c9c-9a7c-7a2d2efaa4b5",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "68",
+      "proof": {
+        "expression": "6*10+8",
+        "value": 68,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "f05c48ca-0af9-56fc-8376-5656d3d89897",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "99",
+      "proof": {
+        "expression": "9*10+9",
+        "value": 99,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "c3b9d120-cae0-539c-97c4-dd1b7462dfa1",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "7个十",
+      "proof": null
+    },
+    {
+      "questionId": "46f39070-aa9f-5c9d-994b-2d23c987c907",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "6个一",
+      "proof": null
+    },
+    {
+      "questionId": "e947b05f-1b90-5ecf-a133-a683ed1be0a2",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "85",
+      "proof": null
+    },
+    {
+      "questionId": "82e1f2d2-8031-57a6-99a3-a3baf326c5e9",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "六十",
+      "proof": null
+    },
+    {
+      "questionId": "b4978698-53cf-5559-b01a-da6bac706648",
+      "lessonId": "60fbe80e-954f-543f-89ab-d0082d450c0b",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "correctAnswer": "100根",
+      "proof": null
+    },
+    {
+      "questionId": "40aae6c4-fce7-5886-8a9a-981881d6fa10",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "40",
+      "proof": {
+        "expression": "39+(1)",
+        "value": 40,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "b7cd16e4-072b-5cab-81b5-a8cd91201db9",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "69",
+      "proof": {
+        "expression": "70+(-1)",
+        "value": 69,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "a84c0f98-2bab-5d58-bc96-2deb77534859",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "90",
+      "proof": {
+        "expression": "89+(1)",
+        "value": 90,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "61a35d73-9cbe-5605-98d4-5ab54440f0d1",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "49",
+      "proof": {
+        "expression": "50+(-1)",
+        "value": 49,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "493b0111-f455-5c6f-bf4b-7ac8cbf8a4e5",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "62大于59",
+      "proof": null
+    },
+    {
+      "questionId": "179ad79c-4d1c-556a-8004-046f62407620",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "43小于47",
+      "proof": null
+    },
+    {
+      "questionId": "301c95ba-e465-5d8a-bbfc-1728e275bb40",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "36、39、63",
+      "proof": null
+    },
+    {
+      "questionId": "234f4a8a-71e6-53f4-8e88-aee33abbcfc8",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "12",
+      "proof": null
+    },
+    {
+      "questionId": "2f1e1669-e9ed-5140-8949-8f18269b1f8a",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "57",
+      "proof": null
+    },
+    {
+      "questionId": "b61988f3-71f5-5a85-939d-dd0d8c741ea0",
+      "lessonId": "2cc368f6-2b43-5642-a5ff-99e316cd6384",
+      "unit": "第4单元 100以内数的认识",
+      "printedPages": [
+        41,
+        42,
+        51
+      ],
+      "pdfPages": [
+        46,
+        47,
+        56
+      ],
+      "correctAnswer": "36",
+      "proof": null
+    },
+    {
+      "questionId": "12a46b31-7356-5fd7-95e5-47614c04c01b",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "40角",
+      "proof": {
+        "expression": "4*10",
+        "value": 40,
+        "suffix": "角"
+      }
+    },
+    {
+      "questionId": "a87caf2c-106d-5154-827c-668004988176",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "7元",
+      "proof": {
+        "expression": "70/10",
+        "value": 7,
+        "suffix": "元"
+      }
+    },
+    {
+      "questionId": "afa21d05-693d-52cb-964e-a825e7ff8253",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "30分",
+      "proof": {
+        "expression": "3*10",
+        "value": 30,
+        "suffix": "分"
+      }
+    },
+    {
+      "questionId": "16c8c755-4e85-5a81-bba9-383e5c0122fe",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "6角",
+      "proof": {
+        "expression": "60/10",
+        "value": 6,
+        "suffix": "角"
+      }
+    },
+    {
+      "questionId": "168efe4f-dbcc-5829-94e2-5f6677f1155f",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "24角",
+      "proof": {
+        "expression": "2*10+4",
+        "value": 24,
+        "suffix": "角"
+      }
+    },
+    {
+      "questionId": "f82c1e31-6051-54f0-b4d0-179787092ae2",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "4张",
+      "proof": {
+        "expression": "20/5",
+        "value": 4,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "eb3a6f83-92d5-55d3-8936-d7a60db30437",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "5张",
+      "proof": {
+        "expression": "50/10",
+        "value": 5,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "931bb51e-751f-56b5-8dbe-cbb7b8ab3279",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "10角",
+      "proof": {
+        "expression": "5+5",
+        "value": 10,
+        "suffix": "角"
+      }
+    },
+    {
+      "questionId": "3a0a5ddd-26f9-5e48-af29-4d0f0e6a975e",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "3元7角",
+      "proof": null
+    },
+    {
+      "questionId": "d7d7f9e0-1353-552a-ab42-b4213d01f439",
+      "lessonId": "c3f7ee64-6752-5bb3-aacb-a1ce6ed43009",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        53,
+        54,
+        55,
+        57
+      ],
+      "pdfPages": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "correctAnswer": "元、角、分",
+      "proof": null
+    },
+    {
+      "questionId": "6dac9556-0339-5f3e-ba26-239130547ede",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "14角",
+      "proof": {
+        "expression": "8+6",
+        "value": 14,
+        "suffix": "角"
+      }
+    },
+    {
+      "questionId": "84f87e61-4bcc-56d4-b7bf-2d7c254d082b",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "3角",
+      "proof": {
+        "expression": "10-7",
+        "value": 3,
+        "suffix": "角"
+      }
+    },
+    {
+      "questionId": "53deeb1f-3c48-5e78-be26-a7c28ca63cbb",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "13元",
+      "proof": {
+        "expression": "4+9",
+        "value": 13,
+        "suffix": "元"
+      }
+    },
+    {
+      "questionId": "e8775e21-5a54-5864-a894-199afe3f4824",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "8元",
+      "proof": {
+        "expression": "18-10",
+        "value": 8,
+        "suffix": "元"
+      }
+    },
+    {
+      "questionId": "234f2134-50ef-5362-bc53-56681796e453",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "4元",
+      "proof": {
+        "expression": "10-6",
+        "value": 4,
+        "suffix": "元"
+      }
+    },
+    {
+      "questionId": "99c5aa23-403b-5273-8241-04cc8e2e8429",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "33角",
+      "proof": {
+        "expression": "23+10",
+        "value": 33,
+        "suffix": "角"
+      }
+    },
+    {
+      "questionId": "ca8d1ca4-74f1-5b81-9ef8-2dd7c8c6f18f",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "20元",
+      "proof": {
+        "expression": "50-30",
+        "value": 20,
+        "suffix": "元"
+      }
+    },
+    {
+      "questionId": "750042e2-59ef-5346-8751-8049c1bad9e3",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "58角",
+      "proof": {
+        "expression": "50+8",
+        "value": 58,
+        "suffix": "角"
+      }
+    },
+    {
+      "questionId": "836aa969-eed3-5368-92b6-03638cf95cf6",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "7元和8元",
+      "proof": null
+    },
+    {
+      "questionId": "6e0443cb-39a8-5653-ab14-121549c057d5",
+      "lessonId": "091ebaf3-fdb1-55fd-924e-66cf9bc5cb41",
+      "unit": "第5单元 认识人民币",
+      "printedPages": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "pdfPages": [
+        60,
+        61,
+        63,
+        64
+      ],
+      "correctAnswer": "还差2元",
+      "proof": null
+    },
+    {
+      "questionId": "98eb10e4-106c-5842-9c62-040d0cd7d07b",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "60",
+      "proof": {
+        "expression": "20+40",
+        "value": 60,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "bfbc4b44-5426-5791-b3cc-a578ad83f3ee",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "40",
+      "proof": {
+        "expression": "70-30",
+        "value": 40,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "054bd8cd-867b-5795-8f6c-5268dc8bb017",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "90",
+      "proof": {
+        "expression": "30+60",
+        "value": 90,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "effcbe38-d2cf-57b1-9a8c-ab20c709e7db",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "40",
+      "proof": {
+        "expression": "90-50",
+        "value": 40,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "811039a5-c220-5d35-8656-b3adc2b44bf3",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "80",
+      "proof": {
+        "expression": "40+40",
+        "value": 80,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "243d2c54-ef79-5df3-8f6d-93330adf9167",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "60",
+      "proof": {
+        "expression": "80-20",
+        "value": 60,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "4e504895-9b46-52ca-b31d-183315a6c2a6",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "57",
+      "proof": {
+        "expression": "50+7",
+        "value": 57,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "ab3287cc-3022-5a8e-94e7-d55432755cc6",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "60",
+      "proof": {
+        "expression": "68-8",
+        "value": 60,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "831f3cc6-65c4-5c75-9129-8d4ab9218f83",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "4",
+      "proof": {
+        "expression": "74-70",
+        "value": 4,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "7cbda9b0-e78a-538d-9bbb-3fc4c1a74ab3",
+      "lessonId": "fe5551c9-9ec9-54fe-b5d6-9b8a496b494c",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        48,
+        62,
+        63
+      ],
+      "pdfPages": [
+        53,
+        67,
+        68
+      ],
+      "correctAnswer": "36",
+      "proof": {
+        "expression": "6+30",
+        "value": 36,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "983b7ef3-e838-51e2-8e45-081f677b4fbe",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "39",
+      "proof": {
+        "expression": "34+5",
+        "value": 39,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "a5372279-f1fa-54d8-a4b1-4e325304eae0",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "72",
+      "proof": {
+        "expression": "42+30",
+        "value": 72,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "74e6be57-7cba-5041-8498-2e45d60828a4",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "69",
+      "proof": {
+        "expression": "63+6",
+        "value": 69,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "7b50a0bb-d235-56f1-b444-9bfa3bf73bf8",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "65",
+      "proof": {
+        "expression": "25+40",
+        "value": 65,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "0b7e6652-0717-52c6-9a32-52e9d1c178c7",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "83",
+      "proof": {
+        "expression": "87-4",
+        "value": 83,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "9f15dacf-c46a-5bb3-be37-db9e4040a066",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "46",
+      "proof": {
+        "expression": "76-30",
+        "value": 46,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "5f175003-be79-532a-9fb4-b038cefabb83",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "52",
+      "proof": {
+        "expression": "58-6",
+        "value": 52,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "5800cc91-c537-5ab2-ab8f-96179d8d6e6b",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "44",
+      "proof": {
+        "expression": "94-50",
+        "value": 44,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "9e7d808d-ee5d-5dda-b137-faa201f92e0a",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "59",
+      "proof": {
+        "expression": "51+8",
+        "value": 59,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "212573fe-2488-543e-bc7d-08a67b18fa0e",
+      "lessonId": "bed1a03c-012d-5dab-8f80-7fa55b2947fd",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        64,
+        69
+      ],
+      "pdfPages": [
+        69,
+        74
+      ],
+      "correctAnswer": "29",
+      "proof": {
+        "expression": "69-40",
+        "value": 29,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "94aa2b3b-b13c-5bd0-8f8c-64affef3847c",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "33",
+      "proof": {
+        "expression": "26+7",
+        "value": 33,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "c959c2ad-f1c9-5e0c-b9b6-be2ac1b1807b",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "43",
+      "proof": {
+        "expression": "38+5",
+        "value": 43,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "78c8cc49-aed5-5170-b18b-7294f51755b9",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "53",
+      "proof": {
+        "expression": "47+6",
+        "value": 53,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "a8c002b8-6221-5dcd-b927-4e1a13a7a6f4",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "63",
+      "proof": {
+        "expression": "59+4",
+        "value": 63,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "7f26b6d0-a6ba-5f75-8bc3-94b6e8ec976f",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "73",
+      "proof": {
+        "expression": "65+8",
+        "value": 73,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "6cc6ad47-e68d-54e4-8037-c82417cdfd1f",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "83",
+      "proof": {
+        "expression": "76+7",
+        "value": 83,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "a95fb2c3-7e91-52c0-bc99-0c024a66dc69",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "94",
+      "proof": {
+        "expression": "88+6",
+        "value": 94,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "3d8b03ab-1408-5a51-a4a4-350185327419",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "24",
+      "proof": {
+        "expression": "19+5",
+        "value": 24,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "89ed4cf5-47e4-525b-be67-49a7517981ea",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "63",
+      "proof": {
+        "expression": "54+9",
+        "value": 63,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "3c61b334-0356-5a6c-b30f-db09ed2c2847",
+      "lessonId": "9f096b4b-38f0-57e8-8e63-ca3334fef115",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        65,
+        66,
+        67
+      ],
+      "pdfPages": [
+        70,
+        71,
+        72
+      ],
+      "correctAnswer": "45",
+      "proof": {
+        "expression": "37+8",
+        "value": 45,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "da8efcdd-4d48-5c38-adf4-ba6da9570e52",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "25",
+      "proof": {
+        "expression": "32-7",
+        "value": 25,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "9de65547-7e63-5de1-adc1-5ac7a8855810",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "36",
+      "proof": {
+        "expression": "41-5",
+        "value": 36,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "51c0c90d-1bce-59df-9349-0dac9a9e0561",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "45",
+      "proof": {
+        "expression": "53-8",
+        "value": 45,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "5c98efd1-5fbf-57f9-af13-820b4f676620",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "55",
+      "proof": {
+        "expression": "64-9",
+        "value": 55,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "881467b9-d1a2-5387-9f2a-eba904b7b815",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "69",
+      "proof": {
+        "expression": "75-6",
+        "value": 69,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "6c57c0a2-6d51-5662-a5bb-ea4c578f6681",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "78",
+      "proof": {
+        "expression": "82-4",
+        "value": 78,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "2a5aeebd-119a-50ec-ba8c-5f599ababfb0",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "83",
+      "proof": {
+        "expression": "90-7",
+        "value": 83,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "f4b6969a-9f06-5ed7-94cb-dd572f78fc8e",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "18",
+      "proof": {
+        "expression": "23-5",
+        "value": 18,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "fbf93ae7-cb61-5b06-bb41-f48c86b59180",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "52",
+      "proof": {
+        "expression": "60-8",
+        "value": 52,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "2e4610be-ce8c-5bea-b308-49787315d641",
+      "lessonId": "9aeb65a2-35de-51dd-9dbf-bc73b3c60852",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        70,
+        71,
+        72
+      ],
+      "pdfPages": [
+        75,
+        76,
+        77
+      ],
+      "correctAnswer": "87",
+      "proof": {
+        "expression": "96-9",
+        "value": 87,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "3ae431ab-395d-5433-b536-08bbb7d931b6",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "14",
+      "proof": {
+        "expression": "12-4+6",
+        "value": 14,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "ad932118-2a34-5b8c-9ddf-b8297d9d6b74",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "6",
+      "proof": {
+        "expression": "18-7-5",
+        "value": 6,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "1f2f4b33-d5ea-59c0-8bd7-4ef2868f22b6",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "58",
+      "proof": {
+        "expression": "30+20+8",
+        "value": 58,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "4bd57889-f6d4-579d-8733-95d686e777ec",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "37",
+      "proof": {
+        "expression": "64-20-7",
+        "value": 37,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "bfa6f863-162e-5d33-8b94-5ddd5e5b1170",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "43",
+      "proof": {
+        "expression": "27+6+10",
+        "value": 43,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "9084213d-bc52-50ae-aca9-72f7c7fdcb6b",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "40",
+      "proof": {
+        "expression": "50-(6+4)",
+        "value": 40,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "466072da-0735-57ad-95aa-aeb20537de89",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "40",
+      "proof": {
+        "expression": "43-(13-10)",
+        "value": 40,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "581c5d5b-18e3-5b7f-b668-355ff273153c",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "12",
+      "proof": {
+        "expression": "16-(9-5)",
+        "value": 12,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "3556f9fd-6113-5a93-8a45-c8305c357c38",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "23",
+      "proof": {
+        "expression": "21+8-6",
+        "value": 23,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "5e01811f-a3e1-5601-95b4-1cd478eab43c",
+      "lessonId": "f926f6df-0589-54fe-93f5-a2fc75c30931",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        73,
+        74,
+        79
+      ],
+      "pdfPages": [
+        78,
+        79,
+        84
+      ],
+      "correctAnswer": "20",
+      "proof": {
+        "expression": "70-(20+30)",
+        "value": 20,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "3de183c5-683b-5856-94f2-e5a3098bb4de",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "44本",
+      "proof": {
+        "expression": "36+8",
+        "value": 44,
+        "suffix": "本"
+      }
+    },
+    {
+      "questionId": "89b27e41-5212-55e7-81f6-52405451429b",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "35把",
+      "proof": {
+        "expression": "42-7",
+        "value": 35,
+        "suffix": "把"
+      }
+    },
+    {
+      "questionId": "8be808f3-3726-5902-b08a-1b906d991bea",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "54辆",
+      "proof": {
+        "expression": "24+30",
+        "value": 54,
+        "suffix": "辆"
+      }
+    },
+    {
+      "questionId": "d38cc73c-900e-55a7-b580-173a31f32ae7",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "7页",
+      "proof": {
+        "expression": "57-50",
+        "value": 7,
+        "suffix": "页"
+      }
+    },
+    {
+      "questionId": "d4b676d0-8a23-5a8d-b0c7-dda11648f4be",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "31人",
+      "proof": {
+        "expression": "35-8+4",
+        "value": 31,
+        "suffix": "人"
+      }
+    },
+    {
+      "questionId": "9d94e8bf-c341-5a7a-8469-f7f76f9574bf",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "22张",
+      "proof": {
+        "expression": "48-20-6",
+        "value": 22,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "8f4aba7b-e0fe-5cac-8281-522a2628f0ce",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "21面",
+      "proof": {
+        "expression": "60-30-9",
+        "value": 21,
+        "suffix": "面"
+      }
+    },
+    {
+      "questionId": "d1b205a5-d76a-59a6-b4d1-9503010ead5c",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "33朵",
+      "proof": {
+        "expression": "27+6",
+        "value": 33,
+        "suffix": "朵"
+      }
+    },
+    {
+      "questionId": "1480cbf7-3451-5f5c-9c7d-1e2bed3ee86b",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "81本",
+      "proof": {
+        "expression": "86-5",
+        "value": 81,
+        "suffix": "本"
+      }
+    },
+    {
+      "questionId": "ffbb6580-51a8-5e96-8af3-3a44a7869b0b",
+      "lessonId": "374f6810-f219-504a-a336-ac303c76fafb",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        67,
+        78,
+        80,
+        81,
+        82
+      ],
+      "pdfPages": [
+        72,
+        83,
+        85,
+        86,
+        87
+      ],
+      "correctAnswer": "32张",
+      "proof": {
+        "expression": "29+7-4",
+        "value": 32,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "9f1b569b-fa4e-537e-a607-f897523f3750",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "21个",
+      "proof": {
+        "expression": "7+7+7",
+        "value": 21,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "3d63b01e-1237-5d88-b288-02880a0ee182",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "20个",
+      "proof": {
+        "expression": "5+5+5+5",
+        "value": 20,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "d8f6e7ea-4cc1-5b6a-b3da-420016282346",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "24个",
+      "proof": {
+        "expression": "8+8+8",
+        "value": 24,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "3c881df8-8d9c-5a25-8ab0-9559058a1ee1",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "60个",
+      "proof": {
+        "expression": "20+20+20",
+        "value": 60,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "556e7a95-eb09-528d-8eff-e10b0b5a68ef",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "24个",
+      "proof": {
+        "expression": "6+6+6+6",
+        "value": 24,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "fb44f613-2d70-55ac-8457-3dfff7635f11",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "3袋",
+      "proof": {
+        "groupsTotal": 25,
+        "groupSize": 8,
+        "value": 3,
+        "suffix": "袋"
+      }
+    },
+    {
+      "questionId": "54896a16-42a8-534f-b6e4-075651f10ecc",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "3袋",
+      "proof": {
+        "groupsTotal": 22,
+        "groupSize": 6,
+        "value": 3,
+        "suffix": "袋"
+      }
+    },
+    {
+      "questionId": "a79179a3-2925-54d2-ac48-56b8d3b7d0a5",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "3袋",
+      "proof": {
+        "groupsTotal": 30,
+        "groupSize": 9,
+        "value": 3,
+        "suffix": "袋"
+      }
+    },
+    {
+      "questionId": "91367871-0c21-554a-9e2e-8f466fda4b0d",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "3袋",
+      "proof": {
+        "groupsTotal": 18,
+        "groupSize": 5,
+        "value": 3,
+        "suffix": "袋"
+      }
+    },
+    {
+      "questionId": "7ee852b9-9ab2-5c82-89d3-8b6bbe5e7f11",
+      "lessonId": "35eb191e-c264-56e0-9395-707b95827513",
+      "unit": "第6单元 100以内的加法和减法（一）",
+      "printedPages": [
+        75,
+        76,
+        77,
+        82
+      ],
+      "pdfPages": [
+        80,
+        81,
+        82,
+        87
+      ],
+      "correctAnswer": "3袋",
+      "proof": {
+        "groupsTotal": 32,
+        "groupSize": 10,
+        "value": 3,
+        "suffix": "袋"
+      }
+    },
+    {
+      "questionId": "8b528afe-bda0-5671-b5c3-a43659c52a19",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "14",
+      "proof": {
+        "expression": "11+(3)",
+        "value": 14,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "1a36ea2a-a8c5-5b52-846f-298e862a1a64",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "25",
+      "proof": {
+        "expression": "20+(5)",
+        "value": 25,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "0cb82c79-e7a5-503b-a2f6-90dd91455190",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "17",
+      "proof": {
+        "expression": "13+(4)",
+        "value": 17,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "ac8235df-08d2-52a4-90fc-84c642f54603",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "15",
+      "proof": {
+        "expression": "13+(2)",
+        "value": 15,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "f48668cc-a02a-5532-bbbf-c9e567665220",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "50",
+      "proof": {
+        "expression": "40+(10)",
+        "value": 50,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "9104942d-09b7-5961-a76d-8fe468bf12c1",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "10",
+      "proof": {
+        "expression": "15+(-5)",
+        "value": 10,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "a70cc445-bf80-5f43-aa2b-893b6341addc",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "12",
+      "proof": {
+        "expression": "16+(-4)",
+        "value": 12,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "984df083-e1a9-52bc-a8b4-5484946a2a8b",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "8",
+      "proof": {
+        "expression": "18+(-10)",
+        "value": 8,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "446efd68-7e13-59fc-84d5-89c614b7985f",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "7",
+      "proof": {
+        "expression": "10+(-3)",
+        "value": 7,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "e3d25beb-ebfe-522e-9cc1-42f288715474",
+      "lessonId": "ed83adea-c973-5f60-9fb6-06597e066221",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        85,
+        87,
+        88
+      ],
+      "pdfPages": [
+        90,
+        92,
+        93
+      ],
+      "correctAnswer": "16",
+      "proof": {
+        "expression": "22+(-6)",
+        "value": 16,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "ff516d57-fd16-5444-8e97-cc887482587f",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "红",
+      "proof": {
+        "cycle": [
+          "红",
+          "蓝"
+        ],
+        "index": 7
+      }
+    },
+    {
+      "questionId": "45e62f1b-5ba6-5d57-a931-adcfeffa0a5b",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "三角形",
+      "proof": {
+        "cycle": [
+          "圆",
+          "三角形"
+        ],
+        "index": 8
+      }
+    },
+    {
+      "questionId": "5a18b684-65ec-5650-8616-3e6668e87b8c",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "拍手",
+      "proof": {
+        "cycle": [
+          "拍手",
+          "跺脚"
+        ],
+        "index": 5
+      }
+    },
+    {
+      "questionId": "f4961a4c-9f69-5500-9692-14c54e2a420e",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "红",
+      "proof": {
+        "cycle": [
+          "红",
+          "红",
+          "蓝"
+        ],
+        "index": 8
+      }
+    },
+    {
+      "questionId": "be4dc4a7-290c-5556-b128-8748e6631c14",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "黄",
+      "proof": {
+        "cycle": [
+          "黄",
+          "蓝",
+          "绿"
+        ],
+        "index": 10
+      }
+    },
+    {
+      "questionId": "8fedc686-3522-5c57-bbfd-cb7bb15033cd",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "大",
+      "proof": {
+        "cycle": [
+          "小",
+          "大",
+          "大"
+        ],
+        "index": 9
+      }
+    },
+    {
+      "questionId": "332740b2-aa20-5ddd-abf7-977036ade85d",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "1",
+      "proof": {
+        "cycle": [
+          "1",
+          "3"
+        ],
+        "index": 7
+      }
+    },
+    {
+      "questionId": "9ef1d69c-a435-5f80-92a8-7eb69b8d3e75",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "5",
+      "proof": {
+        "cycle": [
+          "2",
+          "2",
+          "5"
+        ],
+        "index": 6
+      }
+    },
+    {
+      "questionId": "c7abedd0-08ed-5424-8bd6-b53bd3d58e4b",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "花",
+      "proof": {
+        "cycle": [
+          "花",
+          "叶",
+          "叶"
+        ],
+        "index": 7
+      }
+    },
+    {
+      "questionId": "127089e6-d325-56d6-a111-771282350e85",
+      "lessonId": "888343a2-50bd-5657-8c87-55baf8a6e774",
+      "unit": "第7单元 找规律",
+      "printedPages": [
+        83,
+        84,
+        86,
+        89
+      ],
+      "pdfPages": [
+        88,
+        89,
+        91,
+        94
+      ],
+      "correctAnswer": "右",
+      "proof": {
+        "cycle": [
+          "左",
+          "右",
+          "右"
+        ],
+        "index": 11
+      }
+    },
+    {
+      "questionId": "2004adf7-4ed9-56f8-98f9-8f8181eadad9",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "46张",
+      "proof": {
+        "expression": "54-8",
+        "value": 46,
+        "suffix": "张"
+      }
+    },
+    {
+      "questionId": "d5f8725d-2dd1-5932-bc95-0eda7e10616e",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "40角",
+      "proof": {
+        "expression": "36+4",
+        "value": 40,
+        "suffix": "角"
+      }
+    },
+    {
+      "questionId": "b549a901-22fd-5933-a172-f7f158a45c08",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "84",
+      "proof": {
+        "expression": "8*10+4",
+        "value": 84,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "4a7988c7-db2e-5d67-9aad-aeb0337f8685",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "7",
+      "proof": {
+        "expression": "18-(6+5)",
+        "value": 7,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "66b2f30d-165b-5615-9df1-7aaa3869ae4f",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "35",
+      "proof": {
+        "expression": "30+5",
+        "value": 35,
+        "suffix": ""
+      }
+    },
+    {
+      "questionId": "5c51a3de-e6f4-5ab9-a95c-c16c04e4b199",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "67个",
+      "proof": {
+        "expression": "40+27",
+        "value": 67,
+        "suffix": "个"
+      }
+    },
+    {
+      "questionId": "760e9536-f337-51ce-8def-44e5b9a43c1f",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "3袋",
+      "proof": {
+        "groupsTotal": 20,
+        "groupSize": 6,
+        "value": 3,
+        "suffix": "袋"
+      }
+    },
+    {
+      "questionId": "45f6156a-1380-5fe2-981d-819a5a1e7a46",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "形状",
+      "proof": null
+    },
+    {
+      "questionId": "d137db3e-394b-5ab4-9969-02a418d25331",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "69",
+      "proof": null
+    },
+    {
+      "questionId": "a41be314-86a7-59bb-a569-f4d23e1825ba",
+      "lessonId": "1fd21d95-faaf-5c40-896d-28cb4f038ea9",
+      "unit": "第8单元 总复习",
+      "printedPages": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pdfPages": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "correctAnswer": "3条",
+      "proof": null
+    }
+  ]
+}

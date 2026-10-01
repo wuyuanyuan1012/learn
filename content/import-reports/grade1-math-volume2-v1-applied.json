@@ -1,0 +1,27 @@
+{
+  "batch": "grade1-math-volume2-v1",
+  "mode": "applied",
+  "checkedAt": "2026-09-30T15:43:23.682Z",
+  "sha256": "af2e7439d17682346a9780842c97a79841b9286025b91712d1658402e8dd2626",
+  "before": {
+    "lessons": 172,
+    "questions": 1720
+  },
+  "batchTotal": {
+    "lessons": 20,
+    "questions": 200
+  },
+  "pending": {
+    "lessons": 20,
+    "questions": 200
+  },
+  "inserted": {
+    "lessons": 20,
+    "questions": 200
+  },
+  "after": {
+    "lessons": 192,
+    "questions": 1920
+  },
+  "existingDataPreserved": true
+}

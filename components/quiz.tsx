@@ -2,9 +2,12 @@
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import { grades, subjects, type Lesson, type LearningRecord } from '@/lib/types';
-import { lessonVersion, readSession, saveRecord, sessionKey, type Session } from '@/lib/progress';
+import { lessonVersion, readSession, saveRecord, sessionKey, saveSession, type Session } from '@/lib/progress';
 import { Icon } from './icon';
+import { removeStorage, CLOUD_UPDATED_EVENT } from '@/lib/members/storage';
+import { useMember } from './members/member-provider';
 export function Quiz({ lesson, preview = false }: { lesson: Lesson; preview?: boolean }) {
+  const member=useMember();
   const [ready, setReady] = useState(false);
   const [session, setSession] = useState<Session | null>(null);
   const [selected, setSelected] = useState<number | null>(null);
@@ -24,17 +27,26 @@ export function Quiz({ lesson, preview = false }: { lesson: Lesson; preview?: bo
   const submitted = !!session && session.answers.length > index;
   useEffect(() => {
     const restored = preview ? null : readSession(lesson);
-    const s = restored ?? { id: crypto.randomUUID(), version: lessonVersion(lesson), index: 0, answers: [], seconds: 0 };
+    const s = restored ?? { id: crypto.randomUUID(), version: lessonVersion(lesson), index: 0, answers: [], seconds: 0, startedAt: Date.now() };
     setSession(s); setSelected(s.answers[s.index] ?? null); setReady(true); clock.current = Date.now();
     return () => { if ('speechSynthesis' in window) window.speechSynthesis.cancel(); };
   }, [lesson, preview]);
+  useEffect(() => {
+    if (!member || preview || reviewIds || result) return;
+    function syncSession() {
+      const remote=readSession(lesson);
+      if(remote && session && remote.id===session.id && (remote.answers.length>session.answers.length || remote.index>session.index)){
+        setSession(remote);setSelected(remote.answers[remote.index]??null);setHint(false);clock.current=Date.now();
+      }
+    }
+    window.addEventListener(CLOUD_UPDATED_EVENT,syncSession);return ()=>window.removeEventListener(CLOUD_UPDATED_EVENT,syncSession);
+  },[member,preview,reviewIds,result,lesson,session]);
   useEffect(() => { if (leave) dialog.current?.showModal(); else dialog.current?.close(); }, [leave]);
   useEffect(() => { if (ready) heading.current?.focus(); }, [index, ready, result, reviewDone]);
   function persist(s: Session) {
     setSession(s);
     if (preview || reviewIds) return;
-    try { localStorage.setItem(sessionKey(lesson.id), JSON.stringify(s)); }
-    catch { setStorageWarning('当前浏览器无法保存进度，你仍然可以继续练习。'); }
+    if (!saveSession(lesson.id,s)) setStorageWarning('浏览器存储不可用，请保持页面打开直到云端同步完成。');
   }
   function elapsed() { return Math.min(86400, (session?.seconds ?? 0) + Math.round((Date.now() - clock.current) / 1000)); }
   function confirm() {
@@ -54,7 +66,7 @@ export function Quiz({ lesson, preview = false }: { lesson: Lesson; preview?: bo
     const record: LearningRecord = { id: session.id, lessonId: lesson.id, title: lesson.title, subject: lesson.subject, grade: lesson.grade, correct: questions.length - wrongIds.length, total: questions.length, seconds: elapsed(), completedAt: new Date().toISOString(), wrongIds };
     if (!preview) {
       if (!saveRecord(record)) setStorageWarning('本次已完成，但浏览器未能保存学习记录。');
-      try { localStorage.removeItem(sessionKey(lesson.id)); } catch { /* warning already shown */ }
+      try { removeStorage(sessionKey(lesson.id)); } catch { /* warning already shown */ }
     }
     setResult(record);
   }
@@ -65,9 +77,9 @@ export function Quiz({ lesson, preview = false }: { lesson: Lesson; preview?: bo
   }
   function restart() {
     setReviewIds(null); setReviewDone(false); setResult(null); setSelected(null); setHint(false);
-    const s = { id: crypto.randomUUID(), version: lessonVersion(lesson), index: 0, answers: [], seconds: 0 };
+    const s = { id: crypto.randomUUID(), version: lessonVersion(lesson), index: 0, answers: [], seconds: 0, startedAt: Date.now() };
     setSession(s); clock.current = Date.now();
-    if (!preview) { try { localStorage.setItem(sessionKey(lesson.id), JSON.stringify(s)); } catch { /* optional */ } }
+    if (!preview) saveSession(lesson.id,s);
   }
   function speak() {
     if (!('speechSynthesis' in window)) { setSpeechMessage('这个浏览器暂不支持朗读，可以直接阅读题目。'); return; }
@@ -83,7 +95,7 @@ export function Quiz({ lesson, preview = false }: { lesson: Lesson; preview?: bo
     <section className="panel result-topic"><h2><Icon name="book" />今天练习了</h2><p>{lesson.topic}</p><span className="muted small">{lesson.title} · {grades[lesson.grade - 1]}{subjects[lesson.subject]}</span></section>
     {!!result.wrongIds.length && !reviewDone && <button className="review-card" onClick={startReview}><span><strong>再想一想，会更有收获</strong><small>{result.wrongIds.length} 道题值得再练一次</small></span><Icon name="arrow" /></button>}
     {storageWarning && <p className="notice" role="status">{storageWarning}</p>}{preview && <p className="notice">预览模式，不计入学习记录。</p>}
-    <div className="result-actions"><button className="button full-width" onClick={restart}>再练一次<Icon name="arrow" size={18} /></button>{!preview && <Link className="button secondary full-width" href="/">回到学习首页</Link>}</div></main>;
+    <div className="result-actions"><button className="button full-width" onClick={restart}>再练一次<Icon name="arrow" size={18} /></button>{!preview && <Link className="button secondary full-width" href="/">回到今日挑战</Link>}</div></main>;
   return <main className={`quiz-shell ${preview ? 'preview-shell' : ''}`}>
     <header className="quiz-header">{preview ? <span className="pill">关卡预览</span> : <button className="icon-button" aria-label="离开练习" onClick={() => setLeave(true)}><Icon name="left" /></button>}<span>{reviewIds ? '再练一下' : lesson.title}</span><button className="icon-button" aria-label="朗读题目" onClick={speak}><Icon name="sound" /></button></header>
     <div className="quiz-progress"><div className="progress-track" role="progressbar" aria-label="答题进度" aria-valuemin={0} aria-valuemax={questions.length} aria-valuenow={index + (submitted ? 1 : 0)}><span style={{ width: `${(index + (submitted ? 1 : 0)) / questions.length * 100}%` }} /></div><span>第 {index + 1} / {questions.length} 题</span></div>
@@ -94,6 +106,6 @@ export function Quiz({ lesson, preview = false }: { lesson: Lesson; preview?: bo
     {submitted && <section className={`feedback ${selected === q.answer ? 'success' : 'retry'}`} role="status"><h2>{selected === q.answer ? '答对啦，想得很棒！' : '没关系，我们一起想一想'}</h2><p>{q.explanation}</p>{selected !== q.answer && <p className="correct-answer">正确答案：{q.options[q.answer]}</p>}</section>}
     {speechMessage && <p className="notice compact" role="status">{speechMessage}</p>}{storageWarning && <p className="notice compact" role="status">{storageWarning}</p>}
     <button className="button full-width quiz-submit" disabled={!submitted && selected === null} onClick={submitted ? advance : confirm}>{submitted ? index === questions.length - 1 ? '看看学习成果' : '下一题' : '确认答案'}<Icon name="arrow" size={18} /></button><p className="quiz-foot">{preview ? '这是管理员预览，不保存学习记录' : '不比速度，认真思考就很棒'}</p>
-    <dialog ref={dialog} onCancel={() => setLeave(false)} onClose={() => setLeave(false)} className="confirm-dialog"><h2>先休息一下？</h2><p>已确认的答案会保存在当前浏览器，下次可以继续。</p><div className="confirm-actions"><button className="button secondary" onClick={() => setLeave(false)}>继续练习</button><Link className="button" href="/">返回首页</Link></div></dialog>
+    <dialog ref={dialog} onCancel={() => setLeave(false)} onClose={() => setLeave(false)} className="confirm-dialog"><h2>先休息一下？</h2><p>已确认的答案会自动同步到会员账号，下次可以在任一设备继续。</p><div className="confirm-actions"><button className="button secondary" onClick={() => setLeave(false)}>继续练习</button><Link className="button" href="/">返回首页</Link></div></dialog>
   </main>;
 }

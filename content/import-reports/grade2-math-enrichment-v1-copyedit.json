@@ -1,0 +1,13 @@
+{
+  "batch": "grade2-math-enrichment-v1",
+  "correctedAt": "2026-09-30T15:16:32.659Z",
+  "lessonIds": [
+    "212b1d4c-4c64-57b2-8dc7-ba3430ccf43a",
+    "30731ccc-0cd3-5783-aaf3-8cbd4448c1ea"
+  ],
+  "changes": [
+    "原文第1196行：隔个戴一个→隔一个戴一个",
+    "原文第2250行：少买3多→少买3朵"
+  ],
+  "answersUnchanged": true
+}

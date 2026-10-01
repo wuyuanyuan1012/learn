@@ -1,0 +1,27 @@
+{
+  "batch": "tongbian-primary-chinese-v1",
+  "mode": "check-only",
+  "checkedAt": "2026-09-30T17:03:46.316Z",
+  "sha256": "e8b4017dd4e14b4d8dfaf945c809604fe0775062fd070da1ce4a39b1a177bbac",
+  "before": {
+    "lessons": 390,
+    "questions": 3900
+  },
+  "batchTotal": {
+    "lessons": 134,
+    "questions": 1340
+  },
+  "pending": {
+    "lessons": 0,
+    "questions": 0
+  },
+  "inserted": {
+    "lessons": 0,
+    "questions": 0
+  },
+  "after": {
+    "lessons": 390,
+    "questions": 3900
+  },
+  "existingDataPreserved": true
+}

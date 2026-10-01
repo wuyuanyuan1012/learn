@@ -21,3 +21,73 @@
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 /* On phones, give each knowledge point a full readable row. */
 @media(max-width:560px){.lesson-grid{grid-template-columns:1fr;gap:12px}.lesson-card{display:grid;grid-template-columns:38px minmax(0,1fr);column-gap:15px;padding:20px 18px 16px}.lesson-card-top{align-items:flex-start;margin:4px 0 0}.lesson-number{display:none}.lesson-copy h3{font-size:17px;margin-bottom:7px;line-height:1.6}.lesson-copy p{font-size:13px;line-height:1.85;min-height:0}.subject-name{font-size:10px;margin-bottom:5px}.lesson-card-bottom{grid-column:2;margin-top:12px;padding:12px 0 0;font-size:10px}.completed-label{font-size:10px}.daily-card>p{font-size:13px}.lesson-section>.section-heading>.small{font-size:11px}.subject-tabs button{font-size:13px}.header-link{font-size:11px}}
+
+/* Subject categories stay compact and wrap within narrow phone screens. */
+.category-filters{display:flex;flex-wrap:wrap;gap:8px;margin:-3px 0 22px}
+.category-filters button{display:inline-flex;align-items:center;gap:7px;min-height:44px;padding:8px 13px;border:1px solid var(--line);border-radius:9px;background:white;color:var(--muted);font-size:12px;cursor:pointer}
+.category-filters button.selected{color:var(--green);background:#eff6ed;border-color:#b9ceb4;font-weight:600}
+.category-count{font-size:10px;opacity:.7}
+.lesson-tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:11px}
+.lesson-tags>span{padding:3px 7px;border-radius:5px;background:#f2f5f0;color:#75816f;font-size:10px;overflow-wrap:anywhere}
+.field-help{display:block;margin-top:7px;color:var(--muted);font-size:11px;line-height:1.7}
+.admin-filters{flex-wrap:wrap}.admin-filters select{max-width:180px}
+@media(max-width:560px){.category-filters{gap:7px;margin-bottom:19px}.category-filters button{font-size:12px;padding:8px 11px}.admin-filters select{flex:1 1 calc(50% - 8px);max-width:none}.lesson-tags>span{font-size:10px}}
+
+.daily-card>p.recommendation-reason{display:flex;align-items:center;gap:7px;margin-top:12px;font-size:12px;color:var(--green)}
+.daily-summary{padding:22px;margin-bottom:24px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}.daily-summary h2{font-size:17px;margin-bottom:8px}.daily-summary p{font-size:13px;color:var(--muted)}.daily-summary .text-link{font-size:13px;min-height:44px}
+
+.daily-challenge-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.daily-challenge-grid .daily-card{margin:0;padding:22px;display:flex;flex-direction:column}.subject-challenge .daily-top{gap:10px;margin-bottom:18px}.challenge-subject{display:flex;flex-direction:column;gap:5px;flex:1;font-weight:600;font-size:16px}.challenge-subject .small{font-size:10px;font-weight:400}.subject-challenge h2{font-size:21px;line-height:1.5}.subject-challenge .daily-bottom{margin-top:auto;padding-top:22px;flex-wrap:wrap}.subject-challenge .meta{gap:12px;flex-direction:row;flex-wrap:wrap;font-size:11px}.subject-challenge .daily-bottom .button{min-width:0;min-height:44px;padding:10px 14px;font-size:12px}.subject-challenge.challenge-done{background:#f5f8f4}.challenge-done .pill{color:var(--green);background:#e2efe5}
+@media(min-width:761px) and (max-width:1150px){.daily-challenge-grid{grid-template-columns:1fr}}
+@media(max-width:560px){.daily-challenge-grid{grid-template-columns:1fr;gap:16px}.daily-challenge-grid .daily-card{padding:20px}.subject-challenge h2{font-size:22px}.subject-challenge .daily-bottom{align-items:center}}
+
+.member-bar{display:flex;align-items:center;justify-content:space-between;gap:14px;padding-top:12px;padding-bottom:12px;font-size:12px}.member-bar>span{display:flex;gap:14px;flex-wrap:wrap}.member-bar [role=status]{color:var(--muted)}.member-bar .text-button{white-space:nowrap;min-height:36px}.member-login-note{font-size:12px;color:var(--muted);line-height:1.9;margin:22px 0}.member-editor,.member-list{padding:26px;margin-bottom:24px}.member-editor h2{margin-bottom:20px}.member-checkbox{display:flex;gap:10px;align-items:center;margin:16px 0;font-size:14px;min-height:36px}.member-checkbox input{width:18px;height:18px;accent-color:var(--green)}.member-form-actions{display:flex;gap:12px;margin-top:20px}.member-row{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:20px 0;border-bottom:1px solid var(--line)}.member-row p{font-size:12px;color:var(--muted);margin-top:8px}.issued-password{display:block;font-size:25px;letter-spacing:3px;margin-top:12px;user-select:all}.member-admin-entry{margin-bottom:24px}.member-editor .notice{margin-top:20px}@media(max-width:560px){.member-editor,.member-list{padding:20px 16px}.member-bar{font-size:11px}.member-bar>span{gap:4px;flex-direction:column}.member-row .button{font-size:11px}.member-row>div{min-width:0;overflow-wrap:anywhere}}
+
+/* Shared administration shell. */
+.admin-shell{display:grid;grid-template-columns:232px minmax(0,1fr);min-height:100dvh}
+.admin-sidebar{position:sticky;top:0;height:100dvh;display:flex;flex-direction:column;padding:30px 20px 24px;background:#fff;border-right:1px solid var(--line)}
+.admin-brand{padding:0 7px;gap:10px;font-size:20px;letter-spacing:0}
+.admin-brand small{display:block;margin-top:5px;font-size:11px;font-weight:400;color:var(--muted)}
+.admin-nav-label{font-size:11px;color:var(--muted);margin:46px 14px 14px}
+.admin-module-nav{display:flex;flex-direction:column;gap:8px}
+.admin-module-nav a{display:flex;align-items:center;gap:12px;min-height:50px;padding:12px 14px;border-radius:10px;font-size:14px;color:var(--muted)}
+.admin-module-nav a>span{flex:1}
+.admin-module-nav a>svg:last-child{opacity:0}
+.admin-module-nav a:hover{background:var(--bg);color:var(--ink)}
+.admin-module-nav a[aria-current=page]{background:var(--soft);color:var(--green-dark);font-weight:600}
+.admin-module-nav a[aria-current=page]>svg:last-child{opacity:1}
+.admin-sidebar-note{margin-top:auto;padding:24px 7px 0;font-size:11px;line-height:1.8;color:var(--muted)}
+.admin-workspace{min-width:0}
+.admin-workspace-header{min-height:82px;padding:18px 36px;display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px solid var(--line);background:#fff}
+.admin-breadcrumb{display:flex;align-items:center;gap:12px;font-size:12px;color:var(--muted)}
+.admin-breadcrumb strong{font-weight:500;color:var(--ink)}
+.admin-header-actions{display:flex;align-items:center;gap:24px}
+.admin-header-actions .text-button,.admin-header-actions .text-link{font-size:12px}
+.admin-workspace-main{width:100%;max-width:1440px;margin:0 auto;padding:36px}
+.admin-workspace-main .admin-filters .search-box{flex-basis:240px}
+@media(min-width:761px) and (max-width:1150px){
+  .admin-shell{grid-template-columns:200px minmax(0,1fr)}
+  .admin-sidebar{padding-left:14px;padding-right:14px}
+  .admin-brand{font-size:18px}
+  .admin-workspace-main,.admin-workspace-header{padding-left:24px;padding-right:24px}
+  .admin-workspace-main .admin-stats{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .admin-workspace-main .editor-layout{display:flex;flex-direction:column}
+  .admin-workspace-main .editor-aside{position:static;width:100%}
+}
+@media(max-width:760px){
+  .admin-shell{display:block}
+  .admin-sidebar{position:static;height:auto;padding:20px 20px 14px;border-right:0;border-bottom:1px solid var(--line)}
+  .admin-brand{width:max-content;padding:0;font-size:19px}
+  .admin-brand>span:last-child{display:flex;align-items:center;gap:12px}
+  .admin-brand small{margin:0;padding-left:12px;border-left:1px solid var(--line)}
+  .admin-nav-label,.admin-sidebar-note{display:none}
+  .admin-module-nav{flex-direction:row;gap:10px;margin-top:20px}
+  .admin-module-nav a{flex:1;justify-content:center;min-height:46px;font-size:13px;padding:10px;gap:9px}
+  .admin-module-nav a>span{flex:initial}
+  .admin-module-nav a>svg:last-child{display:none}
+  .admin-workspace-header{min-height:60px;padding:8px 20px}
+  .admin-breadcrumb{font-size:11px;gap:6px}
+  .admin-breadcrumb>span,.admin-breadcrumb>svg{display:none}
+  .admin-header-actions{gap:18px}
+  .admin-header-actions .text-button,.admin-header-actions .text-link{font-size:11px}
+  .admin-workspace-main{padding:25px 20px 30px}
+}

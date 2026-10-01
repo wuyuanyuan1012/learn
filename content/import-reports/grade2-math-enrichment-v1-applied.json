@@ -1,0 +1,27 @@
+{
+  "batch": "grade2-math-enrichment-v1",
+  "mode": "applied",
+  "checkedAt": "2026-09-30T15:14:44.199Z",
+  "sha256": "49b7255a58adfd630ea7c1b854f53a07a386ced0027123d21a064c821b8a7a06",
+  "before": {
+    "lessons": 121,
+    "questions": 1210
+  },
+  "batchTotal": {
+    "lessons": 36,
+    "questions": 360
+  },
+  "pending": {
+    "lessons": 36,
+    "questions": 360
+  },
+  "inserted": {
+    "lessons": 36,
+    "questions": 360
+  },
+  "after": {
+    "lessons": 157,
+    "questions": 1570
+  },
+  "existingDataPreserved": true
+}

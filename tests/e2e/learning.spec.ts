@@ -1,7 +1,8 @@
-import { test, expect } from '@playwright/test';
+import { test, expect } from './member-fixture';
 import { readFileSync, existsSync } from 'node:fs';
 import { loadEnvConfig } from '@next/env';
 import { createClient } from '@supabase/supabase-js';
+import { expandedSeedLessons } from '../../content/ten-question-lessons';
 
 let createdTitle: string | undefined;
 function adminCredentials() {
@@ -20,22 +21,25 @@ test.afterEach(async () => {
   if (cleanup.error) throw new Error('Could not clean up the temporary test lesson.');
 });
 
-test('mobile learning: filters, hints, resume, feedback, wrong-answer review and records', async ({ page }) => {
+test('mobile learning: filters, hints, resume, feedback, wrong-answer review and records', async ({ page, member }) => {
   const errors: string[]=[];page.on('pageerror',e=>errors.push(e.message));
   await page.goto('/');
-  await expect(page.getByRole('heading',{name:'今天想学点什么？'})).toBeVisible();
+  await expect(page.getByRole('heading',{name:'今日挑战',level:1})).toBeVisible();
   expect(await page.evaluate(()=>document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
   await page.screenshot({path:'test-results/learning-mobile-home.png',fullPage:true});
   await page.setViewportSize({width:1440,height:1000});
   await page.screenshot({path:'test-results/learning-desktop-home.png',fullPage:true});
   await page.setViewportSize({width:390,height:844});
-  await page.getByLabel('学习年级').selectOption('6');
-  await expect(page.getByRole('heading',{name:'新知识正在准备中'})).toBeVisible();
+  await expect(page.getByRole('group',{name:'学科筛选'})).toHaveCount(0);
+  await page.getByRole('navigation',{name:'主导航'}).filter({visible:true}).getByRole('link',{name:'全部练习',exact:true}).click();
+  await expect(page).toHaveURL(/\/practice$/);
+  await page.getByLabel('学习年级').selectOption('1');
+  await expect(page.getByRole('heading',{name:'十以内的数字派对',level:3})).toBeVisible();
   await page.getByLabel('学习年级').selectOption('2');
   await page.getByRole('button',{name:'语文',exact:true}).click();
-  await expect(page.getByRole('heading',{name:'汉字找朋友'})).toBeVisible();
-  await expect(page.getByRole('heading',{name:'乘法有妙招'})).toHaveCount(0);
-  await page.getByRole('link',{name:'开始挑战'}).click();
+  await expect(page.getByRole('heading',{name:'汉字找朋友',level:3})).toBeVisible();
+  await expect(page.getByRole('heading',{name:'乘法有妙招',level:3})).toHaveCount(0);
+  await page.goto(`/learn/${expandedSeedLessons[0].id}`);
   await expect(page.getByRole('heading',{name:'苹果3元，牛奶5元，一共多少钱？'})).toBeVisible();
   await expect(page.getByRole('button',{name:'确认答案'})).toBeDisabled();
   await page.getByRole('button',{name:'给我一点提示'}).click();
@@ -46,15 +50,17 @@ test('mobile learning: filters, hints, resume, feedback, wrong-answer review and
   await page.getByRole('button',{name:'下一题'}).click();
   await page.screenshot({path:'test-results/learning-mobile-quiz.png',fullPage:true});
   await page.reload();
-  await expect(page.getByText('第 2 / 5 题')).toBeVisible();
-  for (const [choice,last] of [['B 4元',false],['B 6元',false],['C 5元',false],['B 3元',true]] as const) {
+  await expect(page.getByText('第 2 / 10 题')).toBeVisible();
+  for (const [i,q] of expandedSeedLessons[0].questions.slice(1).entries()) {
+    const choice=`${String.fromCharCode(65+q.answer)} ${q.options[q.answer]}`;
+    const last=i===8;
     await page.getByRole('button',{name:choice,exact:true}).click();
     await page.getByRole('button',{name:'确认答案'}).click();
     await expect(page.getByRole('heading',{name:'答对啦，想得很棒！'})).toBeVisible();
     await page.getByRole('button',{name:last ? '看看学习成果' : '下一题'}).click();
   }
   await expect(page.getByRole('heading',{name:'挑战完成！'})).toBeVisible();
-  expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('fun-learning:records:v1') || '[]')[0].correct)).toBe(4);
+  expect(await page.evaluate(id=>JSON.parse(localStorage.getItem(`fun-learning:member:${id}:fun-learning:records:v1`) || '[]')[0].correct,member.id)).toBe(9);
   await page.screenshot({path:'test-results/learning-mobile-result.png',fullPage:true});
   await page.getByRole('button',{name:/再想一想，会更有收获/}).click();
   await page.getByRole('button',{name:'C 8元',exact:true}).click();
@@ -63,10 +69,9 @@ test('mobile learning: filters, hints, resume, feedback, wrong-answer review and
   await expect(page.getByRole('heading',{name:'复习完成！'})).toBeVisible();
   await page.goto('/progress');
   await expect(page.getByRole('heading',{name:'小小商店开门啦'})).toBeVisible();
-  expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('fun-learning:records:v1') || '[]').length)).toBe(1);
+  expect(await page.evaluate(id=>JSON.parse(localStorage.getItem(`fun-learning:member:${id}:fun-learning:records:v1`) || '[]').length,member.id)).toBe(1);
   expect(await page.evaluate(()=>document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
-  await page.getByRole('button',{name:'清除本机学习记录'}).click();
-  await page.getByRole('button',{name:'保留记录'}).click();
+  await expect(page.getByText('多端同步',{exact:true})).toBeVisible();
   await expect(page.getByRole('heading',{name:'小小商店开门啦'})).toBeVisible();
   expect(errors).toEqual([]);
 });
@@ -87,17 +92,39 @@ test('admin authentication, draft isolation, visual editor, publishing and delet
   expect(await page.evaluate(()=>document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
   await page.screenshot({path:'test-results/learning-admin-mobile.png',fullPage:true});
   await page.setViewportSize({width:1440,height:1000});
+  await page.getByLabel('筛选学科').selectOption('chinese');
+  await page.getByLabel('筛选分类').selectOption('chinese-pinyin');
+  await page.getByLabel('筛选年级').selectOption('1');
+  await expect(page.locator('.lesson-table tbody tr')).toHaveCount(10);
+  await page.getByRole('button',{name:'下一页',exact:true}).click();
+  await expect(page.locator('.lesson-table tbody tr')).toHaveCount(3);
+  await page.getByLabel('筛选学科').selectOption('math');
+  await expect(page.getByLabel('筛选分类')).toHaveValue('all');
+  await page.getByLabel('筛选学科').selectOption('all');
+  await page.getByLabel('筛选年级').selectOption('all');
   const title=`浏览器验证-${Date.now()}`;
   createdTitle = title;
   await page.getByRole('link',{name:'新建关卡'}).click();
   await page.getByLabel('关卡名称',{exact:true}).fill(title);
   await page.getByLabel('关卡简介',{exact:true}).fill('用于验证关卡编辑、发布与访问权限。');
+  await page.getByRole('combobox',{name:'主分类',exact:true}).selectOption('math-calculation');
   await page.getByLabel('知识点',{exact:true}).fill('加法测试');
+  await page.getByLabel('知识点标签',{exact:true}).fill('加法，口算');
   await page.getByLabel('题目',{exact:true}).fill('1 + 1 = ？');
   for(const [i,answer] of ['1','2','3','4'].entries()) await page.getByRole('textbox',{name:`选项${String.fromCharCode(65+i)}`,exact:true}).fill(answer);
   await page.getByLabel('设置选项B为正确答案').check();
   await page.getByLabel('答题提示',{exact:true}).fill('从1开始，再往后数1个数。');
   await page.getByLabel('答案解析',{exact:true}).fill('1 + 1 = 2。');
+  await expect(page.getByRole('button',{name:'添加题目',exact:true})).toBeDisabled();
+  for(let i=1;i<10;i++){
+    await page.getByRole('button',{name:`第${i+1}题`,exact:true}).click();
+    await page.getByLabel('题目',{exact:true}).fill(`后台验证：${i+1} + 1 = ？`);
+    for(let j=0;j<4;j++) await page.getByRole('textbox',{name:`选项${String.fromCharCode(65+j)}`,exact:true}).fill(String(i+1+j));
+    await page.getByLabel('设置选项B为正确答案').check();
+    await page.getByLabel('答题提示',{exact:true}).fill('再往后数一个数。');
+    await page.getByLabel('答案解析',{exact:true}).fill(`${i+1} + 1 = ${i+2}。`);
+  }
+
   await page.getByRole('button',{name:'预览关卡'}).click();
   await expect(page.getByRole('heading',{name:'1 + 1 = ？'})).toBeVisible();
   await page.getByRole('button',{name:'返回编辑'}).click();
@@ -107,6 +134,13 @@ test('admin authentication, draft isolation, visual editor, publishing and delet
   await page.getByLabel('搜索关卡').fill(title);
   await page.getByRole('link',{name:'编辑',exact:true}).click();
   await expect(page).toHaveURL(/\/admin\/[^/]+\/edit/);
+  await expect(page.getByRole('combobox',{name:'主分类',exact:true})).toHaveValue('math-calculation');
+  await expect(page.getByLabel('知识点标签',{exact:true})).toHaveValue('加法，口算');
+  await page.getByRole('combobox',{name:'学科',exact:true}).selectOption('chinese');
+  await expect(page.getByRole('combobox',{name:'主分类',exact:true})).toHaveValue('');
+  await expect(page.getByRole('combobox',{name:'主分类',exact:true}).getByRole('option',{name:'计算',exact:true})).toHaveCount(0);
+  await page.getByRole('combobox',{name:'学科',exact:true}).selectOption('math');
+  await page.getByRole('combobox',{name:'主分类',exact:true}).selectOption('math-calculation');
   const id=page.url().split('/admin/')[1].split('/')[0];
   const visitor=await browser.newContext({baseURL:new URL(page.url()).origin,viewport:{width:390,height:844}});
   const publicPage=await visitor.newPage();

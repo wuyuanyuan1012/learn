@@ -2,6 +2,7 @@ import type { NextConfig } from 'next';
 
 const config: NextConfig = {
   poweredByHeader: false,
+  outputFileTracingIncludes: { '/**': ['./supabase/certs/prod-ca-2021.crt'] },
   // Vercel's Supabase integration prefixes variables with the store name.
   // Only these two public values may be included in browser bundles.
   env: {

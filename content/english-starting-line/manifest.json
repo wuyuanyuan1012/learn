@@ -1,0 +1,2762 @@
+{
+  "batch": "grade1-english-starting-line-v1",
+  "sourceFile": "义务教育教科书·英语（一年级起点）一年级上册.pdf",
+  "sourceSha256": "8a6237013cb04fd402d63c7285bfc63513c1c6537150edf0b17340f187d63bbf",
+  "textbook": "人教版新起点英语（一年级起点）一年级上册",
+  "pageMapping": "PDF页码 = 书内印刷页码 + 5",
+  "questionCount": 150,
+  "lessonCount": 15,
+  "scope": "Starter、Unit 1–6、Revision 1–2；仅文字可独立作答的原创练习，不含原版听力、歌曲或看图题。",
+  "questions": [
+    {
+      "questionId": "59bd67ad-adf0-5f4a-81ee-32cc1b722b24",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Good morning, Miss Wu!"
+    },
+    {
+      "questionId": "a5155b05-f643-50d8-8e80-c0ef4f0b76d5",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Good afternoon, Bill!"
+    },
+    {
+      "questionId": "e6de1a94-7127-54d7-b603-44db4e4a5dd7",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Goodbye, Joy!"
+    },
+    {
+      "questionId": "0e0ae6e7-3ddc-5574-a024-b9d4c81b40ed",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "My name is Lily."
+    },
+    {
+      "questionId": "d1730177-5d6b-54a8-a5d4-677e285b347d",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "What's your name?"
+    },
+    {
+      "questionId": "05fdb94b-817f-559d-ba78-ff47f6e3eea1",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Bill"
+    },
+    {
+      "questionId": "988c6062-b298-5df8-8ce9-e20af668a522",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "你好"
+    },
+    {
+      "questionId": "4fa36a0d-e70d-5fe4-86f6-a9059823cdac",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "再见"
+    },
+    {
+      "questionId": "06599419-a591-5bd0-8565-d2b1ea41dd5e",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "介绍自己"
+    },
+    {
+      "questionId": "6f28416c-fc05-55fe-bd44-aea82f7e1f42",
+      "lessonId": "1070ba36-57f6-5cd7-b028-2e8b7c78e35d",
+      "unit": "Starter",
+      "printedPages": [
+        2,
+        3,
+        62
+      ],
+      "pdfPages": [
+        7,
+        8,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "My name is Andy."
+    },
+    {
+      "questionId": "3c54710c-0b4e-550a-b5c0-4868149acea0",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "书本"
+    },
+    {
+      "questionId": "ade9340a-6812-5768-a12e-8633f44cd378",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "尺子"
+    },
+    {
+      "questionId": "0c020511-b5b0-5b8a-8574-a8ecd66d972a",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "铅笔"
+    },
+    {
+      "questionId": "c4375dfe-71d7-5478-b53e-7c111b369c81",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "书包"
+    },
+    {
+      "questionId": "80bef0f1-79eb-5997-91b4-36513aeb6717",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "老师"
+    },
+    {
+      "questionId": "a3ee95c2-5613-5074-b8a7-cc2ed11e91c5",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "book"
+    },
+    {
+      "questionId": "478b1fe1-a820-5092-af8e-2197f259620d",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "ruler"
+    },
+    {
+      "questionId": "bbd0da6b-8208-5134-bdf9-8857acf6a718",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "pencil"
+    },
+    {
+      "questionId": "80bb9154-0b7e-513a-9ce0-a79431d6fc97",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "schoolbag"
+    },
+    {
+      "questionId": "4b94e828-59f5-543e-a437-13f5a748f900",
+      "lessonId": "19889247-6f15-5972-94ae-a80429429bf6",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        58
+      ],
+      "pdfPages": [
+        11,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "teacher"
+    },
+    {
+      "questionId": "949adf28-a207-58ff-a9f4-083e94128fc0",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "脸"
+    },
+    {
+      "questionId": "74867405-242d-5b94-83c1-63be999996a7",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "耳朵"
+    },
+    {
+      "questionId": "c8f5f1e3-e4be-5037-b839-e603bf981cc8",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "眼睛"
+    },
+    {
+      "questionId": "dd94cd04-121d-59e0-bfbf-4202a066102f",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "鼻子"
+    },
+    {
+      "questionId": "6e4ff2ad-2498-5e89-8beb-565abfddf95f",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "嘴巴"
+    },
+    {
+      "questionId": "6013ecfa-643e-5d12-8aaa-165a0e42801d",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "face"
+    },
+    {
+      "questionId": "fcb82bca-155d-5b60-a087-4ebde8c92cf1",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "ear"
+    },
+    {
+      "questionId": "ecde9f30-010d-54c4-9cd4-b10d27500325",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "eye"
+    },
+    {
+      "questionId": "e572f345-1f66-5078-a05d-cfc44e5f8333",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "nose"
+    },
+    {
+      "questionId": "fc1c2345-c040-5514-9b4b-c366836c16d7",
+      "lessonId": "8f392de4-1f13-59a8-ae5d-0b59579c711c",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        58
+      ],
+      "pdfPages": [
+        19,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "mouth"
+    },
+    {
+      "questionId": "3bf07f84-9c58-52e8-a7a6-43e96cc0b3cc",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "狗"
+    },
+    {
+      "questionId": "0538fcc6-2701-571a-a66e-351145a850b6",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "鸟"
+    },
+    {
+      "questionId": "5f80d36e-3c49-5de5-8975-508189a77113",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "老虎"
+    },
+    {
+      "questionId": "19e8843b-6c26-5918-81fb-a19a5b75ac1a",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "猴子"
+    },
+    {
+      "questionId": "e3b6e521-f73a-5ecd-a77d-b465d8233492",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "猫"
+    },
+    {
+      "questionId": "ad9b8d26-79bf-54df-acc2-13b3c139b801",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "dog"
+    },
+    {
+      "questionId": "095c6d79-fa19-5c52-98d2-ba8a045d296a",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "bird"
+    },
+    {
+      "questionId": "a5c99d93-9991-5621-9d27-36432923e25e",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "tiger"
+    },
+    {
+      "questionId": "c66ab773-4e03-5e0e-ac59-3fce5e82c2ab",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "monkey"
+    },
+    {
+      "questionId": "cd8e5294-9f5e-5b1e-8088-f25e281bd06b",
+      "lessonId": "c54b72b6-7b20-5cc0-b393-fb0aad8a2f38",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        58
+      ],
+      "pdfPages": [
+        27,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "cat"
+    },
+    {
+      "questionId": "cc9b349d-1b8c-544d-a977-2d4ebf1a24ac",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "黑色"
+    },
+    {
+      "questionId": "e619b0e3-baae-5489-8439-041664679f65",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "黄色"
+    },
+    {
+      "questionId": "14ab683c-2574-5d95-a746-e938f92c794a",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "蓝色"
+    },
+    {
+      "questionId": "86031247-458e-5b90-8b03-26db5a8fc7a8",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "红色"
+    },
+    {
+      "questionId": "28696dd9-2046-5a73-bb4e-03ce1f725e68",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "绿色"
+    },
+    {
+      "questionId": "049c77c6-c60a-57c4-8421-7f19acc30680",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "black"
+    },
+    {
+      "questionId": "d45c4c64-31d1-50b9-9d6c-5f7f71541b4e",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "yellow"
+    },
+    {
+      "questionId": "d08ceced-f321-5525-b06b-eb14cc7dcc13",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "blue"
+    },
+    {
+      "questionId": "e8960b74-1c81-56d5-8797-c75995f7bfd6",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "red"
+    },
+    {
+      "questionId": "ab3f79af-2816-56e4-983a-dbdf860d9be5",
+      "lessonId": "bf6c823c-33ab-58f3-b2bb-25d3ba03e547",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        59
+      ],
+      "pdfPages": [
+        45,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "green"
+    },
+    {
+      "questionId": "8f74a386-8100-5920-b312-66704a128ce6",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "苹果"
+    },
+    {
+      "questionId": "bd2cff7c-b383-5a93-bb4a-45dbc7ab9476",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "梨"
+    },
+    {
+      "questionId": "61042911-b99a-5544-a308-59023f31ec6c",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "香蕉"
+    },
+    {
+      "questionId": "ea525122-70ec-5e5d-9218-cb4bdbbe23d3",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "橙子"
+    },
+    {
+      "questionId": "f2508e44-4b0a-5aad-8924-ac78fdf4f164",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "apple"
+    },
+    {
+      "questionId": "cb61495a-93ff-587f-9cc7-9827ce125c3c",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "pear"
+    },
+    {
+      "questionId": "f7ee2f8a-ed0c-5a72-b5f4-eb21baa3497f",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "banana"
+    },
+    {
+      "questionId": "1b8e6404-dc68-5349-8cb1-472ea93ec408",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "orange"
+    },
+    {
+      "questionId": "2b341efd-7306-5d23-8918-3dfe463ba211",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "apple、pear"
+    },
+    {
+      "questionId": "651b75fc-77da-5941-bb89-9bed2e003f41",
+      "lessonId": "a25f4a39-eb3e-5033-885b-ffcca6df6a94",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        59
+      ],
+      "pdfPages": [
+        53,
+        64
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "香蕉"
+    },
+    {
+      "questionId": "eaf68e0c-e2d9-5364-86d1-3746aa292a58",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "one"
+    },
+    {
+      "questionId": "94def1d2-2c78-5214-903c-a80db1ac6719",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "two"
+    },
+    {
+      "questionId": "35aa14e4-6c1c-5cfa-84d9-c05387e8b4ff",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "three"
+    },
+    {
+      "questionId": "300ef36b-5f56-5a12-9d83-cc7d12f9e1a0",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "four"
+    },
+    {
+      "questionId": "edd351bf-3d39-5a30-9348-5be817d75374",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "five"
+    },
+    {
+      "questionId": "cb09ca58-4c01-5d4e-92a4-a9327381e95e",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "six"
+    },
+    {
+      "questionId": "7dc096e5-4e79-5314-ae04-cd338719ec5b",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "seven"
+    },
+    {
+      "questionId": "d272b233-c6c7-5fc9-a631-200acd0c94ef",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "eight"
+    },
+    {
+      "questionId": "baa419f8-9b9f-511d-b096-b2493076d14a",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "nine"
+    },
+    {
+      "questionId": "f5a6fb80-7390-5c21-bb94-2eab7e886593",
+      "lessonId": "1311c74b-6340-5451-b3f8-82fba27196da",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        58
+      ],
+      "pdfPages": [
+        37,
+        63
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "ten"
+    },
+    {
+      "questionId": "d789fe9d-2beb-5ad0-8231-61fdef10b19d",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "I have a ruler."
+    },
+    {
+      "questionId": "c9c24789-38f2-55a7-9ed0-d94abddeecda",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "铅笔"
+    },
+    {
+      "questionId": "565b7c45-aadc-599b-95be-213be5edf8bf",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "I have a book."
+    },
+    {
+      "questionId": "dbc9ae5d-06c7-51e8-b46f-9ad683cfcf36",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "自己的书包"
+    },
+    {
+      "questionId": "ad4c8087-9cab-505e-8e77-6b76332eed19",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "站起来"
+    },
+    {
+      "questionId": "192652df-40c7-5219-91c4-1ac0b9b2359e",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "坐下"
+    },
+    {
+      "questionId": "9f620691-24c5-5926-97cf-3edfd238414e",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "闭上眼睛"
+    },
+    {
+      "questionId": "4d7492dd-4fe3-5773-b341-da4e7774ef3d",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "睁开眼睛"
+    },
+    {
+      "questionId": "8fc9837b-5fa3-59b0-838d-8bfef5fa7fed",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "铅笔"
+    },
+    {
+      "questionId": "a6b2c3b9-9780-5459-b97c-d207d4becc58",
+      "lessonId": "b296a26d-da7d-5b90-b107-9bbfd0f4aacc",
+      "unit": "Unit 1 School",
+      "printedPages": [
+        6,
+        7,
+        8,
+        62
+      ],
+      "pdfPages": [
+        11,
+        12,
+        13,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "ruler"
+    },
+    {
+      "questionId": "0395d8a3-9c73-5259-a0d0-775467f7c941",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "This is my nose."
+    },
+    {
+      "questionId": "37d8c8c8-fef8-543b-aaad-bae0614b49e7",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "嘴巴"
+    },
+    {
+      "questionId": "c43f2836-602e-5d12-8ee4-9b7ad876a630",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "耳朵"
+    },
+    {
+      "questionId": "f7b6114c-92b8-539a-9bf8-41bc540ca25d",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "摸鼻子"
+    },
+    {
+      "questionId": "e80b2eb1-a47c-5f13-9243-764541eaed92",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "This is my eye."
+    },
+    {
+      "questionId": "3c881dde-984c-57ef-9524-dbe70b48cdc1",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "脸"
+    },
+    {
+      "questionId": "e2f6b708-7d15-5d14-a3d5-facb1fc0886e",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Touch your mouth."
+    },
+    {
+      "questionId": "4b647662-84a7-5f38-bae3-cd7d7cc9c177",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "我的"
+    },
+    {
+      "questionId": "d35d332f-f026-5cdd-bfb3-5d159456cb84",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "ear"
+    },
+    {
+      "questionId": "4aa4d4f4-cc99-511a-ae15-106693d22b31",
+      "lessonId": "628de412-2751-5041-a53c-74f602f0c9b4",
+      "unit": "Unit 2 Face",
+      "printedPages": [
+        14,
+        15,
+        16,
+        62
+      ],
+      "pdfPages": [
+        19,
+        20,
+        21,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "摸自己的脸"
+    },
+    {
+      "questionId": "ca81ec1a-df6e-5022-bc7b-cca8be48f5c7",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "What's this?"
+    },
+    {
+      "questionId": "19c9835b-5d72-50dc-9e3d-dfd28df86e8e",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "It's a dog."
+    },
+    {
+      "questionId": "bc45c05b-0420-546a-bd2d-c431f67edb8c",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "It's a cat."
+    },
+    {
+      "questionId": "1a2bd843-d675-5973-a194-705e627c05bb",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "It's a tiger."
+    },
+    {
+      "questionId": "1bc83583-a4e2-5f78-830a-490dea1320ed",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "猴子"
+    },
+    {
+      "questionId": "a88cf430-8f9a-5d82-b6ed-bf39c53850bb",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "鸟"
+    },
+    {
+      "questionId": "1abcd178-3ff7-5477-8cb1-c781a5397cda",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "猴子"
+    },
+    {
+      "questionId": "89ada780-4798-5477-aee8-970aa01b218e",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "It's a bird."
+    },
+    {
+      "questionId": "13297bf6-f3f6-58f5-bfa3-2ef5038921b6",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "dog"
+    },
+    {
+      "questionId": "ded05f26-ccee-5916-b5b2-893ba126dd4e",
+      "lessonId": "5cd8b2e6-621c-5eca-9457-97c7799cfb83",
+      "unit": "Unit 3 Animals",
+      "printedPages": [
+        22,
+        23,
+        24,
+        62
+      ],
+      "pdfPages": [
+        27,
+        28,
+        29,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "dog、bird"
+    },
+    {
+      "questionId": "f0025723-a6dc-5d55-9acb-89a7a17fb939",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Three."
+    },
+    {
+      "questionId": "f05f33b9-42e8-51b1-a02e-33ab3c36f3cd",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Six."
+    },
+    {
+      "questionId": "32cfd0ec-68e1-50bf-9b95-2e3d9c0e1571",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Five."
+    },
+    {
+      "questionId": "125e4d24-de69-5e84-8626-c308fc078a0b",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "How many birds are there?"
+    },
+    {
+      "questionId": "0953f3f8-7b86-5699-89fd-721ed0f529c7",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "5"
+    },
+    {
+      "questionId": "51551b4d-2331-5e0b-bf86-3a4b155d5e91",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "8"
+    },
+    {
+      "questionId": "a5fa0ab8-b3b1-5ab4-98a8-50b083918a3c",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Nine."
+    },
+    {
+      "questionId": "e1200ee8-b85b-50b0-a898-2ea551cf2485",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "three"
+    },
+    {
+      "questionId": "e409f554-e8f2-5852-a4e6-5f1783d0fade",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "nine"
+    },
+    {
+      "questionId": "f0471eda-54c9-5f4d-a49f-be083c532e24",
+      "lessonId": "5c193250-9bab-501d-8f1a-3051cc65326b",
+      "unit": "Unit 4 Numbers",
+      "printedPages": [
+        32,
+        33,
+        34,
+        62
+      ],
+      "pdfPages": [
+        37,
+        38,
+        39,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "ten"
+    },
+    {
+      "questionId": "c382062a-7dd5-59f1-a447-7a7831e1ca85",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "What colour is it?"
+    },
+    {
+      "questionId": "f41550e5-1a2c-5e0e-9231-30488872c346",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "It's red."
+    },
+    {
+      "questionId": "daae589d-4eb1-5f8f-b6a9-925db6c73b42",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "blue"
+    },
+    {
+      "questionId": "1709a3d5-bff9-5ca1-aad3-0c16a9680c18",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "It's yellow."
+    },
+    {
+      "questionId": "2f6c7428-536a-50d3-ac28-e1637ae49642",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "绿色"
+    },
+    {
+      "questionId": "82f7b6dc-438f-54c3-9591-da7e08aec6a8",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "It's black."
+    },
+    {
+      "questionId": "48afb72c-8905-52cd-bb16-83437510779b",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "红色"
+    },
+    {
+      "questionId": "83fc4f73-e4b1-5eef-8c5a-7163df14b011",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "It's green."
+    },
+    {
+      "questionId": "92684e46-3d9f-5747-ae02-bb6e62518948",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "它的颜色"
+    },
+    {
+      "questionId": "08aba539-c76a-5a17-8778-1f7941266744",
+      "lessonId": "76df27b4-f15f-5b3a-8d0a-4eec9d00a723",
+      "unit": "Unit 5 Colours",
+      "printedPages": [
+        40,
+        41,
+        42,
+        62
+      ],
+      "pdfPages": [
+        45,
+        46,
+        47,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "red、green"
+    },
+    {
+      "questionId": "24e39f98-04ae-5212-be63-725075838048",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Do you like bananas?"
+    },
+    {
+      "questionId": "571b6465-d9db-5e51-8e68-902f791a7f3d",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Yes, I do."
+    },
+    {
+      "questionId": "71e2e281-8435-52e9-9c07-fb7b3198b5fd",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "No, I don't."
+    },
+    {
+      "questionId": "dd4675f0-6eb2-5653-8240-fa72af6a21b6",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "橙子"
+    },
+    {
+      "questionId": "9a909e9f-ba0d-5980-a4cf-3881b645fa88",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "苹果"
+    },
+    {
+      "questionId": "1dc7efc4-b946-50a5-a539-3dd621fb1bf2",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "I like bananas."
+    },
+    {
+      "questionId": "fd455d75-4e60-57c4-b90e-b47bdb95b16f",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "No, I don't."
+    },
+    {
+      "questionId": "d97ccd16-c6bf-5525-90b0-443fa5920d27",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "梨"
+    },
+    {
+      "questionId": "ae60cae8-1aeb-5500-bc25-fec5e97b3d10",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Do you like apples?"
+    },
+    {
+      "questionId": "51960286-951e-50c2-a1c5-01bfff171959",
+      "lessonId": "d6ce948d-37d4-59b4-8f9d-eefe16648c28",
+      "unit": "Unit 6 Fruit",
+      "printedPages": [
+        48,
+        49,
+        50,
+        62
+      ],
+      "pdfPages": [
+        53,
+        54,
+        55,
+        67
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "选一个数字"
+    },
+    {
+      "questionId": "97f054e2-b2b1-5dbc-bc38-c9f640b250bf",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "尺子"
+    },
+    {
+      "questionId": "283f1c6e-845b-5d15-b4b5-1b11b367ca3d",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "耳朵"
+    },
+    {
+      "questionId": "eb238b6c-da81-5185-9d41-d6c38e03f3a4",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "猴子"
+    },
+    {
+      "questionId": "5874f7d2-e4c8-5eab-b38e-b2e547d44e7d",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "书包"
+    },
+    {
+      "questionId": "ae0f0557-d5db-5378-896e-aae2dc3c5fb2",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "眼睛和鼻子"
+    },
+    {
+      "questionId": "70042050-d2f5-5383-8fe0-d27cbe156337",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "铅笔"
+    },
+    {
+      "questionId": "f3a445ae-bbcd-5664-bc23-e281fc88568a",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "bird"
+    },
+    {
+      "questionId": "3db08ec6-6834-5e59-9373-a36ce52a30db",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "mouth"
+    },
+    {
+      "questionId": "3fe0280d-7c01-5b3c-882c-8dc4db2c2c9e",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "一只猫"
+    },
+    {
+      "questionId": "226d2c2d-0da2-5697-b57f-e845286341b5",
+      "lessonId": "868bc3dd-0ea3-5b73-89d8-2176a1532937",
+      "unit": "Revision 1",
+      "printedPages": [
+        28,
+        29,
+        6,
+        7,
+        14,
+        15,
+        22,
+        23
+      ],
+      "pdfPages": [
+        33,
+        34,
+        11,
+        12,
+        19,
+        20,
+        27,
+        28
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "坐下"
+    },
+    {
+      "questionId": "6db561f6-9d92-5237-b142-03e50eb5e78c",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "7只"
+    },
+    {
+      "questionId": "df89d2af-ee58-5a71-bb88-de0d726c4f56",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "黑色"
+    },
+    {
+      "questionId": "42607d32-5c79-5049-a690-90c4bcc1d247",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "喜欢"
+    },
+    {
+      "questionId": "a645688c-9e66-590d-9ecb-125d730a268e",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "不喜欢"
+    },
+    {
+      "questionId": "8215948b-73fb-50a8-a76b-9a3fe1d5de7c",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "蓝色，4只"
+    },
+    {
+      "questionId": "44c4bf2e-894d-5eb7-89fd-ae271c948f41",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "Bill"
+    },
+    {
+      "questionId": "2d23cb60-2b9d-5db1-b011-5f777421c570",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "eight"
+    },
+    {
+      "questionId": "7a29bb6b-a91e-5936-92df-2981f6bd7f07",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "颜色"
+    },
+    {
+      "questionId": "40f50e0b-9b13-5dea-8417-55064b45b217",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "卡片乙"
+    },
+    {
+      "questionId": "e8703b80-df71-5185-9ca6-18d4ec3fa4d8",
+      "lessonId": "257788b3-4d45-5440-b639-6fa7f75d70b3",
+      "unit": "Revision 2",
+      "printedPages": [
+        54,
+        55,
+        32,
+        33,
+        40,
+        41,
+        48,
+        49
+      ],
+      "pdfPages": [
+        59,
+        60,
+        37,
+        38,
+        45,
+        46,
+        53,
+        54
+      ],
+      "kind": "original-practice-based-on-textbook",
+      "correctAnswer": "苹果"
+    }
+  ]
+}

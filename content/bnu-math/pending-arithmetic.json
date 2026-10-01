@@ -1,0 +1,8954 @@
+[
+  {
+    "key": "g1a-p12-0",
+    "book": "g1a",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-44"
+  },
+  {
+    "key": "g1a-p19-0",
+    "book": "g1a",
+    "pdfPage": 19,
+    "printedPage": 15,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-45"
+  },
+  {
+    "key": "g1a-p23-0",
+    "book": "g1a",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-24"
+  },
+  {
+    "key": "g1a-p27-0",
+    "book": "g1a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45-4"
+  },
+  {
+    "key": "g1a-p28-12",
+    "book": "g1a",
+    "pdfPage": 28,
+    "printedPage": 24,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+2=5"
+  },
+  {
+    "key": "g1a-p29-3",
+    "book": "g1a",
+    "pdfPage": 29,
+    "printedPage": 25,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1+4=5"
+  },
+  {
+    "key": "g1a-p30-3",
+    "book": "g1a",
+    "pdfPage": 30,
+    "printedPage": 26,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2+3=5"
+  },
+  {
+    "key": "g1a-p31-9",
+    "book": "g1a",
+    "pdfPage": 31,
+    "printedPage": 27,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5-2=3"
+  },
+  {
+    "key": "g1a-p33-8",
+    "book": "g1a",
+    "pdfPage": 33,
+    "printedPage": 29,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2+2="
+  },
+  {
+    "key": "g1a-p34-14",
+    "book": "g1a",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5-3 ="
+  },
+  {
+    "key": "g1a-p35-0",
+    "book": "g1a",
+    "pdfPage": 35,
+    "printedPage": 31,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-25"
+  },
+  {
+    "key": "g1a-p38-18",
+    "book": "g1a",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6-4 =2"
+  },
+  {
+    "key": "g1a-p39-4",
+    "book": "g1a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+1=6"
+  },
+  {
+    "key": "g1a-p39-15",
+    "book": "g1a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1+5="
+  },
+  {
+    "key": "g1a-p39-16",
+    "book": "g1a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+3="
+  },
+  {
+    "key": "g1a-p39-19",
+    "book": "g1a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+2="
+  },
+  {
+    "key": "g1a-p39-25",
+    "book": "g1a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+1"
+  },
+  {
+    "key": "g1a-p40-16",
+    "book": "g1a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+2=7"
+  },
+  {
+    "key": "g1a-p40-17",
+    "book": "g1a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7-2=5"
+  },
+  {
+    "key": "g1a-p41-7",
+    "book": "g1a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+1=7"
+  },
+  {
+    "key": "g1a-p41-8",
+    "book": "g1a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4 4-4."
+  },
+  {
+    "key": "g1a-p42-20",
+    "book": "g1a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+5="
+  },
+  {
+    "key": "g1a-p46-11",
+    "book": "g1a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9-2="
+  },
+  {
+    "key": "g1a-p46-15",
+    "book": "g1a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+3="
+  },
+  {
+    "key": "g1a-p51-12",
+    "book": "g1a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2+7+1="
+  },
+  {
+    "key": "g1a-p51-15",
+    "book": "g1a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+2+1="
+  },
+  {
+    "key": "g1a-p52-13",
+    "book": "g1a",
+    "pdfPage": 52,
+    "printedPage": 48,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2+7"
+  },
+  {
+    "key": "g1a-p53-8",
+    "book": "g1a",
+    "pdfPage": 53,
+    "printedPage": 49,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+7"
+  },
+  {
+    "key": "g1a-p54-6",
+    "book": "g1a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2+8="
+  },
+  {
+    "key": "g1a-p54-8",
+    "book": "g1a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9+1="
+  },
+  {
+    "key": "g1a-p54-10",
+    "book": "g1a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8+2="
+  },
+  {
+    "key": "g1a-p54-11",
+    "book": "g1a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "11+5="
+  },
+  {
+    "key": "g1a-p54-12",
+    "book": "g1a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1+9="
+  },
+  {
+    "key": "g1a-p54-22",
+    "book": "g1a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7 + 3"
+  },
+  {
+    "key": "g1a-p54-23",
+    "book": "g1a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6 + 4"
+  },
+  {
+    "key": "g1a-p54-24",
+    "book": "g1a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5 +5"
+  },
+  {
+    "key": "g1a-p54-35",
+    "book": "g1a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1+2="
+  },
+  {
+    "key": "g1a-p55-9",
+    "book": "g1a",
+    "pdfPage": 55,
+    "printedPage": 51,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10 -2"
+  },
+  {
+    "key": "g1a-p55-13",
+    "book": "g1a",
+    "pdfPage": 55,
+    "printedPage": 51,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9-1="
+  },
+  {
+    "key": "g1a-p55-32",
+    "book": "g1a",
+    "pdfPage": 55,
+    "printedPage": 51,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3-1"
+  },
+  {
+    "key": "g1a-p55-45",
+    "book": "g1a",
+    "pdfPage": 55,
+    "printedPage": 51,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7-1"
+  },
+  {
+    "key": "g1a-p56-17",
+    "book": "g1a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+3+1"
+  },
+  {
+    "key": "g1a-p56-18",
+    "book": "g1a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+3+1"
+  },
+  {
+    "key": "g1a-p56-21",
+    "book": "g1a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+4"
+  },
+  {
+    "key": "g1a-p58-4",
+    "book": "g1a",
+    "pdfPage": 58,
+    "printedPage": 54,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+3="
+  },
+  {
+    "key": "g1a-p65-8",
+    "book": "g1a",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10-1="
+  },
+  {
+    "key": "g1a-p65-9",
+    "book": "g1a",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+2+1="
+  },
+  {
+    "key": "g1a-p65-12",
+    "book": "g1a",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+4+2="
+  },
+  {
+    "key": "g1a-p65-13",
+    "book": "g1a",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10-1-1="
+  },
+  {
+    "key": "g1a-p71-1",
+    "book": "g1a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.15-1"
+  },
+  {
+    "key": "g1a-p79-19",
+    "book": "g1a",
+    "pdfPage": 79,
+    "printedPage": 75,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.1-1"
+  },
+  {
+    "key": "g1a-p81-7",
+    "book": "g1a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "13+ 2= 15"
+  },
+  {
+    "key": "g1a-p83-6",
+    "book": "g1a",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9+3="
+  },
+  {
+    "key": "g1a-p84-15",
+    "book": "g1a",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8+9"
+  },
+  {
+    "key": "g1a-p84-16",
+    "book": "g1a",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+9"
+  },
+  {
+    "key": "g1a-p84-19",
+    "book": "g1a",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2+9="
+  },
+  {
+    "key": "g1a-p88-15",
+    "book": "g1a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+8"
+  },
+  {
+    "key": "g1a-p88-18",
+    "book": "g1a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+9"
+  },
+  {
+    "key": "g1a-p88-24",
+    "book": "g1a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+10"
+  },
+  {
+    "key": "g1a-p88-26",
+    "book": "g1a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9+5"
+  },
+  {
+    "key": "g1a-p88-29",
+    "book": "g1a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18-6"
+  },
+  {
+    "key": "g1a-p88-31",
+    "book": "g1a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15-3"
+  },
+  {
+    "key": "g1a-p88-33",
+    "book": "g1a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8+4"
+  },
+  {
+    "key": "g1a-p88-34",
+    "book": "g1a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+8"
+  },
+  {
+    "key": "g1a-p88-46",
+    "book": "g1a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7+4="
+  },
+  {
+    "key": "g1a-p89-16",
+    "book": "g1a",
+    "pdfPage": 89,
+    "printedPage": 85,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7+7="
+  },
+  {
+    "key": "g1a-p90-18",
+    "book": "g1a",
+    "pdfPage": 90,
+    "printedPage": 86,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+7="
+  },
+  {
+    "key": "g1a-p90-20",
+    "book": "g1a",
+    "pdfPage": 90,
+    "printedPage": 86,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18+55"
+  },
+  {
+    "key": "g1a-p98-9",
+    "book": "g1a",
+    "pdfPage": 98,
+    "printedPage": 94,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+9="
+  },
+  {
+    "key": "g1a-p98-18",
+    "book": "g1a",
+    "pdfPage": 98,
+    "printedPage": 94,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 +3 ="
+  },
+  {
+    "key": "g1a-p101-17",
+    "book": "g1a",
+    "pdfPage": 101,
+    "printedPage": 97,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+30"
+  },
+  {
+    "key": "g1a-p101-36",
+    "book": "g1a",
+    "pdfPage": 101,
+    "printedPage": 97,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15 +5"
+  },
+  {
+    "key": "g1a-p101-43",
+    "book": "g1a",
+    "pdfPage": 101,
+    "printedPage": 97,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4 + 11"
+  },
+  {
+    "key": "g1a-p101-45",
+    "book": "g1a",
+    "pdfPage": 101,
+    "printedPage": 97,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18-3"
+  },
+  {
+    "key": "g1a-p101-47",
+    "book": "g1a",
+    "pdfPage": 101,
+    "printedPage": 97,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "19-4"
+  },
+  {
+    "key": "g1a-p101-49",
+    "book": "g1a",
+    "pdfPage": 101,
+    "printedPage": 97,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3 + 12"
+  },
+  {
+    "key": "g1a-p101-53",
+    "book": "g1a",
+    "pdfPage": 101,
+    "printedPage": 97,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "14 + 6"
+  },
+  {
+    "key": "g1a-p101-54",
+    "book": "g1a",
+    "pdfPage": 101,
+    "printedPage": 97,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2 + 13"
+  },
+  {
+    "key": "g1b-p6-10",
+    "book": "g1b",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1+5=6"
+  },
+  {
+    "key": "g1b-p6-17",
+    "book": "g1b",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15-9=6"
+  },
+  {
+    "key": "g1b-p7-0",
+    "book": "g1b",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-25"
+  },
+  {
+    "key": "g1b-p7-1",
+    "book": "g1b",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "11-9="
+  },
+  {
+    "key": "g1b-p7-4",
+    "book": "g1b",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18-9="
+  },
+  {
+    "key": "g1b-p7-20",
+    "book": "g1b",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "13-9="
+  },
+  {
+    "key": "g1b-p8-2",
+    "book": "g1b",
+    "pdfPage": 8,
+    "printedPage": 4,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10- 8 =2"
+  },
+  {
+    "key": "g1b-p8-8",
+    "book": "g1b",
+    "pdfPage": 8,
+    "printedPage": 4,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8+5"
+  },
+  {
+    "key": "g1b-p9-0",
+    "book": "g1b",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24-15"
+  },
+  {
+    "key": "g1b-p9-1",
+    "book": "g1b",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "11-8 ="
+  },
+  {
+    "key": "g1b-p9-16",
+    "book": "g1b",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15 -8 ="
+  },
+  {
+    "key": "g1b-p9-19",
+    "book": "g1b",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "17-8 ="
+  },
+  {
+    "key": "g1b-p10-2",
+    "book": "g1b",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 - 7="
+  },
+  {
+    "key": "g1b-p11-3",
+    "book": "g1b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12-6 ="
+  },
+  {
+    "key": "g1b-p11-21",
+    "book": "g1b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15-7="
+  },
+  {
+    "key": "g1b-p12-10",
+    "book": "g1b",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "11-7=4"
+  },
+  {
+    "key": "g1b-p15-9",
+    "book": "g1b",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12-3 ="
+  },
+  {
+    "key": "g1b-p16-5",
+    "book": "g1b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "11-3"
+  },
+  {
+    "key": "g1b-p16-21",
+    "book": "g1b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "13-5"
+  },
+  {
+    "key": "g1b-p16-23",
+    "book": "g1b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12-5"
+  },
+  {
+    "key": "g1b-p16-27",
+    "book": "g1b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18-4 = 14"
+  },
+  {
+    "key": "g1b-p17-10",
+    "book": "g1b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8+6="
+  },
+  {
+    "key": "g1b-p18-0",
+    "book": "g1b",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4-4"
+  },
+  {
+    "key": "g1b-p19-16",
+    "book": "g1b",
+    "pdfPage": 19,
+    "printedPage": 15,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16-4="
+  },
+  {
+    "key": "g1b-p19-21",
+    "book": "g1b",
+    "pdfPage": 19,
+    "printedPage": 15,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "19-10"
+  },
+  {
+    "key": "g1b-p20-3",
+    "book": "g1b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+9 ="
+  },
+  {
+    "key": "g1b-p21-28",
+    "book": "g1b",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10-2"
+  },
+  {
+    "key": "g1b-p30-35",
+    "book": "g1b",
+    "pdfPage": 30,
+    "printedPage": 26,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7+14"
+  },
+  {
+    "key": "g1b-p41-0",
+    "book": "g1b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-24"
+  },
+  {
+    "key": "g1b-p43-0",
+    "book": "g1b",
+    "pdfPage": 43,
+    "printedPage": 39,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-45"
+  },
+  {
+    "key": "g1b-p54-24",
+    "book": "g1b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "50+20"
+  },
+  {
+    "key": "g1b-p54-32",
+    "book": "g1b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "80-40"
+  },
+  {
+    "key": "g1b-p54-35",
+    "book": "g1b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10 + 50"
+  },
+  {
+    "key": "g1b-p54-36",
+    "book": "g1b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60 + 20"
+  },
+  {
+    "key": "g1b-p54-37",
+    "book": "g1b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "90-50"
+  },
+  {
+    "key": "g1b-p54-39",
+    "book": "g1b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10 + 30"
+  },
+  {
+    "key": "g1b-p54-44",
+    "book": "g1b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(90 -10)"
+  },
+  {
+    "key": "g1b-p56-4",
+    "book": "g1b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32 +5 ="
+  },
+  {
+    "key": "g1b-p56-5",
+    "book": "g1b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7-7."
+  },
+  {
+    "key": "g1b-p56-7",
+    "book": "g1b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "78-6="
+  },
+  {
+    "key": "g1b-p56-24",
+    "book": "g1b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "67-2="
+  },
+  {
+    "key": "g1b-p56-26",
+    "book": "g1b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "44-4 ="
+  },
+  {
+    "key": "g1b-p57-17",
+    "book": "g1b",
+    "pdfPage": 57,
+    "printedPage": 53,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "34+2="
+  },
+  {
+    "key": "g1b-p57-19",
+    "book": "g1b",
+    "pdfPage": 57,
+    "printedPage": 53,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "71-1="
+  },
+  {
+    "key": "g1b-p58-22",
+    "book": "g1b",
+    "pdfPage": 58,
+    "printedPage": 54,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "85 - 30 ="
+  },
+  {
+    "key": "g1b-p58-23",
+    "book": "g1b",
+    "pdfPage": 58,
+    "printedPage": 54,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "56 +40 ="
+  },
+  {
+    "key": "g1b-p60-4",
+    "book": "g1b",
+    "pdfPage": 60,
+    "printedPage": 56,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "63 + 35 ="
+  },
+  {
+    "key": "g1b-p61-27",
+    "book": "g1b",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7-2=5"
+  },
+  {
+    "key": "g1b-p61-28",
+    "book": "g1b",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10+5=15"
+  },
+  {
+    "key": "g1b-p62-1",
+    "book": "g1b",
+    "pdfPage": 62,
+    "printedPage": 58,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "37-25 ="
+  },
+  {
+    "key": "g1b-p62-2",
+    "book": "g1b",
+    "pdfPage": 62,
+    "printedPage": 58,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "42-11 ="
+  },
+  {
+    "key": "g1b-p64-24",
+    "book": "g1b",
+    "pdfPage": 64,
+    "printedPage": 60,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "34+5="
+  },
+  {
+    "key": "g1b-p65-22",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "57-3 ="
+  },
+  {
+    "key": "g1b-p65-31",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "58-6="
+  },
+  {
+    "key": "g1b-p65-32",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "14+22 ="
+  },
+  {
+    "key": "g1b-p65-40",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "52 +12"
+  },
+  {
+    "key": "g1b-p65-41",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "78-10"
+  },
+  {
+    "key": "g1b-p65-42",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "44 + 24"
+  },
+  {
+    "key": "g1b-p65-43",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "57 + 21"
+  },
+  {
+    "key": "g1b-p65-55",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "46-4"
+  },
+  {
+    "key": "g1b-p65-58",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32+36"
+  },
+  {
+    "key": "g1b-p65-61",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "98-30"
+  },
+  {
+    "key": "g1b-p65-62",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "71+60"
+  },
+  {
+    "key": "g1b-p65-65",
+    "book": "g1b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+50"
+  },
+  {
+    "key": "g1b-p74-26",
+    "book": "g1b",
+    "pdfPage": 74,
+    "printedPage": 70,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "67-40"
+  },
+  {
+    "key": "g1b-p74-31",
+    "book": "g1b",
+    "pdfPage": 74,
+    "printedPage": 70,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 + 70"
+  },
+  {
+    "key": "g1b-p75-12",
+    "book": "g1b",
+    "pdfPage": 75,
+    "printedPage": 71,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8+7=15"
+  },
+  {
+    "key": "g1b-p76-6",
+    "book": "g1b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "27 +24 ="
+  },
+  {
+    "key": "g1b-p76-7",
+    "book": "g1b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "35 + 15 ="
+  },
+  {
+    "key": "g1b-p76-8",
+    "book": "g1b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "69-11 ="
+  },
+  {
+    "key": "g1b-p76-16",
+    "book": "g1b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3 +39 ="
+  },
+  {
+    "key": "g1b-p77-9",
+    "book": "g1b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45+ 7"
+  },
+  {
+    "key": "g1b-p77-10",
+    "book": "g1b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "62 - 10"
+  },
+  {
+    "key": "g1b-p77-13",
+    "book": "g1b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "39 + 25"
+  },
+  {
+    "key": "g1b-p77-15",
+    "book": "g1b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "17+24"
+  },
+  {
+    "key": "g1b-p77-16",
+    "book": "g1b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "58+6"
+  },
+  {
+    "key": "g1b-p77-17",
+    "book": "g1b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48+ 16"
+  },
+  {
+    "key": "g1b-p77-18",
+    "book": "g1b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "29 + 38"
+  },
+  {
+    "key": "g1b-p79-13",
+    "book": "g1b",
+    "pdfPage": 79,
+    "printedPage": 75,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10 -7=3"
+  },
+  {
+    "key": "g1b-p80-15",
+    "book": "g1b",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45-25"
+  },
+  {
+    "key": "g1b-p80-16",
+    "book": "g1b",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1 7—7."
+  },
+  {
+    "key": "g1b-p80-18",
+    "book": "g1b",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "50-3 ="
+  },
+  {
+    "key": "g1b-p80-22",
+    "book": "g1b",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "50-7 ="
+  },
+  {
+    "key": "g1b-p80-25",
+    "book": "g1b",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "33 -5 ="
+  },
+  {
+    "key": "g1b-p80-27",
+    "book": "g1b",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100- 1 ="
+  },
+  {
+    "key": "g1b-p80-31",
+    "book": "g1b",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "53-6="
+  },
+  {
+    "key": "g1b-p80-33",
+    "book": "g1b",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32-3="
+  },
+  {
+    "key": "g1b-p81-16",
+    "book": "g1b",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+15"
+  },
+  {
+    "key": "g1b-p81-26",
+    "book": "g1b",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "73-8 ="
+  },
+  {
+    "key": "g1b-p81-31",
+    "book": "g1b",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32-8 ="
+  },
+  {
+    "key": "g1b-p83-2",
+    "book": "g1b",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100-40=60"
+  },
+  {
+    "key": "g1b-p83-3",
+    "book": "g1b",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60-8=52"
+  },
+  {
+    "key": "g1b-p83-5",
+    "book": "g1b",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "99-48=51"
+  },
+  {
+    "key": "g1b-p83-6",
+    "book": "g1b",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "51+1=52"
+  },
+  {
+    "key": "g1b-p83-10",
+    "book": "g1b",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7+1"
+  },
+  {
+    "key": "g1b-p84-8",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "63-47"
+  },
+  {
+    "key": "g1b-p84-12",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72-28"
+  },
+  {
+    "key": "g1b-p84-13",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+40"
+  },
+  {
+    "key": "g1b-p84-16",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "34-26="
+  },
+  {
+    "key": "g1b-p84-17",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72-9="
+  },
+  {
+    "key": "g1b-p84-18",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32 - 17 ="
+  },
+  {
+    "key": "g1b-p84-21",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "80 -16="
+  },
+  {
+    "key": "g1b-p84-24",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "76+5="
+  },
+  {
+    "key": "g1b-p84-26",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32-7="
+  },
+  {
+    "key": "g1b-p84-27",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "37-8="
+  },
+  {
+    "key": "g1b-p84-28",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "46-7 ="
+  },
+  {
+    "key": "g1b-p84-29",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "40 +28 ="
+  },
+  {
+    "key": "g1b-p84-30",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "54+6="
+  },
+  {
+    "key": "g1b-p84-31",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "64 +7 ="
+  },
+  {
+    "key": "g1b-p84-32",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "83 - 9="
+  },
+  {
+    "key": "g1b-p84-33",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "84-5="
+  },
+  {
+    "key": "g1b-p84-34",
+    "book": "g1b",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60 + 24="
+  },
+  {
+    "key": "g1b-p85-3",
+    "book": "g1b",
+    "pdfPage": 85,
+    "printedPage": 81,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "57-19 ="
+  },
+  {
+    "key": "g1b-p85-21",
+    "book": "g1b",
+    "pdfPage": 85,
+    "printedPage": 81,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "50-13"
+  },
+  {
+    "key": "g1b-p85-22",
+    "book": "g1b",
+    "pdfPage": 85,
+    "printedPage": 81,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45 + 17"
+  },
+  {
+    "key": "g1b-p85-23",
+    "book": "g1b",
+    "pdfPage": 85,
+    "printedPage": 81,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "26-8"
+  },
+  {
+    "key": "g1b-p85-25",
+    "book": "g1b",
+    "pdfPage": 85,
+    "printedPage": 81,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16 + 24"
+  },
+  {
+    "key": "g1b-p86-7",
+    "book": "g1b",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "25 + 15"
+  },
+  {
+    "key": "g1b-p86-8",
+    "book": "g1b",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "25 +51"
+  },
+  {
+    "key": "g1b-p86-10",
+    "book": "g1b",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "35+6"
+  },
+  {
+    "key": "g1b-p86-11",
+    "book": "g1b",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+35"
+  },
+  {
+    "key": "g1b-p86-12",
+    "book": "g1b",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "76-12"
+  },
+  {
+    "key": "g1b-p86-13",
+    "book": "g1b",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "76 + 12"
+  },
+  {
+    "key": "g1b-p86-14",
+    "book": "g1b",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60 - 14"
+  },
+  {
+    "key": "g1b-p87-2",
+    "book": "g1b",
+    "pdfPage": 87,
+    "printedPage": 83,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "68 + 17 ="
+  },
+  {
+    "key": "g1b-p87-4",
+    "book": "g1b",
+    "pdfPage": 87,
+    "printedPage": 83,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "94 -48 ="
+  },
+  {
+    "key": "g1b-p87-6",
+    "book": "g1b",
+    "pdfPage": 87,
+    "printedPage": 83,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "62-18 ="
+  },
+  {
+    "key": "g1b-p87-8",
+    "book": "g1b",
+    "pdfPage": 87,
+    "printedPage": 83,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "82 - 35 ="
+  },
+  {
+    "key": "g1b-p87-10",
+    "book": "g1b",
+    "pdfPage": 87,
+    "printedPage": 83,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "38 + 25 ="
+  },
+  {
+    "key": "g1b-p88-6",
+    "book": "g1b",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100 - 19 ="
+  },
+  {
+    "key": "g1b-p90-25",
+    "book": "g1b",
+    "pdfPage": 90,
+    "printedPage": 86,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "53-8 ="
+  },
+  {
+    "key": "g1b-p90-26",
+    "book": "g1b",
+    "pdfPage": 90,
+    "printedPage": 86,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "97-6="
+  },
+  {
+    "key": "g1b-p91-10",
+    "book": "g1b",
+    "pdfPage": 91,
+    "printedPage": 87,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "29 + 34"
+  },
+  {
+    "key": "g1b-p91-15",
+    "book": "g1b",
+    "pdfPage": 91,
+    "printedPage": 87,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "57+34"
+  },
+  {
+    "key": "g1b-p91-63",
+    "book": "g1b",
+    "pdfPage": 91,
+    "printedPage": 87,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "25 + 26 ="
+  },
+  {
+    "key": "g1b-p91-64",
+    "book": "g1b",
+    "pdfPage": 91,
+    "printedPage": 87,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15 +25 ="
+  },
+  {
+    "key": "g1b-p91-67",
+    "book": "g1b",
+    "pdfPage": 91,
+    "printedPage": 87,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16 + 25 ="
+  },
+  {
+    "key": "g2a-p6-23",
+    "book": "g2a",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 + 30+ 41 ="
+  },
+  {
+    "key": "g2a-p6-26",
+    "book": "g2a",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20+ 30+40=90"
+  },
+  {
+    "key": "g2a-p6-27",
+    "book": "g2a",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+1= 5"
+  },
+  {
+    "key": "g2a-p6-28",
+    "book": "g2a",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "90+5=95"
+  },
+  {
+    "key": "g2a-p7-17",
+    "book": "g2a",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 + 16 + 27"
+  },
+  {
+    "key": "g2a-p9-14",
+    "book": "g2a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "77-33-25"
+  },
+  {
+    "key": "g2a-p9-16",
+    "book": "g2a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100 - 91-8"
+  },
+  {
+    "key": "g2a-p10-12",
+    "book": "g2a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "52-9+15="
+  },
+  {
+    "key": "g2a-p12-19",
+    "book": "g2a",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "39-13 +47"
+  },
+  {
+    "key": "g2a-p12-21",
+    "book": "g2a",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "56+21+18"
+  },
+  {
+    "key": "g2a-p22-23",
+    "book": "g2a",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4 x 6 ="
+  },
+  {
+    "key": "g2a-p24-1",
+    "book": "g2a",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2+2+2=6."
+  },
+  {
+    "key": "g2a-p24-4",
+    "book": "g2a",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3 2x3= 6."
+  },
+  {
+    "key": "g2a-p24-6",
+    "book": "g2a",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+4+4+4+4=20."
+  },
+  {
+    "key": "g2a-p24-11",
+    "book": "g2a",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4x7"
+  },
+  {
+    "key": "g2a-p25-1",
+    "book": "g2a",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2 x7="
+  },
+  {
+    "key": "g2a-p26-3",
+    "book": "g2a",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+6+6"
+  },
+  {
+    "key": "g2a-p26-5",
+    "book": "g2a",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+3+3+3+3+3"
+  },
+  {
+    "key": "g2a-p26-6",
+    "book": "g2a",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3×6"
+  },
+  {
+    "key": "g2a-p27-3",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7x3"
+  },
+  {
+    "key": "g2a-p27-4",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7+7+7"
+  },
+  {
+    "key": "g2a-p27-5",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+7"
+  },
+  {
+    "key": "g2a-p27-9",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2 1*0."
+  },
+  {
+    "key": "g2a-p27-16",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+3."
+  },
+  {
+    "key": "g2a-p27-17",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5x7"
+  },
+  {
+    "key": "g2a-p27-18",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3x2"
+  },
+  {
+    "key": "g2a-p27-20",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+6+6+6"
+  },
+  {
+    "key": "g2a-p27-21",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7x5"
+  },
+  {
+    "key": "g2a-p27-22",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7+7+7+7+7"
+  },
+  {
+    "key": "g2a-p27-23",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+3+3+3+3"
+  },
+  {
+    "key": "g2a-p27-30",
+    "book": "g2a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2x5"
+  },
+  {
+    "key": "g2a-p29-7",
+    "book": "g2a",
+    "pdfPage": 29,
+    "printedPage": 25,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+5+5+5"
+  },
+  {
+    "key": "g2a-p29-9",
+    "book": "g2a",
+    "pdfPage": 29,
+    "printedPage": 25,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+4"
+  },
+  {
+    "key": "g2a-p29-10",
+    "book": "g2a",
+    "pdfPage": 29,
+    "printedPage": 25,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4x5"
+  },
+  {
+    "key": "g2a-p31-6",
+    "book": "g2a",
+    "pdfPage": 31,
+    "printedPage": 27,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "89-35+22"
+  },
+  {
+    "key": "g2a-p34-16",
+    "book": "g2a",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5x6="
+  },
+  {
+    "key": "g2a-p36-17",
+    "book": "g2a",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2x3=6"
+  },
+  {
+    "key": "g2a-p37-33",
+    "book": "g2a",
+    "pdfPage": 37,
+    "printedPage": 33,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9 x 2="
+  },
+  {
+    "key": "g2a-p37-39",
+    "book": "g2a",
+    "pdfPage": 37,
+    "printedPage": 33,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8x5="
+  },
+  {
+    "key": "g2a-p39-8",
+    "book": "g2a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6x5="
+  },
+  {
+    "key": "g2a-p39-9",
+    "book": "g2a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15 x 9"
+  },
+  {
+    "key": "g2a-p39-17",
+    "book": "g2a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5x7036"
+  },
+  {
+    "key": "g2a-p39-18",
+    "book": "g2a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6×2010"
+  },
+  {
+    "key": "g2a-p39-26",
+    "book": "g2a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9x505x9"
+  },
+  {
+    "key": "g2a-p39-27",
+    "book": "g2a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4x509×2"
+  },
+  {
+    "key": "g2a-p39-28",
+    "book": "g2a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5×50"
+  },
+  {
+    "key": "g2a-p39-29",
+    "book": "g2a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+5"
+  },
+  {
+    "key": "g2a-p39-30",
+    "book": "g2a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9x209+9"
+  },
+  {
+    "key": "g2a-p40-16",
+    "book": "g2a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1x3=3"
+  },
+  {
+    "key": "g2a-p43-11",
+    "book": "g2a",
+    "pdfPage": 43,
+    "printedPage": 39,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10+ 10"
+  },
+  {
+    "key": "g2a-p43-30",
+    "book": "g2a",
+    "pdfPage": 43,
+    "printedPage": 39,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4×1="
+  },
+  {
+    "key": "g2a-p43-40",
+    "book": "g2a",
+    "pdfPage": 43,
+    "printedPage": 39,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7×2="
+  },
+  {
+    "key": "g2a-p46-20",
+    "book": "g2a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+4="
+  },
+  {
+    "key": "g2a-p47-13",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "17×3="
+  },
+  {
+    "key": "g2a-p47-35",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "83×6"
+  },
+  {
+    "key": "g2a-p47-36",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15x5"
+  },
+  {
+    "key": "g2a-p47-37",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "84×7"
+  },
+  {
+    "key": "g2a-p47-38",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "83×8"
+  },
+  {
+    "key": "g2a-p47-40",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "68 x2"
+  },
+  {
+    "key": "g2a-p47-41",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "84×6"
+  },
+  {
+    "key": "g2a-p47-43",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "87×2"
+  },
+  {
+    "key": "g2a-p47-44",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "84×4"
+  },
+  {
+    "key": "g2a-p47-45",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "89 x3"
+  },
+  {
+    "key": "g2a-p47-46",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18×3"
+  },
+  {
+    "key": "g2a-p47-47",
+    "book": "g2a",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "85x7"
+  },
+  {
+    "key": "g2a-p51-11",
+    "book": "g2a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+4+4="
+  },
+  {
+    "key": "g2a-p52-16",
+    "book": "g2a",
+    "pdfPage": 52,
+    "printedPage": 48,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2+2+2+2+2+2="
+  },
+  {
+    "key": "g2a-p54-0",
+    "book": "g2a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-45"
+  },
+  {
+    "key": "g2a-p71-4",
+    "book": "g2a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20÷4=5"
+  },
+  {
+    "key": "g2a-p71-9",
+    "book": "g2a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 ÷ 6="
+  },
+  {
+    "key": "g2a-p71-11",
+    "book": "g2a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 ÷ 4="
+  },
+  {
+    "key": "g2a-p71-15",
+    "book": "g2a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10÷2=5"
+  },
+  {
+    "key": "g2a-p72-13",
+    "book": "g2a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20 -5-5-5-5=0"
+  },
+  {
+    "key": "g2a-p73-13",
+    "book": "g2a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "36÷4"
+  },
+  {
+    "key": "g2a-p73-16",
+    "book": "g2a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12÷2"
+  },
+  {
+    "key": "g2a-p73-17",
+    "book": "g2a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16÷4"
+  },
+  {
+    "key": "g2a-p73-18",
+    "book": "g2a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "14÷2"
+  },
+  {
+    "key": "g2a-p73-22",
+    "book": "g2a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 ÷3"
+  },
+  {
+    "key": "g2a-p73-24",
+    "book": "g2a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "30÷5"
+  },
+  {
+    "key": "g2a-p73-27",
+    "book": "g2a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32÷8"
+  },
+  {
+    "key": "g2a-p73-28",
+    "book": "g2a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "30÷6"
+  },
+  {
+    "key": "g2a-p73-30",
+    "book": "g2a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24÷8"
+  },
+  {
+    "key": "g2a-p80-5",
+    "book": "g2a",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6÷3"
+  },
+  {
+    "key": "g2a-p80-6",
+    "book": "g2a",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4÷4"
+  },
+  {
+    "key": "g2a-p80-8",
+    "book": "g2a",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8÷4"
+  },
+  {
+    "key": "g2a-p80-12",
+    "book": "g2a",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45÷9"
+  },
+  {
+    "key": "g2a-p80-13",
+    "book": "g2a",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "25÷5"
+  },
+  {
+    "key": "g2a-p80-14",
+    "book": "g2a",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "28÷4"
+  },
+  {
+    "key": "g2a-p80-15",
+    "book": "g2a",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15÷3"
+  },
+  {
+    "key": "g2a-p81-25",
+    "book": "g2a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 +8"
+  },
+  {
+    "key": "g2a-p84-9",
+    "book": "g2a",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1 x7="
+  },
+  {
+    "key": "g2a-p84-20",
+    "book": "g2a",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7 × 7="
+  },
+  {
+    "key": "g2a-p84-26",
+    "book": "g2a",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7×6"
+  },
+  {
+    "key": "g2a-p85-16",
+    "book": "g2a",
+    "pdfPage": 85,
+    "printedPage": 81,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7x1="
+  },
+  {
+    "key": "g2a-p87-23",
+    "book": "g2a",
+    "pdfPage": 87,
+    "printedPage": 83,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9x5+9"
+  },
+  {
+    "key": "g2a-p87-37",
+    "book": "g2a",
+    "pdfPage": 87,
+    "printedPage": 83,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9 x3-3"
+  },
+  {
+    "key": "g2a-p87-38",
+    "book": "g2a",
+    "pdfPage": 87,
+    "printedPage": 83,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8×6-8"
+  },
+  {
+    "key": "g2a-p87-39",
+    "book": "g2a",
+    "pdfPage": 87,
+    "printedPage": 83,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8x6-6"
+  },
+  {
+    "key": "g2a-p88-6",
+    "book": "g2a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3x1"
+  },
+  {
+    "key": "g2a-p88-8",
+    "book": "g2a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "63X7"
+  },
+  {
+    "key": "g2a-p88-18",
+    "book": "g2a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1x1=1"
+  },
+  {
+    "key": "g2a-p89-0",
+    "book": "g2a",
+    "pdfPage": 89,
+    "printedPage": 85,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-15"
+  },
+  {
+    "key": "g2a-p89-29",
+    "book": "g2a",
+    "pdfPage": 89,
+    "printedPage": 85,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+6+9="
+  },
+  {
+    "key": "g2a-p94-22",
+    "book": "g2a",
+    "pdfPage": 94,
+    "printedPage": 90,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "42 ÷6=7."
+  },
+  {
+    "key": "g2a-p96-9",
+    "book": "g2a",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "81 ÷9="
+  },
+  {
+    "key": "g2a-p96-10",
+    "book": "g2a",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "56÷8="
+  },
+  {
+    "key": "g2a-p96-11",
+    "book": "g2a",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "54 ÷9="
+  },
+  {
+    "key": "g2a-p96-13",
+    "book": "g2a",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72÷9="
+  },
+  {
+    "key": "g2a-p96-14",
+    "book": "g2a",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "42÷7="
+  },
+  {
+    "key": "g2a-p96-15",
+    "book": "g2a",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48÷8="
+  },
+  {
+    "key": "g2a-p98-9",
+    "book": "g2a",
+    "pdfPage": 98,
+    "printedPage": 94,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32 9 +444."
+  },
+  {
+    "key": "g2a-p99-11",
+    "book": "g2a",
+    "pdfPage": 99,
+    "printedPage": 95,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "35÷7="
+  },
+  {
+    "key": "g2a-p99-12",
+    "book": "g2a",
+    "pdfPage": 99,
+    "printedPage": 95,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "56 ÷7="
+  },
+  {
+    "key": "g2a-p99-13",
+    "book": "g2a",
+    "pdfPage": 99,
+    "printedPage": 95,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8 x6="
+  },
+  {
+    "key": "g2a-p99-35",
+    "book": "g2a",
+    "pdfPage": 99,
+    "printedPage": 95,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72 ÷8="
+  },
+  {
+    "key": "g2a-p99-37",
+    "book": "g2a",
+    "pdfPage": 99,
+    "printedPage": 95,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "35 ÷5="
+  },
+  {
+    "key": "g2a-p99-38",
+    "book": "g2a",
+    "pdfPage": 99,
+    "printedPage": 95,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48÷6="
+  },
+  {
+    "key": "g2a-p103-6",
+    "book": "g2a",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "27÷3 ="
+  },
+  {
+    "key": "g2a-p103-14",
+    "book": "g2a",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16÷2 ="
+  },
+  {
+    "key": "g2a-p103-15",
+    "book": "g2a",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32÷4 ="
+  },
+  {
+    "key": "g2a-p103-16",
+    "book": "g2a",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "49÷7 ="
+  },
+  {
+    "key": "g2a-p103-17",
+    "book": "g2a",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "63÷7 ="
+  },
+  {
+    "key": "g2a-p103-19",
+    "book": "g2a",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18÷3 ="
+  },
+  {
+    "key": "g2a-p103-22",
+    "book": "g2a",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "64÷8 ="
+  },
+  {
+    "key": "g2a-p104-5",
+    "book": "g2a",
+    "pdfPage": 104,
+    "printedPage": 100,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1+28"
+  },
+  {
+    "key": "g2a-p104-25",
+    "book": "g2a",
+    "pdfPage": 104,
+    "printedPage": 100,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(1) *51"
+  },
+  {
+    "key": "g2a-p105-40",
+    "book": "g2a",
+    "pdfPage": 105,
+    "printedPage": 101,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45-14+42"
+  },
+  {
+    "key": "g2a-p107-17",
+    "book": "g2a",
+    "pdfPage": 107,
+    "printedPage": 103,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(1) *475"
+  },
+  {
+    "key": "g2b-p6-8",
+    "book": "g2b",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18-6-6-6=0"
+  },
+  {
+    "key": "g2b-p6-14",
+    "book": "g2b",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18÷6=3"
+  },
+  {
+    "key": "g2b-p6-38",
+    "book": "g2b",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18 ÷2="
+  },
+  {
+    "key": "g2b-p6-39",
+    "book": "g2b",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "63÷7 ="
+  },
+  {
+    "key": "g2b-p9-9",
+    "book": "g2b",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "14 ÷7 ="
+  },
+  {
+    "key": "g2b-p12-5",
+    "book": "g2b",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "55÷8="
+  },
+  {
+    "key": "g2b-p13-12",
+    "book": "g2b",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "34÷4="
+  },
+  {
+    "key": "g2b-p13-25",
+    "book": "g2b",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "27÷3 ="
+  },
+  {
+    "key": "g2b-p16-11",
+    "book": "g2b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "42 ÷6 ="
+  },
+  {
+    "key": "g2b-p16-14",
+    "book": "g2b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "27÷4="
+  },
+  {
+    "key": "g2b-p16-15",
+    "book": "g2b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "41÷8 ="
+  },
+  {
+    "key": "g2b-p16-16",
+    "book": "g2b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "37÷5 ="
+  },
+  {
+    "key": "g2b-p17-10",
+    "book": "g2b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "52 ÷8 ="
+  },
+  {
+    "key": "g2b-p17-25",
+    "book": "g2b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 ÷6="
+  },
+  {
+    "key": "g2b-p18-1",
+    "book": "g2b",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "17÷5"
+  },
+  {
+    "key": "g2b-p18-3",
+    "book": "g2b",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "21÷6"
+  },
+  {
+    "key": "g2b-p18-4",
+    "book": "g2b",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15 ÷6"
+  },
+  {
+    "key": "g2b-p18-5",
+    "book": "g2b",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15÷4"
+  },
+  {
+    "key": "g2b-p18-6",
+    "book": "g2b",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "11÷2"
+  },
+  {
+    "key": "g2b-p20-8",
+    "book": "g2b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32x5="
+  },
+  {
+    "key": "g2b-p20-9",
+    "book": "g2b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3x8="
+  },
+  {
+    "key": "g2b-p20-10",
+    "book": "g2b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2x9="
+  },
+  {
+    "key": "g2b-p20-14",
+    "book": "g2b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3x6="
+  },
+  {
+    "key": "g2b-p20-15",
+    "book": "g2b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10 ÷ 2="
+  },
+  {
+    "key": "g2b-p22-0",
+    "book": "g2b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-45"
+  },
+  {
+    "key": "g2b-p22-16",
+    "book": "g2b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "835÷4"
+  },
+  {
+    "key": "g2b-p22-19",
+    "book": "g2b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "19÷5="
+  },
+  {
+    "key": "g2b-p22-25",
+    "book": "g2b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "537÷4"
+  },
+  {
+    "key": "g2b-p22-26",
+    "book": "g2b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "36÷8="
+  },
+  {
+    "key": "g2b-p28-16",
+    "book": "g2b",
+    "pdfPage": 28,
+    "printedPage": 24,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "51+1"
+  },
+  {
+    "key": "g2b-p33-15",
+    "book": "g2b",
+    "pdfPage": 33,
+    "printedPage": 29,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "187-1"
+  },
+  {
+    "key": "g2b-p47-8",
+    "book": "g2b",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+8=13"
+  },
+  {
+    "key": "g2b-p47-9",
+    "book": "g2b",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "500 + 800 = 1300"
+  },
+  {
+    "key": "g2b-p47-12",
+    "book": "g2b",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+1+5+1"
+  },
+  {
+    "key": "g2b-p47-15",
+    "book": "g2b",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8-5 = 3"
+  },
+  {
+    "key": "g2b-p48-1",
+    "book": "g2b",
+    "pdfPage": 48,
+    "printedPage": 44,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "600 + 300 ="
+  },
+  {
+    "key": "g2b-p48-28",
+    "book": "g2b",
+    "pdfPage": 48,
+    "printedPage": 44,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "450 + 50 = 500"
+  },
+  {
+    "key": "g2b-p49-23",
+    "book": "g2b",
+    "pdfPage": 49,
+    "printedPage": 45,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "122 + 70 = 192"
+  },
+  {
+    "key": "g2b-p52-14",
+    "book": "g2b",
+    "pdfPage": 52,
+    "printedPage": 48,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "337 + 584 ="
+  },
+  {
+    "key": "g2b-p55-16",
+    "book": "g2b",
+    "pdfPage": 55,
+    "printedPage": 51,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "105 + 789"
+  },
+  {
+    "key": "g2b-p56-5",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "720 - 520"
+  },
+  {
+    "key": "g2b-p56-8",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "900 - 700"
+  },
+  {
+    "key": "g2b-p56-9",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "200 + 100"
+  },
+  {
+    "key": "g2b-p56-10",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "800 - 100"
+  },
+  {
+    "key": "g2b-p56-11",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "500 + 400"
+  },
+  {
+    "key": "g2b-p56-13",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "300 + 300"
+  },
+  {
+    "key": "g2b-p56-14",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "650 + 50"
+  },
+  {
+    "key": "g2b-p56-15",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "827-27"
+  },
+  {
+    "key": "g2b-p56-17",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "967-67"
+  },
+  {
+    "key": "g2b-p56-18",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1000-500"
+  },
+  {
+    "key": "g2b-p56-20",
+    "book": "g2b",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "500- 100"
+  },
+  {
+    "key": "g2b-p58-20",
+    "book": "g2b",
+    "pdfPage": 58,
+    "printedPage": 54,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "299-76=223"
+  },
+  {
+    "key": "g2b-p59-6",
+    "book": "g2b",
+    "pdfPage": 59,
+    "printedPage": 55,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1804 - 379"
+  },
+  {
+    "key": "g2b-p59-7",
+    "book": "g2b",
+    "pdfPage": 59,
+    "printedPage": 55,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "630-345"
+  },
+  {
+    "key": "g2b-p59-8",
+    "book": "g2b",
+    "pdfPage": 59,
+    "printedPage": 55,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "700 - 224"
+  },
+  {
+    "key": "g2b-p59-10",
+    "book": "g2b",
+    "pdfPage": 59,
+    "printedPage": 55,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "305-206"
+  },
+  {
+    "key": "g2b-p61-20",
+    "book": "g2b",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "515-41=474"
+  },
+  {
+    "key": "g2b-p63-6",
+    "book": "g2b",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "75 x2"
+  },
+  {
+    "key": "g2b-p63-16",
+    "book": "g2b",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "132 x2"
+  },
+  {
+    "key": "g2b-p63-24",
+    "book": "g2b",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "500 - 222"
+  },
+  {
+    "key": "g2b-p63-25",
+    "book": "g2b",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "278 + 628"
+  },
+  {
+    "key": "g2b-p63-26",
+    "book": "g2b",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "275 + 225"
+  },
+  {
+    "key": "g2b-p63-27",
+    "book": "g2b",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "906-345"
+  },
+  {
+    "key": "g2b-p65-16",
+    "book": "g2b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "532 - 235 = 297"
+  },
+  {
+    "key": "g2b-p65-17",
+    "book": "g2b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "972 - 279 = 693"
+  },
+  {
+    "key": "g2b-p65-21",
+    "book": "g2b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "321 - 123 = 198"
+  },
+  {
+    "key": "g2b-p65-22",
+    "book": "g2b",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "981 - 189 = 792"
+  },
+  {
+    "key": "g2b-p68-8",
+    "book": "g2b",
+    "pdfPage": 68,
+    "printedPage": 64,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "192 +275="
+  },
+  {
+    "key": "g2b-p74-1",
+    "book": "g2b",
+    "pdfPage": 74,
+    "printedPage": 70,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.1-1"
+  },
+  {
+    "key": "g2b-p93-2",
+    "book": "g2b",
+    "pdfPage": 93,
+    "printedPage": 89,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "174.+7"
+  },
+  {
+    "key": "g2b-p94-7",
+    "book": "g2b",
+    "pdfPage": 94,
+    "printedPage": 90,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "320 - 157 ="
+  },
+  {
+    "key": "g2b-p98-14",
+    "book": "g2b",
+    "pdfPage": 98,
+    "printedPage": 94,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1. 4-1"
+  },
+  {
+    "key": "g3a-p6-25",
+    "book": "g3a",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3x4+6"
+  },
+  {
+    "key": "g3a-p6-26",
+    "book": "g3a",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+3×4"
+  },
+  {
+    "key": "g3a-p7-9",
+    "book": "g3a",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20-2 x 7"
+  },
+  {
+    "key": "g3a-p7-18",
+    "book": "g3a",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "54+36-18"
+  },
+  {
+    "key": "g3a-p7-20",
+    "book": "g3a",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100 -75 + 25"
+  },
+  {
+    "key": "g3a-p8-14",
+    "book": "g3a",
+    "pdfPage": 8,
+    "printedPage": 4,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "50-4×5"
+  },
+  {
+    "key": "g3a-p9-14",
+    "book": "g3a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18-3+4"
+  },
+  {
+    "key": "g3a-p9-19",
+    "book": "g3a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3-10÷5"
+  },
+  {
+    "key": "g3a-p9-25",
+    "book": "g3a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3x5+8"
+  },
+  {
+    "key": "g3a-p9-32",
+    "book": "g3a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "25-20÷5"
+  },
+  {
+    "key": "g3a-p10-3",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4*7"
+  },
+  {
+    "key": "g3a-p10-6",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16÷2="
+  },
+  {
+    "key": "g3a-p10-7",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16 ÷2 -7"
+  },
+  {
+    "key": "g3a-p10-10",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3x7+12"
+  },
+  {
+    "key": "g3a-p10-11",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15-12÷4"
+  },
+  {
+    "key": "g3a-p10-18",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4 + 24÷8"
+  },
+  {
+    "key": "g3a-p10-20",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72÷8-3"
+  },
+  {
+    "key": "g3a-p10-21",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "86-6x8"
+  },
+  {
+    "key": "g3a-p10-22",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5-8÷4"
+  },
+  {
+    "key": "g3a-p10-23",
+    "book": "g3a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9+81÷9"
+  },
+  {
+    "key": "g3a-p11-8",
+    "book": "g3a",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9+18÷6"
+  },
+  {
+    "key": "g3a-p11-11",
+    "book": "g3a",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 + 40÷8"
+  },
+  {
+    "key": "g3a-p11-13",
+    "book": "g3a",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15-6x2"
+  },
+  {
+    "key": "g3a-p11-15",
+    "book": "g3a",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "35÷5-4"
+  },
+  {
+    "key": "g3a-p11-18",
+    "book": "g3a",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45÷5+14"
+  },
+  {
+    "key": "g3a-p11-19",
+    "book": "g3a",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72÷9-8"
+  },
+  {
+    "key": "g3a-p11-22",
+    "book": "g3a",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45 + 15÷3"
+  },
+  {
+    "key": "g3a-p11-23",
+    "book": "g3a",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15-48÷8"
+  },
+  {
+    "key": "g3a-p12-20",
+    "book": "g3a",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(29 +25) ÷9"
+  },
+  {
+    "key": "g3a-p13-5",
+    "book": "g3a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(70-46)÷8"
+  },
+  {
+    "key": "g3a-p13-15",
+    "book": "g3a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-45"
+  },
+  {
+    "key": "g3a-p13-26",
+    "book": "g3a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(46 +17)÷7"
+  },
+  {
+    "key": "g3a-p13-27",
+    "book": "g3a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "81 ÷ (16-7)"
+  },
+  {
+    "key": "g3a-p15-16",
+    "book": "g3a",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "49 -3×8"
+  },
+  {
+    "key": "g3a-p15-19",
+    "book": "g3a",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100 - (72 +28)"
+  },
+  {
+    "key": "g3a-p15-23",
+    "book": "g3a",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(6 +57) ÷9"
+  },
+  {
+    "key": "g3a-p15-25",
+    "book": "g3a",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(100 -46) ÷ 6"
+  },
+  {
+    "key": "g3a-p15-26",
+    "book": "g3a",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "63-27÷3"
+  },
+  {
+    "key": "g3a-p15-29",
+    "book": "g3a",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(35 +28) ÷7"
+  },
+  {
+    "key": "g3a-p16-13",
+    "book": "g3a",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48 ÷ (8-2)"
+  },
+  {
+    "key": "g3a-p16-17",
+    "book": "g3a",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2-1 =1"
+  },
+  {
+    "key": "g3a-p16-20",
+    "book": "g3a",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+2=8"
+  },
+  {
+    "key": "g3a-p21-20",
+    "book": "g3a",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100 + 100 + 100 = 300"
+  },
+  {
+    "key": "g3a-p21-21",
+    "book": "g3a",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18+4-5=17"
+  },
+  {
+    "key": "g3a-p21-49",
+    "book": "g3a",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "103+109+98"
+  },
+  {
+    "key": "g3a-p24-32",
+    "book": "g3a",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "456-278-132"
+  },
+  {
+    "key": "g3a-p24-33",
+    "book": "g3a",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "930 -(80 + 480)"
+  },
+  {
+    "key": "g3a-p25-13",
+    "book": "g3a",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "800 -745+185"
+  },
+  {
+    "key": "g3a-p25-27",
+    "book": "g3a",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "260 +230="
+  },
+  {
+    "key": "g3a-p25-28",
+    "book": "g3a",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "260+(260-30)"
+  },
+  {
+    "key": "g3a-p27-16",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "195 + 165 + 105"
+  },
+  {
+    "key": "g3a-p27-18",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "700- 280"
+  },
+  {
+    "key": "g3a-p27-20",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "650 + 130"
+  },
+  {
+    "key": "g3a-p27-21",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "900 - 701"
+  },
+  {
+    "key": "g3a-p27-22",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "690 + 210 - 450"
+  },
+  {
+    "key": "g3a-p27-23",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "28 + 350 + 50"
+  },
+  {
+    "key": "g3a-p27-27",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "920-320 -150"
+  },
+  {
+    "key": "g3a-p27-28",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "210 +120 +240"
+  },
+  {
+    "key": "g3a-p27-29",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "875 -470"
+  },
+  {
+    "key": "g3a-p27-31",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "649 -400"
+  },
+  {
+    "key": "g3a-p27-32",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100 + 349"
+  },
+  {
+    "key": "g3a-p27-33",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "420 + 58"
+  },
+  {
+    "key": "g3a-p27-34",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "235 + 65 + 180"
+  },
+  {
+    "key": "g3a-p27-35",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1000 - 567"
+  },
+  {
+    "key": "g3a-p27-40",
+    "book": "g3a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "748 + 22"
+  },
+  {
+    "key": "g3a-p29-11",
+    "book": "g3a",
+    "pdfPage": 29,
+    "printedPage": 25,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "800 - 672"
+  },
+  {
+    "key": "g3a-p30-35",
+    "book": "g3a",
+    "pdfPage": 30,
+    "printedPage": 26,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "745-555="
+  },
+  {
+    "key": "g3a-p31-0",
+    "book": "g3a",
+    "pdfPage": 31,
+    "printedPage": 27,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45-44"
+  },
+  {
+    "key": "g3a-p31-24",
+    "book": "g3a",
+    "pdfPage": 31,
+    "printedPage": 27,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "950 - 902"
+  },
+  {
+    "key": "g3a-p34-9",
+    "book": "g3a",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20×3=60"
+  },
+  {
+    "key": "g3a-p34-14",
+    "book": "g3a",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "500 x 3 = 1500"
+  },
+  {
+    "key": "g3a-p36-16",
+    "book": "g3a",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18+18=36"
+  },
+  {
+    "key": "g3a-p36-26",
+    "book": "g3a",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10x4=40"
+  },
+  {
+    "key": "g3a-p36-35",
+    "book": "g3a",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2x4=8"
+  },
+  {
+    "key": "g3a-p36-36",
+    "book": "g3a",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8x9 =72"
+  },
+  {
+    "key": "g3a-p37-15",
+    "book": "g3a",
+    "pdfPage": 37,
+    "printedPage": 33,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4 ×4="
+  },
+  {
+    "key": "g3a-p38-4",
+    "book": "g3a",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60 ÷ 2 = 30"
+  },
+  {
+    "key": "g3a-p38-5",
+    "book": "g3a",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6÷2=3"
+  },
+  {
+    "key": "g3a-p38-14",
+    "book": "g3a",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "420 ÷ 7 ="
+  },
+  {
+    "key": "g3a-p38-15",
+    "book": "g3a",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4200 ÷ 7 ="
+  },
+  {
+    "key": "g3a-p38-16",
+    "book": "g3a",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "35 ÷5="
+  },
+  {
+    "key": "g3a-p38-17",
+    "book": "g3a",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "350 ÷5 ="
+  },
+  {
+    "key": "g3a-p38-18",
+    "book": "g3a",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3500 ÷5 ="
+  },
+  {
+    "key": "g3a-p39-8",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "80 ÷2 ="
+  },
+  {
+    "key": "g3a-p39-10",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60÷ 3"
+  },
+  {
+    "key": "g3a-p39-11",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "560 ÷7"
+  },
+  {
+    "key": "g3a-p39-13",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "200 ÷ 5"
+  },
+  {
+    "key": "g3a-p39-14",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "900 ÷ 3"
+  },
+  {
+    "key": "g3a-p39-15",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "240÷8"
+  },
+  {
+    "key": "g3a-p39-16",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "210 ÷3"
+  },
+  {
+    "key": "g3a-p39-17",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "120 ÷ 4"
+  },
+  {
+    "key": "g3a-p39-18",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "270÷9"
+  },
+  {
+    "key": "g3a-p39-19",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "420 ÷ (25 - 19)"
+  },
+  {
+    "key": "g3a-p39-20",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "30÷6+25"
+  },
+  {
+    "key": "g3a-p39-21",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100-70÷7"
+  },
+  {
+    "key": "g3a-p39-25",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20x3÷6"
+  },
+  {
+    "key": "g3a-p39-26",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "78 + 600 ÷ 3"
+  },
+  {
+    "key": "g3a-p39-27",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(48 +52) ÷5"
+  },
+  {
+    "key": "g3a-p39-28",
+    "book": "g3a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "180÷9-18"
+  },
+  {
+    "key": "g3a-p40-7",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "30÷3= 10"
+  },
+  {
+    "key": "g3a-p40-8",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6÷3=2"
+  },
+  {
+    "key": "g3a-p40-12",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "40÷4=10"
+  },
+  {
+    "key": "g3a-p40-13",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8÷4 =2"
+  },
+  {
+    "key": "g3a-p40-17",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "33÷3="
+  },
+  {
+    "key": "g3a-p40-18",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "36÷3="
+  },
+  {
+    "key": "g3a-p40-19",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "39 ÷3="
+  },
+  {
+    "key": "g3a-p40-21",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "44 ÷4 = 11"
+  },
+  {
+    "key": "g3a-p40-22",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48÷4= 12"
+  },
+  {
+    "key": "g3a-p40-25",
+    "book": "g3a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1 52÷4."
+  },
+  {
+    "key": "g3a-p41-1",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "46 ÷2="
+  },
+  {
+    "key": "g3a-p41-3",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "40 ÷2="
+  },
+  {
+    "key": "g3a-p41-12",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "84 ÷4"
+  },
+  {
+    "key": "g3a-p41-13",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "400÷ 8"
+  },
+  {
+    "key": "g3a-p41-14",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "46÷1"
+  },
+  {
+    "key": "g3a-p41-15",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "42÷2"
+  },
+  {
+    "key": "g3a-p41-16",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "630 ÷ 9"
+  },
+  {
+    "key": "g3a-p41-18",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100÷5"
+  },
+  {
+    "key": "g3a-p41-19",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "720÷ 8"
+  },
+  {
+    "key": "g3a-p41-21",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "86 ÷2"
+  },
+  {
+    "key": "g3a-p41-29",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "63 ÷ 3=21"
+  },
+  {
+    "key": "g3a-p41-30",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "66 ÷3 =22"
+  },
+  {
+    "key": "g3a-p41-31",
+    "book": "g3a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "69 ÷ 3 =23"
+  },
+  {
+    "key": "g3a-p42-12",
+    "book": "g3a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16× 5"
+  },
+  {
+    "key": "g3a-p42-14",
+    "book": "g3a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3x7="
+  },
+  {
+    "key": "g3a-p42-18",
+    "book": "g3a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "96÷3="
+  },
+  {
+    "key": "g3a-p42-27",
+    "book": "g3a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "88÷4"
+  },
+  {
+    "key": "g3a-p42-29",
+    "book": "g3a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "400÷ 5"
+  },
+  {
+    "key": "g3a-p42-30",
+    "book": "g3a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "62÷2"
+  },
+  {
+    "key": "g3a-p42-31",
+    "book": "g3a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "63÷9="
+  },
+  {
+    "key": "g3a-p42-33",
+    "book": "g3a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6300 ÷ 9 ="
+  },
+  {
+    "key": "g3a-p44-21",
+    "book": "g3a",
+    "pdfPage": 44,
+    "printedPage": 40,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(23+25)÷4"
+  },
+  {
+    "key": "g3a-p45-16",
+    "book": "g3a",
+    "pdfPage": 45,
+    "printedPage": 41,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "628 ÷4="
+  },
+  {
+    "key": "g3a-p46-17",
+    "book": "g3a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "126 - 96 ÷ 3"
+  },
+  {
+    "key": "g3a-p46-20",
+    "book": "g3a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 x 7"
+  },
+  {
+    "key": "g3a-p46-21",
+    "book": "g3a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "68÷2"
+  },
+  {
+    "key": "g3a-p46-22",
+    "book": "g3a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "99÷9"
+  },
+  {
+    "key": "g3a-p46-23",
+    "book": "g3a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "80÷4 +36"
+  },
+  {
+    "key": "g3a-p46-25",
+    "book": "g3a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "720 ÷9"
+  },
+  {
+    "key": "g3a-p46-28",
+    "book": "g3a",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(83-35)÷4"
+  },
+  {
+    "key": "g3a-p56-5",
+    "book": "g3a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24x2=48"
+  },
+  {
+    "key": "g3a-p56-6",
+    "book": "g3a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12x 2 = 24"
+  },
+  {
+    "key": "g3a-p56-9",
+    "book": "g3a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "40 +8=48"
+  },
+  {
+    "key": "g3a-p57-0",
+    "book": "g3a",
+    "pdfPage": 57,
+    "printedPage": 53,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15-4"
+  },
+  {
+    "key": "g3a-p57-27",
+    "book": "g3a",
+    "pdfPage": 57,
+    "printedPage": 53,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "147*4"
+  },
+  {
+    "key": "g3a-p58-20",
+    "book": "g3a",
+    "pdfPage": 58,
+    "printedPage": 54,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "50 +10 = 60"
+  },
+  {
+    "key": "g3a-p59-26",
+    "book": "g3a",
+    "pdfPage": 59,
+    "printedPage": 55,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16 X 50"
+  },
+  {
+    "key": "g3a-p60-10",
+    "book": "g3a",
+    "pdfPage": 60,
+    "printedPage": 56,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "70×5=350"
+  },
+  {
+    "key": "g3a-p60-27",
+    "book": "g3a",
+    "pdfPage": 60,
+    "printedPage": 56,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100x 7 = 700"
+  },
+  {
+    "key": "g3a-p60-29",
+    "book": "g3a",
+    "pdfPage": 60,
+    "printedPage": 56,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8x7=56"
+  },
+  {
+    "key": "g3a-p60-30",
+    "book": "g3a",
+    "pdfPage": 60,
+    "printedPage": 56,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "700+70+56=826"
+  },
+  {
+    "key": "g3a-p61-24",
+    "book": "g3a",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48 ×4"
+  },
+  {
+    "key": "g3a-p61-25",
+    "book": "g3a",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "29x 8"
+  },
+  {
+    "key": "g3a-p61-27",
+    "book": "g3a",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24x7"
+  },
+  {
+    "key": "g3a-p61-28",
+    "book": "g3a",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "71 ×3"
+  },
+  {
+    "key": "g3a-p62-16",
+    "book": "g3a",
+    "pdfPage": 62,
+    "printedPage": 58,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "115 x4="
+  },
+  {
+    "key": "g3a-p64-6",
+    "book": "g3a",
+    "pdfPage": 64,
+    "printedPage": 60,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1x5 = 5"
+  },
+  {
+    "key": "g3a-p65-19",
+    "book": "g3a",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "105 × 6"
+  },
+  {
+    "key": "g3a-p65-20",
+    "book": "g3a",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "180 x 4"
+  },
+  {
+    "key": "g3a-p65-25",
+    "book": "g3a",
+    "pdfPage": 65,
+    "printedPage": 61,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "140 × 70"
+  },
+  {
+    "key": "g3a-p66-13",
+    "book": "g3a",
+    "pdfPage": 66,
+    "printedPage": 62,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24x3 ×21."
+  },
+  {
+    "key": "g3a-p67-8",
+    "book": "g3a",
+    "pdfPage": 67,
+    "printedPage": 63,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32+17x3"
+  },
+  {
+    "key": "g3a-p69-22",
+    "book": "g3a",
+    "pdfPage": 69,
+    "printedPage": 65,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12x616x2"
+  },
+  {
+    "key": "g3a-p69-24",
+    "book": "g3a",
+    "pdfPage": 69,
+    "printedPage": 65,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "25 X4"
+  },
+  {
+    "key": "g3a-p69-25",
+    "book": "g3a",
+    "pdfPage": 69,
+    "printedPage": 65,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 X 5"
+  },
+  {
+    "key": "g3a-p69-26",
+    "book": "g3a",
+    "pdfPage": 69,
+    "printedPage": 65,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16x5 15x6"
+  },
+  {
+    "key": "g3a-p74-10",
+    "book": "g3a",
+    "pdfPage": 74,
+    "printedPage": 70,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7* 14"
+  },
+  {
+    "key": "g3a-p75-0",
+    "book": "g3a",
+    "pdfPage": 75,
+    "printedPage": 71,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45-45"
+  },
+  {
+    "key": "g3a-p77-0",
+    "book": "g3a",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45-15"
+  },
+  {
+    "key": "g3a-p86-16",
+    "book": "g3a",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "17 4* 7-17."
+  },
+  {
+    "key": "g3a-p96-16",
+    "book": "g3a",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72÷8+75"
+  },
+  {
+    "key": "g3a-p98-10",
+    "book": "g3a",
+    "pdfPage": 98,
+    "printedPage": 94,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "28 x3 ="
+  },
+  {
+    "key": "g3a-p98-12",
+    "book": "g3a",
+    "pdfPage": 98,
+    "printedPage": 94,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "400÷ 8- 45 ="
+  },
+  {
+    "key": "g3a-p98-24",
+    "book": "g3a",
+    "pdfPage": 98,
+    "printedPage": 94,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "320 ÷ 4 ="
+  },
+  {
+    "key": "g3a-p98-27",
+    "book": "g3a",
+    "pdfPage": 98,
+    "printedPage": 94,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "66 ÷6 ="
+  },
+  {
+    "key": "g3a-p99-33",
+    "book": "g3a",
+    "pdfPage": 99,
+    "printedPage": 95,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5 × 4"
+  },
+  {
+    "key": "g3a-p99-48",
+    "book": "g3a",
+    "pdfPage": 99,
+    "printedPage": 95,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45+ 55÷5"
+  },
+  {
+    "key": "g3b-p6-20",
+    "book": "g3b",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60 ÷ 2=30"
+  },
+  {
+    "key": "g3b-p6-21",
+    "book": "g3b",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8÷2=4"
+  },
+  {
+    "key": "g3b-p8-13",
+    "book": "g3b",
+    "pdfPage": 8,
+    "printedPage": 4,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "30 ÷3=10"
+  },
+  {
+    "key": "g3b-p8-14",
+    "book": "g3b",
+    "pdfPage": 8,
+    "printedPage": 4,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18÷3=6"
+  },
+  {
+    "key": "g3b-p8-15",
+    "book": "g3b",
+    "pdfPage": 8,
+    "printedPage": 4,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10 + 6 = 16"
+  },
+  {
+    "key": "g3b-p10-16",
+    "book": "g3b",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48÷6=8"
+  },
+  {
+    "key": "g3b-p10-17",
+    "book": "g3b",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "565÷5="
+  },
+  {
+    "key": "g3b-p10-18",
+    "book": "g3b",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "600 ÷ 6=100"
+  },
+  {
+    "key": "g3b-p10-19",
+    "book": "g3b",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "240 ÷ 6 =40"
+  },
+  {
+    "key": "g3b-p10-22",
+    "book": "g3b",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "456÷3="
+  },
+  {
+    "key": "g3b-p10-23",
+    "book": "g3b",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "784 ÷ 7="
+  },
+  {
+    "key": "g3b-p11-0",
+    "book": "g3b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "348÷2="
+  },
+  {
+    "key": "g3b-p11-1",
+    "book": "g3b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "868÷ 7="
+  },
+  {
+    "key": "g3b-p11-6",
+    "book": "g3b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "369 ÷3="
+  },
+  {
+    "key": "g3b-p11-8",
+    "book": "g3b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "524÷4="
+  },
+  {
+    "key": "g3b-p11-9",
+    "book": "g3b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "636 ÷4="
+  },
+  {
+    "key": "g3b-p11-10",
+    "book": "g3b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "396 ÷ 3 ="
+  },
+  {
+    "key": "g3b-p11-11",
+    "book": "g3b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "885 ÷5="
+  },
+  {
+    "key": "g3b-p11-12",
+    "book": "g3b",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "896 ÷ 8 ="
+  },
+  {
+    "key": "g3b-p12-1",
+    "book": "g3b",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6÷3="
+  },
+  {
+    "key": "g3b-p12-6",
+    "book": "g3b",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "300 ÷ 3=100"
+  },
+  {
+    "key": "g3b-p13-4",
+    "book": "g3b",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "420 ÷ 3 ="
+  },
+  {
+    "key": "g3b-p13-6",
+    "book": "g3b",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "880÷4="
+  },
+  {
+    "key": "g3b-p13-15",
+    "book": "g3b",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "174 0÷2=0."
+  },
+  {
+    "key": "g3b-p13-18",
+    "book": "g3b",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "780 ÷6="
+  },
+  {
+    "key": "g3b-p13-19",
+    "book": "g3b",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "309 ÷ 3 ="
+  },
+  {
+    "key": "g3b-p14-6",
+    "book": "g3b",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "900 ÷ 3 = 300"
+  },
+  {
+    "key": "g3b-p14-7",
+    "book": "g3b",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12÷ 3=4"
+  },
+  {
+    "key": "g3b-p15-1",
+    "book": "g3b",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "502÷2="
+  },
+  {
+    "key": "g3b-p15-22",
+    "book": "g3b",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "315÷3="
+  },
+  {
+    "key": "g3b-p15-23",
+    "book": "g3b",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "960 ÷8="
+  },
+  {
+    "key": "g3b-p15-24",
+    "book": "g3b",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "805 ÷5="
+  },
+  {
+    "key": "g3b-p15-32",
+    "book": "g3b",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "624 ÷6="
+  },
+  {
+    "key": "g3b-p15-33",
+    "book": "g3b",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "704 ÷ 5 ="
+  },
+  {
+    "key": "g3b-p16-17",
+    "book": "g3b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "621 ÷3 ="
+  },
+  {
+    "key": "g3b-p16-18",
+    "book": "g3b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "905 ÷ 5 ="
+  },
+  {
+    "key": "g3b-p16-25",
+    "book": "g3b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "432÷4="
+  },
+  {
+    "key": "g3b-p16-26",
+    "book": "g3b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "630÷6="
+  },
+  {
+    "key": "g3b-p16-43",
+    "book": "g3b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "814 ÷2="
+  },
+  {
+    "key": "g3b-p16-44",
+    "book": "g3b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "604 ÷ 4 ="
+  },
+  {
+    "key": "g3b-p17-11",
+    "book": "g3b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72÷3"
+  },
+  {
+    "key": "g3b-p17-12",
+    "book": "g3b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "456 ÷4="
+  },
+  {
+    "key": "g3b-p17-13",
+    "book": "g3b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "402 ÷2="
+  },
+  {
+    "key": "g3b-p17-14",
+    "book": "g3b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "612 ÷ 2="
+  },
+  {
+    "key": "g3b-p17-16",
+    "book": "g3b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "734÷2="
+  },
+  {
+    "key": "g3b-p17-17",
+    "book": "g3b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "636÷6="
+  },
+  {
+    "key": "g3b-p17-37",
+    "book": "g3b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "812÷4="
+  },
+  {
+    "key": "g3b-p17-38",
+    "book": "g3b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "525÷5="
+  },
+  {
+    "key": "g3b-p18-4",
+    "book": "g3b",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "510÷5"
+  },
+  {
+    "key": "g3b-p18-12",
+    "book": "g3b",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "360 ÷2"
+  },
+  {
+    "key": "g3b-p20-0",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15-2"
+  },
+  {
+    "key": "g3b-p20-8",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "355÷5="
+  },
+  {
+    "key": "g3b-p20-9",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "156÷4="
+  },
+  {
+    "key": "g3b-p20-10",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "164÷ 4="
+  },
+  {
+    "key": "g3b-p20-11",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "846 ÷6 ="
+  },
+  {
+    "key": "g3b-p20-15",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "96÷8"
+  },
+  {
+    "key": "g3b-p20-16",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "96÷6"
+  },
+  {
+    "key": "g3b-p20-17",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "90÷5"
+  },
+  {
+    "key": "g3b-p20-18",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "80÷5"
+  },
+  {
+    "key": "g3b-p20-25",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "364 ÷ 7="
+  },
+  {
+    "key": "g3b-p20-27",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "906 ÷ 6 ="
+  },
+  {
+    "key": "g3b-p20-28",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "120÷ 4"
+  },
+  {
+    "key": "g3b-p20-29",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "156÷3"
+  },
+  {
+    "key": "g3b-p20-30",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "240 ÷ 8"
+  },
+  {
+    "key": "g3b-p20-31",
+    "book": "g3b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "745÷5"
+  },
+  {
+    "key": "g3b-p21-19",
+    "book": "g3b",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "200 ÷2=100"
+  },
+  {
+    "key": "g3b-p21-21",
+    "book": "g3b",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "200÷2÷4"
+  },
+  {
+    "key": "g3b-p21-27",
+    "book": "g3b",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "200 ÷ (2x4)"
+  },
+  {
+    "key": "g3b-p22-8",
+    "book": "g3b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "756 ÷7÷6"
+  },
+  {
+    "key": "g3b-p22-9",
+    "book": "g3b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "801 ÷ (3 x3)"
+  },
+  {
+    "key": "g3b-p22-11",
+    "book": "g3b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "160 ÷ 2"
+  },
+  {
+    "key": "g3b-p22-13",
+    "book": "g3b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "240÷5"
+  },
+  {
+    "key": "g3b-p22-14",
+    "book": "g3b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "96 ÷3"
+  },
+  {
+    "key": "g3b-p22-26",
+    "book": "g3b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "624 ÷ (2 x3)"
+  },
+  {
+    "key": "g3b-p23-12",
+    "book": "g3b",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "850÷5x3"
+  },
+  {
+    "key": "g3b-p24-8",
+    "book": "g3b",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "960÷6x4"
+  },
+  {
+    "key": "g3b-p24-12",
+    "book": "g3b",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "735÷5÷7"
+  },
+  {
+    "key": "g3b-p24-13",
+    "book": "g3b",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "800 ÷ (2x4)"
+  },
+  {
+    "key": "g3b-p25-13",
+    "book": "g3b",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "582÷4="
+  },
+  {
+    "key": "g3b-p25-15",
+    "book": "g3b",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "515 ÷5="
+  },
+  {
+    "key": "g3b-p25-16",
+    "book": "g3b",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "330 ÷ 8="
+  },
+  {
+    "key": "g3b-p25-18",
+    "book": "g3b",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "411 ÷6="
+  },
+  {
+    "key": "g3b-p25-21",
+    "book": "g3b",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "960 ÷6="
+  },
+  {
+    "key": "g3b-p25-22",
+    "book": "g3b",
+    "pdfPage": 25,
+    "printedPage": 21,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "243 ÷ 3 ="
+  },
+  {
+    "key": "g3b-p26-0",
+    "book": "g3b",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "721 ÷7x5"
+  },
+  {
+    "key": "g3b-p26-1",
+    "book": "g3b",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60 + 124 ÷2"
+  },
+  {
+    "key": "g3b-p26-2",
+    "book": "g3b",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "198÷9÷2"
+  },
+  {
+    "key": "g3b-p26-3",
+    "book": "g3b",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "200 - 700 ÷ 5"
+  },
+  {
+    "key": "g3b-p26-4",
+    "book": "g3b",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "16 x8 ÷4"
+  },
+  {
+    "key": "g3b-p26-5",
+    "book": "g3b",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "720 ÷ (3 x2)"
+  },
+  {
+    "key": "g3b-p30-4",
+    "book": "g3b",
+    "pdfPage": 30,
+    "printedPage": 26,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10173-1."
+  },
+  {
+    "key": "g3b-p34-2",
+    "book": "g3b",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5x1="
+  },
+  {
+    "key": "g3b-p34-3",
+    "book": "g3b",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5 × 10="
+  },
+  {
+    "key": "g3b-p34-18",
+    "book": "g3b",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12×40480"
+  },
+  {
+    "key": "g3b-p36-7",
+    "book": "g3b",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "14×12"
+  },
+  {
+    "key": "g3b-p36-11",
+    "book": "g3b",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "14x10=140"
+  },
+  {
+    "key": "g3b-p36-12",
+    "book": "g3b",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "14x2=28"
+  },
+  {
+    "key": "g3b-p36-13",
+    "book": "g3b",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "140+28=168"
+  },
+  {
+    "key": "g3b-p36-15",
+    "book": "g3b",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10x4 = 40"
+  },
+  {
+    "key": "g3b-p36-16",
+    "book": "g3b",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10 x 2 = 20"
+  },
+  {
+    "key": "g3b-p36-17",
+    "book": "g3b",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2x4=8"
+  },
+  {
+    "key": "g3b-p36-18",
+    "book": "g3b",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100+40+20+8=168"
+  },
+  {
+    "key": "g3b-p39-0",
+    "book": "g3b",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-45"
+  },
+  {
+    "key": "g3b-p40-4",
+    "book": "g3b",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20 x 26= 520"
+  },
+  {
+    "key": "g3b-p40-5",
+    "book": "g3b",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1 x 26=26"
+  },
+  {
+    "key": "g3b-p40-20",
+    "book": "g3b",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "400+120+20+6=546"
+  },
+  {
+    "key": "g3b-p41-14",
+    "book": "g3b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "38 x 25 ="
+  },
+  {
+    "key": "g3b-p42-50",
+    "book": "g3b",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "77 × 17"
+  },
+  {
+    "key": "g3b-p45-18",
+    "book": "g3b",
+    "pdfPage": 45,
+    "printedPage": 41,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "123 × 21"
+  },
+  {
+    "key": "g3b-p46-2",
+    "book": "g3b",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "488 ÷4"
+  },
+  {
+    "key": "g3b-p46-19",
+    "book": "g3b",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "84÷7"
+  },
+  {
+    "key": "g3b-p46-20",
+    "book": "g3b",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "603 ÷ 3"
+  },
+  {
+    "key": "g3b-p46-22",
+    "book": "g3b",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "942÷3"
+  },
+  {
+    "key": "g3b-p46-34",
+    "book": "g3b",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "560 ÷5"
+  },
+  {
+    "key": "g3b-p46-35",
+    "book": "g3b",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "912÷8"
+  },
+  {
+    "key": "g3b-p46-37",
+    "book": "g3b",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "306 ÷ 3"
+  },
+  {
+    "key": "g3b-p46-38",
+    "book": "g3b",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "416÷4"
+  },
+  {
+    "key": "g3b-p47-1",
+    "book": "g3b",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "702÷2÷3"
+  },
+  {
+    "key": "g3b-p47-3",
+    "book": "g3b",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "105 x 2÷5"
+  },
+  {
+    "key": "g3b-p47-4",
+    "book": "g3b",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "118 x2÷4"
+  },
+  {
+    "key": "g3b-p47-5",
+    "book": "g3b",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "816÷4÷2"
+  },
+  {
+    "key": "g3b-p47-6",
+    "book": "g3b",
+    "pdfPage": 47,
+    "printedPage": 43,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7× 280÷4"
+  },
+  {
+    "key": "g3b-p49-10",
+    "book": "g3b",
+    "pdfPage": 49,
+    "printedPage": 45,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "451+2."
+  },
+  {
+    "key": "g3b-p78-0",
+    "book": "g3b",
+    "pdfPage": 78,
+    "printedPage": 74,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "25-25"
+  },
+  {
+    "key": "g3b-p82-5",
+    "book": "g3b",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8+8="
+  },
+  {
+    "key": "g3b-p88-17",
+    "book": "g3b",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72712 +212"
+  },
+  {
+    "key": "g3b-p90-11",
+    "book": "g3b",
+    "pdfPage": 90,
+    "printedPage": 86,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "693 ÷ 3="
+  },
+  {
+    "key": "g3b-p91-23",
+    "book": "g3b",
+    "pdfPage": 91,
+    "printedPage": 87,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "96 ÷4 ="
+  },
+  {
+    "key": "g3b-p91-24",
+    "book": "g3b",
+    "pdfPage": 91,
+    "printedPage": 87,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "484 ÷4="
+  },
+  {
+    "key": "g3b-p92-9",
+    "book": "g3b",
+    "pdfPage": 92,
+    "printedPage": 88,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "84÷4"
+  },
+  {
+    "key": "g3b-p92-47",
+    "book": "g3b",
+    "pdfPage": 92,
+    "printedPage": 88,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "328÷4"
+  },
+  {
+    "key": "g3b-p92-48",
+    "book": "g3b",
+    "pdfPage": 92,
+    "printedPage": 88,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "432÷6"
+  },
+  {
+    "key": "g3b-p92-49",
+    "book": "g3b",
+    "pdfPage": 92,
+    "printedPage": 88,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "872÷8"
+  },
+  {
+    "key": "g3b-p92-55",
+    "book": "g3b",
+    "pdfPage": 92,
+    "printedPage": 88,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48÷3"
+  },
+  {
+    "key": "g3b-p92-56",
+    "book": "g3b",
+    "pdfPage": 92,
+    "printedPage": 88,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "65÷5"
+  },
+  {
+    "key": "g3b-p92-62",
+    "book": "g3b",
+    "pdfPage": 92,
+    "printedPage": 88,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "215÷5"
+  },
+  {
+    "key": "g3b-p92-63",
+    "book": "g3b",
+    "pdfPage": 92,
+    "printedPage": 88,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "819÷9"
+  },
+  {
+    "key": "g3b-p92-64",
+    "book": "g3b",
+    "pdfPage": 92,
+    "printedPage": 88,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "161 ÷7"
+  },
+  {
+    "key": "g3b-p93-1",
+    "book": "g3b",
+    "pdfPage": 93,
+    "printedPage": 89,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "240 × 2÷6"
+  },
+  {
+    "key": "g3b-p93-2",
+    "book": "g3b",
+    "pdfPage": 93,
+    "printedPage": 89,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "300 - 129 ÷3"
+  },
+  {
+    "key": "g3b-p93-3",
+    "book": "g3b",
+    "pdfPage": 93,
+    "printedPage": 89,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "840÷4×3"
+  },
+  {
+    "key": "g3b-p93-4",
+    "book": "g3b",
+    "pdfPage": 93,
+    "printedPage": 89,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(128+132) ÷ 5"
+  },
+  {
+    "key": "g3b-p93-5",
+    "book": "g3b",
+    "pdfPage": 93,
+    "printedPage": 89,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "897 * 300"
+  },
+  {
+    "key": "g4a-p6-18",
+    "book": "g4a",
+    "pdfPage": 6,
+    "printedPage": 2,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7 +1"
+  },
+  {
+    "key": "g4a-p24-1",
+    "book": "g4a",
+    "pdfPage": 24,
+    "printedPage": 20,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15 * 6375 *1"
+  },
+  {
+    "key": "g4a-p27-0",
+    "book": "g4a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "27-4"
+  },
+  {
+    "key": "g4a-p34-9",
+    "book": "g4a",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "114x 20=2280"
+  },
+  {
+    "key": "g4a-p34-11",
+    "book": "g4a",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2280+114= 2394"
+  },
+  {
+    "key": "g4a-p34-12",
+    "book": "g4a",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "114 × 21"
+  },
+  {
+    "key": "g4a-p39-23",
+    "book": "g4a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "245 × 789"
+  },
+  {
+    "key": "g4a-p39-24",
+    "book": "g4a",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "21÷7"
+  },
+  {
+    "key": "g4a-p40-4",
+    "book": "g4a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "416000 ÷ 128"
+  },
+  {
+    "key": "g4a-p40-5",
+    "book": "g4a",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3363 x 21 ÷ 57"
+  },
+  {
+    "key": "g4a-p41-2",
+    "book": "g4a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1x 1=1"
+  },
+  {
+    "key": "g4a-p41-3",
+    "book": "g4a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "11 x 11 ="
+  },
+  {
+    "key": "g4a-p41-4",
+    "book": "g4a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "111 × 111="
+  },
+  {
+    "key": "g4a-p42-3",
+    "book": "g4a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "142857 x 7."
+  },
+  {
+    "key": "g4a-p42-8",
+    "book": "g4a",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "142857 x 5 ="
+  },
+  {
+    "key": "g4a-p44-41",
+    "book": "g4a",
+    "pdfPage": 44,
+    "printedPage": 40,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "816× 816 +357 × 357 + 492 × 492"
+  },
+  {
+    "key": "g4a-p51-15",
+    "book": "g4a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "22x3+ 24÷4"
+  },
+  {
+    "key": "g4a-p51-25",
+    "book": "g4a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "35+65 x40÷5"
+  },
+  {
+    "key": "g4a-p51-26",
+    "book": "g4a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 x (153 - 83) ÷ 8"
+  },
+  {
+    "key": "g4a-p52-28",
+    "book": "g4a",
+    "pdfPage": 52,
+    "printedPage": 48,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "176-176÷8"
+  },
+  {
+    "key": "g4a-p52-29",
+    "book": "g4a",
+    "pdfPage": 52,
+    "printedPage": 48,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "92 ÷4× 25"
+  },
+  {
+    "key": "g4a-p52-31",
+    "book": "g4a",
+    "pdfPage": 52,
+    "printedPage": 48,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "28 x (207 ÷3)"
+  },
+  {
+    "key": "g4a-p52-32",
+    "book": "g4a",
+    "pdfPage": 52,
+    "printedPage": 48,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "68 + 360 ÷ (20 - 16)"
+  },
+  {
+    "key": "g4a-p53-1",
+    "book": "g4a",
+    "pdfPage": 53,
+    "printedPage": 49,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 x (8+4) ÷2"
+  },
+  {
+    "key": "g4a-p53-3",
+    "book": "g4a",
+    "pdfPage": 53,
+    "printedPage": 49,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "234 ÷ (51 -48)x 3"
+  },
+  {
+    "key": "g4a-p53-9",
+    "book": "g4a",
+    "pdfPage": 53,
+    "printedPage": 49,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3 x(4+5-1)"
+  },
+  {
+    "key": "g4a-p54-1",
+    "book": "g4a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4 + 6 = 10"
+  },
+  {
+    "key": "g4a-p54-8",
+    "book": "g4a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "53 + 62 =115"
+  },
+  {
+    "key": "g4a-p54-11",
+    "book": "g4a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9x7=63"
+  },
+  {
+    "key": "g4a-p55-3",
+    "book": "g4a",
+    "pdfPage": 55,
+    "printedPage": 51,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20 *53* 7 1"
+  },
+  {
+    "key": "g4a-p55-7",
+    "book": "g4a",
+    "pdfPage": 55,
+    "printedPage": 51,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6 713* 71"
+  },
+  {
+    "key": "g4a-p56-0",
+    "book": "g4a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(4+8)+ 6"
+  },
+  {
+    "key": "g4a-p56-3",
+    "book": "g4a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+ (8+ 6)"
+  },
+  {
+    "key": "g4a-p56-7",
+    "book": "g4a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(19+ 62) +38"
+  },
+  {
+    "key": "g4a-p56-10",
+    "book": "g4a",
+    "pdfPage": 56,
+    "printedPage": 52,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "19 +(62+38)"
+  },
+  {
+    "key": "g4a-p58-2",
+    "book": "g4a",
+    "pdfPage": 58,
+    "printedPage": 54,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2 x (4x3)"
+  },
+  {
+    "key": "g4a-p58-8",
+    "book": "g4a",
+    "pdfPage": 58,
+    "printedPage": 54,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(7x4) x 25"
+  },
+  {
+    "key": "g4a-p59-11",
+    "book": "g4a",
+    "pdfPage": 59,
+    "printedPage": 55,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "125x3 x 8"
+  },
+  {
+    "key": "g4a-p59-22",
+    "book": "g4a",
+    "pdfPage": 59,
+    "printedPage": 55,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2×25"
+  },
+  {
+    "key": "g4a-p60-9",
+    "book": "g4a",
+    "pdfPage": 60,
+    "printedPage": 56,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4x8+6x8"
+  },
+  {
+    "key": "g4a-p60-26",
+    "book": "g4a",
+    "pdfPage": 60,
+    "printedPage": 56,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4x9+ 6x9"
+  },
+  {
+    "key": "g4a-p61-4",
+    "book": "g4a",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(80+4) x25"
+  },
+  {
+    "key": "g4a-p61-17",
+    "book": "g4a",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "34x 12 + 34x28"
+  },
+  {
+    "key": "g4a-p61-22",
+    "book": "g4a",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(46+54) x28"
+  },
+  {
+    "key": "g4a-p61-23",
+    "book": "g4a",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "46x28+54x28"
+  },
+  {
+    "key": "g4a-p62-5",
+    "book": "g4a",
+    "pdfPage": 62,
+    "printedPage": 58,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 x 26 + 12 x 4"
+  },
+  {
+    "key": "g4a-p62-7",
+    "book": "g4a",
+    "pdfPage": 62,
+    "printedPage": 58,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "19 x 66 + 81 x 66"
+  },
+  {
+    "key": "g4a-p62-32",
+    "book": "g4a",
+    "pdfPage": 62,
+    "printedPage": 58,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "26 x21"
+  },
+  {
+    "key": "g4a-p63-15",
+    "book": "g4a",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "378 + 527+ 73"
+  },
+  {
+    "key": "g4a-p64-1",
+    "book": "g4a",
+    "pdfPage": 64,
+    "printedPage": 60,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "75 x2x5"
+  },
+  {
+    "key": "g4a-p64-9",
+    "book": "g4a",
+    "pdfPage": 64,
+    "printedPage": 60,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "75x(2x5)"
+  },
+  {
+    "key": "g4a-p64-15",
+    "book": "g4a",
+    "pdfPage": 64,
+    "printedPage": 60,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "150 x 40 ="
+  },
+  {
+    "key": "g4a-p68-7",
+    "book": "g4a",
+    "pdfPage": 68,
+    "printedPage": 64,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-45"
+  },
+  {
+    "key": "g4a-p70-9",
+    "book": "g4a",
+    "pdfPage": 70,
+    "printedPage": 66,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8÷2=4"
+  },
+  {
+    "key": "g4a-p70-10",
+    "book": "g4a",
+    "pdfPage": 70,
+    "printedPage": 66,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "80 ÷ 20=4"
+  },
+  {
+    "key": "g4a-p71-3",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60 ÷30 = 2"
+  },
+  {
+    "key": "g4a-p71-4",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "600 ÷ 30 = 20"
+  },
+  {
+    "key": "g4a-p71-21",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "60 ÷3 = 20"
+  },
+  {
+    "key": "g4a-p71-27",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "80 ÷40"
+  },
+  {
+    "key": "g4a-p71-28",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "270 ÷ 30"
+  },
+  {
+    "key": "g4a-p71-29",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "560 ÷ 70"
+  },
+  {
+    "key": "g4a-p71-30",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "640 ÷ 80"
+  },
+  {
+    "key": "g4a-p71-31",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "720 ÷ 90"
+  },
+  {
+    "key": "g4a-p71-32",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "200 ÷ 50"
+  },
+  {
+    "key": "g4a-p71-33",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "360 ÷ 40"
+  },
+  {
+    "key": "g4a-p71-34",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "180 ÷ 60"
+  },
+  {
+    "key": "g4a-p71-35",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "240 ÷ 30"
+  },
+  {
+    "key": "g4a-p71-36",
+    "book": "g4a",
+    "pdfPage": 71,
+    "printedPage": 67,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "280 ÷ 70"
+  },
+  {
+    "key": "g4a-p72-1",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "900 ÷ 30"
+  },
+  {
+    "key": "g4a-p72-2",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "800 ÷ 20"
+  },
+  {
+    "key": "g4a-p72-3",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "400 ÷ 40"
+  },
+  {
+    "key": "g4a-p72-4",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "600 ÷ 20"
+  },
+  {
+    "key": "g4a-p72-14",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "928 ÷ 50"
+  },
+  {
+    "key": "g4a-p72-15",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "297 ÷ 30"
+  },
+  {
+    "key": "g4a-p72-16",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "168 ÷ 20"
+  },
+  {
+    "key": "g4a-p72-17",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "570 ÷40"
+  },
+  {
+    "key": "g4a-p72-18",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "780÷ 60"
+  },
+  {
+    "key": "g4a-p72-20",
+    "book": "g4a",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "460 ÷ 80"
+  },
+  {
+    "key": "g4a-p73-8",
+    "book": "g4a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "154 ÷ 22 ="
+  },
+  {
+    "key": "g4a-p75-0",
+    "book": "g4a",
+    "pdfPage": 75,
+    "printedPage": 71,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "550 ÷ 22"
+  },
+  {
+    "key": "g4a-p75-1",
+    "book": "g4a",
+    "pdfPage": 75,
+    "printedPage": 71,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "989 ÷43"
+  },
+  {
+    "key": "g4a-p75-4",
+    "book": "g4a",
+    "pdfPage": 75,
+    "printedPage": 71,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "756 ÷ 54"
+  },
+  {
+    "key": "g4a-p76-22",
+    "book": "g4a",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "184 ÷ 46="
+  },
+  {
+    "key": "g4a-p77-37",
+    "book": "g4a",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "216 ÷ 27"
+  },
+  {
+    "key": "g4a-p78-2",
+    "book": "g4a",
+    "pdfPage": 78,
+    "printedPage": 74,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "840 ÷ 35"
+  },
+  {
+    "key": "g4a-p79-1",
+    "book": "g4a",
+    "pdfPage": 79,
+    "printedPage": 75,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "333 ÷ 37"
+  },
+  {
+    "key": "g4a-p79-17",
+    "book": "g4a",
+    "pdfPage": 79,
+    "printedPage": 75,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "483 ÷ 21"
+  },
+  {
+    "key": "g4a-p80-7",
+    "book": "g4a",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "784 ÷ 49"
+  },
+  {
+    "key": "g4a-p80-9",
+    "book": "g4a",
+    "pdfPage": 80,
+    "printedPage": 76,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "966 ÷ 23"
+  },
+  {
+    "key": "g4a-p81-2",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "800 ÷200=4"
+  },
+  {
+    "key": "g4a-p81-3",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48÷24=2"
+  },
+  {
+    "key": "g4a-p81-4",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24÷12=2"
+  },
+  {
+    "key": "g4a-p81-5",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6÷3=2"
+  },
+  {
+    "key": "g4a-p81-8",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "100÷20=5"
+  },
+  {
+    "key": "g4a-p81-9",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "50 ÷ 10 = 5"
+  },
+  {
+    "key": "g4a-p81-10",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10 ÷ 2=5"
+  },
+  {
+    "key": "g4a-p81-20",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(100÷ 2) ÷ (20 ÷2) = 5"
+  },
+  {
+    "key": "g4a-p81-21",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "( 100÷ 10) ÷ (20÷ 10)= 5"
+  },
+  {
+    "key": "g4a-p81-26",
+    "book": "g4a",
+    "pdfPage": 81,
+    "printedPage": 77,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "350 ÷ 50- 35÷5=7."
+  },
+  {
+    "key": "g4a-p82-0",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9÷3=3"
+  },
+  {
+    "key": "g4a-p82-1",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "90 ÷ 30=3"
+  },
+  {
+    "key": "g4a-p82-2",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "900 ÷ 300 = 3"
+  },
+  {
+    "key": "g4a-p82-4",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "27÷9=3"
+  },
+  {
+    "key": "g4a-p82-5",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "81 ÷ 27=3"
+  },
+  {
+    "key": "g4a-p82-22",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "440 ÷ 20"
+  },
+  {
+    "key": "g4a-p82-25",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9200 ÷ 400"
+  },
+  {
+    "key": "g4a-p82-26",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "360 ÷ 90"
+  },
+  {
+    "key": "g4a-p82-27",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "120 ÷ 40"
+  },
+  {
+    "key": "g4a-p82-28",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4800 ÷ 400"
+  },
+  {
+    "key": "g4a-p82-29",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2400 ÷ 60"
+  },
+  {
+    "key": "g4a-p82-37",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "150 ÷ 25"
+  },
+  {
+    "key": "g4a-p82-38",
+    "book": "g4a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2000 ÷ 125"
+  },
+  {
+    "key": "g4a-p85-12",
+    "book": "g4a",
+    "pdfPage": 85,
+    "printedPage": 81,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12÷3=4"
+  },
+  {
+    "key": "g4a-p85-14",
+    "book": "g4a",
+    "pdfPage": 85,
+    "printedPage": 81,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12÷4=3"
+  },
+  {
+    "key": "g4a-p85-16",
+    "book": "g4a",
+    "pdfPage": 85,
+    "printedPage": 81,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3 x 4 = 12"
+  },
+  {
+    "key": "g4a-p86-0",
+    "book": "g4a",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "360 ÷ 30 = 12"
+  },
+  {
+    "key": "g4a-p86-2",
+    "book": "g4a",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3600 ÷ 300="
+  },
+  {
+    "key": "g4a-p86-3",
+    "book": "g4a",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3600 ÷ 30="
+  },
+  {
+    "key": "g4a-p86-6",
+    "book": "g4a",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "315 ÷ 35"
+  },
+  {
+    "key": "g4a-p86-7",
+    "book": "g4a",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "564 ÷ 47"
+  },
+  {
+    "key": "g4a-p86-24",
+    "book": "g4a",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "828 ÷ 36"
+  },
+  {
+    "key": "g4a-p86-27",
+    "book": "g4a",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "980 ÷ 28"
+  },
+  {
+    "key": "g4a-p103-5",
+    "book": "g4a",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "89x 5"
+  },
+  {
+    "key": "g4a-p103-11",
+    "book": "g4a",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "225÷25"
+  },
+  {
+    "key": "g4a-p106-15",
+    "book": "g4a",
+    "pdfPage": 106,
+    "printedPage": 102,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "336 ÷ 21"
+  },
+  {
+    "key": "g4a-p106-17",
+    "book": "g4a",
+    "pdfPage": 106,
+    "printedPage": 102,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "858 ÷ 39"
+  },
+  {
+    "key": "g4a-p106-22",
+    "book": "g4a",
+    "pdfPage": 106,
+    "printedPage": 102,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "918 ÷ 27"
+  },
+  {
+    "key": "g4a-p106-24",
+    "book": "g4a",
+    "pdfPage": 106,
+    "printedPage": 102,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "800 ÷ 25"
+  },
+  {
+    "key": "g4a-p106-26",
+    "book": "g4a",
+    "pdfPage": 106,
+    "printedPage": 102,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "27 × 45 + 27 x 55"
+  },
+  {
+    "key": "g4a-p106-29",
+    "book": "g4a",
+    "pdfPage": 106,
+    "printedPage": 102,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(227 + 26) ÷ 11"
+  },
+  {
+    "key": "g4a-p106-30",
+    "book": "g4a",
+    "pdfPage": 106,
+    "printedPage": 102,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(105 × 12 -635) ÷ 25"
+  },
+  {
+    "key": "g4b-p15-18",
+    "book": "g4b",
+    "pdfPage": 15,
+    "printedPage": 11,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "37-17="
+  },
+  {
+    "key": "g4b-p16-25",
+    "book": "g4b",
+    "pdfPage": 16,
+    "printedPage": 12,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.1 + 2.22"
+  },
+  {
+    "key": "g4b-p17-13",
+    "book": "g4b",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24 1 0.1 4 * 8"
+  },
+  {
+    "key": "g4b-p19-1",
+    "book": "g4b",
+    "pdfPage": 19,
+    "printedPage": 15,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "75-7"
+  },
+  {
+    "key": "g4b-p19-23",
+    "book": "g4b",
+    "pdfPage": 19,
+    "printedPage": 15,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.7 +2.36"
+  },
+  {
+    "key": "g4b-p20-9",
+    "book": "g4b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8.65 + 0.40 ="
+  },
+  {
+    "key": "g4b-p20-18",
+    "book": "g4b",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9.43 - 9.05 ="
+  },
+  {
+    "key": "g4b-p21-7",
+    "book": "g4b",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7.41 - (2.96 + 3.04)"
+  },
+  {
+    "key": "g4b-p22-11",
+    "book": "g4b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "43 + 2.31"
+  },
+  {
+    "key": "g4b-p22-12",
+    "book": "g4b",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.7 + 0.23"
+  },
+  {
+    "key": "g4b-p31-31",
+    "book": "g4b",
+    "pdfPage": 31,
+    "printedPage": 27,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+605"
+  },
+  {
+    "key": "g4b-p31-32",
+    "book": "g4b",
+    "pdfPage": 31,
+    "printedPage": 27,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+506"
+  },
+  {
+    "key": "g4b-p31-33",
+    "book": "g4b",
+    "pdfPage": 31,
+    "printedPage": 27,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5+603"
+  },
+  {
+    "key": "g4b-p31-34",
+    "book": "g4b",
+    "pdfPage": 31,
+    "printedPage": 27,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3+406"
+  },
+  {
+    "key": "g4b-p31-37",
+    "book": "g4b",
+    "pdfPage": 31,
+    "printedPage": 27,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4+603"
+  },
+  {
+    "key": "g4b-p37-12",
+    "book": "g4b",
+    "pdfPage": 37,
+    "printedPage": 33,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.2 x 4 ="
+  },
+  {
+    "key": "g4b-p37-22",
+    "book": "g4b",
+    "pdfPage": 37,
+    "printedPage": 33,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3 1 0.4 * 12 1"
+  },
+  {
+    "key": "g4b-p38-5",
+    "book": "g4b",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3 × 0.5"
+  },
+  {
+    "key": "g4b-p38-11",
+    "book": "g4b",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6 x 0.2"
+  },
+  {
+    "key": "g4b-p38-13",
+    "book": "g4b",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.1 x 9"
+  },
+  {
+    "key": "g4b-p38-15",
+    "book": "g4b",
+    "pdfPage": 38,
+    "printedPage": 34,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.01 × 50 ="
+  },
+  {
+    "key": "g4b-p39-7",
+    "book": "g4b",
+    "pdfPage": 39,
+    "printedPage": 35,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "150573-1"
+  },
+  {
+    "key": "g4b-p40-17",
+    "book": "g4b",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1 ÷ 10 = 0.1"
+  },
+  {
+    "key": "g4b-p40-18",
+    "book": "g4b",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1 ÷ 100 ="
+  },
+  {
+    "key": "g4b-p41-1",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.09 x 100 ="
+  },
+  {
+    "key": "g4b-p41-3",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "53.8 ÷ 10 ="
+  },
+  {
+    "key": "g4b-p41-4",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "53.8 ÷ 100 ="
+  },
+  {
+    "key": "g4b-p41-5",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "53.8 ÷ 1000 ="
+  },
+  {
+    "key": "g4b-p41-16",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.414X 70"
+  },
+  {
+    "key": "g4b-p41-18",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "36.9 ÷ 10"
+  },
+  {
+    "key": "g4b-p41-20",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.618 X 100"
+  },
+  {
+    "key": "g4b-p41-21",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18.7X 70"
+  },
+  {
+    "key": "g4b-p41-22",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9.87÷ 10"
+  },
+  {
+    "key": "g4b-p41-23",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.4X 100"
+  },
+  {
+    "key": "g4b-p41-24",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "43.21÷ 1000"
+  },
+  {
+    "key": "g4b-p41-25",
+    "book": "g4b",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.01÷ 1000"
+  },
+  {
+    "key": "g4b-p42-38",
+    "book": "g4b",
+    "pdfPage": 42,
+    "printedPage": 38,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.13 x 2 ="
+  },
+  {
+    "key": "g4b-p43-16",
+    "book": "g4b",
+    "pdfPage": 43,
+    "printedPage": 39,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.7 x 7.8"
+  },
+  {
+    "key": "g4b-p45-17",
+    "book": "g4b",
+    "pdfPage": 45,
+    "printedPage": 41,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.32 × 0.8"
+  },
+  {
+    "key": "g4b-p45-18",
+    "book": "g4b",
+    "pdfPage": 45,
+    "printedPage": 41,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.32 × 1.2"
+  },
+  {
+    "key": "g4b-p45-19",
+    "book": "g4b",
+    "pdfPage": 45,
+    "printedPage": 41,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9.8 × 0.5"
+  },
+  {
+    "key": "g4b-p45-24",
+    "book": "g4b",
+    "pdfPage": 45,
+    "printedPage": 41,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.4 × 1.1"
+  },
+  {
+    "key": "g4b-p45-27",
+    "book": "g4b",
+    "pdfPage": 45,
+    "printedPage": 41,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.4 × 1.5"
+  },
+  {
+    "key": "g4b-p45-28",
+    "book": "g4b",
+    "pdfPage": 45,
+    "printedPage": 41,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1 x 1.2"
+  },
+  {
+    "key": "g4b-p45-29",
+    "book": "g4b",
+    "pdfPage": 45,
+    "printedPage": 41,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.4 × 0.55"
+  },
+  {
+    "key": "g4b-p46-4",
+    "book": "g4b",
+    "pdfPage": 46,
+    "printedPage": 42,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.2 x 1.25 ="
+  },
+  {
+    "key": "g4b-p48-18",
+    "book": "g4b",
+    "pdfPage": 48,
+    "printedPage": 44,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.8x5+7.2x5"
+  },
+  {
+    "key": "g4b-p49-9",
+    "book": "g4b",
+    "pdfPage": 49,
+    "printedPage": 45,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.6 + 1.4 x 3"
+  },
+  {
+    "key": "g4b-p49-10",
+    "book": "g4b",
+    "pdfPage": 49,
+    "printedPage": 45,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.89 × 4.8 + 0.89 x 5.2"
+  },
+  {
+    "key": "g4b-p49-12",
+    "book": "g4b",
+    "pdfPage": 49,
+    "printedPage": 45,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(8+ 0.8) × 1.25"
+  },
+  {
+    "key": "g4b-p50-36",
+    "book": "g4b",
+    "pdfPage": 50,
+    "printedPage": 46,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.2 × 4.6 + 3.2 × 5.4"
+  },
+  {
+    "key": "g4b-p51-26",
+    "book": "g4b",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2 + 0.6 + 0.7 + 0.21 = 3.51."
+  },
+  {
+    "key": "g4b-p52-4",
+    "book": "g4b",
+    "pdfPage": 52,
+    "printedPage": 48,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.15 + 0.05 = 0.2"
+  },
+  {
+    "key": "g4b-p52-8",
+    "book": "g4b",
+    "pdfPage": 52,
+    "printedPage": 48,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "156x773 4"
+  },
+  {
+    "key": "g4b-p54-11",
+    "book": "g4b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.7 x 0.2 ="
+  },
+  {
+    "key": "g4b-p54-16",
+    "book": "g4b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.5 x 2="
+  },
+  {
+    "key": "g4b-p54-17",
+    "book": "g4b",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.5 x 0.2 ="
+  },
+  {
+    "key": "g4b-p55-3",
+    "book": "g4b",
+    "pdfPage": 55,
+    "printedPage": 51,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "75-42"
+  },
+  {
+    "key": "g4b-p55-18",
+    "book": "g4b",
+    "pdfPage": 55,
+    "printedPage": 51,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.86 × 1.2"
+  },
+  {
+    "key": "g4b-p58-0",
+    "book": "g4b",
+    "pdfPage": 58,
+    "printedPage": 54,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-15"
+  },
+  {
+    "key": "g4b-p100-5",
+    "book": "g4b",
+    "pdfPage": 100,
+    "printedPage": 96,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.5 x 1.2"
+  },
+  {
+    "key": "g4b-p100-26",
+    "book": "g4b",
+    "pdfPage": 100,
+    "printedPage": 96,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6- 2.4= 3.6"
+  },
+  {
+    "key": "g4b-p100-31",
+    "book": "g4b",
+    "pdfPage": 100,
+    "printedPage": 96,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(2.8+7.2)x5"
+  },
+  {
+    "key": "g4b-p102-9",
+    "book": "g4b",
+    "pdfPage": 102,
+    "printedPage": 98,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8.3- 6.7"
+  },
+  {
+    "key": "g4b-p102-10",
+    "book": "g4b",
+    "pdfPage": 102,
+    "printedPage": 98,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.04 + 1.5"
+  },
+  {
+    "key": "g4b-p102-11",
+    "book": "g4b",
+    "pdfPage": 102,
+    "printedPage": 98,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.2x3"
+  },
+  {
+    "key": "g4b-p103-25",
+    "book": "g4b",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7.8 + 4.56 + 2.2"
+  },
+  {
+    "key": "g4b-p103-31",
+    "book": "g4b",
+    "pdfPage": 103,
+    "printedPage": 99,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7.5 - 7.5 × 0.8"
+  },
+  {
+    "key": "g5a-p7-28",
+    "book": "g5a",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20.4÷4"
+  },
+  {
+    "key": "g5a-p7-29",
+    "book": "g5a",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "96.6 ÷ 42"
+  },
+  {
+    "key": "g5a-p7-30",
+    "book": "g5a",
+    "pdfPage": 7,
+    "printedPage": 3,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "55.8 ÷31"
+  },
+  {
+    "key": "g5a-p9-16",
+    "book": "g5a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12.3 ÷ 2"
+  },
+  {
+    "key": "g5a-p9-17",
+    "book": "g5a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "30÷4"
+  },
+  {
+    "key": "g5a-p9-18",
+    "book": "g5a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "20.7÷5"
+  },
+  {
+    "key": "g5a-p9-19",
+    "book": "g5a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45.9÷6"
+  },
+  {
+    "key": "g5a-p9-20",
+    "book": "g5a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "36.3 ÷ 3"
+  },
+  {
+    "key": "g5a-p9-21",
+    "book": "g5a",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "42÷8"
+  },
+  {
+    "key": "g5a-p10-26",
+    "book": "g5a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "32÷5"
+  },
+  {
+    "key": "g5a-p10-27",
+    "book": "g5a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.63 ÷ 9"
+  },
+  {
+    "key": "g5a-p10-28",
+    "book": "g5a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7.79 ÷ 95"
+  },
+  {
+    "key": "g5a-p10-30",
+    "book": "g5a",
+    "pdfPage": 10,
+    "printedPage": 6,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "43.8 ÷ 12"
+  },
+  {
+    "key": "g5a-p11-13",
+    "book": "g5a",
+    "pdfPage": 11,
+    "printedPage": 7,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5.1÷0.3"
+  },
+  {
+    "key": "g5a-p12-12",
+    "book": "g5a",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5.28 ÷ 0.03"
+  },
+  {
+    "key": "g5a-p12-14",
+    "book": "g5a",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8.4 ÷ 0.56"
+  },
+  {
+    "key": "g5a-p12-22",
+    "book": "g5a",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "11.7 ÷ 0.9"
+  },
+  {
+    "key": "g5a-p12-25",
+    "book": "g5a",
+    "pdfPage": 12,
+    "printedPage": 8,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.6 ÷ 0.4="
+  },
+  {
+    "key": "g5a-p13-5",
+    "book": "g5a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.12 ÷ 0.25"
+  },
+  {
+    "key": "g5a-p13-6",
+    "book": "g5a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.68 ÷ 2.1"
+  },
+  {
+    "key": "g5a-p13-8",
+    "book": "g5a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6.3 ÷ 0.42"
+  },
+  {
+    "key": "g5a-p13-9",
+    "book": "g5a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.6 ÷ 0.12"
+  },
+  {
+    "key": "g5a-p13-10",
+    "book": "g5a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "41.6 ÷26"
+  },
+  {
+    "key": "g5a-p13-11",
+    "book": "g5a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7÷ 0.35"
+  },
+  {
+    "key": "g5a-p13-30",
+    "book": "g5a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.78 ÷ 0.2 = ("
+  },
+  {
+    "key": "g5a-p13-33",
+    "book": "g5a",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.75 ÷ 0.25 = ("
+  },
+  {
+    "key": "g5a-p14-26",
+    "book": "g5a",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3÷0.15= ("
+  },
+  {
+    "key": "g5a-p14-32",
+    "book": "g5a",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4.2 ÷ 1.2"
+  },
+  {
+    "key": "g5a-p14-33",
+    "book": "g5a",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4.2 ÷ 0.12"
+  },
+  {
+    "key": "g5a-p14-34",
+    "book": "g5a",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.16÷2.5"
+  },
+  {
+    "key": "g5a-p14-35",
+    "book": "g5a",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.16 ÷ 0.25"
+  },
+  {
+    "key": "g5a-p14-37",
+    "book": "g5a",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6.21 ÷0.03"
+  },
+  {
+    "key": "g5a-p14-38",
+    "book": "g5a",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10.8 ÷45"
+  },
+  {
+    "key": "g5a-p14-39",
+    "book": "g5a",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9.36 ÷ 5.2"
+  },
+  {
+    "key": "g5a-p14-40",
+    "book": "g5a",
+    "pdfPage": 14,
+    "printedPage": 10,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "72.9 ÷ 0.9"
+  },
+  {
+    "key": "g5a-p17-5",
+    "book": "g5a",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7.89 ÷ 100 = 0.0789"
+  },
+  {
+    "key": "g5a-p17-9",
+    "book": "g5a",
+    "pdfPage": 17,
+    "printedPage": 13,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5÷1"
+  },
+  {
+    "key": "g5a-p18-2",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15.6÷1"
+  },
+  {
+    "key": "g5a-p18-3",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9.5 ÷ 1.6"
+  },
+  {
+    "key": "g5a-p18-6",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "34.5 ÷ 4.6"
+  },
+  {
+    "key": "g5a-p18-7",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.05 ÷ 0.2"
+  },
+  {
+    "key": "g5a-p18-8",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5÷0.8"
+  },
+  {
+    "key": "g5a-p18-11",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10 ÷ 0.8"
+  },
+  {
+    "key": "g5a-p18-13",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "10÷1"
+  },
+  {
+    "key": "g5a-p18-21",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 ÷ 1.2"
+  },
+  {
+    "key": "g5a-p18-25",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 ÷ 0.8"
+  },
+  {
+    "key": "g5a-p18-26",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 ÷ 0.8 ÷ 0.8"
+  },
+  {
+    "key": "g5a-p18-27",
+    "book": "g5a",
+    "pdfPage": 18,
+    "printedPage": 14,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12 ÷ 0.8 ÷ 0.8 ÷ 0.8"
+  },
+  {
+    "key": "g5a-p19-26",
+    "book": "g5a",
+    "pdfPage": 19,
+    "printedPage": 15,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1÷2"
+  },
+  {
+    "key": "g5a-p19-28",
+    "book": "g5a",
+    "pdfPage": 19,
+    "printedPage": 15,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1÷5"
+  },
+  {
+    "key": "g5a-p20-12",
+    "book": "g5a",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3÷8"
+  },
+  {
+    "key": "g5a-p20-21",
+    "book": "g5a",
+    "pdfPage": 20,
+    "printedPage": 16,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2÷4"
+  },
+  {
+    "key": "g5a-p21-15",
+    "book": "g5a",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "30.8÷28"
+  },
+  {
+    "key": "g5a-p21-17",
+    "book": "g5a",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "30.8÷4÷7"
+  },
+  {
+    "key": "g5a-p21-24",
+    "book": "g5a",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.3- 3.5÷5"
+  },
+  {
+    "key": "g5a-p21-27",
+    "book": "g5a",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "( 16.8 + 2.1 ) ÷ 0.7"
+  },
+  {
+    "key": "g5a-p21-28",
+    "book": "g5a",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.96 ÷ (5.4 ÷ 0.9 )"
+  },
+  {
+    "key": "g5a-p22-10",
+    "book": "g5a",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "90 ÷ (3.6- 1.8)"
+  },
+  {
+    "key": "g5a-p22-11",
+    "book": "g5a",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.4 × 7.8 ÷ 3.9"
+  },
+  {
+    "key": "g5a-p22-16",
+    "book": "g5a",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.6÷ 0.4-1.2x5"
+  },
+  {
+    "key": "g5a-p22-17",
+    "book": "g5a",
+    "pdfPage": 22,
+    "printedPage": 18,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.36 ÷ 0.3 ÷4"
+  },
+  {
+    "key": "g5a-p23-5",
+    "book": "g5a",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4.8x104.8"
+  },
+  {
+    "key": "g5a-p23-25",
+    "book": "g5a",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "62.9 ÷ 17"
+  },
+  {
+    "key": "g5a-p23-26",
+    "book": "g5a",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9÷ 3.6"
+  },
+  {
+    "key": "g5a-p23-29",
+    "book": "g5a",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.1 ÷ 0.56"
+  },
+  {
+    "key": "g5a-p23-30",
+    "book": "g5a",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "54÷(3.94+6.86)"
+  },
+  {
+    "key": "g5a-p23-31",
+    "book": "g5a",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(3.2 + 0.12) ÷ 0.8"
+  },
+  {
+    "key": "g5a-p23-35",
+    "book": "g5a",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.51 ÷ 0.5"
+  },
+  {
+    "key": "g5a-p23-36",
+    "book": "g5a",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.175 ÷ 0.25 x 4"
+  },
+  {
+    "key": "g5a-p36-5",
+    "book": "g5a",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45 ÷9=5"
+  },
+  {
+    "key": "g5a-p36-14",
+    "book": "g5a",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "45 x 2 = 90"
+  },
+  {
+    "key": "g5a-p48-8",
+    "book": "g5a",
+    "pdfPage": 48,
+    "printedPage": 44,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1.56÷4= 0.39"
+  },
+  {
+    "key": "g5a-p50-12",
+    "book": "g5a",
+    "pdfPage": 50,
+    "printedPage": 46,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9.5 ÷ 0.25 = ("
+  },
+  {
+    "key": "g5a-p51-0",
+    "book": "g5a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4.83 ÷ 23"
+  },
+  {
+    "key": "g5a-p51-1",
+    "book": "g5a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.09 ÷ 1.5"
+  },
+  {
+    "key": "g5a-p51-2",
+    "book": "g5a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.14 ÷ 0.08"
+  },
+  {
+    "key": "g5a-p51-5",
+    "book": "g5a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.4 × 3 ÷ 0.18"
+  },
+  {
+    "key": "g5a-p51-6",
+    "book": "g5a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.175 ÷ 0.25 ÷ 0.4"
+  },
+  {
+    "key": "g5a-p51-7",
+    "book": "g5a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "28.7÷7+4.5"
+  },
+  {
+    "key": "g5a-p51-8",
+    "book": "g5a",
+    "pdfPage": 51,
+    "printedPage": 47,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "96 ÷ (15.4 -12.2)"
+  },
+  {
+    "key": "g5a-p54-0",
+    "book": "g5a",
+    "pdfPage": 54,
+    "printedPage": 50,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "37-4"
+  },
+  {
+    "key": "g5a-p61-8",
+    "book": "g5a",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "35.1x2÷9"
+  },
+  {
+    "key": "g5a-p62-8",
+    "book": "g5a",
+    "pdfPage": 62,
+    "printedPage": 58,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4×3"
+  },
+  {
+    "key": "g5a-p73-15",
+    "book": "g5a",
+    "pdfPage": 73,
+    "printedPage": 69,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6+1"
+  },
+  {
+    "key": "g5a-p76-10",
+    "book": "g5a",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "8÷2"
+  },
+  {
+    "key": "g5a-p76-12",
+    "book": "g5a",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "12÷2"
+  },
+  {
+    "key": "g5a-p82-0",
+    "book": "g5a",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "48-45"
+  },
+  {
+    "key": "g5a-p83-19",
+    "book": "g5a",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "24÷2"
+  },
+  {
+    "key": "g5a-p83-20",
+    "book": "g5a",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4÷2"
+  },
+  {
+    "key": "g5a-p83-23",
+    "book": "g5a",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "6÷2"
+  },
+  {
+    "key": "g5a-p84-0",
+    "book": "g5a",
+    "pdfPage": 84,
+    "printedPage": 80,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-25"
+  },
+  {
+    "key": "g5a-p88-0",
+    "book": "g5a",
+    "pdfPage": 88,
+    "printedPage": 84,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-45"
+  },
+  {
+    "key": "g5a-p95-0",
+    "book": "g5a",
+    "pdfPage": 95,
+    "printedPage": 91,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "47-4"
+  },
+  {
+    "key": "g5a-p102-7",
+    "book": "g5a",
+    "pdfPage": 102,
+    "printedPage": 98,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1x1"
+  },
+  {
+    "key": "g5a-p102-20",
+    "book": "g5a",
+    "pdfPage": 102,
+    "printedPage": 98,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1+2+1=4"
+  },
+  {
+    "key": "g5a-p110-4",
+    "book": "g5a",
+    "pdfPage": 110,
+    "printedPage": 106,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4.2 ÷ 0.28"
+  },
+  {
+    "key": "g5a-p113-4",
+    "book": "g5a",
+    "pdfPage": 113,
+    "printedPage": 109,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5÷4="
+  },
+  {
+    "key": "g5a-p113-26",
+    "book": "g5a",
+    "pdfPage": 113,
+    "printedPage": 109,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4.8 ÷ 0.12=("
+  },
+  {
+    "key": "g5a-p114-1",
+    "book": "g5a",
+    "pdfPage": 114,
+    "printedPage": 110,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "7.2 ÷ 4"
+  },
+  {
+    "key": "g5a-p114-2",
+    "book": "g5a",
+    "pdfPage": 114,
+    "printedPage": 110,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5.46÷9.1"
+  },
+  {
+    "key": "g5a-p114-3",
+    "book": "g5a",
+    "pdfPage": 114,
+    "printedPage": 110,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "98 ÷ 2.8"
+  },
+  {
+    "key": "g5a-p114-4",
+    "book": "g5a",
+    "pdfPage": 114,
+    "printedPage": 110,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "21 ÷ 0.75"
+  },
+  {
+    "key": "g5a-p114-5",
+    "book": "g5a",
+    "pdfPage": 114,
+    "printedPage": 110,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "15.9 ÷ 15"
+  },
+  {
+    "key": "g5a-p114-9",
+    "book": "g5a",
+    "pdfPage": 114,
+    "printedPage": 110,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.4 × 99 - 0.4"
+  },
+  {
+    "key": "g5b-p8-4",
+    "book": "g5b",
+    "pdfPage": 8,
+    "printedPage": 4,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "14+2"
+  },
+  {
+    "key": "g5b-p9-18",
+    "book": "g5b",
+    "pdfPage": 9,
+    "printedPage": 5,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "5-4"
+  },
+  {
+    "key": "g5b-p13-20",
+    "book": "g5b",
+    "pdfPage": 13,
+    "printedPage": 9,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "7+6"
+  },
+  {
+    "key": "g5b-p21-18",
+    "book": "g5b",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "29 x 8"
+  },
+  {
+    "key": "g5b-p21-27",
+    "book": "g5b",
+    "pdfPage": 21,
+    "printedPage": 17,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "30 × 18"
+  },
+  {
+    "key": "g5b-p26-11",
+    "book": "g5b",
+    "pdfPage": 26,
+    "printedPage": 22,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "5X3"
+  },
+  {
+    "key": "g5b-p27-7",
+    "book": "g5b",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "6x5"
+  },
+  {
+    "key": "g5b-p27-27",
+    "book": "g5b",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "4x3"
+  },
+  {
+    "key": "g5b-p27-29",
+    "book": "g5b",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "4x8"
+  },
+  {
+    "key": "g5b-p29-17",
+    "book": "g5b",
+    "pdfPage": 29,
+    "printedPage": 25,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "6x2"
+  },
+  {
+    "key": "g5b-p30-16",
+    "book": "g5b",
+    "pdfPage": 30,
+    "printedPage": 26,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "7677X4"
+  },
+  {
+    "key": "g5b-p30-20",
+    "book": "g5b",
+    "pdfPage": 30,
+    "printedPage": 26,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "3 x6"
+  },
+  {
+    "key": "g5b-p32-24",
+    "book": "g5b",
+    "pdfPage": 32,
+    "printedPage": 28,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "3x1"
+  },
+  {
+    "key": "g5b-p32-25",
+    "book": "g5b",
+    "pdfPage": 32,
+    "printedPage": 28,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "4×4"
+  },
+  {
+    "key": "g5b-p36-22",
+    "book": "g5b",
+    "pdfPage": 36,
+    "printedPage": 32,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "11 X1"
+  },
+  {
+    "key": "g5b-p37-6",
+    "book": "g5b",
+    "pdfPage": 37,
+    "printedPage": 33,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "1-1"
+  },
+  {
+    "key": "g5b-p37-8",
+    "book": "g5b",
+    "pdfPage": 37,
+    "printedPage": 33,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "75×3"
+  },
+  {
+    "key": "g5b-p37-9",
+    "book": "g5b",
+    "pdfPage": 37,
+    "printedPage": 33,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "14x140"
+  },
+  {
+    "key": "g5b-p37-10",
+    "book": "g5b",
+    "pdfPage": 37,
+    "printedPage": 33,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "5 x9"
+  },
+  {
+    "key": "g5b-p40-2",
+    "book": "g5b",
+    "pdfPage": 40,
+    "printedPage": 36,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "1 +7"
+  },
+  {
+    "key": "g5b-p49-26",
+    "book": "g5b",
+    "pdfPage": 49,
+    "printedPage": 45,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "60x 50 x 40"
+  },
+  {
+    "key": "g5b-p57-3",
+    "book": "g5b",
+    "pdfPage": 57,
+    "printedPage": 53,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "24x 13"
+  },
+  {
+    "key": "g5b-p57-5",
+    "book": "g5b",
+    "pdfPage": 57,
+    "printedPage": 53,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "12x7"
+  },
+  {
+    "key": "g5b-p59-6",
+    "book": "g5b",
+    "pdfPage": 59,
+    "printedPage": 55,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "4÷2"
+  },
+  {
+    "key": "g5b-p60-3",
+    "book": "g5b",
+    "pdfPage": 60,
+    "printedPage": 56,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "1÷4="
+  },
+  {
+    "key": "g5b-p60-21",
+    "book": "g5b",
+    "pdfPage": 60,
+    "printedPage": 56,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "8+10"
+  },
+  {
+    "key": "g5b-p61-33",
+    "book": "g5b",
+    "pdfPage": 61,
+    "printedPage": 57,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "(2x3)"
+  },
+  {
+    "key": "g5b-p62-10",
+    "book": "g5b",
+    "pdfPage": 62,
+    "printedPage": 58,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "6÷1"
+  },
+  {
+    "key": "g5b-p63-6",
+    "book": "g5b",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "5 ÷ 100"
+  },
+  {
+    "key": "g5b-p63-8",
+    "book": "g5b",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "5÷4"
+  },
+  {
+    "key": "g5b-p63-9",
+    "book": "g5b",
+    "pdfPage": 63,
+    "printedPage": 59,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "5÷1"
+  },
+  {
+    "key": "g5b-p67-15",
+    "book": "g5b",
+    "pdfPage": 67,
+    "printedPage": 63,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "3 +1"
+  },
+  {
+    "key": "g5b-p67-21",
+    "book": "g5b",
+    "pdfPage": 67,
+    "printedPage": 63,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "2÷5"
+  },
+  {
+    "key": "g5b-p67-23",
+    "book": "g5b",
+    "pdfPage": 67,
+    "printedPage": 63,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "8x4"
+  },
+  {
+    "key": "g5b-p72-0",
+    "book": "g5b",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "17-2"
+  },
+  {
+    "key": "g5b-p74-0",
+    "book": "g5b",
+    "pdfPage": 74,
+    "printedPage": 70,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "47-24"
+  },
+  {
+    "key": "g5b-p86-42",
+    "book": "g5b",
+    "pdfPage": 86,
+    "printedPage": 82,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "77*. 27"
+  },
+  {
+    "key": "g5b-p93-45",
+    "book": "g5b",
+    "pdfPage": 93,
+    "printedPage": 89,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "260 -70"
+  },
+  {
+    "key": "g5b-p96-25",
+    "book": "g5b",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "38x 3="
+  },
+  {
+    "key": "g5b-p96-29",
+    "book": "g5b",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "2x4="
+  },
+  {
+    "key": "g5b-p96-32",
+    "book": "g5b",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "4x2"
+  },
+  {
+    "key": "g5b-p96-35",
+    "book": "g5b",
+    "pdfPage": 96,
+    "printedPage": 92,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "7×3"
+  },
+  {
+    "key": "g6a-p19-0",
+    "book": "g6a",
+    "pdfPage": 19,
+    "printedPage": 15,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "47-45"
+  },
+  {
+    "key": "g6a-p27-1",
+    "book": "g6a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "4x(1÷1)"
+  },
+  {
+    "key": "g6a-p27-2",
+    "book": "g6a",
+    "pdfPage": 27,
+    "printedPage": 23,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "7x3x2"
+  },
+  {
+    "key": "g6a-p30-3",
+    "book": "g6a",
+    "pdfPage": 30,
+    "printedPage": 26,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "3X5X18"
+  },
+  {
+    "key": "g6a-p30-5",
+    "book": "g6a",
+    "pdfPage": 30,
+    "printedPage": 26,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "98x4"
+  },
+  {
+    "key": "g6a-p30-22",
+    "book": "g6a",
+    "pdfPage": 30,
+    "printedPage": 26,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "7 *75"
+  },
+  {
+    "key": "g6a-p34-13",
+    "book": "g6a",
+    "pdfPage": 34,
+    "printedPage": 30,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "(1+13)×10"
+  },
+  {
+    "key": "g6a-p41-6",
+    "book": "g6a",
+    "pdfPage": 41,
+    "printedPage": 37,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "35-15"
+  },
+  {
+    "key": "g6a-p57-14",
+    "book": "g6a",
+    "pdfPage": 57,
+    "printedPage": 53,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "1744*3"
+  },
+  {
+    "key": "g6a-p78-26",
+    "book": "g6a",
+    "pdfPage": 78,
+    "printedPage": 74,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "3 +2=5"
+  },
+  {
+    "key": "g6a-p89-19",
+    "book": "g6a",
+    "pdfPage": 89,
+    "printedPage": 85,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "1+2=3"
+  },
+  {
+    "key": "g6a-p89-25",
+    "book": "g6a",
+    "pdfPage": 89,
+    "printedPage": 85,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "1+2+3=6"
+  },
+  {
+    "key": "g6a-p90-6",
+    "book": "g6a",
+    "pdfPage": 90,
+    "printedPage": 86,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "2+4=6"
+  },
+  {
+    "key": "g6a-p90-7",
+    "book": "g6a",
+    "pdfPage": 90,
+    "printedPage": 86,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "2+4+8=14"
+  },
+  {
+    "key": "g6a-p107-16",
+    "book": "g6a",
+    "pdfPage": 107,
+    "printedPage": 103,
+    "reason": "高年级算式片段需核对完整上下文，改用单元改编题",
+    "candidate": "13×5×39"
+  },
+  {
+    "key": "g6b-p23-7",
+    "book": "g6b",
+    "pdfPage": 23,
+    "printedPage": 19,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "14÷4="
+  },
+  {
+    "key": "g6b-p29-0",
+    "book": "g6b",
+    "pdfPage": 29,
+    "printedPage": 25,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "17-15"
+  },
+  {
+    "key": "g6b-p68-20",
+    "book": "g6b",
+    "pdfPage": 68,
+    "printedPage": 64,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4÷2 =2"
+  },
+  {
+    "key": "g6b-p68-21",
+    "book": "g6b",
+    "pdfPage": 68,
+    "printedPage": 64,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2÷2 = 1"
+  },
+  {
+    "key": "g6b-p68-25",
+    "book": "g6b",
+    "pdfPage": 68,
+    "printedPage": 64,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2-2=0"
+  },
+  {
+    "key": "g6b-p72-1",
+    "book": "g6b",
+    "pdfPage": 72,
+    "printedPage": 68,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3317*773"
+  },
+  {
+    "key": "g6b-p75-39",
+    "book": "g6b",
+    "pdfPage": 75,
+    "printedPage": 71,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "36÷9"
+  },
+  {
+    "key": "g6b-p75-40",
+    "book": "g6b",
+    "pdfPage": 75,
+    "printedPage": 71,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "50 - 3x4"
+  },
+  {
+    "key": "g6b-p76-8",
+    "book": "g6b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "9.6 ÷ 0.6"
+  },
+  {
+    "key": "g6b-p76-29",
+    "book": "g6b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "(7.5 + 2.5) ÷ 0.25"
+  },
+  {
+    "key": "g6b-p76-36",
+    "book": "g6b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5.4÷ 18 + 12"
+  },
+  {
+    "key": "g6b-p76-37",
+    "book": "g6b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "322÷14"
+  },
+  {
+    "key": "g6b-p76-38",
+    "book": "g6b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "3.22 ÷ 0.14"
+  },
+  {
+    "key": "g6b-p76-40",
+    "book": "g6b",
+    "pdfPage": 76,
+    "printedPage": 72,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.25 x 1.8 + 1.25 x 0.18"
+  },
+  {
+    "key": "g6b-p77-10",
+    "book": "g6b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "368÷2"
+  },
+  {
+    "key": "g6b-p77-24",
+    "book": "g6b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "38÷4"
+  },
+  {
+    "key": "g6b-p77-25",
+    "book": "g6b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "1 - 0.25"
+  },
+  {
+    "key": "g6b-p77-27",
+    "book": "g6b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "312÷3"
+  },
+  {
+    "key": "g6b-p77-35",
+    "book": "g6b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "18x 2"
+  },
+  {
+    "key": "g6b-p77-48",
+    "book": "g6b",
+    "pdfPage": 77,
+    "printedPage": 73,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.72 ÷ 0.6"
+  },
+  {
+    "key": "g6b-p78-16",
+    "book": "g6b",
+    "pdfPage": 78,
+    "printedPage": 74,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "5-3÷2"
+  },
+  {
+    "key": "g6b-p82-11",
+    "book": "g6b",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "329 +2="
+  },
+  {
+    "key": "g6b-p82-21",
+    "book": "g6b",
+    "pdfPage": 82,
+    "printedPage": 78,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "4104 ÷ 76"
+  },
+  {
+    "key": "g6b-p83-39",
+    "book": "g6b",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "2.7 x 4.8 + 2.7 x 5.2"
+  },
+  {
+    "key": "g6b-p83-43",
+    "book": "g6b",
+    "pdfPage": 83,
+    "printedPage": 79,
+    "reason": "两种识别结果不一致，需人工核对原页",
+    "candidate": "0.7 + 3.9 + 4.3 + 6.1"
+  }
+]

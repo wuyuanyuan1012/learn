@@ -1,0 +1,41 @@
+{
+  "batch": "grade1-pinyin-bpmf-60-v1",
+  "mode": "check-only",
+  "checkedAt": "2026-09-30T05:51:03.629Z",
+  "sha256": "7b8c6d9a332bf1f9610fb094d088927aa4e4ea6d75035d08e5692100db8e38ba",
+  "before": {
+    "lessons": 109,
+    "questions": 545
+  },
+  "batchTotal": {
+    "lessons": 12,
+    "questions": 60
+  },
+  "pending": {
+    "lessons": 12,
+    "questions": 60
+  },
+  "inserted": {
+    "lessons": 0,
+    "questions": 0
+  },
+  "after": {
+    "lessons": 109,
+    "questions": 545
+  },
+  "existingDataPreserved": true,
+  "bySubject": {
+    "math": 0,
+    "chinese": 60,
+    "english": 0,
+    "science": 0
+  },
+  "byGrade": {
+    "1": 60,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0
+  }
+}

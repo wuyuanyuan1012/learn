@@ -5,8 +5,8 @@ import { z } from 'zod';
 import { createClient } from '@/lib/supabase/server';
 import { getAdmin } from '@/lib/auth';
 import { supabaseConfig } from '@/lib/config';
-import { lessonSchema } from '@/lib/validation';
-import { seedLessons } from '@/lib/seed';
+import { lessonWriteSchema as lessonSchema } from '@/lib/validation';
+import { expandedSeedLessons as seedLessons } from '@/content/ten-question-lessons';
 type Result = { ok: boolean; error?: string; id?: string };
 export async function login(_previous: { error?: string }, form: FormData): Promise<{ error?: string }> {
   if (!supabaseConfig()) return { error: '请先完成题库配置。' };

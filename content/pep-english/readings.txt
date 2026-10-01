@@ -1,0 +1,169 @@
+# @book unit title; original context; five question|answer|wrong1|wrong2|wrong3|verbatim evidence rows
+@g1a 1 我的学习用品
+I am Ben. I have a book, a ruler and a pencil. My book is red. My ruler is blue. My pencil is yellow.
+文中的小朋友叫什么？|Ben|Tom|Lily|Ann|I am Ben.
+Ben的书是什么颜色？|红色|蓝色|黄色|黑色|My book is red.
+Ben的尺子是什么颜色？|蓝色|红色|黄色|绿色|My ruler is blue.
+Ben的铅笔是什么颜色？|黄色|红色|黑色|绿色|My pencil is yellow.
+短文提到了下面哪一组学习用品？|书、尺子、铅笔|书包、橡皮、钢笔|尺子、剪刀、胶水|课桌、椅子、黑板|I have a book, a ruler and a pencil.
+@g1a 6 喜欢的水果
+I am Ann. I like apples. I like bananas, too. I have two apples and three bananas. My bananas are yellow.
+谁在介绍喜欢的水果？|Ann|Ben|Tom|Sam|I am Ann.
+Ann喜欢哪两种水果？|苹果和香蕉|梨和橙子|香蕉和梨|苹果和梨|I like apples. I like bananas, too.
+Ann有几个苹果？|两个|三个|四个|五个|I have two apples and three bananas.
+Ann有几个香蕉？|三个|一个|两个|四个|I have two apples and three bananas.
+Ann的香蕉是什么颜色？|黄色|蓝色|黑色|绿色|My bananas are yellow.
+@g1b 1 找找物品
+My book is on the desk. My ruler is in the box. My ball is under the chair. My doll is on the bed. My car is behind the door.
+书在哪里？|课桌上|盒子里|椅子下|床上|My book is on the desk.
+尺子在哪里？|盒子里|课桌上|床下|门后|My ruler is in the box.
+球在哪里？|椅子下面|床上|课桌里|盒子里|My ball is under the chair.
+玩具娃娃在哪里？|床上|门后|椅子下|盒子里|My doll is on the bed.
+玩具汽车在哪里？|门后|床下|课桌上|椅子上|My car is behind the door.
+@g1b 4 午餐选择
+Ben: I'm hungry. I want rice and fish. Ann: I want noodles and an egg. Ben: I want water, too. Ann: I want milk.
+Ben说自己有什么感觉？|饿了|累了|冷了|害怕|I'm hungry.
+Ben想吃哪一组食物？|米饭和鱼肉|面条和鸡蛋|面包和蛋糕|鸡肉和蔬菜|I want rice and fish.
+Ann想吃哪一组食物？|面条和鸡蛋|米饭和鱼肉|面包和苹果|鸡肉和米饭|I want noodles and an egg.
+Ben还想喝什么？|水|牛奶|茶|果汁|Ben: I want water, too.
+Ann想喝什么？|牛奶|水|茶|果汁|Ann: I want milk.
+@g2a 1 家庭介绍
+This is my family. My father is tall. My mother is pretty. My brother is short. My sister likes cats. I like dogs.
+谁很高？|爸爸|妈妈|哥哥或弟弟|姐姐或妹妹|My father is tall.
+谁被描述为pretty？|妈妈|爸爸|兄弟|姐妹|My mother is pretty.
+谁个子矮？|兄弟|爸爸|妈妈|姐妹|My brother is short.
+姐妹喜欢什么动物？|猫|狗|老虎|鸟|My sister likes cats.
+叙述者喜欢什么动物？|狗|猫|猴子|老虎|I like dogs.
+@g2a 5 公园见闻
+There is a boat on the lake. There are three birds in the tree. A dog is under the tree. The dog is black. Two boys are in the park.
+湖上有什么？|一只小船|一辆汽车|一只猫|一个书包|There is a boat on the lake.
+树上有几只鸟？|三只|一只|两只|四只|There are three birds in the tree.
+树下是什么动物？|狗|猫|猴子|兔子|A dog is under the tree.
+狗是什么颜色？|黑色|白色|红色|黄色|The dog is black.
+公园里有几个男孩？|两个|一个|三个|四个|Two boys are in the park.
+@g2b 3 季节与活动
+Sam likes spring. He can fly a kite. Lily likes summer. She can swim. Ben likes winter. He can make a snowman. Ann likes autumn.
+Sam最喜欢哪个季节？|春天|夏天|秋天|冬天|Sam likes spring.
+Sam会做什么？|放风筝|游泳|堆雪人|下棋|He can fly a kite.
+谁喜欢夏天？|Lily|Sam|Ben|Ann|Lily likes summer.
+Ben会做什么？|堆雪人|游泳|画画|踢足球|He can make a snowman.
+Ann喜欢哪个季节？|秋天|春天|夏天|冬天|Ann likes autumn.
+@g2b 5 一天的时间
+I get up at six thirty. I eat breakfast at seven. I go to school at seven twenty. I go home at four. I go to bed at nine.
+叙述者几点起床？|6:30|6:00|7:00|7:20|I get up at six thirty.
+几点吃早餐？|7:00|6:30|7:20|9:00|I eat breakfast at seven.
+几点去上学？|7:20|7:00|6:30|4:00|I go to school at seven twenty.
+几点回家？|4:00|3:00|5:00|6:00|I go home at four.
+几点上床睡觉？|9:00|8:00|7:00|10:00|I go to bed at nine.
+@g3a 1 认识新同学
+My name is Lucy. I am nine years old. I am in Class Three. My birthday is in May. I have a white rabbit. It has long ears.
+新同学的名字是什么？|Lucy|Lily|Sam|Ben|My name is Lucy.
+Lucy几岁？|九岁|八岁|十岁|七岁|I am nine years old.
+Lucy在哪个班？|三班|一班|二班|四班|I am in Class Three.
+Lucy的生日在哪个月？|五月|三月|四月|六月|My birthday is in May.
+Lucy的宠物是什么？|白兔|黑猫|黄鸭|绿乌龟|I have a white rabbit.
+@g3a 5 出门穿什么
+It is cold and snowy today. Sam has PE. Mum says, "Wear your sweater, coat and gloves. Take your sports shoes." Sam's coat is blue. His gloves are black.
+今天是什么天气？|寒冷且下雪|炎热且晴朗|暖和且下雨|凉爽且多云|It is cold and snowy today.
+Sam今天有什么课？|体育课|美术课|音乐课|计算机课|Sam has PE.
+妈妈让Sam带什么鞋？|运动鞋|凉鞋|拖鞋|雨靴|Take your sports shoes.
+Sam的外套是什么颜色？|蓝色|红色|黄色|白色|Sam's coat is blue.
+Sam的手套是什么颜色？|黑色|白色|绿色|黄色|His gloves are black.
+@g3b 2 我们的学校
+Our library is on the first floor. The art room is on the second floor. We have English on Monday and music on Friday. After school, I am going to play chess with Ben.
+图书馆在哪一层？|一楼|二楼|三楼|四楼|Our library is on the first floor.
+美术教室在哪一层？|二楼|一楼|三楼|四楼|The art room is on the second floor.
+英语课在星期几？|星期一|星期二|星期三|星期五|We have English on Monday
+音乐课在星期几？|星期五|星期一|星期二|星期四|music on Friday.
+放学后打算和Ben做什么？|下棋|画画|游泳|唱歌|I am going to play chess with Ben.
+@g3b 5 家人正在忙什么
+Mum is cooking in the kitchen. Dad is reading in the study. Grandma is watering the plants. Ben is feeding the fish. I am listening to music in the living room.
+妈妈正在做什么？|做饭|读书|喂鱼|浇水|Mum is cooking in the kitchen.
+爸爸在哪里？|书房|厨房|客厅|浴室|Dad is reading in the study.
+奶奶正在做什么？|给植物浇水|洗衣服|看电视|喂鱼|Grandma is watering the plants.
+谁正在喂鱼？|Ben|爸爸|妈妈|奶奶|Ben is feeding the fish.
+叙述者在客厅做什么？|听音乐|看电视|吃午饭|写信|I am listening to music in the living room.
+@g4a 3 上学与周末
+Lily walks to school because her home is near it. Ben goes by bus. Lily often visits her grandparents on weekends. Ben goes fishing. They both like basketball.
+Lily怎样上学？|步行|乘公交车|乘地铁|骑车|Lily walks to school
+Lily为什么选择这种方式？|家离学校近|没有公交车|不喜欢骑车|学校在湖边|because her home is near it.
+Ben怎样上学？|乘公交车|步行|乘火车|乘船|Ben goes by bus.
+Lily周末常做什么？|看望祖辈|钓鱼|买衣服|做飞机模型|Lily often visits her grandparents on weekends.
+两个人都喜欢哪项运动？|篮球|足球|游泳|轮滑|They both like basketball.
+@g4a 6 不同的梦想
+Amy wants to be a nurse. Ben wants to be a cook. His father is a bus driver. Lucy wants to be a doctor. Her mother is a farmer. They talk about their dreams at school.
+Amy想做什么职业？|护士|医生|厨师|农民|Amy wants to be a nurse.
+Ben想做什么职业？|厨师|司机|护士|警察|Ben wants to be a cook.
+Ben的爸爸做什么工作？|公交车司机|出租车司机|工人|厨师|His father is a bus driver.
+Lucy想做什么职业？|医生|护士|老师|农民|Lucy wants to be a doctor.
+Lucy的妈妈做什么工作？|农民|医生|司机|警察|Her mother is a farmer.
+@g4b 1 问路小记
+The bank is next to the school. The post office is across from the bank. The hotel is on Apple Street. Ben wants to go to the hotel. He can take a bus there.
+银行紧挨着什么地方？|学校|旅馆|邮局|公园|The bank is next to the school.
+邮局在哪里？|银行对面|旅馆里面|学校后面|公园旁边|The post office is across from the bank.
+旅馆在哪条街？|Apple Street|Banana Street|Pear Street|Orange Street|The hotel is on Apple Street.
+Ben想去哪里？|旅馆|学校|邮局|银行|Ben wants to go to the hotel.
+Ben可以怎样到达目的地？|乘公交车|乘飞机|乘船|滑雪|He can take a bus there.
+@g4b 5 我的业余生活
+I am May. I am from Canada. I like reading and making models. I play the violin twice a week. I go camping once a month. I never go skateboarding.
+May来自哪个国家？|加拿大|中国|澳大利亚|英国|I am from Canada.
+May喜欢哪两项活动？|阅读和制作模型|唱歌和跳舞|游泳和滑雪|绘画和拼图|I like reading and making models.
+May多久拉一次小提琴？|每周两次|每天一次|每月一次|每周三次|I play the violin twice a week.
+May多久露营一次？|每月一次|每周一次|每天一次|每年一次|I go camping once a month.
+May从不做哪项活动？|玩滑板|阅读|制作模型|露营|I never go skateboarding.
+@g5a 2 我喜欢的老师
+Mr Lin teaches maths. He wears glasses and has short straight hair. He is kind and helpful. He often tells us funny stories after class. We all like him.
+林老师教什么学科？|数学|英语|语文|音乐|Mr Lin teaches maths.
+他戴什么？|眼镜|手套|帽子|围巾|He wears glasses
+他的头发是什么样的？|短直发|长卷发|长直发|短卷发|has short straight hair.
+他的性格怎样？|友善且乐于助人|粗心且粗鲁|懒惰且冷漠|吵闹且凶狠|He is kind and helpful.
+他课后常做什么？|讲有趣的故事|带学生游泳|卖练习本|修理汽车|He often tells us funny stories after class.
+@g5a 6 周六的安排
+On Saturdays, May makes her bed and sweeps the floor. Then she watches nature shows at ten. Her brother Ben washes clothes. Their parents cook lunch. May enjoys helping at home.
+May在周六做哪两项家务？|整理床铺和扫地|洗衣服和做午饭|洗碗和擦窗|浇花和倒垃圾|May makes her bed and sweeps the floor.
+May看哪类节目？|自然类节目|新闻节目|体育节目|音乐节目|she watches nature shows
+May几点看节目？|十点|九点|八点|十一点|at ten.
+Ben做什么家务？|洗衣服|扫地|做午饭|整理床铺|Her brother Ben washes clothes.
+谁做午饭？|父母|May|Ben|老师|Their parents cook lunch.
+@g5b 4 上周末的回忆
+Last Saturday, Jack visited his grandparents by bus. He cleaned a window and played chess with Grandpa. On Sunday, he stayed at home because it rained. He read a book. He felt happy.
+Jack星期六看望了谁？|祖父母或外祖父母|老师|同学|叔叔|Jack visited his grandparents
+Jack怎样去看望他们？|乘公交车|步行|乘飞机|骑车|by bus.
+Jack和爷爷或外公做了什么？|下棋|游泳|骑马|画画|played chess with Grandpa.
+星期日为何待在家里？|因为下雨|因为下雪|因为生病|因为太热|he stayed at home because it rained.
+Jack星期日读了什么？|一本书|一张菜单|一张地图|一封信|He read a book.
+@g5b 6 成长记录
+I was born in May. I learned to walk when I was one. I went to kindergarten at three. I learned to swim at five. I started school at six. Now I am ten and I can help my little sister read.
+叙述者出生在哪个月？|五月|三月|六月|十月|I was born in May.
+几岁学会走路？|一岁|两岁|三岁|四岁|I learned to walk when I was one.
+几岁开始上幼儿园？|三岁|两岁|四岁|六岁|I went to kindergarten at three.
+几岁学会游泳？|五岁|三岁|六岁|十岁|I learned to swim at five.
+现在几岁？|十岁|六岁|五岁|三岁|Now I am ten
+@g6a 1 中国旅行
+Last summer, Ben went to Suzhou with his parents. They travelled by train and visited gardens. Ben took photos. It rained on the last day, so they visited a museum. The trip lasted three days.
+Ben去年夏天去了哪里？|苏州|广州|北京|拉萨|Ben went to Suzhou
+Ben与谁同行？|父母|老师|同学|独自旅行|with his parents.
+他们采用什么交通方式？|火车|飞机|轮船|公交车|They travelled by train
+最后一天下雨，他们去了哪里？|博物馆|游泳池|沙漠|海滩|It rained on the last day, so they visited a museum.
+旅行持续了几天？|三天|两天|四天|五天|The trip lasted three days.
+@g6a 4 比赛前后
+Lily was worried before the race because she hurt her foot. Her friend helped her. She did not run that day. She watched the race and cheered for her team. She felt proud when her team won.
+Lily赛前感觉怎样？|担心|愤怒|困倦|兴奋|Lily was worried before the race
+她为何有这种感觉？|脚受伤了|忘记带书|丢了钥匙|弄坏玩具|because she hurt her foot.
+谁帮助了Lily？|她的朋友|裁判|陌生游客|售货员|Her friend helped her.
+Lily当天是否参加了跑步？|没有参加|跑了两次|跑了三次|跑完所有赛程|She did not run that day.
+她为什么感到自豪？|自己的队伍获胜|买到了新鞋|写完了作业|看到了彩虹|She felt proud when her team won.
+@g6b 3 做三明治
+First, put bread on a plate. Next, put some chicken on the bread. Then add tomatoes and an egg. Last, put another piece of bread on top. Ben makes this sandwich for his mum, not for himself.
+第一步把面包放在哪里？|盘子上|杯子里|冰箱下面|书包里|put bread on a plate.
+第二步放什么在面包上？|鸡肉|鱼肉|牛肉|猪肉|put some chicken on the bread.
+鸡肉之后加入哪两样东西？|西红柿和鸡蛋|苹果和香蕉|米饭和面条|黄瓜和土豆|Then add tomatoes and an egg.
+最后在最上面放什么？|另一片面包|一颗糖|一把勺子|一只杯子|put another piece of bread on top.
+Ben为谁做这个三明治？|妈妈|自己|爸爸|老师|Ben makes this sandwich for his mum, not for himself.
+@g6b 6 暑期明信片
+Dear Ann, I arrived in London on July 15th by plane. Yesterday I visited the British Museum with Dad. Tomorrow we will see Big Ben. We will stay for six days. I bought a book for you. Love, May
+谁写了这张明信片？|May|Ann|Dad|Ben|Love, May
+May何时到达伦敦？|7月15日|7月16日|6月15日|8月15日|I arrived in London on July 15th
+May怎样到达伦敦？|乘飞机|乘船|乘火车|乘公交车|by plane.
+May昨天与爸爸去了哪里？|大英博物馆|大本钟|白宫|长城|Yesterday I visited the British Museum with Dad.
+他们打算在伦敦停留多久？|六天|五天|七天|十天|We will stay for six days.

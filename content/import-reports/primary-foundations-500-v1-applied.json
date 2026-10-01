@@ -1,0 +1,41 @@
+{
+  "batch": "primary-foundations-500-v1",
+  "mode": "applied",
+  "checkedAt": "2026-09-30T04:53:18.522Z",
+  "sha256": "0a2e2b036a5375f216d3aec8bfa01f08998d82b6237252b68a8927eca2563295",
+  "before": {
+    "lessons": 9,
+    "questions": 45
+  },
+  "batchTotal": {
+    "lessons": 100,
+    "questions": 500
+  },
+  "pending": {
+    "lessons": 100,
+    "questions": 500
+  },
+  "inserted": {
+    "lessons": 100,
+    "questions": 500
+  },
+  "after": {
+    "lessons": 109,
+    "questions": 545
+  },
+  "existingDataPreserved": true,
+  "bySubject": {
+    "math": 200,
+    "chinese": 100,
+    "english": 100,
+    "science": 100
+  },
+  "byGrade": {
+    "1": 60,
+    "2": 75,
+    "3": 110,
+    "4": 95,
+    "5": 80,
+    "6": 80
+  }
+}

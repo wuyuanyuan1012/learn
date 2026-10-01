@@ -1,0 +1,2510 @@
+[
+  {
+    "key": "g1a-p25-0",
+    "sameAs": "g1a-p23-0"
+  },
+  {
+    "key": "g1a-p29-10",
+    "sameAs": "g1a-p29-3"
+  },
+  {
+    "key": "g1a-p32-11",
+    "sameAs": "g1a-p31-9"
+  },
+  {
+    "key": "g1a-p34-12",
+    "sameAs": "g1a-p33-3"
+  },
+  {
+    "key": "g1a-p34-13",
+    "sameAs": "g1a-p31-9"
+  },
+  {
+    "key": "g1a-p34-17",
+    "sameAs": "g1a-p29-3"
+  },
+  {
+    "key": "g1a-p34-18",
+    "sameAs": "g1a-p30-3"
+  },
+  {
+    "key": "g1a-p34-19",
+    "sameAs": "g1a-p28-12"
+  },
+  {
+    "key": "g1a-p35-6",
+    "sameAs": "g1a-p31-9"
+  },
+  {
+    "key": "g1a-p35-7",
+    "sameAs": "g1a-p34-20"
+  },
+  {
+    "key": "g1a-p35-16",
+    "sameAs": "g1a-p34-15"
+  },
+  {
+    "key": "g1a-p35-19",
+    "sameAs": "g1a-p34-16"
+  },
+  {
+    "key": "g1a-p36-4",
+    "sameAs": "g1a-p28-12"
+  },
+  {
+    "key": "g1a-p36-9",
+    "sameAs": "g1a-p33-3"
+  },
+  {
+    "key": "g1a-p36-11",
+    "sameAs": "g1a-p28-12"
+  },
+  {
+    "key": "g1a-p36-13",
+    "sameAs": "g1a-p34-20"
+  },
+  {
+    "key": "g1a-p36-15",
+    "sameAs": "g1a-p32-5"
+  },
+  {
+    "key": "g1a-p36-17",
+    "sameAs": "g1a-p31-9"
+  },
+  {
+    "key": "g1a-p36-18",
+    "sameAs": "g1a-p34-15"
+  },
+  {
+    "key": "g1a-p36-19",
+    "sameAs": "g1a-p30-3"
+  },
+  {
+    "key": "g1a-p36-20",
+    "sameAs": "g1a-p35-12"
+  },
+  {
+    "key": "g1a-p39-11",
+    "sameAs": "g1a-p39-4"
+  },
+  {
+    "key": "g1a-p41-0",
+    "sameAs": "g1a-p35-0"
+  },
+  {
+    "key": "g1a-p41-9",
+    "sameAs": "g1a-p41-7"
+  },
+  {
+    "key": "g1a-p46-6",
+    "sameAs": "g1a-p42-20"
+  },
+  {
+    "key": "g1a-p52-8",
+    "sameAs": "g1a-p38-17"
+  },
+  {
+    "key": "g1a-p52-9",
+    "sameAs": "g1a-p46-12"
+  },
+  {
+    "key": "g1a-p52-10",
+    "sameAs": "g1a-p46-15"
+  },
+  {
+    "key": "g1a-p52-14",
+    "sameAs": "g1a-p39-16"
+  },
+  {
+    "key": "g1a-p52-21",
+    "sameAs": "g1a-p46-8"
+  },
+  {
+    "key": "g1a-p52-22",
+    "sameAs": "g1a-p46-5"
+  },
+  {
+    "key": "g1a-p52-33",
+    "sameAs": "g1a-p38-18"
+  },
+  {
+    "key": "g1a-p52-34",
+    "sameAs": "g1a-p46-16"
+  },
+  {
+    "key": "g1a-p53-3",
+    "sameAs": "g1a-p46-15"
+  },
+  {
+    "key": "g1a-p53-23",
+    "sameAs": "g1a-p52-13"
+  },
+  {
+    "key": "g1a-p54-4",
+    "sameAs": "g1a-p36-21"
+  },
+  {
+    "key": "g1a-p54-13",
+    "sameAs": "g1a-p38-17"
+  },
+  {
+    "key": "g1a-p54-15",
+    "sameAs": "g1a-p52-12"
+  },
+  {
+    "key": "g1a-p54-20",
+    "sameAs": "g1a-p54-8"
+  },
+  {
+    "key": "g1a-p54-21",
+    "sameAs": "g1a-p54-10"
+  },
+  {
+    "key": "g1a-p54-26",
+    "sameAs": "g1a-p53-8"
+  },
+  {
+    "key": "g1a-p54-27",
+    "sameAs": "g1a-p54-6"
+  },
+  {
+    "key": "g1a-p54-28",
+    "sameAs": "g1a-p54-12"
+  },
+  {
+    "key": "g1a-p54-34",
+    "sameAs": "g1a-p36-21"
+  },
+  {
+    "key": "g1a-p54-38",
+    "sameAs": "g1a-p54-8"
+  },
+  {
+    "key": "g1a-p54-39",
+    "sameAs": "g1a-p54-10"
+  },
+  {
+    "key": "g1a-p54-42",
+    "sameAs": "g1a-p39-4"
+  },
+  {
+    "key": "g1a-p54-43",
+    "sameAs": "g1a-p39-19"
+  },
+  {
+    "key": "g1a-p54-44",
+    "sameAs": "g1a-p39-16"
+  },
+  {
+    "key": "g1a-p54-45",
+    "sameAs": "g1a-p38-17"
+  },
+  {
+    "key": "g1a-p54-46",
+    "sameAs": "g1a-p39-15"
+  },
+  {
+    "key": "g1a-p54-49",
+    "sameAs": "g1a-p54-35"
+  },
+  {
+    "key": "g1a-p54-50",
+    "sameAs": "g1a-p36-21"
+  },
+  {
+    "key": "g1a-p54-53",
+    "sameAs": "g1a-p54-12"
+  },
+  {
+    "key": "g1a-p54-54",
+    "sameAs": "g1a-p54-6"
+  },
+  {
+    "key": "g1a-p54-59",
+    "sameAs": "g1a-p36-21"
+  },
+  {
+    "key": "g1a-p54-60",
+    "sameAs": "g1a-p54-35"
+  },
+  {
+    "key": "g1a-p55-4",
+    "sameAs": "g1a-p52-24"
+  },
+  {
+    "key": "g1a-p55-5",
+    "sameAs": "g1a-p39-29"
+  },
+  {
+    "key": "g1a-p55-6",
+    "sameAs": "g1a-p38-18"
+  },
+  {
+    "key": "g1a-p55-7",
+    "sameAs": "g1a-p39-12"
+  },
+  {
+    "key": "g1a-p55-10",
+    "sameAs": "g1a-p39-17"
+  },
+  {
+    "key": "g1a-p55-14",
+    "sameAs": "g1a-p39-17"
+  },
+  {
+    "key": "g1a-p55-15",
+    "sameAs": "g1a-p39-12"
+  },
+  {
+    "key": "g1a-p55-17",
+    "sameAs": "g1a-p39-5"
+  },
+  {
+    "key": "g1a-p55-21",
+    "sameAs": "g1a-p55-9"
+  },
+  {
+    "key": "g1a-p55-25",
+    "sameAs": "g1a-p48-7"
+  },
+  {
+    "key": "g1a-p55-26",
+    "sameAs": "g1a-p39-17"
+  },
+  {
+    "key": "g1a-p55-27",
+    "sameAs": "g1a-p34-15"
+  },
+  {
+    "key": "g1a-p55-30",
+    "sameAs": "g1a-p38-18"
+  },
+  {
+    "key": "g1a-p55-35",
+    "sameAs": "g1a-p52-32"
+  },
+  {
+    "key": "g1a-p55-36",
+    "sameAs": "g1a-p52-24"
+  },
+  {
+    "key": "g1a-p55-40",
+    "sameAs": "g1a-p55-13"
+  },
+  {
+    "key": "g1a-p55-41",
+    "sameAs": "g1a-p55-9"
+  },
+  {
+    "key": "g1a-p55-43",
+    "sameAs": "g1a-p46-5"
+  },
+  {
+    "key": "g1a-p55-44",
+    "sameAs": "g1a-p52-35"
+  },
+  {
+    "key": "g1a-p55-53",
+    "sameAs": "g1a-p33-3"
+  },
+  {
+    "key": "g1a-p55-55",
+    "sameAs": "g1a-p35-17"
+  },
+  {
+    "key": "g1a-p56-22",
+    "sameAs": "g1a-p55-13"
+  },
+  {
+    "key": "g1a-p58-3",
+    "sameAs": "g1a-p52-15"
+  },
+  {
+    "key": "g1a-p58-5",
+    "sameAs": "g1a-p54-25"
+  },
+  {
+    "key": "g1a-p58-6",
+    "sameAs": "g1a-p53-8"
+  },
+  {
+    "key": "g1a-p58-10",
+    "sameAs": "g1a-p52-23"
+  },
+  {
+    "key": "g1a-p58-11",
+    "sameAs": "g1a-p52-32"
+  },
+  {
+    "key": "g1a-p58-16",
+    "sameAs": "g1a-p56-21"
+  },
+  {
+    "key": "g1a-p58-17",
+    "sameAs": "g1a-p42-20"
+  },
+  {
+    "key": "g1a-p65-7",
+    "sameAs": "g1a-p46-12"
+  },
+  {
+    "key": "g1a-p65-11",
+    "sameAs": "g1a-p56-21"
+  },
+  {
+    "key": "g1a-p65-14",
+    "sameAs": "g1a-p28-12"
+  },
+  {
+    "key": "g1a-p65-15",
+    "sameAs": "g1a-p55-13"
+  },
+  {
+    "key": "g1a-p67-8",
+    "sameAs": "g1a-p54-35"
+  },
+  {
+    "key": "g1a-p67-9",
+    "sameAs": "g1a-p52-35"
+  },
+  {
+    "key": "g1a-p80-27",
+    "sameAs": "g1a-p78-24"
+  },
+  {
+    "key": "g1a-p81-3",
+    "sameAs": "g1a-p28-12"
+  },
+  {
+    "key": "g1a-p81-6",
+    "sameAs": "g1a-p28-12"
+  },
+  {
+    "key": "g1a-p81-12",
+    "sameAs": "g1a-p52-35"
+  },
+  {
+    "key": "g1a-p81-14",
+    "sameAs": "g1a-p52-35"
+  },
+  {
+    "key": "g1a-p81-19",
+    "sameAs": "g1a-p81-7"
+  },
+  {
+    "key": "g1a-p81-20",
+    "sameAs": "g1a-p81-15"
+  },
+  {
+    "key": "g1a-p82-0",
+    "sameAs": "g1a-p19-0"
+  },
+  {
+    "key": "g1a-p82-17",
+    "sameAs": "g1a-p82-12"
+  },
+  {
+    "key": "g1a-p83-10",
+    "sameAs": "g1a-p54-8"
+  },
+  {
+    "key": "g1a-p83-12",
+    "sameAs": "g1a-p54-24"
+  },
+  {
+    "key": "g1a-p83-13",
+    "sameAs": "g1a-p83-11"
+  },
+  {
+    "key": "g1a-p84-0",
+    "sameAs": "g1a-p19-0"
+  },
+  {
+    "key": "g1a-p84-14",
+    "sameAs": "g1a-p84-9"
+  },
+  {
+    "key": "g1a-p84-22",
+    "sameAs": "g1a-p84-8"
+  },
+  {
+    "key": "g1a-p85-3",
+    "sameAs": "g1a-p54-10"
+  },
+  {
+    "key": "g1a-p85-4",
+    "sameAs": "g1a-p83-11"
+  },
+  {
+    "key": "g1a-p85-5",
+    "sameAs": "g1a-p54-23"
+  },
+  {
+    "key": "g1a-p85-6",
+    "sameAs": "g1a-p83-11"
+  },
+  {
+    "key": "g1a-p86-0",
+    "sameAs": "g1a-p19-0"
+  },
+  {
+    "key": "g1a-p86-11",
+    "sameAs": "g1a-p82-12"
+  },
+  {
+    "key": "g1a-p86-18",
+    "sameAs": "g1a-p84-3"
+  },
+  {
+    "key": "g1a-p86-21",
+    "sameAs": "g1a-p84-15"
+  },
+  {
+    "key": "g1a-p87-9",
+    "sameAs": "g1a-p87-4"
+  },
+  {
+    "key": "g1a-p87-18",
+    "sameAs": "g1a-p87-4"
+  },
+  {
+    "key": "g1a-p87-27",
+    "sameAs": "g1a-p52-11"
+  },
+  {
+    "key": "g1a-p87-28",
+    "sameAs": "g1a-p42-20"
+  },
+  {
+    "key": "g1a-p88-0",
+    "sameAs": "g1a-p19-0"
+  },
+  {
+    "key": "g1a-p88-4",
+    "sameAs": "g1a-p87-4"
+  },
+  {
+    "key": "g1a-p88-8",
+    "sameAs": "g1a-p84-10"
+  },
+  {
+    "key": "g1a-p88-16",
+    "sameAs": "g1a-p84-18"
+  },
+  {
+    "key": "g1a-p88-19",
+    "sameAs": "g1a-p87-23"
+  },
+  {
+    "key": "g1a-p88-20",
+    "sameAs": "g1a-p80-17"
+  },
+  {
+    "key": "g1a-p88-22",
+    "sameAs": "g1a-p87-16"
+  },
+  {
+    "key": "g1a-p88-27",
+    "sameAs": "g1a-p86-4"
+  },
+  {
+    "key": "g1a-p88-30",
+    "sameAs": "g1a-p86-8"
+  },
+  {
+    "key": "g1a-p88-32",
+    "sameAs": "g1a-p88-5"
+  },
+  {
+    "key": "g1a-p88-35",
+    "sameAs": "g1a-p52-23"
+  },
+  {
+    "key": "g1a-p88-38",
+    "sameAs": "g1a-p84-16"
+  },
+  {
+    "key": "g1a-p88-41",
+    "sameAs": "g1a-p84-15"
+  },
+  {
+    "key": "g1a-p88-42",
+    "sameAs": "g1a-p39-5"
+  },
+  {
+    "key": "g1a-p88-44",
+    "sameAs": "g1a-p87-4"
+  },
+  {
+    "key": "g1a-p88-45",
+    "sameAs": "g1a-p88-5"
+  },
+  {
+    "key": "g1a-p89-10",
+    "sameAs": "g1a-p88-6"
+  },
+  {
+    "key": "g1a-p89-11",
+    "sameAs": "g1a-p87-23"
+  },
+  {
+    "key": "g1a-p89-12",
+    "sameAs": "g1a-p88-5"
+  },
+  {
+    "key": "g1a-p89-17",
+    "sameAs": "g1a-p87-4"
+  },
+  {
+    "key": "g1a-p89-18",
+    "sameAs": "g1a-p88-14"
+  },
+  {
+    "key": "g1a-p89-20",
+    "sameAs": "g1a-p86-4"
+  },
+  {
+    "key": "g1a-p89-21",
+    "sameAs": "g1a-p84-15"
+  },
+  {
+    "key": "g1a-p90-8",
+    "sameAs": "g1a-p86-8"
+  },
+  {
+    "key": "g1a-p90-9",
+    "sameAs": "g1a-p42-20"
+  },
+  {
+    "key": "g1a-p90-10",
+    "sameAs": "g1a-p87-4"
+  },
+  {
+    "key": "g1a-p90-12",
+    "sameAs": "g1a-p86-4"
+  },
+  {
+    "key": "g1a-p90-14",
+    "sameAs": "g1a-p88-18"
+  },
+  {
+    "key": "g1a-p90-15",
+    "sameAs": "g1a-p55-34"
+  },
+  {
+    "key": "g1a-p90-16",
+    "sameAs": "g1a-p88-5"
+  },
+  {
+    "key": "g1a-p90-17",
+    "sameAs": "g1a-p84-18"
+  },
+  {
+    "key": "g1a-p90-21",
+    "sameAs": "g1a-p86-8"
+  },
+  {
+    "key": "g1a-p90-22",
+    "sameAs": "g1a-p88-13"
+  },
+  {
+    "key": "g1a-p90-23",
+    "sameAs": "g1a-p42-20"
+  },
+  {
+    "key": "g1a-p90-27",
+    "sameAs": "g1a-p84-16"
+  },
+  {
+    "key": "g1a-p91-7",
+    "sameAs": "g1a-p88-26"
+  },
+  {
+    "key": "g1a-p91-8",
+    "sameAs": "g1a-p88-34"
+  },
+  {
+    "key": "g1a-p91-9",
+    "sameAs": "g1a-p88-18"
+  },
+  {
+    "key": "g1a-p91-10",
+    "sameAs": "g1a-p84-3"
+  },
+  {
+    "key": "g1a-p91-11",
+    "sameAs": "g1a-p89-16"
+  },
+  {
+    "key": "g1a-p91-12",
+    "sameAs": "g1a-p83-6"
+  },
+  {
+    "key": "g1a-p91-13",
+    "sameAs": "g1a-p84-16"
+  },
+  {
+    "key": "g1a-p91-14",
+    "sameAs": "g1a-p86-9"
+  },
+  {
+    "key": "g1a-p91-15",
+    "sameAs": "g1a-p90-18"
+  },
+  {
+    "key": "g1a-p91-26",
+    "sameAs": "g1a-p84-11"
+  },
+  {
+    "key": "g1a-p91-27",
+    "sameAs": "g1a-p83-6"
+  },
+  {
+    "key": "g1a-p91-28",
+    "sameAs": "g1a-p86-8"
+  },
+  {
+    "key": "g1a-p91-30",
+    "sameAs": "g1a-p87-16"
+  },
+  {
+    "key": "g1a-p91-32",
+    "sameAs": "g1a-p88-26"
+  },
+  {
+    "key": "g1a-p91-33",
+    "sameAs": "g1a-p89-16"
+  },
+  {
+    "key": "g1a-p91-34",
+    "sameAs": "g1a-p86-4"
+  },
+  {
+    "key": "g1a-p91-35",
+    "sameAs": "g1a-p84-3"
+  },
+  {
+    "key": "g1a-p98-11",
+    "sameAs": "g1a-p88-15"
+  },
+  {
+    "key": "g1a-p98-16",
+    "sameAs": "g1a-p90-18"
+  },
+  {
+    "key": "g1a-p99-9",
+    "sameAs": "g1a-p54-10"
+  },
+  {
+    "key": "g1a-p99-10",
+    "sameAs": "g1a-p83-11"
+  },
+  {
+    "key": "g1a-p101-1",
+    "sameAs": "g1a-p88-14"
+  },
+  {
+    "key": "g1a-p101-2",
+    "sameAs": "g1a-p88-6"
+  },
+  {
+    "key": "g1a-p101-3",
+    "sameAs": "g1a-p46-16"
+  },
+  {
+    "key": "g1a-p101-5",
+    "sameAs": "g1a-p88-34"
+  },
+  {
+    "key": "g1a-p101-6",
+    "sameAs": "g1a-p81-4"
+  },
+  {
+    "key": "g1a-p101-9",
+    "sameAs": "g1a-p83-6"
+  },
+  {
+    "key": "g1a-p101-10",
+    "sameAs": "g1a-p89-16"
+  },
+  {
+    "key": "g1a-p101-11",
+    "sameAs": "g1a-p88-13"
+  },
+  {
+    "key": "g1a-p101-12",
+    "sameAs": "g1a-p54-24"
+  },
+  {
+    "key": "g1a-p101-21",
+    "sameAs": "g1a-p84-8"
+  },
+  {
+    "key": "g1a-p101-25",
+    "sameAs": "g1a-p84-16"
+  },
+  {
+    "key": "g1a-p101-34",
+    "sameAs": "g1a-p78-24"
+  },
+  {
+    "key": "g1a-p101-37",
+    "sameAs": "g1a-p88-5"
+  },
+  {
+    "key": "g1a-p101-39",
+    "sameAs": "g1a-p84-16"
+  },
+  {
+    "key": "g1a-p101-40",
+    "sameAs": "g1a-p101-19"
+  },
+  {
+    "key": "g1a-p101-41",
+    "sameAs": "g1a-p84-10"
+  },
+  {
+    "key": "g1a-p101-46",
+    "sameAs": "g1a-p88-24"
+  },
+  {
+    "key": "g1a-p101-52",
+    "sameAs": "g1a-p84-9"
+  },
+  {
+    "key": "g1a-p101-56",
+    "sameAs": "g1a-p86-4"
+  },
+  {
+    "key": "g1a-p101-57",
+    "sameAs": "g1a-p81-4"
+  },
+  {
+    "key": "g1b-p7-12",
+    "sameAs": "g1b-p6-9"
+  },
+  {
+    "key": "g1b-p7-13",
+    "sameAs": "g1b-p7-1"
+  },
+  {
+    "key": "g1b-p7-14",
+    "sameAs": "g1b-p7-4"
+  },
+  {
+    "key": "g1b-p7-21",
+    "sameAs": "g1b-p6-17"
+  },
+  {
+    "key": "g1b-p9-13",
+    "sameAs": "g1b-p7-9"
+  },
+  {
+    "key": "g1b-p9-14",
+    "sameAs": "g1b-p6-17"
+  },
+  {
+    "key": "g1b-p9-15",
+    "sameAs": "g1b-p9-4"
+  },
+  {
+    "key": "g1b-p9-17",
+    "sameAs": "g1b-p9-3"
+  },
+  {
+    "key": "g1b-p9-23",
+    "sameAs": "g1b-p9-16"
+  },
+  {
+    "key": "g1b-p9-24",
+    "sameAs": "g1b-p8-10"
+  },
+  {
+    "key": "g1b-p9-25",
+    "sameAs": "g1b-p9-1"
+  },
+  {
+    "key": "g1b-p10-8",
+    "sameAs": "g1b-p10-2"
+  },
+  {
+    "key": "g1b-p11-0",
+    "sameAs": "g1b-p9-0"
+  },
+  {
+    "key": "g1b-p11-16",
+    "sameAs": "g1b-p10-2"
+  },
+  {
+    "key": "g1b-p11-18",
+    "sameAs": "g1b-p10-13"
+  },
+  {
+    "key": "g1b-p11-20",
+    "sameAs": "g1b-p10-14"
+  },
+  {
+    "key": "g1b-p11-22",
+    "sameAs": "g1b-p11-5"
+  },
+  {
+    "key": "g1b-p13-0",
+    "sameAs": "g1b-p9-0"
+  },
+  {
+    "key": "g1b-p13-10",
+    "sameAs": "g1b-p6-17"
+  },
+  {
+    "key": "g1b-p13-11",
+    "sameAs": "g1b-p9-1"
+  },
+  {
+    "key": "g1b-p13-12",
+    "sameAs": "g1b-p11-15"
+  },
+  {
+    "key": "g1b-p13-13",
+    "sameAs": "g1b-p10-14"
+  },
+  {
+    "key": "g1b-p13-16",
+    "sameAs": "g1b-p9-4"
+  },
+  {
+    "key": "g1b-p13-18",
+    "sameAs": "g1b-p10-13"
+  },
+  {
+    "key": "g1b-p13-23",
+    "sameAs": "g1b-p11-5"
+  },
+  {
+    "key": "g1b-p13-36",
+    "sameAs": "g1b-p9-18"
+  },
+  {
+    "key": "g1b-p16-6",
+    "sameAs": "g1b-p15-8"
+  },
+  {
+    "key": "g1b-p16-22",
+    "sameAs": "g1b-p15-9"
+  },
+  {
+    "key": "g1b-p18-6",
+    "sameAs": "g1b-p9-20"
+  },
+  {
+    "key": "g1b-p19-1",
+    "sameAs": "g1b-p11-5"
+  },
+  {
+    "key": "g1b-p19-3",
+    "sameAs": "g1b-p7-4"
+  },
+  {
+    "key": "g1b-p19-9",
+    "sameAs": "g1b-p11-21"
+  },
+  {
+    "key": "g1b-p19-10",
+    "sameAs": "g1b-p9-16"
+  },
+  {
+    "key": "g1b-p19-11",
+    "sameAs": "g1b-p6-17"
+  },
+  {
+    "key": "g1b-p19-12",
+    "sameAs": "g1b-p11-19"
+  },
+  {
+    "key": "g1b-p19-13",
+    "sameAs": "g1b-p9-3"
+  },
+  {
+    "key": "g1b-p19-14",
+    "sameAs": "g1b-p7-18"
+  },
+  {
+    "key": "g1b-p19-15",
+    "sameAs": "g1b-p11-3"
+  },
+  {
+    "key": "g1b-p19-19",
+    "sameAs": "g1b-p11-2"
+  },
+  {
+    "key": "g1b-p19-20",
+    "sameAs": "g1b-p10-14"
+  },
+  {
+    "key": "g1b-p19-24",
+    "sameAs": "g1b-p11-17"
+  },
+  {
+    "key": "g1b-p20-5",
+    "sameAs": "g1b-p19-28"
+  },
+  {
+    "key": "g1b-p20-6",
+    "sameAs": "g1b-p7-9"
+  },
+  {
+    "key": "g1b-p21-5",
+    "sameAs": "g1b-p16-21"
+  },
+  {
+    "key": "g1b-p21-6",
+    "sameAs": "g1b-p7-4"
+  },
+  {
+    "key": "g1b-p21-8",
+    "sameAs": "g1b-p9-1"
+  },
+  {
+    "key": "g1b-p21-10",
+    "sameAs": "g1b-p11-2"
+  },
+  {
+    "key": "g1b-p21-11",
+    "sameAs": "g1b-p10-13"
+  },
+  {
+    "key": "g1b-p21-12",
+    "sameAs": "g1b-p6-17"
+  },
+  {
+    "key": "g1b-p21-21",
+    "sameAs": "g1b-p15-8"
+  },
+  {
+    "key": "g1b-p21-22",
+    "sameAs": "g1b-p15-9"
+  },
+  {
+    "key": "g1b-p21-24",
+    "sameAs": "g1b-p19-28"
+  },
+  {
+    "key": "g1b-p21-25",
+    "sameAs": "g1b-p11-15"
+  },
+  {
+    "key": "g1b-p21-26",
+    "sameAs": "g1b-p9-19"
+  },
+  {
+    "key": "g1b-p21-27",
+    "sameAs": "g1b-p7-4"
+  },
+  {
+    "key": "g1b-p21-29",
+    "sameAs": "g1b-p16-24"
+  },
+  {
+    "key": "g1b-p21-30",
+    "sameAs": "g1b-p16-21"
+  },
+  {
+    "key": "g1b-p21-31",
+    "sameAs": "g1b-p9-3"
+  },
+  {
+    "key": "g1b-p21-34",
+    "sameAs": "g1b-p9-16"
+  },
+  {
+    "key": "g1b-p21-35",
+    "sameAs": "g1b-p7-18"
+  },
+  {
+    "key": "g1b-p21-37",
+    "sameAs": "g1b-p11-3"
+  },
+  {
+    "key": "g1b-p21-38",
+    "sameAs": "g1b-p9-4"
+  },
+  {
+    "key": "g1b-p21-40",
+    "sameAs": "g1b-p6-9"
+  },
+  {
+    "key": "g1b-p21-41",
+    "sameAs": "g1b-p9-1"
+  },
+  {
+    "key": "g1b-p21-42",
+    "sameAs": "g1b-p10-2"
+  },
+  {
+    "key": "g1b-p21-43",
+    "sameAs": "g1b-p8-10"
+  },
+  {
+    "key": "g1b-p21-44",
+    "sameAs": "g1b-p7-9"
+  },
+  {
+    "key": "g1b-p21-45",
+    "sameAs": "g1b-p7-20"
+  },
+  {
+    "key": "g1b-p23-5",
+    "sameAs": "g1b-p10-2"
+  },
+  {
+    "key": "g1b-p23-6",
+    "sameAs": "g1b-p21-33"
+  },
+  {
+    "key": "g1b-p23-7",
+    "sameAs": "g1b-p9-3"
+  },
+  {
+    "key": "g1b-p23-9",
+    "sameAs": "g1b-p16-21"
+  },
+  {
+    "key": "g1b-p23-10",
+    "sameAs": "g1b-p9-20"
+  },
+  {
+    "key": "g1b-p23-12",
+    "sameAs": "g1b-p10-14"
+  },
+  {
+    "key": "g1b-p45-0",
+    "sameAs": "g1b-p43-0"
+  },
+  {
+    "key": "g1b-p45-3",
+    "sameAs": "g1b-p16-5"
+  },
+  {
+    "key": "g1b-p45-4",
+    "sameAs": "g1b-p9-4"
+  },
+  {
+    "key": "g1b-p45-5",
+    "sameAs": "g1b-p11-5"
+  },
+  {
+    "key": "g1b-p45-6",
+    "sameAs": "g1b-p11-21"
+  },
+  {
+    "key": "g1b-p45-8",
+    "sameAs": "g1b-p16-24"
+  },
+  {
+    "key": "g1b-p47-0",
+    "sameAs": "g1b-p7-0"
+  },
+  {
+    "key": "g1b-p50-1",
+    "sameAs": "g1b-p8-8"
+  },
+  {
+    "key": "g1b-p50-2",
+    "sameAs": "g1b-p10-13"
+  },
+  {
+    "key": "g1b-p50-3",
+    "sameAs": "g1b-p9-19"
+  },
+  {
+    "key": "g1b-p50-4",
+    "sameAs": "g1b-p16-21"
+  },
+  {
+    "key": "g1b-p50-9",
+    "sameAs": "g1b-p8-2"
+  },
+  {
+    "key": "g1b-p50-10",
+    "sameAs": "g1b-p11-15"
+  },
+  {
+    "key": "g1b-p50-11",
+    "sameAs": "g1b-p16-5"
+  },
+  {
+    "key": "g1b-p50-13",
+    "sameAs": "g1b-p15-9"
+  },
+  {
+    "key": "g1b-p50-14",
+    "sameAs": "g1b-p7-19"
+  },
+  {
+    "key": "g1b-p50-17",
+    "sameAs": "g1b-p9-16"
+  },
+  {
+    "key": "g1b-p50-18",
+    "sameAs": "g1b-p16-24"
+  },
+  {
+    "key": "g1b-p50-19",
+    "sameAs": "g1b-p9-20"
+  },
+  {
+    "key": "g1b-p50-20",
+    "sameAs": "g1b-p7-9"
+  },
+  {
+    "key": "g1b-p50-21",
+    "sameAs": "g1b-p10-14"
+  },
+  {
+    "key": "g1b-p50-23",
+    "sameAs": "g1b-p23-11"
+  },
+  {
+    "key": "g1b-p53-8",
+    "sameAs": "g1b-p8-3"
+  },
+  {
+    "key": "g1b-p54-0",
+    "sameAs": "g1b-p43-0"
+  },
+  {
+    "key": "g1b-p56-0",
+    "sameAs": "g1b-p43-0"
+  },
+  {
+    "key": "g1b-p58-0",
+    "sameAs": "g1b-p43-0"
+  },
+  {
+    "key": "g1b-p60-0",
+    "sameAs": "g1b-p43-0"
+  },
+  {
+    "key": "g1b-p62-0",
+    "sameAs": "g1b-p43-0"
+  },
+  {
+    "key": "g1b-p64-0",
+    "sameAs": "g1b-p43-0"
+  },
+  {
+    "key": "g1b-p72-8",
+    "sameAs": "g1b-p50-15"
+  },
+  {
+    "key": "g1b-p74-30",
+    "sameAs": "g1b-p73-21"
+  },
+  {
+    "key": "g1b-p75-15",
+    "sameAs": "g1b-p75-13"
+  },
+  {
+    "key": "g1b-p79-27",
+    "sameAs": "g1b-p79-13"
+  },
+  {
+    "key": "g1b-p79-30",
+    "sameAs": "g1b-p9-16"
+  },
+  {
+    "key": "g1b-p80-20",
+    "sameAs": "g1b-p79-13"
+  },
+  {
+    "key": "g1b-p80-23",
+    "sameAs": "g1b-p16-21"
+  },
+  {
+    "key": "g1b-p82-29",
+    "sameAs": "g1b-p80-31"
+  },
+  {
+    "key": "g1b-p83-8",
+    "sameAs": "g1b-p30-35"
+  },
+  {
+    "key": "g1b-p84-25",
+    "sameAs": "g1b-p56-27"
+  },
+  {
+    "key": "g1b-p85-26",
+    "sameAs": "g1b-p84-26"
+  },
+  {
+    "key": "g1b-p87-15",
+    "sameAs": "g1b-p81-3"
+  },
+  {
+    "key": "g1b-p90-22",
+    "sameAs": "g1b-p77-9"
+  },
+  {
+    "key": "g2a-p27-15",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p27-27",
+    "sameAs": "g2a-p27-18"
+  },
+  {
+    "key": "g2a-p27-29",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p28-12",
+    "sameAs": "g2a-p27-23"
+  },
+  {
+    "key": "g2a-p28-14",
+    "sameAs": "g2a-p27-20"
+  },
+  {
+    "key": "g2a-p28-15",
+    "sameAs": "g2a-p27-4"
+  },
+  {
+    "key": "g2a-p29-5",
+    "sameAs": "g2a-p27-31"
+  },
+  {
+    "key": "g2a-p29-8",
+    "sameAs": "g2a-p24-6"
+  },
+  {
+    "key": "g2a-p34-12",
+    "sameAs": "g2a-p27-30"
+  },
+  {
+    "key": "g2a-p34-14",
+    "sameAs": "g2a-p29-10"
+  },
+  {
+    "key": "g2a-p34-17",
+    "sameAs": "g2a-p27-17"
+  },
+  {
+    "key": "g2a-p36-19",
+    "sameAs": "g2a-p27-30"
+  },
+  {
+    "key": "g2a-p36-21",
+    "sameAs": "g2a-p25-1"
+  },
+  {
+    "key": "g2a-p37-32",
+    "sameAs": "g2a-p36-23"
+  },
+  {
+    "key": "g2a-p37-34",
+    "sameAs": "g2a-p27-18"
+  },
+  {
+    "key": "g2a-p37-35",
+    "sameAs": "g2a-p25-1"
+  },
+  {
+    "key": "g2a-p37-36",
+    "sameAs": "g2a-p27-24"
+  },
+  {
+    "key": "g2a-p37-38",
+    "sameAs": "g2a-p29-10"
+  },
+  {
+    "key": "g2a-p37-40",
+    "sameAs": "g2a-p27-17"
+  },
+  {
+    "key": "g2a-p37-41",
+    "sameAs": "g2a-p37-33"
+  },
+  {
+    "key": "g2a-p37-42",
+    "sameAs": "g2a-p36-18"
+  },
+  {
+    "key": "g2a-p37-45",
+    "sameAs": "g2a-p36-22"
+  },
+  {
+    "key": "g2a-p39-3",
+    "sameAs": "g2a-p34-15"
+  },
+  {
+    "key": "g2a-p39-4",
+    "sameAs": "g2a-p37-39"
+  },
+  {
+    "key": "g2a-p39-10",
+    "sameAs": "g2a-p27-31"
+  },
+  {
+    "key": "g2a-p39-11",
+    "sameAs": "g2a-p34-16"
+  },
+  {
+    "key": "g2a-p39-12",
+    "sameAs": "g2a-p34-18"
+  },
+  {
+    "key": "g2a-p39-14",
+    "sameAs": "g2a-p27-21"
+  },
+  {
+    "key": "g2a-p39-15",
+    "sameAs": "g2a-p27-30"
+  },
+  {
+    "key": "g2a-p39-19",
+    "sameAs": "g2a-p37-37"
+  },
+  {
+    "key": "g2a-p39-22",
+    "sameAs": "g2a-p36-22"
+  },
+  {
+    "key": "g2a-p39-24",
+    "sameAs": "g2a-p34-16"
+  },
+  {
+    "key": "g2a-p40-17",
+    "sameAs": "g2a-p36-17"
+  },
+  {
+    "key": "g2a-p40-19",
+    "sameAs": "g2a-p29-4"
+  },
+  {
+    "key": "g2a-p40-20",
+    "sameAs": "g2a-p34-13"
+  },
+  {
+    "key": "g2a-p40-21",
+    "sameAs": "g2a-p26-6"
+  },
+  {
+    "key": "g2a-p40-24",
+    "sameAs": "g2a-p25-2"
+  },
+  {
+    "key": "g2a-p41-7",
+    "sameAs": "g2a-p27-31"
+  },
+  {
+    "key": "g2a-p41-20",
+    "sameAs": "g2a-p37-33"
+  },
+  {
+    "key": "g2a-p41-23",
+    "sameAs": "g2a-p40-23"
+  },
+  {
+    "key": "g2a-p41-24",
+    "sameAs": "g2a-p40-18"
+  },
+  {
+    "key": "g2a-p41-25",
+    "sameAs": "g2a-p34-18"
+  },
+  {
+    "key": "g2a-p41-26",
+    "sameAs": "g2a-p27-24"
+  },
+  {
+    "key": "g2a-p41-27",
+    "sameAs": "g2a-p41-6"
+  },
+  {
+    "key": "g2a-p41-30",
+    "sameAs": "g2a-p34-15"
+  },
+  {
+    "key": "g2a-p41-34",
+    "sameAs": "g2a-p25-2"
+  },
+  {
+    "key": "g2a-p41-35",
+    "sameAs": "g2a-p26-6"
+  },
+  {
+    "key": "g2a-p41-36",
+    "sameAs": "g2a-p29-10"
+  },
+  {
+    "key": "g2a-p41-37",
+    "sameAs": "g2a-p36-22"
+  },
+  {
+    "key": "g2a-p41-38",
+    "sameAs": "g2a-p36-18"
+  },
+  {
+    "key": "g2a-p41-39",
+    "sameAs": "g2a-p27-3"
+  },
+  {
+    "key": "g2a-p42-16",
+    "sameAs": "g2a-p36-18"
+  },
+  {
+    "key": "g2a-p42-17",
+    "sameAs": "g2a-p29-4"
+  },
+  {
+    "key": "g2a-p42-19",
+    "sameAs": "g2a-p29-10"
+  },
+  {
+    "key": "g2a-p42-20",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p42-21",
+    "sameAs": "g2a-p24-11"
+  },
+  {
+    "key": "g2a-p43-5",
+    "sameAs": "g2a-p40-23"
+  },
+  {
+    "key": "g2a-p43-6",
+    "sameAs": "g2a-p37-44"
+  },
+  {
+    "key": "g2a-p43-7",
+    "sameAs": "g2a-p28-17"
+  },
+  {
+    "key": "g2a-p43-9",
+    "sameAs": "g2a-p26-6"
+  },
+  {
+    "key": "g2a-p43-10",
+    "sameAs": "g2a-p37-33"
+  },
+  {
+    "key": "g2a-p43-12",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p43-13",
+    "sameAs": "g2a-p29-4"
+  },
+  {
+    "key": "g2a-p43-14",
+    "sameAs": "g2a-p41-6"
+  },
+  {
+    "key": "g2a-p43-16",
+    "sameAs": "g2a-p27-31"
+  },
+  {
+    "key": "g2a-p43-17",
+    "sameAs": "g2a-p36-18"
+  },
+  {
+    "key": "g2a-p43-21",
+    "sameAs": "g2a-p27-3"
+  },
+  {
+    "key": "g2a-p43-32",
+    "sameAs": "g2a-p27-17"
+  },
+  {
+    "key": "g2a-p43-33",
+    "sameAs": "g2a-p40-23"
+  },
+  {
+    "key": "g2a-p43-34",
+    "sameAs": "g2a-p27-18"
+  },
+  {
+    "key": "g2a-p43-35",
+    "sameAs": "g2a-p43-30"
+  },
+  {
+    "key": "g2a-p43-36",
+    "sameAs": "g2a-p25-2"
+  },
+  {
+    "key": "g2a-p43-37",
+    "sameAs": "g2a-p36-20"
+  },
+  {
+    "key": "g2a-p43-38",
+    "sameAs": "g2a-p29-4"
+  },
+  {
+    "key": "g2a-p43-41",
+    "sameAs": "g2a-p29-10"
+  },
+  {
+    "key": "g2a-p43-42",
+    "sameAs": "g2a-p42-18"
+  },
+  {
+    "key": "g2a-p43-43",
+    "sameAs": "g2a-p40-22"
+  },
+  {
+    "key": "g2a-p43-44",
+    "sameAs": "g2a-p37-37"
+  },
+  {
+    "key": "g2a-p43-45",
+    "sameAs": "g2a-p43-20"
+  },
+  {
+    "key": "g2a-p43-46",
+    "sameAs": "g2a-p43-29"
+  },
+  {
+    "key": "g2a-p43-47",
+    "sameAs": "g2a-p34-15"
+  },
+  {
+    "key": "g2a-p43-48",
+    "sameAs": "g2a-p34-16"
+  },
+  {
+    "key": "g2a-p43-49",
+    "sameAs": "g2a-p36-22"
+  },
+  {
+    "key": "g2a-p43-50",
+    "sameAs": "g2a-p42-22"
+  },
+  {
+    "key": "g2a-p46-8",
+    "sameAs": "g2a-p27-30"
+  },
+  {
+    "key": "g2a-p46-9",
+    "sameAs": "g2a-p43-30"
+  },
+  {
+    "key": "g2a-p46-10",
+    "sameAs": "g2a-p27-24"
+  },
+  {
+    "key": "g2a-p46-15",
+    "sameAs": "g2a-p41-5"
+  },
+  {
+    "key": "g2a-p46-16",
+    "sameAs": "g2a-p26-6"
+  },
+  {
+    "key": "g2a-p46-17",
+    "sameAs": "g2a-p36-23"
+  },
+  {
+    "key": "g2a-p46-18",
+    "sameAs": "g2a-p43-29"
+  },
+  {
+    "key": "g2a-p46-19",
+    "sameAs": "g2a-p37-39"
+  },
+  {
+    "key": "g2a-p46-21",
+    "sameAs": "g2a-p25-1"
+  },
+  {
+    "key": "g2a-p46-22",
+    "sameAs": "g2a-p36-22"
+  },
+  {
+    "key": "g2a-p46-23",
+    "sameAs": "g2a-p34-11"
+  },
+  {
+    "key": "g2a-p46-24",
+    "sameAs": "g2a-p40-23"
+  },
+  {
+    "key": "g2a-p46-25",
+    "sameAs": "g2a-p27-3"
+  },
+  {
+    "key": "g2a-p47-1",
+    "sameAs": "g2a-p29-4"
+  },
+  {
+    "key": "g2a-p47-2",
+    "sameAs": "g2a-p27-17"
+  },
+  {
+    "key": "g2a-p47-3",
+    "sameAs": "g2a-p39-8"
+  },
+  {
+    "key": "g2a-p47-4",
+    "sameAs": "g2a-p24-11"
+  },
+  {
+    "key": "g2a-p47-5",
+    "sameAs": "g2a-p25-2"
+  },
+  {
+    "key": "g2a-p47-6",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p47-8",
+    "sameAs": "g2a-p34-19"
+  },
+  {
+    "key": "g2a-p47-9",
+    "sameAs": "g2a-p43-18"
+  },
+  {
+    "key": "g2a-p47-10",
+    "sameAs": "g2a-p42-23"
+  },
+  {
+    "key": "g2a-p47-11",
+    "sameAs": "g2a-p26-6"
+  },
+  {
+    "key": "g2a-p47-12",
+    "sameAs": "g2a-p34-15"
+  },
+  {
+    "key": "g2a-p47-39",
+    "sameAs": "g2a-p29-4"
+  },
+  {
+    "key": "g2a-p47-48",
+    "sameAs": "g2a-p42-22"
+  },
+  {
+    "key": "g2a-p51-14",
+    "sameAs": "g2a-p27-28"
+  },
+  {
+    "key": "g2a-p51-15",
+    "sameAs": "g2a-p37-37"
+  },
+  {
+    "key": "g2a-p52-4",
+    "sameAs": "g2a-p36-18"
+  },
+  {
+    "key": "g2a-p52-5",
+    "sameAs": "g2a-p43-15"
+  },
+  {
+    "key": "g2a-p52-6",
+    "sameAs": "g2a-p36-20"
+  },
+  {
+    "key": "g2a-p52-7",
+    "sameAs": "g2a-p37-44"
+  },
+  {
+    "key": "g2a-p52-8",
+    "sameAs": "g2a-p27-24"
+  },
+  {
+    "key": "g2a-p52-10",
+    "sameAs": "g2a-p43-39"
+  },
+  {
+    "key": "g2a-p52-12",
+    "sameAs": "g2a-p28-13"
+  },
+  {
+    "key": "g2a-p52-14",
+    "sameAs": "g2a-p46-20"
+  },
+  {
+    "key": "g2a-p52-17",
+    "sameAs": "g2a-p34-13"
+  },
+  {
+    "key": "g2a-p52-35",
+    "sameAs": "g2a-p36-22"
+  },
+  {
+    "key": "g2a-p56-0",
+    "sameAs": "g2a-p54-0"
+  },
+  {
+    "key": "g2a-p71-8",
+    "sameAs": "g2a-p43-20"
+  },
+  {
+    "key": "g2a-p73-12",
+    "sameAs": "g2a-p40-23"
+  },
+  {
+    "key": "g2a-p73-31",
+    "sameAs": "g2a-p46-11"
+  },
+  {
+    "key": "g2a-p75-14",
+    "sameAs": "g2a-p54-0"
+  },
+  {
+    "key": "g2a-p81-8",
+    "sameAs": "g2a-p27-17"
+  },
+  {
+    "key": "g2a-p81-19",
+    "sameAs": "g2a-p80-13"
+  },
+  {
+    "key": "g2a-p82-18",
+    "sameAs": "g2a-p36-20"
+  },
+  {
+    "key": "g2a-p82-19",
+    "sameAs": "g2a-p26-6"
+  },
+  {
+    "key": "g2a-p82-20",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p82-21",
+    "sameAs": "g2a-p34-16"
+  },
+  {
+    "key": "g2a-p82-31",
+    "sameAs": "g2a-p39-8"
+  },
+  {
+    "key": "g2a-p82-32",
+    "sameAs": "g2a-p37-44"
+  },
+  {
+    "key": "g2a-p82-35",
+    "sameAs": "g2a-p43-20"
+  },
+  {
+    "key": "g2a-p82-36",
+    "sameAs": "g2a-p41-6"
+  },
+  {
+    "key": "g2a-p83-5",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p83-6",
+    "sameAs": "g2a-p82-22"
+  },
+  {
+    "key": "g2a-p83-7",
+    "sameAs": "g2a-p82-25"
+  },
+  {
+    "key": "g2a-p83-8",
+    "sameAs": "g2a-p37-44"
+  },
+  {
+    "key": "g2a-p84-10",
+    "sameAs": "g2a-p25-1"
+  },
+  {
+    "key": "g2a-p84-11",
+    "sameAs": "g2a-p40-22"
+  },
+  {
+    "key": "g2a-p84-15",
+    "sameAs": "g2a-p24-11"
+  },
+  {
+    "key": "g2a-p84-17",
+    "sameAs": "g2a-p27-17"
+  },
+  {
+    "key": "g2a-p84-18",
+    "sameAs": "g2a-p82-23"
+  },
+  {
+    "key": "g2a-p84-27",
+    "sameAs": "g2a-p43-40"
+  },
+  {
+    "key": "g2a-p85-10",
+    "sameAs": "g2a-p84-23"
+  },
+  {
+    "key": "g2a-p85-11",
+    "sameAs": "g2a-p27-30"
+  },
+  {
+    "key": "g2a-p85-12",
+    "sameAs": "g2a-p84-26"
+  },
+  {
+    "key": "g2a-p85-15",
+    "sameAs": "g2a-p42-22"
+  },
+  {
+    "key": "g2a-p85-17",
+    "sameAs": "g2a-p40-22"
+  },
+  {
+    "key": "g2a-p85-20",
+    "sameAs": "g2a-p37-33"
+  },
+  {
+    "key": "g2a-p85-21",
+    "sameAs": "g2a-p25-1"
+  },
+  {
+    "key": "g2a-p85-22",
+    "sameAs": "g2a-p27-21"
+  },
+  {
+    "key": "g2a-p85-23",
+    "sameAs": "g2a-p42-23"
+  },
+  {
+    "key": "g2a-p87-17",
+    "sameAs": "g2a-p43-18"
+  },
+  {
+    "key": "g2a-p87-18",
+    "sameAs": "g2a-p84-23"
+  },
+  {
+    "key": "g2a-p87-20",
+    "sameAs": "g2a-p25-2"
+  },
+  {
+    "key": "g2a-p87-24",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p87-25",
+    "sameAs": "g2a-p82-25"
+  },
+  {
+    "key": "g2a-p87-26",
+    "sameAs": "g2a-p84-22"
+  },
+  {
+    "key": "g2a-p87-27",
+    "sameAs": "g2a-p36-23"
+  },
+  {
+    "key": "g2a-p87-28",
+    "sameAs": "g2a-p41-4"
+  },
+  {
+    "key": "g2a-p87-29",
+    "sameAs": "g2a-p42-23"
+  },
+  {
+    "key": "g2a-p87-31",
+    "sameAs": "g2a-p85-18"
+  },
+  {
+    "key": "g2a-p87-33",
+    "sameAs": "g2a-p37-39"
+  },
+  {
+    "key": "g2a-p87-34",
+    "sameAs": "g2a-p36-22"
+  },
+  {
+    "key": "g2a-p88-7",
+    "sameAs": "g2a-p43-18"
+  },
+  {
+    "key": "g2a-p88-20",
+    "sameAs": "g2a-p36-16"
+  },
+  {
+    "key": "g2a-p88-23",
+    "sameAs": "g2a-p36-18"
+  },
+  {
+    "key": "g2a-p88-24",
+    "sameAs": "g2a-p34-13"
+  },
+  {
+    "key": "g2a-p88-27",
+    "sameAs": "g2a-p25-1"
+  },
+  {
+    "key": "g2a-p88-45",
+    "sameAs": "g2a-p43-40"
+  },
+  {
+    "key": "g2a-p88-46",
+    "sameAs": "g2a-p41-6"
+  },
+  {
+    "key": "g2a-p88-47",
+    "sameAs": "g2a-p34-15"
+  },
+  {
+    "key": "g2a-p88-48",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p88-50",
+    "sameAs": "g2a-p84-20"
+  },
+  {
+    "key": "g2a-p88-51",
+    "sameAs": "g2a-p25-2"
+  },
+  {
+    "key": "g2a-p88-53",
+    "sameAs": "g2a-p82-25"
+  },
+  {
+    "key": "g2a-p88-59",
+    "sameAs": "g2a-p43-51"
+  },
+  {
+    "key": "g2a-p99-10",
+    "sameAs": "g2a-p96-10"
+  },
+  {
+    "key": "g2a-p99-14",
+    "sameAs": "g2a-p96-13"
+  },
+  {
+    "key": "g2a-p99-34",
+    "sameAs": "g2a-p27-17"
+  },
+  {
+    "key": "g2a-p100-33",
+    "sameAs": "g2a-p36-18"
+  },
+  {
+    "key": "g2a-p100-34",
+    "sameAs": "g2a-p42-18"
+  },
+  {
+    "key": "g2a-p100-35",
+    "sameAs": "g2a-p34-13"
+  },
+  {
+    "key": "g2a-p100-41",
+    "sameAs": "g2a-p22-23"
+  },
+  {
+    "key": "g2a-p101-4",
+    "sameAs": "g2a-p99-37"
+  },
+  {
+    "key": "g2a-p103-1",
+    "sameAs": "g2a-p84-22"
+  },
+  {
+    "key": "g2a-p103-2",
+    "sameAs": "g2a-p99-35"
+  },
+  {
+    "key": "g2a-p103-3",
+    "sameAs": "g2a-p87-32"
+  },
+  {
+    "key": "g2a-p103-4",
+    "sameAs": "g2a-p96-14"
+  },
+  {
+    "key": "g2a-p103-5",
+    "sameAs": "g2a-p34-16"
+  },
+  {
+    "key": "g2a-p103-8",
+    "sameAs": "g2a-p36-23"
+  },
+  {
+    "key": "g2a-p103-9",
+    "sameAs": "g2a-p96-9"
+  },
+  {
+    "key": "g2a-p103-10",
+    "sameAs": "g2a-p84-23"
+  },
+  {
+    "key": "g2a-p103-11",
+    "sameAs": "g2a-p27-31"
+  },
+  {
+    "key": "g2a-p103-12",
+    "sameAs": "g2a-p37-39"
+  },
+  {
+    "key": "g2a-p103-13",
+    "sameAs": "g2a-p96-13"
+  },
+  {
+    "key": "g2a-p103-20",
+    "sameAs": "g2a-p99-38"
+  },
+  {
+    "key": "g2a-p103-23",
+    "sameAs": "g2a-p40-22"
+  },
+  {
+    "key": "g2b-p35-0",
+    "sameAs": "g2b-p22-0"
+  },
+  {
+    "key": "g2b-p39-0",
+    "sameAs": "g2b-p22-0"
+  },
+  {
+    "key": "g2b-p41-0",
+    "sameAs": "g2b-p22-0"
+  },
+  {
+    "key": "g2b-p50-0",
+    "sameAs": "g2b-p22-0"
+  },
+  {
+    "key": "g2b-p55-12",
+    "sameAs": "g2b-p55-11"
+  },
+  {
+    "key": "g2b-p65-10",
+    "sameAs": "g2b-p65-7"
+  },
+  {
+    "key": "g2b-p65-12",
+    "sameAs": "g2b-p65-7"
+  },
+  {
+    "key": "g2b-p65-19",
+    "sameAs": "g2b-p65-17"
+  },
+  {
+    "key": "g2b-p93-0",
+    "sameAs": "g2b-p22-0"
+  },
+  {
+    "key": "g3a-p6-29",
+    "sameAs": "g3a-p6-25"
+  },
+  {
+    "key": "g3a-p6-32",
+    "sameAs": "g3a-p6-26"
+  },
+  {
+    "key": "g3a-p9-28",
+    "sameAs": "g3a-p9-25"
+  },
+  {
+    "key": "g3a-p9-35",
+    "sameAs": "g3a-p9-32"
+  },
+  {
+    "key": "g3a-p21-52",
+    "sameAs": "g3a-p21-49"
+  },
+  {
+    "key": "g3a-p36-17",
+    "sameAs": "g3a-p36-15"
+  },
+  {
+    "key": "g3a-p36-21",
+    "sameAs": "g3a-p36-13"
+  },
+  {
+    "key": "g3a-p36-27",
+    "sameAs": "g3a-p34-16"
+  },
+  {
+    "key": "g3a-p36-34",
+    "sameAs": "g3a-p36-28"
+  },
+  {
+    "key": "g3a-p38-6",
+    "sameAs": "g3a-p38-4"
+  },
+  {
+    "key": "g3a-p40-14",
+    "sameAs": "g3a-p40-9"
+  },
+  {
+    "key": "g3a-p40-16",
+    "sameAs": "g3a-p40-7"
+  },
+  {
+    "key": "g3a-p41-2",
+    "sameAs": "g3a-p40-19"
+  },
+  {
+    "key": "g3a-p41-28",
+    "sameAs": "g3a-p39-10"
+  },
+  {
+    "key": "g3a-p42-28",
+    "sameAs": "g3a-p39-14"
+  },
+  {
+    "key": "g3a-p42-32",
+    "sameAs": "g3a-p41-16"
+  },
+  {
+    "key": "g3a-p46-10",
+    "sameAs": "g3a-p41-30"
+  },
+  {
+    "key": "g3a-p46-26",
+    "sameAs": "g3a-p38-17"
+  },
+  {
+    "key": "g3a-p46-35",
+    "sameAs": "g3a-p11-11"
+  },
+  {
+    "key": "g3a-p56-7",
+    "sameAs": "g3a-p56-5"
+  },
+  {
+    "key": "g3a-p56-8",
+    "sameAs": "g3a-p36-35"
+  },
+  {
+    "key": "g3a-p56-26",
+    "sameAs": "g3a-p36-35"
+  },
+  {
+    "key": "g3a-p56-27",
+    "sameAs": "g3a-p36-26"
+  },
+  {
+    "key": "g3a-p58-26",
+    "sameAs": "g3a-p58-20"
+  },
+  {
+    "key": "g3a-p59-22",
+    "sameAs": "g3a-p37-2"
+  },
+  {
+    "key": "g3a-p59-23",
+    "sameAs": "g3a-p37-18"
+  },
+  {
+    "key": "g3a-p59-24",
+    "sameAs": "g3a-p56-5"
+  },
+  {
+    "key": "g3a-p59-27",
+    "sameAs": "g3a-p37-18"
+  },
+  {
+    "key": "g3a-p59-31",
+    "sameAs": "g3a-p46-13"
+  },
+  {
+    "key": "g3a-p59-37",
+    "sameAs": "g3a-p56-6"
+  },
+  {
+    "key": "g3a-p59-38",
+    "sameAs": "g3a-p57-3"
+  },
+  {
+    "key": "g3a-p59-39",
+    "sameAs": "g3a-p42-10"
+  },
+  {
+    "key": "g3a-p59-40",
+    "sameAs": "g3a-p37-9"
+  },
+  {
+    "key": "g3a-p60-11",
+    "sameAs": "g3a-p58-19"
+  },
+  {
+    "key": "g3a-p60-23",
+    "sameAs": "g3a-p60-12"
+  },
+  {
+    "key": "g3a-p64-5",
+    "sameAs": "g3a-p58-19"
+  },
+  {
+    "key": "g3a-p68-1",
+    "sameAs": "g3a-p46-13"
+  },
+  {
+    "key": "g3a-p68-11",
+    "sameAs": "g3a-p46-13"
+  },
+  {
+    "key": "g3a-p68-27",
+    "sameAs": "g3a-p34-14"
+  },
+  {
+    "key": "g3a-p96-8",
+    "sameAs": "g3a-p46-6"
+  },
+  {
+    "key": "g3a-p96-11",
+    "sameAs": "g3a-p41-1"
+  },
+  {
+    "key": "g3a-p98-21",
+    "sameAs": "g3a-p41-12"
+  },
+  {
+    "key": "g3a-p98-22",
+    "sameAs": "g3a-p42-11"
+  },
+  {
+    "key": "g3a-p98-25",
+    "sameAs": "g3a-p41-16"
+  },
+  {
+    "key": "g3a-p98-26",
+    "sameAs": "g3a-p42-18"
+  },
+  {
+    "key": "g3a-p99-2",
+    "sameAs": "g3a-p42-10"
+  },
+  {
+    "key": "g3a-p99-3",
+    "sameAs": "g3a-p37-9"
+  },
+  {
+    "key": "g3a-p99-4",
+    "sameAs": "g3a-p59-1"
+  },
+  {
+    "key": "g3a-p99-29",
+    "sameAs": "g3a-p37-22"
+  },
+  {
+    "key": "g3b-p12-7",
+    "sameAs": "g3b-p12-1"
+  },
+  {
+    "key": "g3b-p17-39",
+    "sameAs": "g3b-p10-17"
+  },
+  {
+    "key": "g3b-p17-43",
+    "sameAs": "g3b-p13-18"
+  },
+  {
+    "key": "g3b-p34-17",
+    "sameAs": "g3b-p34-8"
+  },
+  {
+    "key": "g3b-p36-20",
+    "sameAs": "g3b-p36-7"
+  },
+  {
+    "key": "g3b-p36-29",
+    "sameAs": "g3b-p36-18"
+  },
+  {
+    "key": "g3b-p52-0",
+    "sameAs": "g3b-p20-0"
+  },
+  {
+    "key": "g3b-p80-0",
+    "sameAs": "g3b-p78-0"
+  },
+  {
+    "key": "g3b-p90-10",
+    "sameAs": "g3b-p36-7"
+  },
+  {
+    "key": "g3b-p91-18",
+    "sameAs": "g3b-p41-13"
+  },
+  {
+    "key": "g4a-p29-0",
+    "sameAs": "g4a-p27-0"
+  },
+  {
+    "key": "g4a-p34-20",
+    "sameAs": "g4a-p34-12"
+  },
+  {
+    "key": "g4a-p51-17",
+    "sameAs": "g4a-p51-15"
+  },
+  {
+    "key": "g4a-p51-21",
+    "sameAs": "g4a-p51-15"
+  },
+  {
+    "key": "g4a-p56-34",
+    "sameAs": "g4a-p56-30"
+  },
+  {
+    "key": "g4a-p56-38",
+    "sameAs": "g4a-p56-30"
+  },
+  {
+    "key": "g4a-p70-12",
+    "sameAs": "g4a-p70-10"
+  },
+  {
+    "key": "g4a-p71-5",
+    "sameAs": "g4a-p71-4"
+  },
+  {
+    "key": "g4a-p71-22",
+    "sameAs": "g4a-p71-4"
+  },
+  {
+    "key": "g4a-p81-0",
+    "sameAs": "g4a-p70-9"
+  },
+  {
+    "key": "g4a-p81-1",
+    "sameAs": "g4a-p70-10"
+  },
+  {
+    "key": "g4a-p81-13",
+    "sameAs": "g4a-p70-9"
+  },
+  {
+    "key": "g4a-p81-16",
+    "sameAs": "g4a-p81-3"
+  },
+  {
+    "key": "g4a-p81-19",
+    "sameAs": "g4a-p81-8"
+  },
+  {
+    "key": "g4a-p82-3",
+    "sameAs": "g4a-p82-0"
+  },
+  {
+    "key": "g4a-p82-21",
+    "sameAs": "g4a-p71-35"
+  },
+  {
+    "key": "g4a-p82-24",
+    "sameAs": "g4a-p70-10"
+  },
+  {
+    "key": "g4a-p86-23",
+    "sameAs": "g4a-p80-9"
+  },
+  {
+    "key": "g4a-p103-25",
+    "sameAs": "g4a-p103-5"
+  },
+  {
+    "key": "g4b-p38-8",
+    "sameAs": "g4b-p12-31"
+  },
+  {
+    "key": "g4b-p38-16",
+    "sameAs": "g4b-p12-32"
+  },
+  {
+    "key": "g4b-p40-7",
+    "sameAs": "g4b-p12-31"
+  },
+  {
+    "key": "g4b-p40-8",
+    "sameAs": "g4b-p12-32"
+  },
+  {
+    "key": "g4b-p41-17",
+    "sameAs": "g4b-p12-30"
+  },
+  {
+    "key": "g4b-p46-12",
+    "sameAs": "g4b-p46-4"
+  },
+  {
+    "key": "g4b-p48-21",
+    "sameAs": "g4b-p48-18"
+  },
+  {
+    "key": "g4b-p54-10",
+    "sameAs": "g4b-p38-6"
+  },
+  {
+    "key": "g5a-p83-18",
+    "sameAs": "g5a-p76-10"
+  },
+  {
+    "key": "g5a-p83-21",
+    "sameAs": "g5a-p76-12"
+  },
+  {
+    "key": "g5a-p86-0",
+    "sameAs": "g5a-p84-0"
+  },
+  {
+    "key": "g5b-p27-11",
+    "sameAs": "g5b-p27-7"
+  },
+  {
+    "key": "g5b-p56-18",
+    "sameAs": "g5b-p32-25"
+  },
+  {
+    "key": "g5b-p60-7",
+    "sameAs": "g5b-p60-3"
+  },
+  {
+    "key": "g5b-p62-20",
+    "sameAs": "g5b-p27-27"
+  },
+  {
+    "key": "g5b-p62-24",
+    "sameAs": "g5b-p57-5"
+  },
+  {
+    "key": "g5b-p67-17",
+    "sameAs": "g5b-p59-6"
+  },
+  {
+    "key": "g5b-p76-0",
+    "sameAs": "g5b-p72-0"
+  },
+  {
+    "key": "g6a-p29-14",
+    "sameAs": "g6a-p19-0"
+  },
+  {
+    "key": "g6a-p44-0",
+    "sameAs": "g6a-p19-0"
+  },
+  {
+    "key": "g6a-p64-0",
+    "sameAs": "g6a-p19-0"
+  },
+  {
+    "key": "g6a-p66-0",
+    "sameAs": "g6a-p19-0"
+  },
+  {
+    "key": "g6a-p89-54",
+    "sameAs": "g6a-p89-19"
+  },
+  {
+    "key": "g6a-p89-55",
+    "sameAs": "g6a-p89-25"
+  },
+  {
+    "key": "g6a-p89-57",
+    "sameAs": "g6a-p89-19"
+  },
+  {
+    "key": "g6a-p89-58",
+    "sameAs": "g6a-p89-25"
+  },
+  {
+    "key": "g6b-p83-19",
+    "sameAs": "g6b-p83-15"
+  }
+]

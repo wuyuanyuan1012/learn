@@ -1,0 +1,27 @@
+{
+  "batch": "bnu-primary-math-v1",
+  "mode": "applied",
+  "checkedAt": "2026-09-30T16:18:23.564Z",
+  "sha256": "3a4f3d797e2c71178593342dac75736aff425cf27ec187bd110b8480d31cf433",
+  "before": {
+    "lessons": 91,
+    "questions": 910
+  },
+  "batchTotal": {
+    "lessons": 199,
+    "questions": 1990
+  },
+  "pending": {
+    "lessons": 199,
+    "questions": 1990
+  },
+  "inserted": {
+    "lessons": 199,
+    "questions": 1990
+  },
+  "after": {
+    "lessons": 290,
+    "questions": 2900
+  },
+  "existingDataPreserved": true
+}

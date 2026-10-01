@@ -1,0 +1,475 @@
+{
+  "lessons": 199,
+  "questions": 1990,
+  "byGrade": {
+    "1": 460,
+    "2": 380,
+    "4": 360,
+    "3": 460,
+    "6": 160,
+    "5": 170
+  },
+  "byCategory": {
+    "math-numbers": 130,
+    "math-logic": 10,
+    "math-statistics": 80,
+    "math-geometry": 270,
+    "math-measurement": 70,
+    "math-problems": 270,
+    "math-calculation": 1160
+  },
+  "byKind": {
+    "adapted": 900,
+    "extracted": 1047,
+    "adapted-inverse": 43
+  },
+  "pendingArithmetic": 1119,
+  "coreUnitCoverage": 86,
+  "books": 12,
+  "byBook": {
+    "g1a": 200,
+    "g1b": 260,
+    "g2b": 200,
+    "g4a": 200,
+    "g3a": 290,
+    "g4b": 160,
+    "g6a": 80,
+    "g2a": 180,
+    "g3b": 170,
+    "g5b": 80,
+    "g5a": 90,
+    "g6b": 80
+  },
+  "units": [
+    {
+      "book": "g1a",
+      "unit": "生活中的数",
+      "questions": 10
+    },
+    {
+      "book": "g1a",
+      "unit": "比较",
+      "questions": 10
+    },
+    {
+      "book": "g1a",
+      "unit": "加与减（一）",
+      "questions": 57
+    },
+    {
+      "book": "g1a",
+      "unit": "分类",
+      "questions": 12
+    },
+    {
+      "book": "g1a",
+      "unit": "位置与顺序",
+      "questions": 10
+    },
+    {
+      "book": "g1a",
+      "unit": "认识图形",
+      "questions": 10
+    },
+    {
+      "book": "g1a",
+      "unit": "加与减（二）",
+      "questions": 63
+    },
+    {
+      "book": "g1a",
+      "unit": "认识钟表",
+      "questions": 10
+    },
+    {
+      "book": "g1b",
+      "unit": "加与减（一）",
+      "questions": 42
+    },
+    {
+      "book": "g1b",
+      "unit": "观察物体",
+      "questions": 11
+    },
+    {
+      "book": "g1b",
+      "unit": "生活中的数",
+      "questions": 10
+    },
+    {
+      "book": "g1b",
+      "unit": "有趣的图形",
+      "questions": 12
+    },
+    {
+      "book": "g1b",
+      "unit": "加与减（二）",
+      "questions": 82
+    },
+    {
+      "book": "g1b",
+      "unit": "加与减（三）",
+      "questions": 82
+    },
+    {
+      "book": "g2a",
+      "unit": "加与减",
+      "questions": 24
+    },
+    {
+      "book": "g2a",
+      "unit": "购物",
+      "questions": 10
+    },
+    {
+      "book": "g2a",
+      "unit": "数一数与乘法",
+      "questions": 17
+    },
+    {
+      "book": "g2a",
+      "unit": "图形的变化",
+      "questions": 15
+    },
+    {
+      "book": "g2a",
+      "unit": "2～5的乘法口诀",
+      "questions": 40
+    },
+    {
+      "book": "g2a",
+      "unit": "测量",
+      "questions": 16
+    },
+    {
+      "book": "g2a",
+      "unit": "分一分与除法",
+      "questions": 10
+    },
+    {
+      "book": "g2a",
+      "unit": "6～9的乘法口诀",
+      "questions": 28
+    },
+    {
+      "book": "g2a",
+      "unit": "除法",
+      "questions": 10
+    },
+    {
+      "book": "g2b",
+      "unit": "除法",
+      "questions": 10
+    },
+    {
+      "book": "g2b",
+      "unit": "方向与位置",
+      "questions": 10
+    },
+    {
+      "book": "g2b",
+      "unit": "生活中的大数",
+      "questions": 10
+    },
+    {
+      "book": "g2b",
+      "unit": "测量",
+      "questions": 10
+    },
+    {
+      "book": "g2b",
+      "unit": "加与减",
+      "questions": 101
+    },
+    {
+      "book": "g2b",
+      "unit": "认识图形",
+      "questions": 24
+    },
+    {
+      "book": "g2b",
+      "unit": "时、分、秒",
+      "questions": 18
+    },
+    {
+      "book": "g2b",
+      "unit": "调查与记录",
+      "questions": 10
+    },
+    {
+      "book": "g3a",
+      "unit": "混合运算",
+      "questions": 47
+    },
+    {
+      "book": "g3a",
+      "unit": "观察物体",
+      "questions": 10
+    },
+    {
+      "book": "g3a",
+      "unit": "加与减",
+      "questions": 54
+    },
+    {
+      "book": "g3a",
+      "unit": "乘与除",
+      "questions": 43
+    },
+    {
+      "book": "g3a",
+      "unit": "周长",
+      "questions": 12
+    },
+    {
+      "book": "g3a",
+      "unit": "乘法",
+      "questions": 72
+    },
+    {
+      "book": "g3a",
+      "unit": "年、月、日",
+      "questions": 10
+    },
+    {
+      "book": "g3a",
+      "unit": "认识小数",
+      "questions": 10
+    },
+    {
+      "book": "g3b",
+      "unit": "除法",
+      "questions": 24
+    },
+    {
+      "book": "g3b",
+      "unit": "图形的运动",
+      "questions": 10
+    },
+    {
+      "book": "g3b",
+      "unit": "乘法",
+      "questions": 63
+    },
+    {
+      "book": "g3b",
+      "unit": "千克、克、吨",
+      "questions": 10
+    },
+    {
+      "book": "g3b",
+      "unit": "面积",
+      "questions": 11
+    },
+    {
+      "book": "g3b",
+      "unit": "认识分数",
+      "questions": 10
+    },
+    {
+      "book": "g3b",
+      "unit": "数据的整理和表示",
+      "questions": 10
+    },
+    {
+      "book": "g4a",
+      "unit": "认识更大的数",
+      "questions": 10
+    },
+    {
+      "book": "g4a",
+      "unit": "线与角",
+      "questions": 10
+    },
+    {
+      "book": "g4a",
+      "unit": "乘法",
+      "questions": 48
+    },
+    {
+      "book": "g4a",
+      "unit": "运算律",
+      "questions": 69
+    },
+    {
+      "book": "g4a",
+      "unit": "方向与位置",
+      "questions": 10
+    },
+    {
+      "book": "g4a",
+      "unit": "除法",
+      "questions": 15
+    },
+    {
+      "book": "g4a",
+      "unit": "生活中的负数",
+      "questions": 10
+    },
+    {
+      "book": "g4a",
+      "unit": "可能性",
+      "questions": 10
+    },
+    {
+      "book": "g4b",
+      "unit": "小数的意义和加减法",
+      "questions": 41
+    },
+    {
+      "book": "g4b",
+      "unit": "认识三角形和四边形",
+      "questions": 11
+    },
+    {
+      "book": "g4b",
+      "unit": "小数乘法",
+      "questions": 50
+    },
+    {
+      "book": "g4b",
+      "unit": "观察物体",
+      "questions": 10
+    },
+    {
+      "book": "g4b",
+      "unit": "认识方程",
+      "questions": 10
+    },
+    {
+      "book": "g4b",
+      "unit": "数据的表示和分析",
+      "questions": 10
+    },
+    {
+      "book": "g5a",
+      "unit": "小数除法",
+      "questions": 14
+    },
+    {
+      "book": "g5a",
+      "unit": "轴对称和平移",
+      "questions": 10
+    },
+    {
+      "book": "g5a",
+      "unit": "倍数与因数",
+      "questions": 13
+    },
+    {
+      "book": "g5a",
+      "unit": "多边形的面积",
+      "questions": 10
+    },
+    {
+      "book": "g5a",
+      "unit": "分数的意义",
+      "questions": 20
+    },
+    {
+      "book": "g5a",
+      "unit": "组合图形的面积",
+      "questions": 10
+    },
+    {
+      "book": "g5a",
+      "unit": "可能性",
+      "questions": 10
+    },
+    {
+      "book": "g5b",
+      "unit": "分数加减法",
+      "questions": 10
+    },
+    {
+      "book": "g5b",
+      "unit": "长方体（一）",
+      "questions": 10
+    },
+    {
+      "book": "g5b",
+      "unit": "分数乘法",
+      "questions": 10
+    },
+    {
+      "book": "g5b",
+      "unit": "长方体（二）",
+      "questions": 10
+    },
+    {
+      "book": "g5b",
+      "unit": "分数除法",
+      "questions": 10
+    },
+    {
+      "book": "g5b",
+      "unit": "确定位置",
+      "questions": 10
+    },
+    {
+      "book": "g5b",
+      "unit": "用方程解决问题",
+      "questions": 10
+    },
+    {
+      "book": "g5b",
+      "unit": "数据的表示和分析",
+      "questions": 10
+    },
+    {
+      "book": "g6a",
+      "unit": "圆",
+      "questions": 20
+    },
+    {
+      "book": "g6a",
+      "unit": "分数混合运算",
+      "questions": 10
+    },
+    {
+      "book": "g6a",
+      "unit": "观察物体",
+      "questions": 10
+    },
+    {
+      "book": "g6a",
+      "unit": "百分数",
+      "questions": 10
+    },
+    {
+      "book": "g6a",
+      "unit": "数据处理",
+      "questions": 10
+    },
+    {
+      "book": "g6a",
+      "unit": "比的认识",
+      "questions": 10
+    },
+    {
+      "book": "g6a",
+      "unit": "百分数的应用",
+      "questions": 10
+    },
+    {
+      "book": "g6b",
+      "unit": "圆柱与圆锥",
+      "questions": 20
+    },
+    {
+      "book": "g6b",
+      "unit": "比例",
+      "questions": 10
+    },
+    {
+      "book": "g6b",
+      "unit": "图形的运动",
+      "questions": 10
+    },
+    {
+      "book": "g6b",
+      "unit": "正比例与反比例",
+      "questions": 10
+    }
+  ]
+}

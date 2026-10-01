@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-09-30T16:19:24.167Z",
+  "surface": "local production build connected to production database",
+  "mobileViewport": "390x844",
+  "gradeAndTermFilters": [
+    {
+      "grade": 1,
+      "lessons": 46,
+      "categories": 7
+    },
+    {
+      "grade": 2,
+      "lessons": 38,
+      "categories": 6
+    },
+    {
+      "grade": 3,
+      "lessons": 46,
+      "categories": 6
+    },
+    {
+      "grade": 4,
+      "lessons": 36,
+      "categories": 5
+    },
+    {
+      "grade": 5,
+      "lessons": 17,
+      "categories": 5
+    },
+    {
+      "grade": 6,
+      "lessons": 16,
+      "categories": 5
+    }
+  ],
+  "visibleNewLessons": 199,
+  "completedLessonIds": [
+    "42fec63d-a196-5353-b6e7-90c8cc3cc678",
+    "6f5117cc-2823-5a0f-9387-a7e007296171"
+  ],
+  "correct": 20,
+  "total": 20,
+  "hintsAndExplanationsVerified": true,
+  "horizontalOverflow": false
+}

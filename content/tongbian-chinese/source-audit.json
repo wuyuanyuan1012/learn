@@ -1,0 +1,200 @@
+{
+  "totalPdfPages": 1601,
+  "allPagesTextExtracted": true,
+  "printedPageOffset": 5,
+  "visualReview": "12 册各至少一页目录；一年级上册第 6 页实图验证页码偏移。古诗正文、作者和朝代逐首与原 PDF 文本核对。",
+  "poems": [
+    {
+      "book": "g1a",
+      "title": "咏鹅",
+      "printedPage": 16,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g1a",
+      "title": "悯农（其二）",
+      "printedPage": 77,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g1b",
+      "title": "静夜思",
+      "printedPage": 43,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g1b",
+      "title": "小池",
+      "printedPage": 68,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g2a",
+      "title": "登鹳雀楼",
+      "printedPage": 43,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g2a",
+      "title": "望庐山瀑布",
+      "printedPage": 44,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g2b",
+      "title": "村居",
+      "printedPage": 1,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g2b",
+      "title": "咏柳",
+      "printedPage": 2,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g3a",
+      "title": "山行",
+      "printedPage": 14,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g3a",
+      "title": "望洞庭",
+      "printedPage": 75,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g3b",
+      "title": "绝句",
+      "printedPage": 2,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g3b",
+      "title": "九月九日忆山东兄弟",
+      "printedPage": 35,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g4a",
+      "title": "题西林壁",
+      "printedPage": 34,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g4a",
+      "title": "雪梅",
+      "printedPage": 35,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g4b",
+      "title": "四时田园杂兴（其二十五）",
+      "printedPage": 2,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g4b",
+      "title": "墨梅",
+      "printedPage": 103,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g5a",
+      "title": "示儿",
+      "printedPage": 50,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g5a",
+      "title": "枫桥夜泊",
+      "printedPage": 92,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g5b",
+      "title": "稚子弄冰",
+      "printedPage": 2,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g5b",
+      "title": "从军行",
+      "printedPage": 54,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g6a",
+      "title": "宿建德江",
+      "printedPage": 8,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g6a",
+      "title": "书湖阴先生壁",
+      "printedPage": 87,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g6b",
+      "title": "马诗",
+      "printedPage": 58,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    },
+    {
+      "book": "g6b",
+      "title": "泊船瓜洲",
+      "printedPage": 116,
+      "linesVerified": true,
+      "authorVerified": true,
+      "dynastyVerified": true
+    }
+  ]
+}

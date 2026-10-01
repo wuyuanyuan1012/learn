@@ -1,0 +1,6908 @@
+{
+  "dictionary": "pypinyin 0.55.0 (cross-check only)",
+  "checked": 460,
+  "exactMatches": 447,
+  "contextualOverrides": 13,
+  "entries": [
+    {
+      "word": "天",
+      "book": "g1a",
+      "pinyin": "tiān",
+      "dictionaryPinyin": "tiān",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 11,
+        "printedPage": 6,
+        "referenceType": "word-occurrence",
+        "sourceWord": "天"
+      }
+    },
+    {
+      "word": "地",
+      "book": "g1a",
+      "pinyin": "dì",
+      "dictionaryPinyin": "dì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 11,
+        "printedPage": 6,
+        "referenceType": "word-occurrence",
+        "sourceWord": "地"
+      }
+    },
+    {
+      "word": "口",
+      "book": "g1a",
+      "pinyin": "kǒu",
+      "dictionaryPinyin": "kǒu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 14,
+        "printedPage": 9,
+        "referenceType": "word-occurrence",
+        "sourceWord": "口"
+      }
+    },
+    {
+      "word": "耳",
+      "book": "g1a",
+      "pinyin": "ěr",
+      "dictionaryPinyin": "ěr",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 14,
+        "printedPage": 9,
+        "referenceType": "word-occurrence",
+        "sourceWord": "耳"
+      }
+    },
+    {
+      "word": "目",
+      "book": "g1a",
+      "pinyin": "mù",
+      "dictionaryPinyin": "mù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 14,
+        "printedPage": 9,
+        "referenceType": "word-occurrence",
+        "sourceWord": "目"
+      }
+    },
+    {
+      "word": "秋天",
+      "book": "g1a",
+      "pinyin": "qiū tiān",
+      "dictionaryPinyin": "qiū tiān",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 59,
+        "printedPage": 54,
+        "referenceType": "word-occurrence",
+        "sourceWord": "秋天"
+      }
+    },
+    {
+      "word": "树叶",
+      "book": "g1a",
+      "pinyin": "shù yè",
+      "dictionaryPinyin": "shù yè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 59,
+        "printedPage": 54,
+        "referenceType": "word-occurrence",
+        "sourceWord": "树叶"
+      }
+    },
+    {
+      "word": "月儿",
+      "book": "g1a",
+      "pinyin": "yuè ér",
+      "dictionaryPinyin": "yuè ér",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 61,
+        "printedPage": 56,
+        "referenceType": "word-occurrence",
+        "sourceWord": "月儿"
+      }
+    },
+    {
+      "word": "江南",
+      "book": "g1a",
+      "pinyin": "jiāng nán",
+      "dictionaryPinyin": "jiāng nán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "江南"
+      }
+    },
+    {
+      "word": "四季",
+      "book": "g1a",
+      "pinyin": "sì jì",
+      "dictionaryPinyin": "sì jì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 65,
+        "printedPage": 60,
+        "referenceType": "word-occurrence",
+        "sourceWord": "四季"
+      }
+    },
+    {
+      "word": "远",
+      "book": "g1a",
+      "pinyin": "yuǎn",
+      "dictionaryPinyin": "yuǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 72,
+        "printedPage": 67,
+        "referenceType": "word-occurrence",
+        "sourceWord": "远"
+      }
+    },
+    {
+      "word": "少",
+      "book": "g1a",
+      "pinyin": "shǎo",
+      "dictionaryPinyin": "shǎo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 73,
+        "printedPage": 68,
+        "referenceType": "word-occurrence",
+        "sourceWord": "少"
+      }
+    },
+    {
+      "word": "书包",
+      "book": "g1a",
+      "pinyin": "shū bāo",
+      "dictionaryPinyin": "shū bāo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 75,
+        "printedPage": 70,
+        "referenceType": "word-occurrence",
+        "sourceWord": "书包"
+      }
+    },
+    {
+      "word": "明",
+      "book": "g1a",
+      "pinyin": "míng",
+      "dictionaryPinyin": "míng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 77,
+        "printedPage": 72,
+        "referenceType": "word-occurrence",
+        "sourceWord": "明"
+      }
+    },
+    {
+      "word": "国旗",
+      "book": "g1a",
+      "pinyin": "guó qí",
+      "dictionaryPinyin": "guó qí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 79,
+        "printedPage": 74,
+        "referenceType": "word-occurrence",
+        "sourceWord": "国旗"
+      }
+    },
+    {
+      "word": "影子",
+      "book": "g1a",
+      "pinyin": "yǐng zi",
+      "dictionaryPinyin": "yǐng zi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 85,
+        "printedPage": 80,
+        "referenceType": "word-occurrence",
+        "sourceWord": "影子"
+      }
+    },
+    {
+      "word": "尾巴",
+      "book": "g1a",
+      "pinyin": "wěi ba",
+      "dictionaryPinyin": "wěi ba",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 87,
+        "printedPage": 82,
+        "referenceType": "word-occurrence",
+        "sourceWord": "尾巴"
+      }
+    },
+    {
+      "word": "青蛙",
+      "book": "g1a",
+      "pinyin": "qīng wā",
+      "dictionaryPinyin": "qīng wā",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 89,
+        "printedPage": 84,
+        "referenceType": "word-occurrence",
+        "sourceWord": "青蛙"
+      }
+    },
+    {
+      "word": "雨点",
+      "book": "g1a",
+      "pinyin": "yǔ diǎn",
+      "dictionaryPinyin": "yǔ diǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 89,
+        "printedPage": 84,
+        "referenceType": "word-occurrence",
+        "sourceWord": "雨点"
+      }
+    },
+    {
+      "word": "前",
+      "book": "g1a",
+      "pinyin": "qián",
+      "dictionaryPinyin": "qián",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 85,
+        "printedPage": 80,
+        "referenceType": "word-occurrence",
+        "sourceWord": "前"
+      }
+    },
+    {
+      "word": "大海",
+      "book": "g1a",
+      "pinyin": "dà hǎi",
+      "dictionaryPinyin": "dà hǎi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 103,
+        "printedPage": 98,
+        "referenceType": "word-occurrence",
+        "sourceWord": "大海"
+      }
+    },
+    {
+      "word": "老师",
+      "book": "g1a",
+      "pinyin": "lǎo shī",
+      "dictionaryPinyin": "lǎo shī",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 98,
+        "printedPage": 93,
+        "referenceType": "word-occurrence",
+        "sourceWord": "老师"
+      }
+    },
+    {
+      "word": "同学",
+      "book": "g1a",
+      "pinyin": "tóng xué",
+      "dictionaryPinyin": "tóng xué",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 99,
+        "printedPage": 94,
+        "referenceType": "word-occurrence",
+        "sourceWord": "同学"
+      }
+    },
+    {
+      "word": "自己",
+      "book": "g1a",
+      "pinyin": "zì jǐ",
+      "dictionaryPinyin": "zì jǐ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 101,
+        "printedPage": 96,
+        "referenceType": "word-occurrence",
+        "sourceWord": "自己"
+      }
+    },
+    {
+      "word": "项链",
+      "book": "g1a",
+      "pinyin": "xiàng liàn",
+      "dictionaryPinyin": "xiàng liàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 103,
+        "printedPage": 98,
+        "referenceType": "word-occurrence",
+        "sourceWord": "项链"
+      }
+    },
+    {
+      "word": "雪花",
+      "book": "g1a",
+      "pinyin": "xuě huā",
+      "dictionaryPinyin": "xuě huā",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 109,
+        "printedPage": 104,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "雪花"
+      }
+    },
+    {
+      "word": "乌鸦",
+      "book": "g1a",
+      "pinyin": "wū yā",
+      "dictionaryPinyin": "wū yā",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 111,
+        "printedPage": 106,
+        "referenceType": "word-occurrence",
+        "sourceWord": "乌鸦"
+      }
+    },
+    {
+      "word": "石子",
+      "book": "g1a",
+      "pinyin": "shí zǐ",
+      "dictionaryPinyin": "shí zǐ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 111,
+        "printedPage": 106,
+        "referenceType": "word-occurrence",
+        "sourceWord": "石子"
+      }
+    },
+    {
+      "word": "蜗牛",
+      "book": "g1a",
+      "pinyin": "wō niú",
+      "dictionaryPinyin": "wō niú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 113,
+        "printedPage": 108,
+        "referenceType": "word-occurrence",
+        "sourceWord": "蜗牛"
+      }
+    },
+    {
+      "word": "发芽",
+      "book": "g1a",
+      "pinyin": "fā yá",
+      "dictionaryPinyin": "fā yá",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 113,
+        "printedPage": 108,
+        "referenceType": "word-occurrence",
+        "sourceWord": "发芽"
+      }
+    },
+    {
+      "word": "春风",
+      "book": "g1b",
+      "pinyin": "chūn fēng",
+      "dictionaryPinyin": "chūn fēng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "春风"
+      }
+    },
+    {
+      "word": "冬雪",
+      "book": "g1b",
+      "pinyin": "dōng xuě",
+      "dictionaryPinyin": "dōng xuě",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "冬雪"
+      }
+    },
+    {
+      "word": "姓氏",
+      "book": "g1b",
+      "pinyin": "xìng shì",
+      "dictionaryPinyin": "xìng shì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 9,
+        "printedPage": 4,
+        "referenceType": "word-occurrence",
+        "sourceWord": "姓氏"
+      }
+    },
+    {
+      "word": "清水",
+      "book": "g1b",
+      "pinyin": "qīng shuǐ",
+      "dictionaryPinyin": "qīng shuǐ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "清水"
+      }
+    },
+    {
+      "word": "字谜",
+      "book": "g1b",
+      "pinyin": "zì mí",
+      "dictionaryPinyin": "zì mí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 13,
+        "printedPage": 8,
+        "referenceType": "word-occurrence",
+        "sourceWord": "字谜"
+      }
+    },
+    {
+      "word": "水井",
+      "book": "g1b",
+      "pinyin": "shuǐ jǐng",
+      "dictionaryPinyin": "shuǐ jǐng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 22,
+        "printedPage": 17,
+        "referenceType": "word-occurrence",
+        "sourceWord": "水井"
+      }
+    },
+    {
+      "word": "乡亲",
+      "book": "g1b",
+      "pinyin": "xiāng qīn",
+      "dictionaryPinyin": "xiāng qīn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 22,
+        "printedPage": 17,
+        "referenceType": "word-occurrence",
+        "sourceWord": "乡亲"
+      }
+    },
+    {
+      "word": "广场",
+      "book": "g1b",
+      "pinyin": "guǎng chǎng",
+      "dictionaryPinyin": "guǎng chǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 24,
+        "printedPage": 19,
+        "referenceType": "word-occurrence",
+        "sourceWord": "广场"
+      }
+    },
+    {
+      "word": "太阳",
+      "book": "g1b",
+      "pinyin": "tài yáng",
+      "dictionaryPinyin": "tài yáng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 29,
+        "printedPage": 24,
+        "referenceType": "word-occurrence",
+        "sourceWord": "太阳"
+      }
+    },
+    {
+      "word": "接连",
+      "book": "g1b",
+      "pinyin": "jiē lián",
+      "dictionaryPinyin": "jiē lián",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 22,
+        "printedPage": 17,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "接连"
+      }
+    },
+    {
+      "word": "伙伴",
+      "book": "g1b",
+      "pinyin": "huǒ bàn",
+      "dictionaryPinyin": "huǒ bàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 34,
+        "printedPage": 29,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "伙伴"
+      }
+    },
+    {
+      "word": "孤单",
+      "book": "g1b",
+      "pinyin": "gū dān",
+      "dictionaryPinyin": "gū dān",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 37,
+        "printedPage": 32,
+        "referenceType": "word-occurrence",
+        "sourceWord": "孤单"
+      }
+    },
+    {
+      "word": "招呼",
+      "book": "g1b",
+      "pinyin": "zhāo hu",
+      "dictionaryPinyin": "zhāo hū",
+      "match": false,
+      "reviewNote": "词中“呼”读轻声。",
+      "source": {
+        "unit": 3,
+        "pdfPage": 38,
+        "printedPage": 33,
+        "referenceType": "word-occurrence",
+        "sourceWord": "招呼"
+      }
+    },
+    {
+      "word": "快乐",
+      "book": "g1b",
+      "pinyin": "kuài lè",
+      "dictionaryPinyin": "kuài lè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 38,
+        "printedPage": 33,
+        "referenceType": "word-occurrence",
+        "sourceWord": "快乐"
+      }
+    },
+    {
+      "word": "帮助",
+      "book": "g1b",
+      "pinyin": "bāng zhù",
+      "dictionaryPinyin": "bāng zhù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 43,
+        "printedPage": 38,
+        "referenceType": "word-occurrence",
+        "sourceWord": "帮助"
+      }
+    },
+    {
+      "word": "故乡",
+      "book": "g1b",
+      "pinyin": "gù xiāng",
+      "dictionaryPinyin": "gù xiāng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 48,
+        "printedPage": 43,
+        "referenceType": "word-occurrence",
+        "sourceWord": "故乡"
+      }
+    },
+    {
+      "word": "勇敢",
+      "book": "g1b",
+      "pinyin": "yǒng gǎn",
+      "dictionaryPinyin": "yǒng gǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 49,
+        "printedPage": 44,
+        "referenceType": "word-occurrence",
+        "sourceWord": "勇敢"
+      }
+    },
+    {
+      "word": "粽子",
+      "book": "g1b",
+      "pinyin": "zòng zi",
+      "dictionaryPinyin": "zòng zi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 51,
+        "printedPage": 46,
+        "referenceType": "word-occurrence",
+        "sourceWord": "粽子"
+      }
+    },
+    {
+      "word": "彩虹",
+      "book": "g1b",
+      "pinyin": "cǎi hóng",
+      "dictionaryPinyin": "cǎi hóng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "彩虹"
+      }
+    },
+    {
+      "word": "思念",
+      "book": "g1b",
+      "pinyin": "sī niàn",
+      "dictionaryPinyin": "sī niàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 48,
+        "printedPage": 43,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "思念"
+      }
+    },
+    {
+      "word": "蜻蜓",
+      "book": "g1b",
+      "pinyin": "qīng tíng",
+      "dictionaryPinyin": "qīng tíng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 59,
+        "printedPage": 54,
+        "referenceType": "word-occurrence",
+        "sourceWord": "蜻蜓"
+      }
+    },
+    {
+      "word": "蚂蚁",
+      "book": "g1b",
+      "pinyin": "mǎ yǐ",
+      "dictionaryPinyin": "mǎ yǐ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 59,
+        "printedPage": 54,
+        "referenceType": "word-occurrence",
+        "sourceWord": "蚂蚁"
+      }
+    },
+    {
+      "word": "严寒",
+      "book": "g1b",
+      "pinyin": "yán hán",
+      "dictionaryPinyin": "yán hán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 61,
+        "printedPage": 56,
+        "referenceType": "word-occurrence",
+        "sourceWord": "严寒"
+      }
+    },
+    {
+      "word": "操场",
+      "book": "g1b",
+      "pinyin": "cāo chǎng",
+      "dictionaryPinyin": "cāo chǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "操场"
+      }
+    },
+    {
+      "word": "学习",
+      "book": "g1b",
+      "pinyin": "xué xí",
+      "dictionaryPinyin": "xué xí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 59,
+        "printedPage": 54,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "学习"
+      }
+    },
+    {
+      "word": "荷叶",
+      "book": "g1b",
+      "pinyin": "hé yè",
+      "dictionaryPinyin": "hé yè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 74,
+        "printedPage": 69,
+        "referenceType": "word-occurrence",
+        "sourceWord": "荷叶"
+      }
+    },
+    {
+      "word": "露珠",
+      "book": "g1b",
+      "pinyin": "lù zhū",
+      "dictionaryPinyin": "lù zhū",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 72,
+        "printedPage": 67,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "露珠"
+      }
+    },
+    {
+      "word": "摇篮",
+      "book": "g1b",
+      "pinyin": "yáo lán",
+      "dictionaryPinyin": "yáo lán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 75,
+        "printedPage": 70,
+        "referenceType": "word-occurrence",
+        "sourceWord": "摇篮"
+      }
+    },
+    {
+      "word": "翅膀",
+      "book": "g1b",
+      "pinyin": "chì bǎng",
+      "dictionaryPinyin": "chì bǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 75,
+        "printedPage": 70,
+        "referenceType": "word-occurrence",
+        "sourceWord": "翅膀"
+      }
+    },
+    {
+      "word": "潮湿",
+      "book": "g1b",
+      "pinyin": "cháo shī",
+      "dictionaryPinyin": "cháo shī",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 78,
+        "printedPage": 73,
+        "referenceType": "word-occurrence",
+        "sourceWord": "潮湿"
+      }
+    },
+    {
+      "word": "文具",
+      "book": "g1b",
+      "pinyin": "wén jù",
+      "dictionaryPinyin": "wén jù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 87,
+        "printedPage": 82,
+        "referenceType": "word-occurrence",
+        "sourceWord": "文具"
+      }
+    },
+    {
+      "word": "检查",
+      "book": "g1b",
+      "pinyin": "jiǎn chá",
+      "dictionaryPinyin": "jiǎn chá",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 88,
+        "printedPage": 83,
+        "referenceType": "word-occurrence",
+        "sourceWord": "检查"
+      }
+    },
+    {
+      "word": "通知",
+      "book": "g1b",
+      "pinyin": "tōng zhī",
+      "dictionaryPinyin": "tōng zhī",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "通知"
+      }
+    },
+    {
+      "word": "准时",
+      "book": "g1b",
+      "pinyin": "zhǔn shí",
+      "dictionaryPinyin": "zhǔn shí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 97,
+        "printedPage": 92,
+        "referenceType": "word-occurrence",
+        "sourceWord": "准时"
+      }
+    },
+    {
+      "word": "决定",
+      "book": "g1b",
+      "pinyin": "jué dìng",
+      "dictionaryPinyin": "jué dìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 91,
+        "printedPage": 86,
+        "referenceType": "word-occurrence",
+        "sourceWord": "决定"
+      }
+    },
+    {
+      "word": "棉花",
+      "book": "g1b",
+      "pinyin": "mián hua",
+      "dictionaryPinyin": "mián huā",
+      "match": false,
+      "reviewNote": "此处指棉纤维，“花”读轻声。",
+      "source": {
+        "unit": 8,
+        "pdfPage": 107,
+        "printedPage": 102,
+        "referenceType": "word-occurrence",
+        "sourceWord": "棉花"
+      }
+    },
+    {
+      "word": "治病",
+      "book": "g1b",
+      "pinyin": "zhì bìng",
+      "dictionaryPinyin": "zhì bìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 107,
+        "printedPage": 102,
+        "referenceType": "word-occurrence",
+        "sourceWord": "治病"
+      }
+    },
+    {
+      "word": "惊奇",
+      "book": "g1b",
+      "pinyin": "jīng qí",
+      "dictionaryPinyin": "jīng qí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 108,
+        "printedPage": 103,
+        "referenceType": "word-occurrence",
+        "sourceWord": "惊奇"
+      }
+    },
+    {
+      "word": "逃命",
+      "book": "g1b",
+      "pinyin": "táo mìng",
+      "dictionaryPinyin": "táo mìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 111,
+        "printedPage": 106,
+        "referenceType": "word-occurrence",
+        "sourceWord": "逃命"
+      }
+    },
+    {
+      "word": "壁虎",
+      "book": "g1b",
+      "pinyin": "bì hǔ",
+      "dictionaryPinyin": "bì hǔ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 114,
+        "printedPage": 109,
+        "referenceType": "word-occurrence",
+        "sourceWord": "壁虎"
+      }
+    },
+    {
+      "word": "池塘",
+      "book": "g2a",
+      "pinyin": "chí táng",
+      "dictionaryPinyin": "chí táng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 6,
+        "printedPage": 1,
+        "referenceType": "word-occurrence",
+        "sourceWord": "池塘"
+      }
+    },
+    {
+      "word": "脑袋",
+      "book": "g2a",
+      "pinyin": "nǎo dai",
+      "dictionaryPinyin": "nǎo dài",
+      "match": false,
+      "reviewNote": "词中“袋”读轻声。",
+      "source": {
+        "unit": 1,
+        "pdfPage": 6,
+        "printedPage": 1,
+        "referenceType": "word-occurrence",
+        "sourceWord": "脑袋"
+      }
+    },
+    {
+      "word": "捕食",
+      "book": "g2a",
+      "pinyin": "bǔ shí",
+      "dictionaryPinyin": "bǔ shí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 6,
+        "printedPage": 1,
+        "referenceType": "word-occurrence",
+        "sourceWord": "捕食"
+      }
+    },
+    {
+      "word": "旅行",
+      "book": "g2a",
+      "pinyin": "lǚ xíng",
+      "dictionaryPinyin": "lǚ xíng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 13,
+        "printedPage": 8,
+        "referenceType": "word-occurrence",
+        "sourceWord": "旅行"
+      }
+    },
+    {
+      "word": "植物",
+      "book": "g2a",
+      "pinyin": "zhí wù",
+      "dictionaryPinyin": "zhí wù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 13,
+        "printedPage": 8,
+        "referenceType": "word-occurrence",
+        "sourceWord": "植物"
+      }
+    },
+    {
+      "word": "帆船",
+      "book": "g2a",
+      "pinyin": "fān chuán",
+      "dictionaryPinyin": "fān chuán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 21,
+        "printedPage": 16,
+        "referenceType": "word-occurrence",
+        "sourceWord": "帆船"
+      }
+    },
+    {
+      "word": "翠竹",
+      "book": "g2a",
+      "pinyin": "cuì zhú",
+      "dictionaryPinyin": "cuì zhú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 21,
+        "printedPage": 16,
+        "referenceType": "word-occurrence",
+        "sourceWord": "翠竹"
+      }
+    },
+    {
+      "word": "梧桐",
+      "book": "g2a",
+      "pinyin": "wú tóng",
+      "dictionaryPinyin": "wú tóng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 23,
+        "printedPage": 18,
+        "referenceType": "word-occurrence",
+        "sourceWord": "梧桐"
+      }
+    },
+    {
+      "word": "保护",
+      "book": "g2a",
+      "pinyin": "bǎo hù",
+      "dictionaryPinyin": "bǎo hù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 26,
+        "printedPage": 21,
+        "referenceType": "word-occurrence",
+        "sourceWord": "保护"
+      }
+    },
+    {
+      "word": "农忙",
+      "book": "g2a",
+      "pinyin": "nóng máng",
+      "dictionaryPinyin": "nóng máng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 21,
+        "printedPage": 16,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "农忙"
+      }
+    },
+    {
+      "word": "重量",
+      "book": "g2a",
+      "pinyin": "zhòng liàng",
+      "dictionaryPinyin": "zhòng liàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 34,
+        "printedPage": 29,
+        "referenceType": "word-occurrence",
+        "sourceWord": "重量"
+      }
+    },
+    {
+      "word": "议论",
+      "book": "g2a",
+      "pinyin": "yì lùn",
+      "dictionaryPinyin": "yì lùn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 33,
+        "printedPage": 28,
+        "referenceType": "word-occurrence",
+        "sourceWord": "议论"
+      }
+    },
+    {
+      "word": "报纸",
+      "book": "g2a",
+      "pinyin": "bào zhǐ",
+      "dictionaryPinyin": "bào zhǐ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 36,
+        "printedPage": 31,
+        "referenceType": "word-occurrence",
+        "sourceWord": "报纸"
+      }
+    },
+    {
+      "word": "温柔",
+      "book": "g2a",
+      "pinyin": "wēn róu",
+      "dictionaryPinyin": "wēn róu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 41,
+        "printedPage": 36,
+        "referenceType": "word-occurrence",
+        "sourceWord": "温柔"
+      }
+    },
+    {
+      "word": "红润",
+      "book": "g2a",
+      "pinyin": "hóng rùn",
+      "dictionaryPinyin": "hóng rùn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 41,
+        "printedPage": 36,
+        "referenceType": "word-occurrence",
+        "sourceWord": "红润"
+      }
+    },
+    {
+      "word": "层林",
+      "book": "g2a",
+      "pinyin": "céng lín",
+      "dictionaryPinyin": "céng lín",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 50,
+        "printedPage": 45,
+        "referenceType": "word-occurrence",
+        "sourceWord": "层林"
+      }
+    },
+    {
+      "word": "瀑布",
+      "book": "g2a",
+      "pinyin": "pù bù",
+      "dictionaryPinyin": "pù bù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 49,
+        "printedPage": 44,
+        "referenceType": "word-occurrence",
+        "sourceWord": "瀑布"
+      }
+    },
+    {
+      "word": "秀丽",
+      "book": "g2a",
+      "pinyin": "xiù lì",
+      "dictionaryPinyin": "xiù lì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 51,
+        "printedPage": 46,
+        "referenceType": "word-occurrence",
+        "sourceWord": "秀丽"
+      }
+    },
+    {
+      "word": "环绕",
+      "book": "g2a",
+      "pinyin": "huán rào",
+      "dictionaryPinyin": "huán rào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 54,
+        "printedPage": 49,
+        "referenceType": "word-occurrence",
+        "sourceWord": "环绕"
+      }
+    },
+    {
+      "word": "茂密",
+      "book": "g2a",
+      "pinyin": "mào mì",
+      "dictionaryPinyin": "mào mì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 56,
+        "printedPage": 51,
+        "referenceType": "word-occurrence",
+        "sourceWord": "茂密"
+      }
+    },
+    {
+      "word": "井沿",
+      "book": "g2a",
+      "pinyin": "jǐng yán",
+      "dictionaryPinyin": "jǐng yán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "井沿"
+      }
+    },
+    {
+      "word": "无边无际",
+      "book": "g2a",
+      "pinyin": "wú biān wú jì",
+      "dictionaryPinyin": "wú biān wú jì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "无边无际"
+      }
+    },
+    {
+      "word": "劝告",
+      "book": "g2a",
+      "pinyin": "quàn gào",
+      "dictionaryPinyin": "quàn gào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 65,
+        "printedPage": 60,
+        "referenceType": "word-occurrence",
+        "sourceWord": "劝告"
+      }
+    },
+    {
+      "word": "将来",
+      "book": "g2a",
+      "pinyin": "jiāng lái",
+      "dictionaryPinyin": "jiāng lái",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 66,
+        "printedPage": 61,
+        "referenceType": "word-occurrence",
+        "sourceWord": "将来"
+      }
+    },
+    {
+      "word": "自言自语",
+      "book": "g2a",
+      "pinyin": "zì yán zì yǔ",
+      "dictionaryPinyin": "zì yán zì yǔ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 70,
+        "printedPage": 65,
+        "referenceType": "word-occurrence",
+        "sourceWord": "自言自语"
+      }
+    },
+    {
+      "word": "扁担",
+      "book": "g2a",
+      "pinyin": "biǎn dan",
+      "dictionaryPinyin": "biǎn dàn",
+      "match": false,
+      "reviewNote": "词中“担”读轻声。",
+      "source": {
+        "unit": 6,
+        "pdfPage": 78,
+        "printedPage": 73,
+        "referenceType": "word-occurrence",
+        "sourceWord": "扁担"
+      }
+    },
+    {
+      "word": "队伍",
+      "book": "g2a",
+      "pinyin": "duì wu",
+      "dictionaryPinyin": "duì wǔ",
+      "match": false,
+      "reviewNote": "词中“伍”读轻声。",
+      "source": {
+        "unit": 6,
+        "pdfPage": 78,
+        "printedPage": 73,
+        "referenceType": "word-occurrence",
+        "sourceWord": "队伍"
+      }
+    },
+    {
+      "word": "敬爱",
+      "book": "g2a",
+      "pinyin": "jìng ài",
+      "dictionaryPinyin": "jìng ài",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 79,
+        "printedPage": 74,
+        "referenceType": "word-occurrence",
+        "sourceWord": "敬爱"
+      }
+    },
+    {
+      "word": "难忘",
+      "book": "g2a",
+      "pinyin": "nán wàng",
+      "dictionaryPinyin": "nán wàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 80,
+        "printedPage": 75,
+        "referenceType": "word-occurrence",
+        "sourceWord": "难忘"
+      }
+    },
+    {
+      "word": "战士",
+      "book": "g2a",
+      "pinyin": "zhàn shì",
+      "dictionaryPinyin": "zhàn shì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 78,
+        "printedPage": 73,
+        "referenceType": "word-occurrence",
+        "sourceWord": "战士"
+      }
+    },
+    {
+      "word": "苍茫",
+      "book": "g2a",
+      "pinyin": "cāng máng",
+      "dictionaryPinyin": "cāng máng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 92,
+        "printedPage": 87,
+        "referenceType": "word-occurrence",
+        "sourceWord": "苍茫"
+      }
+    },
+    {
+      "word": "散步",
+      "book": "g2a",
+      "pinyin": "sàn bù",
+      "dictionaryPinyin": "sàn bù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 94,
+        "printedPage": 89,
+        "referenceType": "word-occurrence",
+        "sourceWord": "散步"
+      }
+    },
+    {
+      "word": "岸边",
+      "book": "g2a",
+      "pinyin": "àn biān",
+      "dictionaryPinyin": "àn biān",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "岸边"
+      }
+    },
+    {
+      "word": "浑身",
+      "book": "g2a",
+      "pinyin": "hún shēn",
+      "dictionaryPinyin": "hún shēn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 98,
+        "printedPage": 93,
+        "referenceType": "word-occurrence",
+        "sourceWord": "浑身"
+      }
+    },
+    {
+      "word": "连忙",
+      "book": "g2a",
+      "pinyin": "lián máng",
+      "dictionaryPinyin": "lián máng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 97,
+        "printedPage": 92,
+        "referenceType": "word-occurrence",
+        "sourceWord": "连忙"
+      }
+    },
+    {
+      "word": "威风",
+      "book": "g2a",
+      "pinyin": "wēi fēng",
+      "dictionaryPinyin": "wēi fēng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 105,
+        "printedPage": 100,
+        "referenceType": "word-occurrence",
+        "sourceWord": "威风"
+      }
+    },
+    {
+      "word": "纳闷",
+      "book": "g2a",
+      "pinyin": "nà mèn",
+      "dictionaryPinyin": "nà mèn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 105,
+        "printedPage": 100,
+        "referenceType": "word-occurrence",
+        "sourceWord": "纳闷"
+      }
+    },
+    {
+      "word": "飘荡",
+      "book": "g2a",
+      "pinyin": "piāo dàng",
+      "dictionaryPinyin": "piāo dàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 108,
+        "printedPage": 103,
+        "referenceType": "word-occurrence",
+        "sourceWord": "飘荡"
+      }
+    },
+    {
+      "word": "愿意",
+      "book": "g2a",
+      "pinyin": "yuàn yì",
+      "dictionaryPinyin": "yuàn yì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 108,
+        "printedPage": 103,
+        "referenceType": "word-occurrence",
+        "sourceWord": "愿意"
+      }
+    },
+    {
+      "word": "伤心",
+      "book": "g2a",
+      "pinyin": "shāng xīn",
+      "dictionaryPinyin": "shāng xīn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 111,
+        "printedPage": 106,
+        "referenceType": "word-occurrence",
+        "sourceWord": "伤心"
+      }
+    },
+    {
+      "word": "丝绦",
+      "book": "g2b",
+      "pinyin": "sī tāo",
+      "dictionaryPinyin": "sī tāo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "丝绦"
+      }
+    },
+    {
+      "word": "寻找",
+      "book": "g2b",
+      "pinyin": "xún zhǎo",
+      "dictionaryPinyin": "xún zhǎo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 9,
+        "printedPage": 4,
+        "referenceType": "word-occurrence",
+        "sourceWord": "寻找"
+      }
+    },
+    {
+      "word": "害羞",
+      "book": "g2b",
+      "pinyin": "hài xiū",
+      "dictionaryPinyin": "hài xiū",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 9,
+        "printedPage": 4,
+        "referenceType": "word-occurrence",
+        "sourceWord": "害羞"
+      }
+    },
+    {
+      "word": "鲜花",
+      "book": "g2b",
+      "pinyin": "xiān huā",
+      "dictionaryPinyin": "xiān huā",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 11,
+        "printedPage": 6,
+        "referenceType": "word-occurrence",
+        "sourceWord": "鲜花"
+      }
+    },
+    {
+      "word": "植树",
+      "book": "g2b",
+      "pinyin": "zhí shù",
+      "dictionaryPinyin": "zhí shù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 14,
+        "printedPage": 9,
+        "referenceType": "word-occurrence",
+        "sourceWord": "植树"
+      }
+    },
+    {
+      "word": "足迹",
+      "book": "g2b",
+      "pinyin": "zú jì",
+      "dictionaryPinyin": "zú jì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 21,
+        "printedPage": 16,
+        "referenceType": "word-occurrence",
+        "sourceWord": "足迹"
+      }
+    },
+    {
+      "word": "泥泞",
+      "book": "g2b",
+      "pinyin": "ní nìng",
+      "dictionaryPinyin": "ní nìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 21,
+        "printedPage": 16,
+        "referenceType": "word-occurrence",
+        "sourceWord": "泥泞"
+      }
+    },
+    {
+      "word": "温暖",
+      "book": "g2b",
+      "pinyin": "wēn nuǎn",
+      "dictionaryPinyin": "wēn nuǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 22,
+        "printedPage": 17,
+        "referenceType": "word-occurrence",
+        "sourceWord": "温暖"
+      }
+    },
+    {
+      "word": "劳动",
+      "book": "g2b",
+      "pinyin": "láo dòng",
+      "dictionaryPinyin": "láo dòng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 25,
+        "printedPage": 20,
+        "referenceType": "word-occurrence",
+        "sourceWord": "劳动"
+      }
+    },
+    {
+      "word": "恋恋不舍",
+      "book": "g2b",
+      "pinyin": "liàn liàn bù shě",
+      "dictionaryPinyin": "liàn liàn bù shě",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 28,
+        "printedPage": 23,
+        "referenceType": "word-occurrence",
+        "sourceWord": "恋恋不舍"
+      }
+    },
+    {
+      "word": "神州",
+      "book": "g2b",
+      "pinyin": "shén zhōu",
+      "dictionaryPinyin": "shén zhōu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 34,
+        "printedPage": 29,
+        "referenceType": "word-occurrence",
+        "sourceWord": "神州"
+      }
+    },
+    {
+      "word": "传统",
+      "book": "g2b",
+      "pinyin": "chuán tǒng",
+      "dictionaryPinyin": "chuán tǒng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 36,
+        "printedPage": 31,
+        "referenceType": "word-occurrence",
+        "sourceWord": "传统"
+      }
+    },
+    {
+      "word": "团圆",
+      "book": "g2b",
+      "pinyin": "tuán yuán",
+      "dictionaryPinyin": "tuán yuán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 37,
+        "printedPage": 32,
+        "referenceType": "word-occurrence",
+        "sourceWord": "团圆"
+      }
+    },
+    {
+      "word": "钱币",
+      "book": "g2b",
+      "pinyin": "qián bì",
+      "dictionaryPinyin": "qián bì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 38,
+        "printedPage": 33,
+        "referenceType": "word-occurrence",
+        "sourceWord": "钱币"
+      }
+    },
+    {
+      "word": "美食",
+      "book": "g2b",
+      "pinyin": "měi shí",
+      "dictionaryPinyin": "měi shí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 40,
+        "printedPage": 35,
+        "referenceType": "word-occurrence",
+        "sourceWord": "美食"
+      }
+    },
+    {
+      "word": "精灵",
+      "book": "g2b",
+      "pinyin": "jīng líng",
+      "dictionaryPinyin": "jīng líng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 48,
+        "printedPage": 43,
+        "referenceType": "word-occurrence",
+        "sourceWord": "精灵"
+      }
+    },
+    {
+      "word": "遮蔽",
+      "book": "g2b",
+      "pinyin": "zhē bì",
+      "dictionaryPinyin": "zhē bì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 50,
+        "printedPage": 45,
+        "referenceType": "word-occurrence",
+        "sourceWord": "遮蔽"
+      }
+    },
+    {
+      "word": "童话",
+      "book": "g2b",
+      "pinyin": "tóng huà",
+      "dictionaryPinyin": "tóng huà",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 50,
+        "printedPage": 45,
+        "referenceType": "word-occurrence",
+        "sourceWord": "童话"
+      }
+    },
+    {
+      "word": "赞赏",
+      "book": "g2b",
+      "pinyin": "zàn shǎng",
+      "dictionaryPinyin": "zàn shǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 54,
+        "printedPage": 49,
+        "referenceType": "word-occurrence",
+        "sourceWord": "赞赏"
+      }
+    },
+    {
+      "word": "幸运",
+      "book": "g2b",
+      "pinyin": "xìng yùn",
+      "dictionaryPinyin": "xìng yùn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 57,
+        "printedPage": 52,
+        "referenceType": "word-occurrence",
+        "sourceWord": "幸运"
+      }
+    },
+    {
+      "word": "亡羊补牢",
+      "book": "g2b",
+      "pinyin": "wáng yáng bǔ láo",
+      "dictionaryPinyin": "wáng yáng bǔ láo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 62,
+        "printedPage": 57,
+        "referenceType": "word-occurrence",
+        "sourceWord": "亡羊补牢"
+      }
+    },
+    {
+      "word": "揠苗助长",
+      "book": "g2b",
+      "pinyin": "yà miáo zhù zhǎng",
+      "dictionaryPinyin": "yà miáo zhù zhǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "揠苗助长"
+      }
+    },
+    {
+      "word": "教诲",
+      "book": "g2b",
+      "pinyin": "jiào huì",
+      "dictionaryPinyin": "jiào huì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 66,
+        "printedPage": 61,
+        "referenceType": "word-occurrence",
+        "sourceWord": "教诲"
+      }
+    },
+    {
+      "word": "审视",
+      "book": "g2b",
+      "pinyin": "shěn shì",
+      "dictionaryPinyin": "shěn shì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 65,
+        "printedPage": 60,
+        "referenceType": "word-occurrence",
+        "sourceWord": "审视"
+      }
+    },
+    {
+      "word": "愿望",
+      "book": "g2b",
+      "pinyin": "yuàn wàng",
+      "dictionaryPinyin": "yuàn wàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 62,
+        "printedPage": 57,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "愿望"
+      }
+    },
+    {
+      "word": "毕竟",
+      "book": "g2b",
+      "pinyin": "bì jìng",
+      "dictionaryPinyin": "bì jìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 76,
+        "printedPage": 71,
+        "referenceType": "word-occurrence",
+        "sourceWord": "毕竟"
+      }
+    },
+    {
+      "word": "雷雨",
+      "book": "g2b",
+      "pinyin": "léi yǔ",
+      "dictionaryPinyin": "léi yǔ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 79,
+        "printedPage": 74,
+        "referenceType": "word-occurrence",
+        "sourceWord": "雷雨"
+      }
+    },
+    {
+      "word": "忠实",
+      "book": "g2b",
+      "pinyin": "zhōng shí",
+      "dictionaryPinyin": "zhōng shí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 81,
+        "printedPage": 76,
+        "referenceType": "word-occurrence",
+        "sourceWord": "忠实"
+      }
+    },
+    {
+      "word": "辨别",
+      "book": "g2b",
+      "pinyin": "biàn bié",
+      "dictionaryPinyin": "biàn bié",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 81,
+        "printedPage": 76,
+        "referenceType": "word-occurrence",
+        "sourceWord": "辨别"
+      }
+    },
+    {
+      "word": "宇宙",
+      "book": "g2b",
+      "pinyin": "yǔ zhòu",
+      "dictionaryPinyin": "yǔ zhòu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 84,
+        "printedPage": 79,
+        "referenceType": "word-occurrence",
+        "sourceWord": "宇宙"
+      }
+    },
+    {
+      "word": "耷拉",
+      "book": "g2b",
+      "pinyin": "dā la",
+      "dictionaryPinyin": "dā lā",
+      "match": false,
+      "reviewNote": "词中“拉”读轻声。",
+      "source": {
+        "unit": 7,
+        "pdfPage": 91,
+        "printedPage": 86,
+        "referenceType": "word-occurrence",
+        "sourceWord": "耷拉"
+      }
+    },
+    {
+      "word": "寂寞",
+      "book": "g2b",
+      "pinyin": "jì mò",
+      "dictionaryPinyin": "jì mò",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 94,
+        "printedPage": 89,
+        "referenceType": "word-occurrence",
+        "sourceWord": "寂寞"
+      }
+    },
+    {
+      "word": "编织",
+      "book": "g2b",
+      "pinyin": "biān zhī",
+      "dictionaryPinyin": "biān zhī",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 94,
+        "printedPage": 89,
+        "referenceType": "word-occurrence",
+        "sourceWord": "编织"
+      }
+    },
+    {
+      "word": "吆喝",
+      "book": "g2b",
+      "pinyin": "yāo he",
+      "dictionaryPinyin": "yāo hē",
+      "match": false,
+      "reviewNote": "表示大声招呼叫卖时，“喝”读轻声。",
+      "source": {
+        "unit": 7,
+        "pdfPage": 97,
+        "printedPage": 92,
+        "referenceType": "word-occurrence",
+        "sourceWord": "吆喝"
+      }
+    },
+    {
+      "word": "笨拙",
+      "book": "g2b",
+      "pinyin": "bèn zhuō",
+      "dictionaryPinyin": "bèn zhuō",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 101,
+        "printedPage": 96,
+        "referenceType": "word-occurrence",
+        "sourceWord": "笨拙"
+      }
+    },
+    {
+      "word": "祖先",
+      "book": "g2b",
+      "pinyin": "zǔ xiān",
+      "dictionaryPinyin": "zǔ xiān",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 107,
+        "printedPage": 102,
+        "referenceType": "word-occurrence",
+        "sourceWord": "祖先"
+      }
+    },
+    {
+      "word": "回忆",
+      "book": "g2b",
+      "pinyin": "huí yì",
+      "dictionaryPinyin": "huí yì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 108,
+        "printedPage": 103,
+        "referenceType": "word-occurrence",
+        "sourceWord": "回忆"
+      }
+    },
+    {
+      "word": "秩序",
+      "book": "g2b",
+      "pinyin": "zhì xù",
+      "dictionaryPinyin": "zhì xù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 111,
+        "printedPage": 106,
+        "referenceType": "word-occurrence",
+        "sourceWord": "秩序"
+      }
+    },
+    {
+      "word": "艰难",
+      "book": "g2b",
+      "pinyin": "jiān nán",
+      "dictionaryPinyin": "jiān nán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 114,
+        "printedPage": 109,
+        "referenceType": "word-occurrence",
+        "sourceWord": "艰难"
+      }
+    },
+    {
+      "word": "炎热",
+      "book": "g2b",
+      "pinyin": "yán rè",
+      "dictionaryPinyin": "yán rè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 114,
+        "printedPage": 109,
+        "referenceType": "word-occurrence",
+        "sourceWord": "炎热"
+      }
+    },
+    {
+      "word": "鲜艳",
+      "book": "g3a",
+      "pinyin": "xiān yàn",
+      "dictionaryPinyin": "xiān yàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "鲜艳"
+      }
+    },
+    {
+      "word": "敬礼",
+      "book": "g3a",
+      "pinyin": "jìng lǐ",
+      "dictionaryPinyin": "jìng lǐ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "敬礼"
+      }
+    },
+    {
+      "word": "绚丽",
+      "book": "g3a",
+      "pinyin": "xuàn lì",
+      "dictionaryPinyin": "xuàn lì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "绚丽"
+      }
+    },
+    {
+      "word": "荒野",
+      "book": "g3a",
+      "pinyin": "huāng yě",
+      "dictionaryPinyin": "huāng yě",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 10,
+        "printedPage": 5,
+        "referenceType": "word-occurrence",
+        "sourceWord": "荒野"
+      }
+    },
+    {
+      "word": "照例",
+      "book": "g3a",
+      "pinyin": "zhào lì",
+      "dictionaryPinyin": "zhào lì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 12,
+        "printedPage": 7,
+        "referenceType": "word-occurrence",
+        "sourceWord": "照例"
+      }
+    },
+    {
+      "word": "凌乱",
+      "book": "g3a",
+      "pinyin": "líng luàn",
+      "dictionaryPinyin": "líng luàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 21,
+        "printedPage": 16,
+        "referenceType": "word-occurrence",
+        "sourceWord": "凌乱"
+      }
+    },
+    {
+      "word": "熨帖",
+      "book": "g3a",
+      "pinyin": "yù tiē",
+      "dictionaryPinyin": "yù tiē",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 21,
+        "printedPage": 16,
+        "referenceType": "word-occurrence",
+        "sourceWord": "熨帖"
+      }
+    },
+    {
+      "word": "清凉",
+      "book": "g3a",
+      "pinyin": "qīng liáng",
+      "dictionaryPinyin": "qīng liáng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 24,
+        "printedPage": 19,
+        "referenceType": "word-occurrence",
+        "sourceWord": "清凉"
+      }
+    },
+    {
+      "word": "颜料",
+      "book": "g3a",
+      "pinyin": "yán liào",
+      "dictionaryPinyin": "yán liào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 24,
+        "printedPage": 19,
+        "referenceType": "word-occurrence",
+        "sourceWord": "颜料"
+      }
+    },
+    {
+      "word": "叮咛",
+      "book": "g3a",
+      "pinyin": "dīng níng",
+      "dictionaryPinyin": "dīng níng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 27,
+        "printedPage": 22,
+        "referenceType": "word-occurrence",
+        "sourceWord": "叮咛"
+      }
+    },
+    {
+      "word": "蜡烛",
+      "book": "g3a",
+      "pinyin": "là zhú",
+      "dictionaryPinyin": "là zhú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 34,
+        "printedPage": 29,
+        "referenceType": "word-occurrence",
+        "sourceWord": "蜡烛"
+      }
+    },
+    {
+      "word": "暖和",
+      "book": "g3a",
+      "pinyin": "nuǎn huo",
+      "dictionaryPinyin": "nuǎn huo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 34,
+        "printedPage": 29,
+        "referenceType": "word-occurrence",
+        "sourceWord": "暖和"
+      }
+    },
+    {
+      "word": "舒服",
+      "book": "g3a",
+      "pinyin": "shū fu",
+      "dictionaryPinyin": "shū fú",
+      "match": false,
+      "reviewNote": "词中“服”读轻声。",
+      "source": {
+        "unit": 3,
+        "pdfPage": 35,
+        "printedPage": 30,
+        "referenceType": "word-occurrence",
+        "sourceWord": "舒服"
+      }
+    },
+    {
+      "word": "贮藏",
+      "book": "g3a",
+      "pinyin": "zhù cáng",
+      "dictionaryPinyin": "zhù cáng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 41,
+        "printedPage": 36,
+        "referenceType": "word-occurrence",
+        "sourceWord": "贮藏"
+      }
+    },
+    {
+      "word": "纪律",
+      "book": "g3a",
+      "pinyin": "jì lǜ",
+      "dictionaryPinyin": "jì lǜ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 43,
+        "printedPage": 38,
+        "referenceType": "word-occurrence",
+        "sourceWord": "纪律"
+      }
+    },
+    {
+      "word": "准备",
+      "book": "g3a",
+      "pinyin": "zhǔn bèi",
+      "dictionaryPinyin": "zhǔn bèi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 51,
+        "printedPage": 46,
+        "referenceType": "word-occurrence",
+        "sourceWord": "准备"
+      }
+    },
+    {
+      "word": "偶尔",
+      "book": "g3a",
+      "pinyin": "ǒu ěr",
+      "dictionaryPinyin": "ǒu ěr",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "偶尔"
+      }
+    },
+    {
+      "word": "牢固",
+      "book": "g3a",
+      "pinyin": "láo gù",
+      "dictionaryPinyin": "láo gù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 56,
+        "printedPage": 51,
+        "referenceType": "word-occurrence",
+        "sourceWord": "牢固"
+      }
+    },
+    {
+      "word": "发愁",
+      "book": "g3a",
+      "pinyin": "fā chóu",
+      "dictionaryPinyin": "fā chóu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 55,
+        "printedPage": 50,
+        "referenceType": "word-occurrence",
+        "sourceWord": "发愁"
+      }
+    },
+    {
+      "word": "模仿",
+      "book": "g3a",
+      "pinyin": "mó fǎng",
+      "dictionaryPinyin": "mó fǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 61,
+        "printedPage": 56,
+        "referenceType": "word-occurrence",
+        "sourceWord": "模仿"
+      }
+    },
+    {
+      "word": "翠绿",
+      "book": "g3a",
+      "pinyin": "cuì lǜ",
+      "dictionaryPinyin": "cuì lǜ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 69,
+        "printedPage": 64,
+        "referenceType": "word-occurrence",
+        "sourceWord": "翠绿"
+      }
+    },
+    {
+      "word": "静悄悄",
+      "book": "g3a",
+      "pinyin": "jìng qiāo qiāo",
+      "dictionaryPinyin": "jìng qiāo qiāo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 69,
+        "printedPage": 64,
+        "referenceType": "word-occurrence",
+        "sourceWord": "静悄悄"
+      }
+    },
+    {
+      "word": "观察",
+      "book": "g3a",
+      "pinyin": "guān chá",
+      "dictionaryPinyin": "guān chá",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 68,
+        "printedPage": 63,
+        "referenceType": "word-occurrence",
+        "sourceWord": "观察"
+      }
+    },
+    {
+      "word": "合拢",
+      "book": "g3a",
+      "pinyin": "hé lǒng",
+      "dictionaryPinyin": "hé lǒng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 71,
+        "printedPage": 66,
+        "referenceType": "word-occurrence",
+        "sourceWord": "合拢"
+      }
+    },
+    {
+      "word": "有趣",
+      "book": "g3a",
+      "pinyin": "yǒu qù",
+      "dictionaryPinyin": "yǒu qù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 72,
+        "printedPage": 67,
+        "referenceType": "word-occurrence",
+        "sourceWord": "有趣"
+      }
+    },
+    {
+      "word": "富饶",
+      "book": "g3a",
+      "pinyin": "fù ráo",
+      "dictionaryPinyin": "fù ráo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 81,
+        "printedPage": 76,
+        "referenceType": "word-occurrence",
+        "sourceWord": "富饶"
+      }
+    },
+    {
+      "word": "瑰丽",
+      "book": "g3a",
+      "pinyin": "guī lì",
+      "dictionaryPinyin": "guī lì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 81,
+        "printedPage": 76,
+        "referenceType": "word-occurrence",
+        "sourceWord": "瑰丽"
+      }
+    },
+    {
+      "word": "理睬",
+      "book": "g3a",
+      "pinyin": "lǐ cǎi",
+      "dictionaryPinyin": "lǐ cǎi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 84,
+        "printedPage": 79,
+        "referenceType": "word-occurrence",
+        "sourceWord": "理睬"
+      }
+    },
+    {
+      "word": "欣赏",
+      "book": "g3a",
+      "pinyin": "xīn shǎng",
+      "dictionaryPinyin": "xīn shǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 86,
+        "printedPage": 81,
+        "referenceType": "word-occurrence",
+        "sourceWord": "欣赏"
+      }
+    },
+    {
+      "word": "融化",
+      "book": "g3a",
+      "pinyin": "róng huà",
+      "dictionaryPinyin": "róng huà",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 86,
+        "printedPage": 81,
+        "referenceType": "word-occurrence",
+        "sourceWord": "融化"
+      }
+    },
+    {
+      "word": "美妙",
+      "book": "g3a",
+      "pinyin": "měi miào",
+      "dictionaryPinyin": "měi miào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "美妙"
+      }
+    },
+    {
+      "word": "演奏",
+      "book": "g3a",
+      "pinyin": "yǎn zòu",
+      "dictionaryPinyin": "yǎn zòu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "演奏"
+      }
+    },
+    {
+      "word": "汇聚",
+      "book": "g3a",
+      "pinyin": "huì jù",
+      "dictionaryPinyin": "huì jù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "汇聚"
+      }
+    },
+    {
+      "word": "凝神",
+      "book": "g3a",
+      "pinyin": "níng shén",
+      "dictionaryPinyin": "níng shén",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 99,
+        "printedPage": 94,
+        "referenceType": "word-occurrence",
+        "sourceWord": "凝神"
+      }
+    },
+    {
+      "word": "舒畅",
+      "book": "g3a",
+      "pinyin": "shū chàng",
+      "dictionaryPinyin": "shū chàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 100,
+        "printedPage": 95,
+        "referenceType": "word-occurrence",
+        "sourceWord": "舒畅"
+      }
+    },
+    {
+      "word": "司马",
+      "book": "g3a",
+      "pinyin": "sī mǎ",
+      "dictionaryPinyin": "sī mǎ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 107,
+        "printedPage": 102,
+        "referenceType": "word-occurrence",
+        "sourceWord": "司马"
+      }
+    },
+    {
+      "word": "诚实",
+      "book": "g3a",
+      "pinyin": "chéng shí",
+      "dictionaryPinyin": "chéng shí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 109,
+        "printedPage": 104,
+        "referenceType": "word-occurrence",
+        "sourceWord": "诚实"
+      }
+    },
+    {
+      "word": "激烈",
+      "book": "g3a",
+      "pinyin": "jī liè",
+      "dictionaryPinyin": "jī liè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 110,
+        "printedPage": 105,
+        "referenceType": "word-occurrence",
+        "sourceWord": "激烈"
+      }
+    },
+    {
+      "word": "镇定",
+      "book": "g3a",
+      "pinyin": "zhèn dìng",
+      "dictionaryPinyin": "zhèn dìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 110,
+        "printedPage": 105,
+        "referenceType": "word-occurrence",
+        "sourceWord": "镇定"
+      }
+    },
+    {
+      "word": "珍贵",
+      "book": "g3a",
+      "pinyin": "zhēn guì",
+      "dictionaryPinyin": "zhēn guì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 106,
+        "printedPage": 101,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "珍贵"
+      }
+    },
+    {
+      "word": "伶俐",
+      "book": "g3b",
+      "pinyin": "líng lì",
+      "dictionaryPinyin": "líng lì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 9,
+        "printedPage": 4,
+        "referenceType": "word-occurrence",
+        "sourceWord": "伶俐"
+      }
+    },
+    {
+      "word": "姿势",
+      "book": "g3b",
+      "pinyin": "zī shì",
+      "dictionaryPinyin": "zī shì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 11,
+        "printedPage": 6,
+        "referenceType": "word-occurrence",
+        "sourceWord": "姿势"
+      }
+    },
+    {
+      "word": "仿佛",
+      "book": "g3b",
+      "pinyin": "fǎng fú",
+      "dictionaryPinyin": "fǎng fú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 11,
+        "printedPage": 6,
+        "referenceType": "word-occurrence",
+        "sourceWord": "仿佛"
+      }
+    },
+    {
+      "word": "饱胀",
+      "book": "g3b",
+      "pinyin": "bǎo zhàng",
+      "dictionaryPinyin": "bǎo zhàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 11,
+        "printedPage": 6,
+        "referenceType": "word-occurrence",
+        "sourceWord": "饱胀"
+      }
+    },
+    {
+      "word": "琢磨",
+      "book": "g3b",
+      "pinyin": "zuó mo",
+      "dictionaryPinyin": "zhuó mó",
+      "match": false,
+      "reviewNote": "表示思考，读zuó mo；雕刻打磨义才读zhuó mó。教材《昆虫备忘录》为思考义。",
+      "source": {
+        "unit": 1,
+        "pdfPage": 13,
+        "printedPage": 8,
+        "referenceType": "word-occurrence",
+        "sourceWord": "琢磨"
+      }
+    },
+    {
+      "word": "谦虚",
+      "book": "g3b",
+      "pinyin": "qiān xū",
+      "dictionaryPinyin": "qiān xū",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 23,
+        "printedPage": 18,
+        "referenceType": "word-occurrence",
+        "sourceWord": "谦虚"
+      }
+    },
+    {
+      "word": "骄傲",
+      "book": "g3b",
+      "pinyin": "jiāo ào",
+      "dictionaryPinyin": "jiāo ào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 23,
+        "printedPage": 18,
+        "referenceType": "word-occurrence",
+        "sourceWord": "骄傲"
+      }
+    },
+    {
+      "word": "懦弱",
+      "book": "g3b",
+      "pinyin": "nuò ruò",
+      "dictionaryPinyin": "nuò ruò",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 23,
+        "printedPage": 18,
+        "referenceType": "word-occurrence",
+        "sourceWord": "懦弱"
+      }
+    },
+    {
+      "word": "匀称",
+      "book": "g3b",
+      "pinyin": "yún chèn",
+      "dictionaryPinyin": "yún chèn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 26,
+        "printedPage": 21,
+        "referenceType": "word-occurrence",
+        "sourceWord": "匀称"
+      }
+    },
+    {
+      "word": "遵循",
+      "book": "g3b",
+      "pinyin": "zūn xún",
+      "dictionaryPinyin": "zūn xún",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 30,
+        "printedPage": 25,
+        "referenceType": "word-occurrence",
+        "sourceWord": "遵循"
+      }
+    },
+    {
+      "word": "创造",
+      "book": "g3b",
+      "pinyin": "chuàng zào",
+      "dictionaryPinyin": "chuàng zào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 42,
+        "printedPage": 37,
+        "referenceType": "word-occurrence",
+        "sourceWord": "创造"
+      }
+    },
+    {
+      "word": "保存",
+      "book": "g3b",
+      "pinyin": "bǎo cún",
+      "dictionaryPinyin": "bǎo cún",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 42,
+        "printedPage": 37,
+        "referenceType": "word-occurrence",
+        "sourceWord": "保存"
+      }
+    },
+    {
+      "word": "设计",
+      "book": "g3b",
+      "pinyin": "shè jì",
+      "dictionaryPinyin": "shè jì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 45,
+        "printedPage": 40,
+        "referenceType": "word-occurrence",
+        "sourceWord": "设计"
+      }
+    },
+    {
+      "word": "智慧",
+      "book": "g3b",
+      "pinyin": "zhì huì",
+      "dictionaryPinyin": "zhì huì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 46,
+        "printedPage": 41,
+        "referenceType": "word-occurrence",
+        "sourceWord": "智慧"
+      }
+    },
+    {
+      "word": "悠闲",
+      "book": "g3b",
+      "pinyin": "yōu xián",
+      "dictionaryPinyin": "yōu xián",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 48,
+        "printedPage": 43,
+        "referenceType": "word-occurrence",
+        "sourceWord": "悠闲"
+      }
+    },
+    {
+      "word": "芬芳",
+      "book": "g3b",
+      "pinyin": "fēn fāng",
+      "dictionaryPinyin": "fēn fāng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "芬芳"
+      }
+    },
+    {
+      "word": "苏醒",
+      "book": "g3b",
+      "pinyin": "sū xǐng",
+      "dictionaryPinyin": "sū xǐng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "苏醒"
+      }
+    },
+    {
+      "word": "辨认",
+      "book": "g3b",
+      "pinyin": "biàn rèn",
+      "dictionaryPinyin": "biàn rèn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 56,
+        "printedPage": 51,
+        "referenceType": "word-occurrence",
+        "sourceWord": "辨认"
+      }
+    },
+    {
+      "word": "准确",
+      "book": "g3b",
+      "pinyin": "zhǔn què",
+      "dictionaryPinyin": "zhǔn què",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 57,
+        "printedPage": 52,
+        "referenceType": "word-occurrence",
+        "sourceWord": "准确"
+      }
+    },
+    {
+      "word": "大概",
+      "book": "g3b",
+      "pinyin": "dà gài",
+      "dictionaryPinyin": "dà gài",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 56,
+        "printedPage": 51,
+        "referenceType": "word-occurrence",
+        "sourceWord": "大概"
+      }
+    },
+    {
+      "word": "秘密",
+      "book": "g3b",
+      "pinyin": "mì mì",
+      "dictionaryPinyin": "mì mì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 65,
+        "printedPage": 60,
+        "referenceType": "word-occurrence",
+        "sourceWord": "秘密"
+      }
+    },
+    {
+      "word": "想象",
+      "book": "g3b",
+      "pinyin": "xiǎng xiàng",
+      "dictionaryPinyin": "xiǎng xiàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 64,
+        "printedPage": 59,
+        "referenceType": "word-occurrence",
+        "sourceWord": "想象"
+      }
+    },
+    {
+      "word": "流淌",
+      "book": "g3b",
+      "pinyin": "liú tǎng",
+      "dictionaryPinyin": "liú tǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 65,
+        "printedPage": 60,
+        "referenceType": "word-occurrence",
+        "sourceWord": "流淌"
+      }
+    },
+    {
+      "word": "思绪",
+      "book": "g3b",
+      "pinyin": "sī xù",
+      "dictionaryPinyin": "sī xù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 67,
+        "printedPage": 62,
+        "referenceType": "word-occurrence",
+        "sourceWord": "思绪"
+      }
+    },
+    {
+      "word": "继续",
+      "book": "g3b",
+      "pinyin": "jì xù",
+      "dictionaryPinyin": "jì xù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 69,
+        "printedPage": 64,
+        "referenceType": "word-occurrence",
+        "sourceWord": "继续"
+      }
+    },
+    {
+      "word": "清爽",
+      "book": "g3b",
+      "pinyin": "qīng shuǎng",
+      "dictionaryPinyin": "qīng shuǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 78,
+        "printedPage": 73,
+        "referenceType": "word-occurrence",
+        "sourceWord": "清爽"
+      }
+    },
+    {
+      "word": "熟练",
+      "book": "g3b",
+      "pinyin": "shú liàn",
+      "dictionaryPinyin": "shú liàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 80,
+        "printedPage": 75,
+        "referenceType": "word-occurrence",
+        "sourceWord": "熟练"
+      }
+    },
+    {
+      "word": "监督",
+      "book": "g3b",
+      "pinyin": "jiān dū",
+      "dictionaryPinyin": "jiān dū",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 79,
+        "printedPage": 74,
+        "referenceType": "word-occurrence",
+        "sourceWord": "监督"
+      }
+    },
+    {
+      "word": "颤巍巍",
+      "book": "g3b",
+      "pinyin": "chàn wēi wēi",
+      "dictionaryPinyin": "chàn wēi wēi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 83,
+        "printedPage": 78,
+        "referenceType": "word-occurrence",
+        "sourceWord": "颤巍巍"
+      }
+    },
+    {
+      "word": "脆薄",
+      "book": "g3b",
+      "pinyin": "cuì báo",
+      "dictionaryPinyin": "cuì báo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 83,
+        "printedPage": 78,
+        "referenceType": "word-occurrence",
+        "sourceWord": "脆薄"
+      }
+    },
+    {
+      "word": "奇妙",
+      "book": "g3b",
+      "pinyin": "qí miào",
+      "dictionaryPinyin": "qí miào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 91,
+        "printedPage": 86,
+        "referenceType": "word-occurrence",
+        "sourceWord": "奇妙"
+      }
+    },
+    {
+      "word": "闪烁",
+      "book": "g3b",
+      "pinyin": "shǎn shuò",
+      "dictionaryPinyin": "shǎn shuò",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 91,
+        "printedPage": 86,
+        "referenceType": "word-occurrence",
+        "sourceWord": "闪烁"
+      }
+    },
+    {
+      "word": "储量",
+      "book": "g3b",
+      "pinyin": "chǔ liàng",
+      "dictionaryPinyin": "chǔ liàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 95,
+        "printedPage": 90,
+        "referenceType": "word-occurrence",
+        "sourceWord": "储量"
+      }
+    },
+    {
+      "word": "凶猛",
+      "book": "g3b",
+      "pinyin": "xiōng měng",
+      "dictionaryPinyin": "xiōng měng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 97,
+        "printedPage": 92,
+        "referenceType": "word-occurrence",
+        "sourceWord": "凶猛"
+      }
+    },
+    {
+      "word": "迅速",
+      "book": "g3b",
+      "pinyin": "xùn sù",
+      "dictionaryPinyin": "xùn sù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 94,
+        "printedPage": 89,
+        "referenceType": "word-occurrence",
+        "sourceWord": "迅速"
+      }
+    },
+    {
+      "word": "耐心",
+      "book": "g3b",
+      "pinyin": "nài xīn",
+      "dictionaryPinyin": "nài xīn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 103,
+        "printedPage": 98,
+        "referenceType": "word-occurrence",
+        "sourceWord": "耐心"
+      }
+    },
+    {
+      "word": "夸奖",
+      "book": "g3b",
+      "pinyin": "kuā jiǎng",
+      "dictionaryPinyin": "kuā jiǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 104,
+        "printedPage": 99,
+        "referenceType": "word-occurrence",
+        "sourceWord": "夸奖"
+      }
+    },
+    {
+      "word": "负责",
+      "book": "g3b",
+      "pinyin": "fù zé",
+      "dictionaryPinyin": "fù zé",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 105,
+        "printedPage": 100,
+        "referenceType": "word-occurrence",
+        "sourceWord": "负责"
+      }
+    },
+    {
+      "word": "泄气",
+      "book": "g3b",
+      "pinyin": "xiè qì",
+      "dictionaryPinyin": "xiè qì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 105,
+        "printedPage": 100,
+        "referenceType": "word-occurrence",
+        "sourceWord": "泄气"
+      }
+    },
+    {
+      "word": "惊慌",
+      "book": "g3b",
+      "pinyin": "jīng huāng",
+      "dictionaryPinyin": "jīng huāng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 115,
+        "printedPage": 110,
+        "referenceType": "word-occurrence",
+        "sourceWord": "惊慌"
+      }
+    },
+    {
+      "word": "笼罩",
+      "book": "g4a",
+      "pinyin": "lǒng zhào",
+      "dictionaryPinyin": "lǒng zhào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "笼罩"
+      }
+    },
+    {
+      "word": "沸腾",
+      "book": "g4a",
+      "pinyin": "fèi téng",
+      "dictionaryPinyin": "fèi téng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "沸腾"
+      }
+    },
+    {
+      "word": "浩浩荡荡",
+      "book": "g4a",
+      "pinyin": "hào hào dàng dàng",
+      "dictionaryPinyin": "hào hào dàng dàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 8,
+        "printedPage": 3,
+        "referenceType": "word-occurrence",
+        "sourceWord": "浩浩荡荡"
+      }
+    },
+    {
+      "word": "柔和",
+      "book": "g4a",
+      "pinyin": "róu hé",
+      "dictionaryPinyin": "róu hé",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 10,
+        "printedPage": 5,
+        "referenceType": "word-occurrence",
+        "sourceWord": "柔和"
+      }
+    },
+    {
+      "word": "归巢",
+      "book": "g4a",
+      "pinyin": "guī cháo",
+      "dictionaryPinyin": "guī cháo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 13,
+        "printedPage": 8,
+        "referenceType": "word-occurrence",
+        "sourceWord": "归巢"
+      }
+    },
+    {
+      "word": "僵硬",
+      "book": "g4a",
+      "pinyin": "jiāng yìng",
+      "dictionaryPinyin": "jiāng yìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 21,
+        "printedPage": 16,
+        "referenceType": "word-occurrence",
+        "sourceWord": "僵硬"
+      }
+    },
+    {
+      "word": "敏锐",
+      "book": "g4a",
+      "pinyin": "mǐn ruì",
+      "dictionaryPinyin": "mǐn ruì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 26,
+        "printedPage": 21,
+        "referenceType": "word-occurrence",
+        "sourceWord": "敏锐"
+      }
+    },
+    {
+      "word": "探索",
+      "book": "g4a",
+      "pinyin": "tàn suǒ",
+      "dictionaryPinyin": "tàn suǒ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 31,
+        "printedPage": 26,
+        "referenceType": "word-occurrence",
+        "sourceWord": "探索"
+      }
+    },
+    {
+      "word": "奥秘",
+      "book": "g4a",
+      "pinyin": "ào mì",
+      "dictionaryPinyin": "ào mì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 31,
+        "printedPage": 26,
+        "referenceType": "word-occurrence",
+        "sourceWord": "奥秘"
+      }
+    },
+    {
+      "word": "依赖",
+      "book": "g4a",
+      "pinyin": "yī lài",
+      "dictionaryPinyin": "yī lài",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 30,
+        "printedPage": 25,
+        "referenceType": "word-occurrence",
+        "sourceWord": "依赖"
+      }
+    },
+    {
+      "word": "均匀",
+      "book": "g4a",
+      "pinyin": "jūn yún",
+      "dictionaryPinyin": "jūn yún",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 41,
+        "printedPage": 36,
+        "referenceType": "word-occurrence",
+        "sourceWord": "均匀"
+      }
+    },
+    {
+      "word": "重叠",
+      "book": "g4a",
+      "pinyin": "chóng dié",
+      "dictionaryPinyin": "chóng dié",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 41,
+        "printedPage": 36,
+        "referenceType": "word-occurrence",
+        "sourceWord": "重叠"
+      }
+    },
+    {
+      "word": "痕迹",
+      "book": "g4a",
+      "pinyin": "hén jì",
+      "dictionaryPinyin": "hén jì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 42,
+        "printedPage": 37,
+        "referenceType": "word-occurrence",
+        "sourceWord": "痕迹"
+      }
+    },
+    {
+      "word": "隐蔽",
+      "book": "g4a",
+      "pinyin": "yǐn bì",
+      "dictionaryPinyin": "yǐn bì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 44,
+        "printedPage": 39,
+        "referenceType": "word-occurrence",
+        "sourceWord": "隐蔽"
+      }
+    },
+    {
+      "word": "慎重",
+      "book": "g4a",
+      "pinyin": "shèn zhòng",
+      "dictionaryPinyin": "shèn zhòng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 44,
+        "printedPage": 39,
+        "referenceType": "word-occurrence",
+        "sourceWord": "慎重"
+      }
+    },
+    {
+      "word": "混沌",
+      "book": "g4a",
+      "pinyin": "hùn dùn",
+      "dictionaryPinyin": "hùn dùn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "混沌"
+      }
+    },
+    {
+      "word": "巍峨",
+      "book": "g4a",
+      "pinyin": "wēi é",
+      "dictionaryPinyin": "wēi é",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "巍峨"
+      }
+    },
+    {
+      "word": "惩罚",
+      "book": "g4a",
+      "pinyin": "chéng fá",
+      "dictionaryPinyin": "chéng fá",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 56,
+        "printedPage": 51,
+        "referenceType": "word-occurrence",
+        "sourceWord": "惩罚"
+      }
+    },
+    {
+      "word": "坚定",
+      "book": "g4a",
+      "pinyin": "jiān dìng",
+      "dictionaryPinyin": "jiān dìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 56,
+        "printedPage": 51,
+        "referenceType": "word-occurrence",
+        "sourceWord": "坚定"
+      }
+    },
+    {
+      "word": "悲惨",
+      "book": "g4a",
+      "pinyin": "bēi cǎn",
+      "dictionaryPinyin": "bēi cǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 56,
+        "printedPage": 51,
+        "referenceType": "word-occurrence",
+        "sourceWord": "悲惨"
+      }
+    },
+    {
+      "word": "嗅觉",
+      "book": "g4a",
+      "pinyin": "xiù jué",
+      "dictionaryPinyin": "xiù jué",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 66,
+        "printedPage": 61,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "嗅觉"
+      }
+    },
+    {
+      "word": "庞大",
+      "book": "g4a",
+      "pinyin": "páng dà",
+      "dictionaryPinyin": "páng dà",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 68,
+        "printedPage": 63,
+        "referenceType": "word-occurrence",
+        "sourceWord": "庞大"
+      }
+    },
+    {
+      "word": "搏斗",
+      "book": "g4a",
+      "pinyin": "bó dòu",
+      "dictionaryPinyin": "bó dòu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 68,
+        "printedPage": 63,
+        "referenceType": "word-occurrence",
+        "sourceWord": "搏斗"
+      }
+    },
+    {
+      "word": "攀登",
+      "book": "g4a",
+      "pinyin": "pān dēng",
+      "dictionaryPinyin": "pān dēng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 66,
+        "printedPage": 61,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "攀登"
+      }
+    },
+    {
+      "word": "鼓舞",
+      "book": "g4a",
+      "pinyin": "gǔ wǔ",
+      "dictionaryPinyin": "gǔ wǔ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 70,
+        "printedPage": 65,
+        "referenceType": "word-occurrence",
+        "sourceWord": "鼓舞"
+      }
+    },
+    {
+      "word": "顽皮",
+      "book": "g4a",
+      "pinyin": "wán pí",
+      "dictionaryPinyin": "wán pí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 80,
+        "printedPage": 75,
+        "referenceType": "word-occurrence",
+        "sourceWord": "顽皮"
+      }
+    },
+    {
+      "word": "羡慕",
+      "book": "g4a",
+      "pinyin": "xiàn mù",
+      "dictionaryPinyin": "xiàn mù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 84,
+        "printedPage": 79,
+        "referenceType": "word-occurrence",
+        "sourceWord": "羡慕"
+      }
+    },
+    {
+      "word": "排练",
+      "book": "g4a",
+      "pinyin": "pái liàn",
+      "dictionaryPinyin": "pái liàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 84,
+        "printedPage": 79,
+        "referenceType": "word-occurrence",
+        "sourceWord": "排练"
+      }
+    },
+    {
+      "word": "旋转",
+      "book": "g4a",
+      "pinyin": "xuán zhuǎn",
+      "dictionaryPinyin": "xuán zhuǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 89,
+        "printedPage": 84,
+        "referenceType": "word-occurrence",
+        "sourceWord": "旋转"
+      }
+    },
+    {
+      "word": "自豪",
+      "book": "g4a",
+      "pinyin": "zì háo",
+      "dictionaryPinyin": "zì háo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 92,
+        "printedPage": 87,
+        "referenceType": "word-occurrence",
+        "sourceWord": "自豪"
+      }
+    },
+    {
+      "word": "胸怀",
+      "book": "g4a",
+      "pinyin": "xiōng huái",
+      "dictionaryPinyin": "xiōng huái",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 101,
+        "printedPage": 96,
+        "referenceType": "word-occurrence",
+        "sourceWord": "胸怀"
+      }
+    },
+    {
+      "word": "赞叹",
+      "book": "g4a",
+      "pinyin": "zàn tàn",
+      "dictionaryPinyin": "zàn tàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 101,
+        "printedPage": 96,
+        "referenceType": "word-occurrence",
+        "sourceWord": "赞叹"
+      }
+    },
+    {
+      "word": "疑惑",
+      "book": "g4a",
+      "pinyin": "yí huò",
+      "dictionaryPinyin": "yí huò",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 102,
+        "printedPage": 97,
+        "referenceType": "word-occurrence",
+        "sourceWord": "疑惑"
+      }
+    },
+    {
+      "word": "训斥",
+      "book": "g4a",
+      "pinyin": "xùn chì",
+      "dictionaryPinyin": "xùn chì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 102,
+        "printedPage": 97,
+        "referenceType": "word-occurrence",
+        "sourceWord": "训斥"
+      }
+    },
+    {
+      "word": "宁可",
+      "book": "g4a",
+      "pinyin": "nìng kě",
+      "dictionaryPinyin": "nìng kě",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 105,
+        "printedPage": 100,
+        "referenceType": "word-occurrence",
+        "sourceWord": "宁可"
+      }
+    },
+    {
+      "word": "戎",
+      "book": "g4a",
+      "pinyin": "róng",
+      "dictionaryPinyin": "róng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 115,
+        "printedPage": 110,
+        "referenceType": "word-occurrence",
+        "sourceWord": "戎"
+      }
+    },
+    {
+      "word": "竞",
+      "book": "g4a",
+      "pinyin": "jìng",
+      "dictionaryPinyin": "jìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 115,
+        "printedPage": 110,
+        "referenceType": "word-occurrence",
+        "sourceWord": "竞"
+      }
+    },
+    {
+      "word": "荒芜",
+      "book": "g4a",
+      "pinyin": "huāng wú",
+      "dictionaryPinyin": "huāng wú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 116,
+        "printedPage": 111,
+        "referenceType": "word-occurrence",
+        "sourceWord": "荒芜"
+      }
+    },
+    {
+      "word": "灌溉",
+      "book": "g4a",
+      "pinyin": "guàn gài",
+      "dictionaryPinyin": "guàn gài",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 118,
+        "printedPage": 113,
+        "referenceType": "word-occurrence",
+        "sourceWord": "灌溉"
+      }
+    },
+    {
+      "word": "技艺",
+      "book": "g4a",
+      "pinyin": "jì yì",
+      "dictionaryPinyin": "jì yì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 114,
+        "printedPage": 109,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "技艺"
+      }
+    },
+    {
+      "word": "朴素",
+      "book": "g4b",
+      "pinyin": "pǔ sù",
+      "dictionaryPinyin": "pǔ sù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 9,
+        "printedPage": 4,
+        "referenceType": "word-occurrence",
+        "sourceWord": "朴素"
+      }
+    },
+    {
+      "word": "装饰",
+      "book": "g4b",
+      "pinyin": "zhuāng shì",
+      "dictionaryPinyin": "zhuāng shì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 9,
+        "printedPage": 4,
+        "referenceType": "word-occurrence",
+        "sourceWord": "装饰"
+      }
+    },
+    {
+      "word": "和谐",
+      "book": "g4b",
+      "pinyin": "hé xié",
+      "dictionaryPinyin": "hé xié",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 6,
+        "printedPage": 1,
+        "referenceType": "word-occurrence",
+        "sourceWord": "和谐"
+      }
+    },
+    {
+      "word": "慰藉",
+      "book": "g4b",
+      "pinyin": "wèi jiè",
+      "dictionaryPinyin": "wèi jiè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 12,
+        "printedPage": 7,
+        "referenceType": "word-occurrence",
+        "sourceWord": "慰藉"
+      }
+    },
+    {
+      "word": "复杂",
+      "book": "g4b",
+      "pinyin": "fù zá",
+      "dictionaryPinyin": "fù zá",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 13,
+        "printedPage": 8,
+        "referenceType": "word-occurrence",
+        "sourceWord": "复杂"
+      }
+    },
+    {
+      "word": "推测",
+      "book": "g4b",
+      "pinyin": "tuī cè",
+      "dictionaryPinyin": "tuī cè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 23,
+        "printedPage": 18,
+        "referenceType": "word-occurrence",
+        "sourceWord": "推测"
+      }
+    },
+    {
+      "word": "膨大",
+      "book": "g4b",
+      "pinyin": "péng dà",
+      "dictionaryPinyin": "péng dà",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 26,
+        "printedPage": 21,
+        "referenceType": "word-occurrence",
+        "sourceWord": "膨大"
+      }
+    },
+    {
+      "word": "迟钝",
+      "book": "g4b",
+      "pinyin": "chí dùn",
+      "dictionaryPinyin": "chí dùn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 25,
+        "printedPage": 20,
+        "referenceType": "word-occurrence",
+        "sourceWord": "迟钝"
+      }
+    },
+    {
+      "word": "繁衍",
+      "book": "g4b",
+      "pinyin": "fán yǎn",
+      "dictionaryPinyin": "fán yǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 26,
+        "printedPage": 21,
+        "referenceType": "word-occurrence",
+        "sourceWord": "繁衍"
+      }
+    },
+    {
+      "word": "隐形",
+      "book": "g4b",
+      "pinyin": "yǐn xíng",
+      "dictionaryPinyin": "yǐn xíng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 29,
+        "printedPage": 24,
+        "referenceType": "word-occurrence",
+        "sourceWord": "隐形"
+      }
+    },
+    {
+      "word": "繁星",
+      "book": "g4b",
+      "pinyin": "fán xīng",
+      "dictionaryPinyin": "fán xīng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 41,
+        "printedPage": 36,
+        "referenceType": "word-occurrence",
+        "sourceWord": "繁星"
+      }
+    },
+    {
+      "word": "寂静",
+      "book": "g4b",
+      "pinyin": "jì jìng",
+      "dictionaryPinyin": "jì jìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 45,
+        "printedPage": 40,
+        "referenceType": "word-occurrence",
+        "sourceWord": "寂静"
+      }
+    },
+    {
+      "word": "潇洒",
+      "book": "g4b",
+      "pinyin": "xiāo sǎ",
+      "dictionaryPinyin": "xiāo sǎ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 45,
+        "printedPage": 40,
+        "referenceType": "word-occurrence",
+        "sourceWord": "潇洒"
+      }
+    },
+    {
+      "word": "朦胧",
+      "book": "g4b",
+      "pinyin": "méng lóng",
+      "dictionaryPinyin": "méng lóng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 45,
+        "printedPage": 40,
+        "referenceType": "word-occurrence",
+        "sourceWord": "朦胧"
+      }
+    },
+    {
+      "word": "徜徉",
+      "book": "g4b",
+      "pinyin": "cháng yáng",
+      "dictionaryPinyin": "cháng yáng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 45,
+        "printedPage": 40,
+        "referenceType": "word-occurrence",
+        "sourceWord": "徜徉"
+      }
+    },
+    {
+      "word": "贪玩",
+      "book": "g4b",
+      "pinyin": "tān wán",
+      "dictionaryPinyin": "tān wán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "贪玩"
+      }
+    },
+    {
+      "word": "尽职",
+      "book": "g4b",
+      "pinyin": "jìn zhí",
+      "dictionaryPinyin": "jìn zhí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "尽职"
+      }
+    },
+    {
+      "word": "警戒",
+      "book": "g4b",
+      "pinyin": "jǐng jiè",
+      "dictionaryPinyin": "jǐng jiè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 56,
+        "printedPage": 51,
+        "referenceType": "word-occurrence",
+        "sourceWord": "警戒"
+      }
+    },
+    {
+      "word": "忠厚",
+      "book": "g4b",
+      "pinyin": "zhōng hòu",
+      "dictionaryPinyin": "zhōng hòu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 56,
+        "printedPage": 51,
+        "referenceType": "word-occurrence",
+        "sourceWord": "忠厚"
+      }
+    },
+    {
+      "word": "高傲",
+      "book": "g4b",
+      "pinyin": "gāo ào",
+      "dictionaryPinyin": "gāo ào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 59,
+        "printedPage": 54,
+        "referenceType": "word-occurrence",
+        "sourceWord": "高傲"
+      }
+    },
+    {
+      "word": "灿烂",
+      "book": "g4b",
+      "pinyin": "càn làn",
+      "dictionaryPinyin": "càn làn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 69,
+        "printedPage": 64,
+        "referenceType": "word-occurrence",
+        "sourceWord": "灿烂"
+      }
+    },
+    {
+      "word": "重围",
+      "book": "g4b",
+      "pinyin": "chóng wéi",
+      "dictionaryPinyin": "chóng wéi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 70,
+        "printedPage": 65,
+        "referenceType": "word-occurrence",
+        "sourceWord": "重围"
+      }
+    },
+    {
+      "word": "扩大",
+      "book": "g4b",
+      "pinyin": "kuò dà",
+      "dictionaryPinyin": "kuò dà",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 69,
+        "printedPage": 64,
+        "referenceType": "word-occurrence",
+        "sourceWord": "扩大"
+      }
+    },
+    {
+      "word": "孔隙",
+      "book": "g4b",
+      "pinyin": "kǒng xì",
+      "dictionaryPinyin": "kǒng xì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 71,
+        "printedPage": 66,
+        "referenceType": "word-occurrence",
+        "sourceWord": "孔隙"
+      }
+    },
+    {
+      "word": "蜿蜒",
+      "book": "g4b",
+      "pinyin": "wān yán",
+      "dictionaryPinyin": "wān yán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 73,
+        "printedPage": 68,
+        "referenceType": "word-occurrence",
+        "sourceWord": "蜿蜒"
+      }
+    },
+    {
+      "word": "倔强",
+      "book": "g4b",
+      "pinyin": "jué jiàng",
+      "dictionaryPinyin": "jué jiàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "倔强"
+      }
+    },
+    {
+      "word": "沮丧",
+      "book": "g4b",
+      "pinyin": "jǔ sàng",
+      "dictionaryPinyin": "jǔ sàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "沮丧"
+      }
+    },
+    {
+      "word": "嘹亮",
+      "book": "g4b",
+      "pinyin": "liáo liàng",
+      "dictionaryPinyin": "liáo liàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 94,
+        "printedPage": 89,
+        "referenceType": "word-occurrence",
+        "sourceWord": "嘹亮"
+      }
+    },
+    {
+      "word": "祈求",
+      "book": "g4b",
+      "pinyin": "qí qiú",
+      "dictionaryPinyin": "qí qiú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 98,
+        "printedPage": 93,
+        "referenceType": "word-occurrence",
+        "sourceWord": "祈求"
+      }
+    },
+    {
+      "word": "遗憾",
+      "book": "g4b",
+      "pinyin": "yí hàn",
+      "dictionaryPinyin": "yí hàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 100,
+        "printedPage": 95,
+        "referenceType": "word-occurrence",
+        "sourceWord": "遗憾"
+      }
+    },
+    {
+      "word": "乾坤",
+      "book": "g4b",
+      "pinyin": "qián kūn",
+      "dictionaryPinyin": "qián kūn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 108,
+        "printedPage": 103,
+        "referenceType": "word-occurrence",
+        "sourceWord": "乾坤"
+      }
+    },
+    {
+      "word": "勤奋",
+      "book": "g4b",
+      "pinyin": "qín fèn",
+      "dictionaryPinyin": "qín fèn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 106,
+        "printedPage": 101,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "勤奋"
+      }
+    },
+    {
+      "word": "秩序井然",
+      "book": "g4b",
+      "pinyin": "zhì xù jǐng rán",
+      "dictionaryPinyin": "zhì xù jǐng rán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 106,
+        "printedPage": 101,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "秩序井然"
+      }
+    },
+    {
+      "word": "主宰",
+      "book": "g4b",
+      "pinyin": "zhǔ zǎi",
+      "dictionaryPinyin": "zhǔ zǎi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 112,
+        "printedPage": 107,
+        "referenceType": "word-occurrence",
+        "sourceWord": "主宰"
+      }
+    },
+    {
+      "word": "惊天动地",
+      "book": "g4b",
+      "pinyin": "jīng tiān dòng dì",
+      "dictionaryPinyin": "jīng tiān dòng dì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 116,
+        "printedPage": 111,
+        "referenceType": "word-occurrence",
+        "sourceWord": "惊天动地"
+      }
+    },
+    {
+      "word": "规矩",
+      "book": "g4b",
+      "pinyin": "guī ju",
+      "dictionaryPinyin": "guī jǔ",
+      "match": false,
+      "reviewNote": "词中“矩”读轻声。",
+      "source": {
+        "unit": 8,
+        "pdfPage": 127,
+        "printedPage": 122,
+        "referenceType": "word-occurrence",
+        "sourceWord": "规矩"
+      }
+    },
+    {
+      "word": "丰硕",
+      "book": "g4b",
+      "pinyin": "fēng shuò",
+      "dictionaryPinyin": "fēng shuò",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 130,
+        "printedPage": 125,
+        "referenceType": "word-occurrence",
+        "sourceWord": "丰硕"
+      }
+    },
+    {
+      "word": "允许",
+      "book": "g4b",
+      "pinyin": "yǔn xǔ",
+      "dictionaryPinyin": "yǔn xǔ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 130,
+        "printedPage": 125,
+        "referenceType": "word-occurrence",
+        "sourceWord": "允许"
+      }
+    },
+    {
+      "word": "洋溢",
+      "book": "g4b",
+      "pinyin": "yáng yì",
+      "dictionaryPinyin": "yáng yì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 126,
+        "printedPage": 121,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "洋溢"
+      }
+    },
+    {
+      "word": "幸福",
+      "book": "g4b",
+      "pinyin": "xìng fú",
+      "dictionaryPinyin": "xìng fú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 128,
+        "printedPage": 123,
+        "referenceType": "word-occurrence",
+        "sourceWord": "幸福"
+      }
+    },
+    {
+      "word": "精巧",
+      "book": "g5a",
+      "pinyin": "jīng qiǎo",
+      "dictionaryPinyin": "jīng qiǎo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "精巧"
+      }
+    },
+    {
+      "word": "适宜",
+      "book": "g5a",
+      "pinyin": "shì yí",
+      "dictionaryPinyin": "shì yí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "适宜"
+      }
+    },
+    {
+      "word": "铿锵",
+      "book": "g5a",
+      "pinyin": "kēng qiāng",
+      "dictionaryPinyin": "kēng qiāng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 8,
+        "printedPage": 3,
+        "referenceType": "word-occurrence",
+        "sourceWord": "铿锵"
+      }
+    },
+    {
+      "word": "恩惠",
+      "book": "g5a",
+      "pinyin": "ēn huì",
+      "dictionaryPinyin": "ēn huì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 8,
+        "printedPage": 3,
+        "referenceType": "word-occurrence",
+        "sourceWord": "恩惠"
+      }
+    },
+    {
+      "word": "爱慕",
+      "book": "g5a",
+      "pinyin": "ài mù",
+      "dictionaryPinyin": "ài mù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 10,
+        "printedPage": 5,
+        "referenceType": "word-occurrence",
+        "sourceWord": "爱慕"
+      }
+    },
+    {
+      "word": "协调",
+      "book": "g5a",
+      "pinyin": "xié tiáo",
+      "dictionaryPinyin": "xié tiáo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 22,
+        "printedPage": 17,
+        "referenceType": "word-occurrence",
+        "sourceWord": "协调"
+      }
+    },
+    {
+      "word": "允诺",
+      "book": "g5a",
+      "pinyin": "yǔn nuò",
+      "dictionaryPinyin": "yǔn nuò",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 24,
+        "printedPage": 19,
+        "referenceType": "word-occurrence",
+        "sourceWord": "允诺"
+      }
+    },
+    {
+      "word": "胆怯",
+      "book": "g5a",
+      "pinyin": "dǎn qiè",
+      "dictionaryPinyin": "dǎn qiè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 24,
+        "printedPage": 19,
+        "referenceType": "word-occurrence",
+        "sourceWord": "胆怯"
+      }
+    },
+    {
+      "word": "俯冲",
+      "book": "g5a",
+      "pinyin": "fǔ chōng",
+      "dictionaryPinyin": "fǔ chōng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 27,
+        "printedPage": 22,
+        "referenceType": "word-occurrence",
+        "sourceWord": "俯冲"
+      }
+    },
+    {
+      "word": "隐蔽处",
+      "book": "g5a",
+      "pinyin": "yǐn bì chù",
+      "dictionaryPinyin": "yǐn bì chù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 20,
+        "printedPage": 15,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "隐蔽处"
+      }
+    },
+    {
+      "word": "酬谢",
+      "book": "g5a",
+      "pinyin": "chóu xiè",
+      "dictionaryPinyin": "chóu xiè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 37,
+        "printedPage": 32,
+        "referenceType": "word-occurrence",
+        "sourceWord": "酬谢"
+      }
+    },
+    {
+      "word": "叮嘱",
+      "book": "g5a",
+      "pinyin": "dīng zhǔ",
+      "dictionaryPinyin": "dīng zhǔ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 38,
+        "printedPage": 33,
+        "referenceType": "word-occurrence",
+        "sourceWord": "叮嘱"
+      }
+    },
+    {
+      "word": "焦急",
+      "book": "g5a",
+      "pinyin": "jiāo jí",
+      "dictionaryPinyin": "jiāo jí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 38,
+        "printedPage": 33,
+        "referenceType": "word-occurrence",
+        "sourceWord": "焦急"
+      }
+    },
+    {
+      "word": "勤劳",
+      "book": "g5a",
+      "pinyin": "qín láo",
+      "dictionaryPinyin": "qín láo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 45,
+        "printedPage": 40,
+        "referenceType": "word-occurrence",
+        "sourceWord": "勤劳"
+      }
+    },
+    {
+      "word": "相依为命",
+      "book": "g5a",
+      "pinyin": "xiāng yī wéi mìng",
+      "dictionaryPinyin": "xiāng yī wéi mìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 43,
+        "printedPage": 38,
+        "referenceType": "word-occurrence",
+        "sourceWord": "相依为命"
+      }
+    },
+    {
+      "word": "祭祀",
+      "book": "g5a",
+      "pinyin": "jì sì",
+      "dictionaryPinyin": "jì sì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 54,
+        "printedPage": 49,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "祭祀"
+      }
+    },
+    {
+      "word": "熏",
+      "book": "g5a",
+      "pinyin": "xūn",
+      "dictionaryPinyin": "xūn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 55,
+        "printedPage": 50,
+        "referenceType": "word-occurrence",
+        "sourceWord": "熏"
+      }
+    },
+    {
+      "word": "拘束",
+      "book": "g5a",
+      "pinyin": "jū shù",
+      "dictionaryPinyin": "jū shù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 65,
+        "printedPage": 60,
+        "referenceType": "word-occurrence",
+        "sourceWord": "拘束"
+      }
+    },
+    {
+      "word": "辉煌",
+      "book": "g5a",
+      "pinyin": "huī huáng",
+      "dictionaryPinyin": "huī huáng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 59,
+        "printedPage": 54,
+        "referenceType": "word-occurrence",
+        "sourceWord": "辉煌"
+      }
+    },
+    {
+      "word": "众星拱月",
+      "book": "g5a",
+      "pinyin": "zhòng xīng gǒng yuè",
+      "dictionaryPinyin": "zhòng xīng gǒng yuè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 59,
+        "printedPage": 54,
+        "referenceType": "word-occurrence",
+        "sourceWord": "众星拱月"
+      }
+    },
+    {
+      "word": "繁殖",
+      "book": "g5a",
+      "pinyin": "fán zhí",
+      "dictionaryPinyin": "fán zhí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 71,
+        "printedPage": 66,
+        "referenceType": "word-occurrence",
+        "sourceWord": "繁殖"
+      }
+    },
+    {
+      "word": "杀菌",
+      "book": "g5a",
+      "pinyin": "shā jūn",
+      "dictionaryPinyin": "shā jūn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 72,
+        "printedPage": 67,
+        "referenceType": "word-occurrence",
+        "sourceWord": "杀菌"
+      }
+    },
+    {
+      "word": "乖巧",
+      "book": "g5a",
+      "pinyin": "guāi qiǎo",
+      "dictionaryPinyin": "guāi qiǎo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 73,
+        "printedPage": 68,
+        "referenceType": "word-occurrence",
+        "sourceWord": "乖巧"
+      }
+    },
+    {
+      "word": "驯良",
+      "book": "g5a",
+      "pinyin": "xùn liáng",
+      "dictionaryPinyin": "xùn liáng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 73,
+        "printedPage": 68,
+        "referenceType": "word-occurrence",
+        "sourceWord": "驯良"
+      }
+    },
+    {
+      "word": "矫健",
+      "book": "g5a",
+      "pinyin": "jiǎo jiàn",
+      "dictionaryPinyin": "jiǎo jiàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 73,
+        "printedPage": 68,
+        "referenceType": "word-occurrence",
+        "sourceWord": "矫健"
+      }
+    },
+    {
+      "word": "颓败",
+      "book": "g5a",
+      "pinyin": "tuí bài",
+      "dictionaryPinyin": "tuí bài",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 81,
+        "printedPage": 76,
+        "referenceType": "word-occurrence",
+        "sourceWord": "颓败"
+      }
+    },
+    {
+      "word": "忙碌",
+      "book": "g5a",
+      "pinyin": "máng lù",
+      "dictionaryPinyin": "máng lù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 81,
+        "printedPage": 76,
+        "referenceType": "word-occurrence",
+        "sourceWord": "忙碌"
+      }
+    },
+    {
+      "word": "疲惫",
+      "book": "g5a",
+      "pinyin": "pí bèi",
+      "dictionaryPinyin": "pí bèi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 82,
+        "printedPage": 77,
+        "referenceType": "word-occurrence",
+        "sourceWord": "疲惫"
+      }
+    },
+    {
+      "word": "腼腆",
+      "book": "g5a",
+      "pinyin": "miǎn tiǎn",
+      "dictionaryPinyin": "miǎn tiǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 89,
+        "printedPage": 84,
+        "referenceType": "word-occurrence",
+        "sourceWord": "腼腆"
+      }
+    },
+    {
+      "word": "谨慎",
+      "book": "g5a",
+      "pinyin": "jǐn shèn",
+      "dictionaryPinyin": "jǐn shèn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 91,
+        "printedPage": 86,
+        "referenceType": "word-occurrence",
+        "sourceWord": "谨慎"
+      }
+    },
+    {
+      "word": "榆关",
+      "book": "g5a",
+      "pinyin": "yú guān",
+      "dictionaryPinyin": "yú guān",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 98,
+        "printedPage": 93,
+        "referenceType": "word-occurrence",
+        "sourceWord": "榆关"
+      }
+    },
+    {
+      "word": "黎明",
+      "book": "g5a",
+      "pinyin": "lí míng",
+      "dictionaryPinyin": "lí míng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 99,
+        "printedPage": 94,
+        "referenceType": "word-occurrence",
+        "sourceWord": "黎明"
+      }
+    },
+    {
+      "word": "凛冽",
+      "book": "g5a",
+      "pinyin": "lǐn liè",
+      "dictionaryPinyin": "lǐn liè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 99,
+        "printedPage": 94,
+        "referenceType": "word-occurrence",
+        "sourceWord": "凛冽"
+      }
+    },
+    {
+      "word": "闲逸",
+      "book": "g5a",
+      "pinyin": "xián yì",
+      "dictionaryPinyin": "xián yì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 100,
+        "printedPage": 95,
+        "referenceType": "word-occurrence",
+        "sourceWord": "闲逸"
+      }
+    },
+    {
+      "word": "应接不暇",
+      "book": "g5a",
+      "pinyin": "yìng jiē bù xiá",
+      "dictionaryPinyin": "yìng jiē bù xiá",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 103,
+        "printedPage": 98,
+        "referenceType": "word-occurrence",
+        "sourceWord": "应接不暇"
+      }
+    },
+    {
+      "word": "诲人不倦",
+      "book": "g5a",
+      "pinyin": "huì rén bù juàn",
+      "dictionaryPinyin": "huì rén bù juàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 111,
+        "printedPage": 106,
+        "referenceType": "word-occurrence",
+        "sourceWord": "诲人不倦"
+      }
+    },
+    {
+      "word": "津津有味",
+      "book": "g5a",
+      "pinyin": "jīn jīn yǒu wèi",
+      "dictionaryPinyin": "jīn jīn yǒu wèi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 113,
+        "printedPage": 108,
+        "referenceType": "word-occurrence",
+        "sourceWord": "津津有味"
+      }
+    },
+    {
+      "word": "索然无味",
+      "book": "g5a",
+      "pinyin": "suǒ rán wú wèi",
+      "dictionaryPinyin": "suǒ rán wú wèi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 114,
+        "printedPage": 109,
+        "referenceType": "word-occurrence",
+        "sourceWord": "索然无味"
+      }
+    },
+    {
+      "word": "囫囵吞枣",
+      "book": "g5a",
+      "pinyin": "hú lún tūn zǎo",
+      "dictionaryPinyin": "hú lún tūn zǎo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 117,
+        "printedPage": 112,
+        "referenceType": "word-occurrence",
+        "sourceWord": "囫囵吞枣"
+      }
+    },
+    {
+      "word": "如饥似渴",
+      "book": "g5a",
+      "pinyin": "rú jī sì kě",
+      "dictionaryPinyin": "rú jī sì kě",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 117,
+        "printedPage": 112,
+        "referenceType": "word-occurrence",
+        "sourceWord": "如饥似渴"
+      }
+    },
+    {
+      "word": "耘田",
+      "book": "g5b",
+      "pinyin": "yún tián",
+      "dictionaryPinyin": "yún tián",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "耘田"
+      }
+    },
+    {
+      "word": "稚子",
+      "book": "g5b",
+      "pinyin": "zhì zǐ",
+      "dictionaryPinyin": "zhì zi",
+      "match": false,
+      "reviewNote": "古诗中表示年幼的孩子，“子”读zǐ。",
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "稚子"
+      }
+    },
+    {
+      "word": "涟漪",
+      "book": "g5b",
+      "pinyin": "lián yī",
+      "dictionaryPinyin": "lián yī",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 6,
+        "printedPage": 1,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "涟漪"
+      }
+    },
+    {
+      "word": "眷恋",
+      "book": "g5b",
+      "pinyin": "juàn liàn",
+      "dictionaryPinyin": "juàn liàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 17,
+        "printedPage": 12,
+        "referenceType": "word-occurrence",
+        "sourceWord": "眷恋"
+      }
+    },
+    {
+      "word": "秉性",
+      "book": "g5b",
+      "pinyin": "bǐng xìng",
+      "dictionaryPinyin": "bǐng xìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 17,
+        "printedPage": 12,
+        "referenceType": "word-occurrence",
+        "sourceWord": "秉性"
+      }
+    },
+    {
+      "word": "妒忌",
+      "book": "g5b",
+      "pinyin": "dù jì",
+      "dictionaryPinyin": "dù jì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 23,
+        "printedPage": 18,
+        "referenceType": "word-occurrence",
+        "sourceWord": "妒忌"
+      }
+    },
+    {
+      "word": "推却",
+      "book": "g5b",
+      "pinyin": "tuī què",
+      "dictionaryPinyin": "tuī què",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 23,
+        "printedPage": 18,
+        "referenceType": "word-occurrence",
+        "sourceWord": "推却"
+      }
+    },
+    {
+      "word": "晌午",
+      "book": "g5b",
+      "pinyin": "shǎng wǔ",
+      "dictionaryPinyin": "shǎng wǔ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 27,
+        "printedPage": 22,
+        "referenceType": "word-occurrence",
+        "sourceWord": "晌午"
+      }
+    },
+    {
+      "word": "踉跄",
+      "book": "g5b",
+      "pinyin": "liàng qiàng",
+      "dictionaryPinyin": "liàng qiàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 30,
+        "printedPage": 25,
+        "referenceType": "word-occurrence",
+        "sourceWord": "踉跄"
+      }
+    },
+    {
+      "word": "忌讳",
+      "book": "g5b",
+      "pinyin": "jì huì",
+      "dictionaryPinyin": "jì huì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 36,
+        "printedPage": 31,
+        "referenceType": "word-occurrence",
+        "sourceWord": "忌讳"
+      }
+    },
+    {
+      "word": "楷书",
+      "book": "g5b",
+      "pinyin": "kǎi shū",
+      "dictionaryPinyin": "kǎi shū",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "楷书"
+      }
+    },
+    {
+      "word": "谐音",
+      "book": "g5b",
+      "pinyin": "xié yīn",
+      "dictionaryPinyin": "xié yīn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 50,
+        "printedPage": 45,
+        "referenceType": "word-occurrence",
+        "sourceWord": "谐音"
+      }
+    },
+    {
+      "word": "甲骨文",
+      "book": "g5b",
+      "pinyin": "jiǎ gǔ wén",
+      "dictionaryPinyin": "jiǎ gǔ wén",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 51,
+        "printedPage": 46,
+        "referenceType": "word-occurrence",
+        "sourceWord": "甲骨文"
+      }
+    },
+    {
+      "word": "演变",
+      "book": "g5b",
+      "pinyin": "yǎn biàn",
+      "dictionaryPinyin": "yǎn biàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 47,
+        "printedPage": 42,
+        "referenceType": "word-occurrence",
+        "sourceWord": "演变"
+      }
+    },
+    {
+      "word": "搜集",
+      "book": "g5b",
+      "pinyin": "sōu jí",
+      "dictionaryPinyin": "sōu jí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 46,
+        "printedPage": 41,
+        "referenceType": "word-occurrence",
+        "sourceWord": "搜集"
+      }
+    },
+    {
+      "word": "万仞",
+      "book": "g5b",
+      "pinyin": "wàn rèn",
+      "dictionaryPinyin": "wàn rèn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 73,
+        "printedPage": 68,
+        "referenceType": "word-occurrence",
+        "sourceWord": "万仞"
+      }
+    },
+    {
+      "word": "由衷",
+      "book": "g5b",
+      "pinyin": "yóu zhōng",
+      "dictionaryPinyin": "yóu zhōng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 65,
+        "printedPage": 60,
+        "referenceType": "word-occurrence",
+        "sourceWord": "由衷"
+      }
+    },
+    {
+      "word": "踌躇",
+      "book": "g5b",
+      "pinyin": "chóu chú",
+      "dictionaryPinyin": "chóu chú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "踌躇"
+      }
+    },
+    {
+      "word": "眷属",
+      "book": "g5b",
+      "pinyin": "juàn shǔ",
+      "dictionaryPinyin": "juàn shǔ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 58,
+        "printedPage": 53,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "眷属"
+      }
+    },
+    {
+      "word": "矜持",
+      "book": "g5b",
+      "pinyin": "jīn chí",
+      "dictionaryPinyin": "jīn chí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 68,
+        "printedPage": 63,
+        "referenceType": "word-occurrence",
+        "sourceWord": "矜持"
+      }
+    },
+    {
+      "word": "精神抖擞",
+      "book": "g5b",
+      "pinyin": "jīng shén dǒu sǒu",
+      "dictionaryPinyin": "jīng shén dǒu sǒu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 75,
+        "printedPage": 70,
+        "referenceType": "word-occurrence",
+        "sourceWord": "精神抖擞"
+      }
+    },
+    {
+      "word": "破绽",
+      "book": "g5b",
+      "pinyin": "pò zhàn",
+      "dictionaryPinyin": "pò zhàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 75,
+        "printedPage": 70,
+        "referenceType": "word-occurrence",
+        "sourceWord": "破绽"
+      }
+    },
+    {
+      "word": "挺脱",
+      "book": "g5b",
+      "pinyin": "tǐng tuō",
+      "dictionaryPinyin": "tǐng tuō",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 76,
+        "printedPage": 71,
+        "referenceType": "word-occurrence",
+        "sourceWord": "挺脱"
+      }
+    },
+    {
+      "word": "吝啬",
+      "book": "g5b",
+      "pinyin": "lìn sè",
+      "dictionaryPinyin": "lìn sè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 82,
+        "printedPage": 77,
+        "referenceType": "word-occurrence",
+        "sourceWord": "吝啬"
+      }
+    },
+    {
+      "word": "半信半疑",
+      "book": "g5b",
+      "pinyin": "bàn xìn bàn yí",
+      "dictionaryPinyin": "bàn xìn bàn yí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 79,
+        "printedPage": 74,
+        "referenceType": "word-occurrence",
+        "sourceWord": "半信半疑"
+      }
+    },
+    {
+      "word": "自相矛盾",
+      "book": "g5b",
+      "pinyin": "zì xiāng máo dùn",
+      "dictionaryPinyin": "zì xiāng máo dùn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 89,
+        "printedPage": 84,
+        "referenceType": "word-occurrence",
+        "sourceWord": "自相矛盾"
+      }
+    },
+    {
+      "word": "赏识",
+      "book": "g5b",
+      "pinyin": "shǎng shí",
+      "dictionaryPinyin": "shǎng shí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 90,
+        "printedPage": 85,
+        "referenceType": "word-occurrence",
+        "sourceWord": "赏识"
+      }
+    },
+    {
+      "word": "引荐",
+      "book": "g5b",
+      "pinyin": "yǐn jiàn",
+      "dictionaryPinyin": "yǐn jiàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 91,
+        "printedPage": 86,
+        "referenceType": "word-occurrence",
+        "sourceWord": "引荐"
+      }
+    },
+    {
+      "word": "放肆",
+      "book": "g5b",
+      "pinyin": "fàng sì",
+      "dictionaryPinyin": "fàng sì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 92,
+        "printedPage": 87,
+        "referenceType": "word-occurrence",
+        "sourceWord": "放肆"
+      }
+    },
+    {
+      "word": "心惊胆战",
+      "book": "g5b",
+      "pinyin": "xīn jīng dǎn zhàn",
+      "dictionaryPinyin": "xīn jīng dǎn zhàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "心惊胆战"
+      }
+    },
+    {
+      "word": "纵横交错",
+      "book": "g5b",
+      "pinyin": "zòng héng jiāo cuò",
+      "dictionaryPinyin": "zòng héng jiāo cuò",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 99,
+        "printedPage": 94,
+        "referenceType": "word-occurrence",
+        "sourceWord": "纵横交错"
+      }
+    },
+    {
+      "word": "操纵",
+      "book": "g5b",
+      "pinyin": "cāo zòng",
+      "dictionaryPinyin": "cāo zòng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 99,
+        "printedPage": 94,
+        "referenceType": "word-occurrence",
+        "sourceWord": "操纵"
+      }
+    },
+    {
+      "word": "簇拥",
+      "book": "g5b",
+      "pinyin": "cù yōng",
+      "dictionaryPinyin": "cù yōng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 100,
+        "printedPage": 95,
+        "referenceType": "word-occurrence",
+        "sourceWord": "簇拥"
+      }
+    },
+    {
+      "word": "辽阔",
+      "book": "g5b",
+      "pinyin": "liáo kuò",
+      "dictionaryPinyin": "liáo kuò",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 102,
+        "printedPage": 97,
+        "referenceType": "word-occurrence",
+        "sourceWord": "辽阔"
+      }
+    },
+    {
+      "word": "熠熠发光",
+      "book": "g5b",
+      "pinyin": "yì yì fā guāng",
+      "dictionaryPinyin": "yì yì fā guāng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 104,
+        "printedPage": 99,
+        "referenceType": "word-occurrence",
+        "sourceWord": "熠熠发光"
+      }
+    },
+    {
+      "word": "甚",
+      "book": "g5b",
+      "pinyin": "shèn",
+      "dictionaryPinyin": "shèn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 113,
+        "printedPage": 108,
+        "referenceType": "word-occurrence",
+        "sourceWord": "甚"
+      }
+    },
+    {
+      "word": "造诣",
+      "book": "g5b",
+      "pinyin": "zào yì",
+      "dictionaryPinyin": "zào yì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 112,
+        "printedPage": 107,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "造诣"
+      }
+    },
+    {
+      "word": "窈窕",
+      "book": "g5b",
+      "pinyin": "yǎo tiǎo",
+      "dictionaryPinyin": "yǎo tiǎo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 114,
+        "printedPage": 109,
+        "referenceType": "word-occurrence",
+        "sourceWord": "窈窕"
+      }
+    },
+    {
+      "word": "养尊处优",
+      "book": "g5b",
+      "pinyin": "yǎng zūn chǔ yōu",
+      "dictionaryPinyin": "yǎng zūn chǔ yōu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 115,
+        "printedPage": 110,
+        "referenceType": "word-occurrence",
+        "sourceWord": "养尊处优"
+      }
+    },
+    {
+      "word": "天赋",
+      "book": "g5b",
+      "pinyin": "tiān fù",
+      "dictionaryPinyin": "tiān fù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 117,
+        "printedPage": 112,
+        "referenceType": "word-occurrence",
+        "sourceWord": "天赋"
+      }
+    },
+    {
+      "word": "渲染",
+      "book": "g6a",
+      "pinyin": "xuàn rǎn",
+      "dictionaryPinyin": "xuàn rǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "渲染"
+      }
+    },
+    {
+      "word": "勾勒",
+      "book": "g6a",
+      "pinyin": "gōu lè",
+      "dictionaryPinyin": "gōu lè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 7,
+        "printedPage": 2,
+        "referenceType": "word-occurrence",
+        "sourceWord": "勾勒"
+      }
+    },
+    {
+      "word": "迂回",
+      "book": "g6a",
+      "pinyin": "yū huí",
+      "dictionaryPinyin": "yū huí",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 8,
+        "printedPage": 3,
+        "referenceType": "word-occurrence",
+        "sourceWord": "迂回"
+      }
+    },
+    {
+      "word": "妩媚",
+      "book": "g6a",
+      "pinyin": "wǔ mèi",
+      "dictionaryPinyin": "wǔ mèi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 10,
+        "printedPage": 5,
+        "referenceType": "word-occurrence",
+        "sourceWord": "妩媚"
+      }
+    },
+    {
+      "word": "硕大",
+      "book": "g6a",
+      "pinyin": "shuò dà",
+      "dictionaryPinyin": "shuò dà",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 15,
+        "printedPage": 10,
+        "referenceType": "word-occurrence",
+        "sourceWord": "硕大"
+      }
+    },
+    {
+      "word": "磅礴",
+      "book": "g6a",
+      "pinyin": "páng bó",
+      "dictionaryPinyin": "páng bó",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 21,
+        "printedPage": 16,
+        "referenceType": "word-occurrence",
+        "sourceWord": "磅礴"
+      }
+    },
+    {
+      "word": "崎岖",
+      "book": "g6a",
+      "pinyin": "qí qū",
+      "dictionaryPinyin": "qí qū",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 23,
+        "printedPage": 18,
+        "referenceType": "word-occurrence",
+        "sourceWord": "崎岖"
+      }
+    },
+    {
+      "word": "屹立",
+      "book": "g6a",
+      "pinyin": "yì lì",
+      "dictionaryPinyin": "yì lì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 25,
+        "printedPage": 20,
+        "referenceType": "word-occurrence",
+        "sourceWord": "屹立"
+      }
+    },
+    {
+      "word": "瞻仰",
+      "book": "g6a",
+      "pinyin": "zhān yǎng",
+      "dictionaryPinyin": "zhān yǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 28,
+        "printedPage": 23,
+        "referenceType": "word-occurrence",
+        "sourceWord": "瞻仰"
+      }
+    },
+    {
+      "word": "憧憬",
+      "book": "g6a",
+      "pinyin": "chōng jǐng",
+      "dictionaryPinyin": "chōng jǐng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 32,
+        "printedPage": 27,
+        "referenceType": "word-occurrence",
+        "sourceWord": "憧憬"
+      }
+    },
+    {
+      "word": "豁开",
+      "book": "g6a",
+      "pinyin": "huō kāi",
+      "dictionaryPinyin": "huō kāi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 41,
+        "printedPage": 36,
+        "referenceType": "word-occurrence",
+        "sourceWord": "豁开"
+      }
+    },
+    {
+      "word": "颓然",
+      "book": "g6a",
+      "pinyin": "tuí rán",
+      "dictionaryPinyin": "tuí rán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 43,
+        "printedPage": 38,
+        "referenceType": "word-occurrence",
+        "sourceWord": "颓然"
+      }
+    },
+    {
+      "word": "沧海一粟",
+      "book": "g6a",
+      "pinyin": "cāng hǎi yī sù",
+      "dictionaryPinyin": "cāng hǎi yī sù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 45,
+        "printedPage": 40,
+        "referenceType": "word-occurrence",
+        "sourceWord": "沧海一粟"
+      }
+    },
+    {
+      "word": "迥然不同",
+      "book": "g6a",
+      "pinyin": "jiǒng rán bù tóng",
+      "dictionaryPinyin": "jiǒng rán bù tóng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 52,
+        "printedPage": 47,
+        "referenceType": "word-occurrence",
+        "sourceWord": "迥然不同"
+      }
+    },
+    {
+      "word": "井然有序",
+      "book": "g6a",
+      "pinyin": "jǐng rán yǒu xù",
+      "dictionaryPinyin": "jǐng rán yǒu xù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 52,
+        "printedPage": 47,
+        "referenceType": "word-occurrence",
+        "sourceWord": "井然有序"
+      }
+    },
+    {
+      "word": "狞笑",
+      "book": "g6a",
+      "pinyin": "níng xiào",
+      "dictionaryPinyin": "níng xiào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 59,
+        "printedPage": 54,
+        "referenceType": "word-occurrence",
+        "sourceWord": "狞笑"
+      }
+    },
+    {
+      "word": "搀扶",
+      "book": "g6a",
+      "pinyin": "chān fú",
+      "dictionaryPinyin": "chān fú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 61,
+        "printedPage": 56,
+        "referenceType": "word-occurrence",
+        "sourceWord": "搀扶"
+      }
+    },
+    {
+      "word": "忐忑不安",
+      "book": "g6a",
+      "pinyin": "tǎn tè bù ān",
+      "dictionaryPinyin": "tǎn tè bù ān",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "忐忑不安"
+      }
+    },
+    {
+      "word": "蜷缩",
+      "book": "g6a",
+      "pinyin": "quán suō",
+      "dictionaryPinyin": "quán suō",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "蜷缩"
+      }
+    },
+    {
+      "word": "奄奄一息",
+      "book": "g6a",
+      "pinyin": "yǎn yǎn yī xī",
+      "dictionaryPinyin": "yǎn yǎn yī xī",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 70,
+        "printedPage": 65,
+        "referenceType": "word-occurrence",
+        "sourceWord": "奄奄一息"
+      }
+    },
+    {
+      "word": "苔藓",
+      "book": "g6a",
+      "pinyin": "tái xiǎn",
+      "dictionaryPinyin": "tái xiǎn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 79,
+        "printedPage": 74,
+        "referenceType": "word-occurrence",
+        "sourceWord": "苔藓"
+      }
+    },
+    {
+      "word": "谚语",
+      "book": "g6a",
+      "pinyin": "yàn yǔ",
+      "dictionaryPinyin": "yàn yǔ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 80,
+        "printedPage": 75,
+        "referenceType": "word-occurrence",
+        "sourceWord": "谚语"
+      }
+    },
+    {
+      "word": "嘟囔",
+      "book": "g6a",
+      "pinyin": "dū nang",
+      "dictionaryPinyin": "dū nāng",
+      "match": false,
+      "reviewNote": "词中“囔”读轻声。",
+      "source": {
+        "unit": 5,
+        "pdfPage": 82,
+        "printedPage": 77,
+        "referenceType": "word-occurrence",
+        "sourceWord": "嘟囔"
+      }
+    },
+    {
+      "word": "窸窸窣窣",
+      "book": "g6a",
+      "pinyin": "xī xī sū sū",
+      "dictionaryPinyin": "xī xī sū sū",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 81,
+        "printedPage": 76,
+        "referenceType": "word-occurrence",
+        "sourceWord": "窸窸窣窣"
+      }
+    },
+    {
+      "word": "理直气壮",
+      "book": "g6a",
+      "pinyin": "lǐ zhí qì zhuàng",
+      "dictionaryPinyin": "lǐ zhí qì zhuàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 83,
+        "printedPage": 78,
+        "referenceType": "word-occurrence",
+        "sourceWord": "理直气壮"
+      }
+    },
+    {
+      "word": "慷慨",
+      "book": "g6a",
+      "pinyin": "kāng kǎi",
+      "dictionaryPinyin": "kāng kǎi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "慷慨"
+      }
+    },
+    {
+      "word": "威胁",
+      "book": "g6a",
+      "pinyin": "wēi xié",
+      "dictionaryPinyin": "wēi xié",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 93,
+        "printedPage": 88,
+        "referenceType": "word-occurrence",
+        "sourceWord": "威胁"
+      }
+    },
+    {
+      "word": "肆虐",
+      "book": "g6a",
+      "pinyin": "sì nüè",
+      "dictionaryPinyin": "sì nüè",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 95,
+        "printedPage": 90,
+        "referenceType": "word-occurrence",
+        "sourceWord": "肆虐"
+      }
+    },
+    {
+      "word": "盘踞",
+      "book": "g6a",
+      "pinyin": "pán jù",
+      "dictionaryPinyin": "pán jù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 95,
+        "printedPage": 90,
+        "referenceType": "word-occurrence",
+        "sourceWord": "盘踞"
+      }
+    },
+    {
+      "word": "归宿",
+      "book": "g6a",
+      "pinyin": "guī sù",
+      "dictionaryPinyin": "guī sù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 95,
+        "printedPage": 90,
+        "referenceType": "word-occurrence",
+        "sourceWord": "归宿"
+      }
+    },
+    {
+      "word": "巍巍",
+      "book": "g6a",
+      "pinyin": "wēi wēi",
+      "dictionaryPinyin": "wēi wēi",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 107,
+        "printedPage": 102,
+        "referenceType": "word-occurrence",
+        "sourceWord": "巍巍"
+      }
+    },
+    {
+      "word": "汤汤",
+      "book": "g6a",
+      "pinyin": "shāng shāng",
+      "dictionaryPinyin": "tāng tāng",
+      "match": false,
+      "reviewNote": "《伯牙鼓琴》注音为shāng，水流大而急，不读tāng。",
+      "source": {
+        "unit": 7,
+        "pdfPage": 107,
+        "printedPage": 102,
+        "referenceType": "word-occurrence",
+        "sourceWord": "汤汤"
+      }
+    },
+    {
+      "word": "拊掌",
+      "book": "g6a",
+      "pinyin": "fǔ zhǎng",
+      "dictionaryPinyin": "fǔ zhǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 108,
+        "printedPage": 103,
+        "referenceType": "word-occurrence",
+        "sourceWord": "拊掌"
+      }
+    },
+    {
+      "word": "恬静",
+      "book": "g6a",
+      "pinyin": "tián jìng",
+      "dictionaryPinyin": "tián jìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 111,
+        "printedPage": 106,
+        "referenceType": "word-occurrence",
+        "sourceWord": "恬静"
+      }
+    },
+    {
+      "word": "惟妙惟肖",
+      "book": "g6a",
+      "pinyin": "wéi miào wéi xiào",
+      "dictionaryPinyin": "wéi miào wéi xiào",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 7,
+        "pdfPage": 117,
+        "printedPage": 112,
+        "referenceType": "word-occurrence",
+        "sourceWord": "惟妙惟肖"
+      }
+    },
+    {
+      "word": "郑重",
+      "book": "g6a",
+      "pinyin": "zhèng zhòng",
+      "dictionaryPinyin": "zhèng zhòng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 119,
+        "printedPage": 114,
+        "referenceType": "word-occurrence",
+        "sourceWord": "郑重"
+      }
+    },
+    {
+      "word": "祭器",
+      "book": "g6a",
+      "pinyin": "jì qì",
+      "dictionaryPinyin": "jì qì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 119,
+        "printedPage": 114,
+        "referenceType": "word-occurrence",
+        "sourceWord": "祭器"
+      }
+    },
+    {
+      "word": "参差",
+      "book": "g6a",
+      "pinyin": "cēn cī",
+      "dictionaryPinyin": "cēn cī",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 123,
+        "printedPage": 118,
+        "referenceType": "word-occurrence",
+        "sourceWord": "参差"
+      }
+    },
+    {
+      "word": "囫囵",
+      "book": "g6a",
+      "pinyin": "hú lún",
+      "dictionaryPinyin": "hú lún",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 126,
+        "printedPage": 121,
+        "referenceType": "word-occurrence",
+        "sourceWord": "囫囵"
+      }
+    },
+    {
+      "word": "饱经风霜",
+      "book": "g6a",
+      "pinyin": "bǎo jīng fēng shuāng",
+      "dictionaryPinyin": "bǎo jīng fēng shuāng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 8,
+        "pdfPage": 128,
+        "printedPage": 123,
+        "referenceType": "word-occurrence",
+        "sourceWord": "饱经风霜"
+      }
+    },
+    {
+      "word": "截然不同",
+      "book": "g6b",
+      "pinyin": "jié rán bù tóng",
+      "dictionaryPinyin": "jié rán bù tóng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 10,
+        "printedPage": 5,
+        "referenceType": "word-occurrence",
+        "sourceWord": "截然不同"
+      }
+    },
+    {
+      "word": "娴熟",
+      "book": "g6b",
+      "pinyin": "xián shú",
+      "dictionaryPinyin": "xián shú",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 10,
+        "printedPage": 5,
+        "referenceType": "word-occurrence",
+        "sourceWord": "娴熟"
+      }
+    },
+    {
+      "word": "敦厚",
+      "book": "g6b",
+      "pinyin": "dūn hòu",
+      "dictionaryPinyin": "dūn hòu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 19,
+        "printedPage": 14,
+        "referenceType": "word-occurrence",
+        "sourceWord": "敦厚"
+      }
+    },
+    {
+      "word": "吞噬",
+      "book": "g6b",
+      "pinyin": "tūn shì",
+      "dictionaryPinyin": "tūn shì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 18,
+        "printedPage": 13,
+        "referenceType": "word-occurrence",
+        "sourceWord": "吞噬"
+      }
+    },
+    {
+      "word": "皎洁",
+      "book": "g6b",
+      "pinyin": "jiǎo jié",
+      "dictionaryPinyin": "jiǎo jié",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 1,
+        "pdfPage": 6,
+        "printedPage": 1,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "皎洁"
+      }
+    },
+    {
+      "word": "流落",
+      "book": "g6b",
+      "pinyin": "liú luò",
+      "dictionaryPinyin": "liú luò",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 25,
+        "printedPage": 20,
+        "referenceType": "word-occurrence",
+        "sourceWord": "流落"
+      }
+    },
+    {
+      "word": "畏惧",
+      "book": "g6b",
+      "pinyin": "wèi jù",
+      "dictionaryPinyin": "wèi jù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 25,
+        "printedPage": 20,
+        "referenceType": "word-occurrence",
+        "sourceWord": "畏惧"
+      }
+    },
+    {
+      "word": "凄凉",
+      "book": "g6b",
+      "pinyin": "qī liáng",
+      "dictionaryPinyin": "qī liáng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 25,
+        "printedPage": 20,
+        "referenceType": "word-occurrence",
+        "sourceWord": "凄凉"
+      }
+    },
+    {
+      "word": "困境",
+      "book": "g6b",
+      "pinyin": "kùn jìng",
+      "dictionaryPinyin": "kùn jìng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 31,
+        "printedPage": 26,
+        "referenceType": "word-occurrence",
+        "sourceWord": "困境"
+      }
+    },
+    {
+      "word": "救援",
+      "book": "g6b",
+      "pinyin": "jiù yuán",
+      "dictionaryPinyin": "jiù yuán",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 2,
+        "pdfPage": 25,
+        "printedPage": 20,
+        "referenceType": "word-occurrence",
+        "sourceWord": "救援"
+      }
+    },
+    {
+      "word": "徘徊",
+      "book": "g6b",
+      "pinyin": "pái huái",
+      "dictionaryPinyin": "pái huái",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 50,
+        "printedPage": 45,
+        "referenceType": "word-occurrence",
+        "sourceWord": "徘徊"
+      }
+    },
+    {
+      "word": "蒸融",
+      "book": "g6b",
+      "pinyin": "zhēng róng",
+      "dictionaryPinyin": "zhēng róng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 50,
+        "printedPage": 45,
+        "referenceType": "word-occurrence",
+        "sourceWord": "蒸融"
+      }
+    },
+    {
+      "word": "惆怅",
+      "book": "g6b",
+      "pinyin": "chóu chàng",
+      "dictionaryPinyin": "chóu chàng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "惆怅"
+      }
+    },
+    {
+      "word": "缥缈",
+      "book": "g6b",
+      "pinyin": "piāo miǎo",
+      "dictionaryPinyin": "piāo miǎo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 53,
+        "printedPage": 48,
+        "referenceType": "word-occurrence",
+        "sourceWord": "缥缈"
+      }
+    },
+    {
+      "word": "消逝",
+      "book": "g6b",
+      "pinyin": "xiāo shì",
+      "dictionaryPinyin": "xiāo shì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 3,
+        "pdfPage": 54,
+        "printedPage": 49,
+        "referenceType": "word-occurrence",
+        "sourceWord": "消逝"
+      }
+    },
+    {
+      "word": "千锤万凿",
+      "book": "g6b",
+      "pinyin": "qiān chuí wàn záo",
+      "dictionaryPinyin": "qiān chuí wàn záo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "千锤万凿"
+      }
+    },
+    {
+      "word": "焚烧",
+      "book": "g6b",
+      "pinyin": "fén shāo",
+      "dictionaryPinyin": "fén shāo",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 63,
+        "printedPage": 58,
+        "referenceType": "word-occurrence",
+        "sourceWord": "焚烧"
+      }
+    },
+    {
+      "word": "严峻",
+      "book": "g6b",
+      "pinyin": "yán jùn",
+      "dictionaryPinyin": "yán jùn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 65,
+        "printedPage": 60,
+        "referenceType": "word-occurrence",
+        "sourceWord": "严峻"
+      }
+    },
+    {
+      "word": "彻底",
+      "book": "g6b",
+      "pinyin": "chè dǐ",
+      "dictionaryPinyin": "chè dǐ",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 69,
+        "printedPage": 64,
+        "referenceType": "word-occurrence",
+        "sourceWord": "彻底"
+      }
+    },
+    {
+      "word": "牺牲",
+      "book": "g6b",
+      "pinyin": "xī shēng",
+      "dictionaryPinyin": "xī shēng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 4,
+        "pdfPage": 70,
+        "printedPage": 65,
+        "referenceType": "word-occurrence",
+        "sourceWord": "牺牲"
+      }
+    },
+    {
+      "word": "弈",
+      "book": "g6b",
+      "pinyin": "yì",
+      "dictionaryPinyin": "yì",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 85,
+        "printedPage": 80,
+        "referenceType": "word-occurrence",
+        "sourceWord": "弈"
+      }
+    },
+    {
+      "word": "辩斗",
+      "book": "g6b",
+      "pinyin": "biàn dòu",
+      "dictionaryPinyin": "biàn dòu",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 86,
+        "printedPage": 81,
+        "referenceType": "word-occurrence",
+        "sourceWord": "辩斗"
+      }
+    },
+    {
+      "word": "见微知著",
+      "book": "g6b",
+      "pinyin": "jiàn wēi zhī zhù",
+      "dictionaryPinyin": "jiàn wēi zhī zhù",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 89,
+        "printedPage": 84,
+        "referenceType": "word-occurrence",
+        "sourceWord": "见微知著"
+      }
+    },
+    {
+      "word": "锲而不舍",
+      "book": "g6b",
+      "pinyin": "qiè ér bù shě",
+      "dictionaryPinyin": "qiè ér bù shě",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 89,
+        "printedPage": 84,
+        "referenceType": "word-occurrence",
+        "sourceWord": "锲而不舍"
+      }
+    },
+    {
+      "word": "司空见惯",
+      "book": "g6b",
+      "pinyin": "sī kōng jiàn guàn",
+      "dictionaryPinyin": "sī kōng jiàn guàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 5,
+        "pdfPage": 87,
+        "printedPage": 82,
+        "referenceType": "word-occurrence",
+        "sourceWord": "司空见惯"
+      }
+    },
+    {
+      "word": "纪念",
+      "book": "g6b",
+      "pinyin": "jì niàn",
+      "dictionaryPinyin": "jì niàn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 104,
+        "printedPage": 99,
+        "referenceType": "word-occurrence",
+        "sourceWord": "纪念"
+      }
+    },
+    {
+      "word": "成长",
+      "book": "g6b",
+      "pinyin": "chéng zhǎng",
+      "dictionaryPinyin": "chéng zhǎng",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 103,
+        "printedPage": 98,
+        "referenceType": "word-occurrence",
+        "sourceWord": "成长"
+      }
+    },
+    {
+      "word": "感恩",
+      "book": "g6b",
+      "pinyin": "gǎn ēn",
+      "dictionaryPinyin": "gǎn ēn",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 110,
+        "printedPage": 105,
+        "referenceType": "word-occurrence",
+        "sourceWord": "感恩"
+      }
+    },
+    {
+      "word": "珍惜",
+      "book": "g6b",
+      "pinyin": "zhēn xī",
+      "dictionaryPinyin": "zhēn xī",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 102,
+        "printedPage": 97,
+        "referenceType": "unit-knowledge-reference",
+        "sourceWord": "珍惜"
+      }
+    },
+    {
+      "word": "告别",
+      "book": "g6b",
+      "pinyin": "gào bié",
+      "dictionaryPinyin": "gào bié",
+      "match": true,
+      "reviewNote": null,
+      "source": {
+        "unit": 6,
+        "pdfPage": 103,
+        "printedPage": 98,
+        "referenceType": "word-occurrence",
+        "sourceWord": "告别"
+      }
+    }
+  ]
+}

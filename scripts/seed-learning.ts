@@ -1,6 +1,6 @@
 import { loadEnvConfig } from '@next/env';
 import { createClient } from '@supabase/supabase-js';
-import { seedLessons } from '../lib/seed';
+import { expandedSeedLessons as seedLessons } from '../content/ten-question-lessons';
 import { lessonSchema } from '../lib/validation';
 loadEnvConfig(process.cwd());
 async function main() {
@@ -10,6 +10,6 @@ async function main() {
   const supabase=createClient(url,secret,{auth:{persistSession:false,autoRefreshToken:false}});
   const {error}=await supabase.from('learning_lessons').upsert(seedLessons.map(l=>lessonSchema.parse(l)),{onConflict:'id',ignoreDuplicates:true});
   if(error) throw new Error('SEED_INSERT_FAILED');
-  console.log('Learning seed ready: 9 lessons, 45 questions. Existing lessons preserved.');
+  console.log('Learning seed ready: 9 lessons, 90 questions. Existing lessons preserved.');
 }
 main().catch(()=>{console.error('Seed failed. Check server configuration and learning schema.');process.exitCode=1;});

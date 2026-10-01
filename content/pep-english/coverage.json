@@ -1,0 +1,204 @@
+{
+  "batch": "pep-starting-line-english-v1",
+  "books": 12,
+  "units": 72,
+  "lessons": 84,
+  "questions": 840,
+  "byGrade": [
+    {
+      "grade": 1,
+      "lessons": 14,
+      "questions": 140
+    },
+    {
+      "grade": 2,
+      "lessons": 14,
+      "questions": 140
+    },
+    {
+      "grade": 3,
+      "lessons": 14,
+      "questions": 140
+    },
+    {
+      "grade": 4,
+      "lessons": 14,
+      "questions": 140
+    },
+    {
+      "grade": 5,
+      "lessons": 14,
+      "questions": 140
+    },
+    {
+      "grade": 6,
+      "lessons": 14,
+      "questions": 140
+    }
+  ],
+  "byCategory": {
+    "english-vocabulary": 36,
+    "english-conversation": 24,
+    "english-grammar": 12,
+    "english-reading": 12
+  },
+  "byBook": [
+    {
+      "book": "g1a",
+      "units": [
+        "School",
+        "Face",
+        "Animals",
+        "Numbers",
+        "Colours",
+        "Fruit"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g1b",
+      "units": [
+        "Classroom",
+        "Room",
+        "Toys",
+        "Food",
+        "Drink",
+        "Clothes"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g2a",
+      "units": [
+        "My Family",
+        "Boys and Girls",
+        "My Friends",
+        "In the Community",
+        "In the Park",
+        "Happy Holidays"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g2b",
+      "units": [
+        "Playtime",
+        "Weather",
+        "Seasons",
+        "Time",
+        "My Day",
+        "My Week"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g3a",
+      "units": [
+        "Myself",
+        "My Body",
+        "Food",
+        "Pets",
+        "Clothes",
+        "Birthdays"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g3b",
+      "units": [
+        "School Subjects",
+        "My School",
+        "After School Activities",
+        "My Family",
+        "Family Activities",
+        "My Home"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g4a",
+      "units": [
+        "Sports and Games",
+        "On the Weekend",
+        "Transportation",
+        "Asking for Help",
+        "Safety",
+        "Jobs"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g4b",
+      "units": [
+        "My Neighbourhood",
+        "Cities",
+        "Travel Plans",
+        "Hobbies",
+        "Free Time",
+        "Countries"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g5a",
+      "units": [
+        "Classmates",
+        "Teachers",
+        "Animals",
+        "Shopping Day",
+        "TV Shows",
+        "Chores"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g5b",
+      "units": [
+        "Keeping Healthy",
+        "Special Days",
+        "Making Contact",
+        "Last Weekend",
+        "Have a Great Trip",
+        "Growing Up"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g6a",
+      "units": [
+        "In China",
+        "Around the World",
+        "Animal World",
+        "Feelings",
+        "Famous People",
+        "Winter Vacation"
+      ],
+      "lessons": 7,
+      "questions": 70
+    },
+    {
+      "book": "g6b",
+      "units": [
+        "Visiting Canada",
+        "All Around Me",
+        "Daily Life",
+        "Free Time",
+        "Nature and Culture",
+        "Summer Vacation"
+      ],
+      "lessons": 7,
+      "questions": 70
+    }
+  ],
+  "scope": "每个核心单元5道词汇题和5道语言运用题；每册10道原创阅读题。覆盖单元主题，不宣称逐题搬运或覆盖全部知识点。"
+}

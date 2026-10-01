@@ -1,0 +1,7357 @@
+{
+  "scope": "按原页活动标题自动检索的待处理索引，OCR可能漏项。已导入的是知识点改编题，未宣称完成这些原始听说、制作或开放写作活动。",
+  "activities": [
+    {
+      "book": "g1a",
+      "unit": 1,
+      "pdfPage": 11,
+      "printedPage": 6,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Listen and do.                 me your pencil. Sit",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 1,
+      "pdfPage": 11,
+      "printedPage": 6,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 7,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 14,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Listen and do.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 14,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 3,
+      "pdfPage": 27,
+      "printedPage": 22,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Listen and act.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 3,
+      "pdfPage": 27,
+      "printedPage": 22,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 3,
+      "pdfPage": 28,
+      "printedPage": 23,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": null,
+      "pdfPage": 33,
+      "printedPage": 28,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and point."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 4,
+      "pdfPage": 37,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Listen and do.                                     Hello!",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 4,
+      "pdfPage": 37,
+      "printedPage": 32,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 4,
+      "pdfPage": 38,
+      "printedPage": 33,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 4,
+      "pdfPage": 42,
+      "printedPage": 37,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let’s share!"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 5,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Listen and do.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 5,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 5,
+      "pdfPage": 46,
+      "printedPage": 41,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 6,
+      "pdfPage": 53,
+      "printedPage": 48,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Listen and do.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 6,
+      "pdfPage": 53,
+      "printedPage": 48,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 6,
+      "pdfPage": 54,
+      "printedPage": 49,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": 6,
+      "pdfPage": 55,
+      "printedPage": 50,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "A Look, draw and say."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1a",
+      "unit": null,
+      "pdfPage": 59,
+      "printedPage": 54,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and point."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant. (T",
+        "B Listen and do. (",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant. (T",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 2,
+      "pdfPage": 16,
+      "printedPage": 12,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant. (",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 2,
+      "pdfPage": 16,
+      "printedPage": 12,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant. (",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 2,
+      "pdfPage": 17,
+      "printedPage": 13,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat. (T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 3,
+      "pdfPage": 24,
+      "printedPage": 20,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant. D",
+        "B Listen and act. T",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 3,
+      "pdfPage": 24,
+      "printedPage": 20,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant. D",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 3,
+      "pdfPage": 25,
+      "printedPage": 21,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat. 4"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 25,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's share."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": null,
+      "pdfPage": 30,
+      "printedPage": 26,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and point. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 4,
+      "pdfPage": 34,
+      "printedPage": 30,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant. (T",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 4,
+      "pdfPage": 34,
+      "printedPage": 30,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant. (T",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 4,
+      "pdfPage": 35,
+      "printedPage": 31,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 4,
+      "pdfPage": 36,
+      "printedPage": 32,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's act."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 5,
+      "pdfPage": 42,
+      "printedPage": 38,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant. (T",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 5,
+      "pdfPage": 42,
+      "printedPage": 38,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant. (T",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 5,
+      "pdfPage": 43,
+      "printedPage": 39,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 5,
+      "pdfPage": 43,
+      "printedPage": 39,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 6,
+      "pdfPage": 50,
+      "printedPage": 46,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "B Listen and do.",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 6,
+      "pdfPage": 50,
+      "printedPage": 46,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": 6,
+      "pdfPage": 51,
+      "printedPage": 47,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g1b",
+      "unit": null,
+      "pdfPage": 56,
+      "printedPage": 52,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and point. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Role-play and say.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 5,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 1,
+      "pdfPage": 11,
+      "printedPage": 6,
+      "kind": "listening",
+      "activityHeadings": [
+        "B Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 2,
+      "pdfPage": 17,
+      "printedPage": 12,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Listen and say.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 2,
+      "pdfPage": 17,
+      "printedPage": 12,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 13,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 14,
+      "kind": "listening",
+      "activityHeadings": [
+        "B Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "pdfPage": 25,
+      "printedPage": 20,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "pdfPage": 25,
+      "printedPage": 20,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "pdfPage": 26,
+      "printedPage": 21,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "pdfPage": 27,
+      "printedPage": 22,
+      "kind": "listening",
+      "activityHeadings": [
+        "B Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "pdfPage": 27,
+      "printedPage": 22,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "A Draw and say."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": null,
+      "pdfPage": 31,
+      "printedPage": 26,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and point."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 4,
+      "pdfPage": 35,
+      "printedPage": 30,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 4,
+      "pdfPage": 35,
+      "printedPage": 30,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 4,
+      "pdfPage": 36,
+      "printedPage": 31,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 4,
+      "pdfPage": 37,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "B Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 5,
+      "pdfPage": 43,
+      "printedPage": 38,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 5,
+      "pdfPage": 43,
+      "printedPage": 38,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 5,
+      "pdfPage": 44,
+      "printedPage": 39,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 5,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "listening",
+      "activityHeadings": [
+        "B Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "pdfPage": 51,
+      "printedPage": 46,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "pdfPage": 51,
+      "printedPage": 46,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "pdfPage": 52,
+      "printedPage": 47,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "pdfPage": 52,
+      "printedPage": 47,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "pdfPage": 53,
+      "printedPage": 48,
+      "kind": "listening",
+      "activityHeadings": [
+        "B Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2a",
+      "unit": null,
+      "pdfPage": 57,
+      "printedPage": 52,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and point."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "Listen and do.",
+        "Listen and chant again. (T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "Listen and chant again. (T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B) Let's survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 6,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's write. 1"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "pdfPage": 16,
+      "printedPage": 12,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant. T",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "pdfPage": 16,
+      "printedPage": 12,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant. T",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "pdfPage": 16,
+      "printedPage": 12,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Draw and say."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "pdfPage": 17,
+      "printedPage": 13,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 14,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "pdfPage": 24,
+      "printedPage": 20,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "pdfPage": 24,
+      "printedPage": 20,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "C Listen and chant again."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "pdfPage": 25,
+      "printedPage": 21,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat. (i"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "pdfPage": 25,
+      "printedPage": 21,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "pdfPage": 26,
+      "printedPage": 22,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": null,
+      "pdfPage": 30,
+      "printedPage": 26,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and point."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 4,
+      "pdfPage": 34,
+      "printedPage": 30,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "Listen and chant again. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 4,
+      "pdfPage": 34,
+      "printedPage": 30,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "Listen and chant again. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 4,
+      "pdfPage": 35,
+      "printedPage": 31,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 4,
+      "pdfPage": 36,
+      "printedPage": 32,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "pdfPage": 42,
+      "printedPage": 38,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "Listen and do.",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "pdfPage": 42,
+      "printedPage": 38,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Look, listen and chant.",
+        "Listen and chant again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "pdfPage": 43,
+      "printedPage": 39,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "pdfPage": 43,
+      "printedPage": 39,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "pdfPage": 44,
+      "printedPage": 40,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "pdfPage": 44,
+      "printedPage": 40,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 6,
+      "pdfPage": 50,
+      "printedPage": 46,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and sing.",
+        "Listen and sing again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 6,
+      "pdfPage": 50,
+      "printedPage": 46,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Listen and sing again. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 6,
+      "pdfPage": 51,
+      "printedPage": 47,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat. (T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": 6,
+      "pdfPage": 52,
+      "printedPage": 48,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g2b",
+      "unit": null,
+      "pdfPage": 56,
+      "printedPage": 52,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and point. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Let’s role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 5,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 5,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 5,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "CC Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 7,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 8,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and fill in the blanks."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "pdfPage": 14,
+      "printedPage": 9,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 14,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 14,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 14,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "CC Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "pdfPage": 22,
+      "printedPage": 17,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "pdfPage": 23,
+      "printedPage": 18,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and tick."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "pdfPage": 24,
+      "printedPage": 19,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 24,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 24,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Let’s talk and tick or cross."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 24,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 30,
+      "printedPage": 25,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 30,
+      "printedPage": 25,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 30,
+      "printedPage": 25,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "CC Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 31,
+      "printedPage": 26,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 32,
+      "printedPage": 27,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and tick.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 33,
+      "printedPage": 28,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 33,
+      "printedPage": 28,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Read, think and write. Then act it out."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "pdfPage": 34,
+      "printedPage": 29,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make.",
+        "in my sandwich.        Now, let’s make it."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": null,
+      "pdfPage": 37,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": null,
+      "pdfPage": 37,
+      "printedPage": 32,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s act."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": null,
+      "pdfPage": 39,
+      "printedPage": 34,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and number.",
+        "C Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": null,
+      "pdfPage": 39,
+      "printedPage": 34,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s chant.",
+        "Now, make your own chants"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": null,
+      "pdfPage": 40,
+      "printedPage": 35,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let’s make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 46,
+      "printedPage": 41,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 46,
+      "printedPage": 41,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 46,
+      "printedPage": 41,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "CC Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 47,
+      "printedPage": 42,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Draw and write about your pet."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 48,
+      "printedPage": 43,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and number.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 49,
+      "printedPage": 44,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and circle."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "pdfPage": 50,
+      "printedPage": 45,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 50,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 50,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 50,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 56,
+      "printedPage": 51,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 56,
+      "printedPage": 51,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Choose, ask and answer."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 56,
+      "printedPage": 51,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "CC Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 58,
+      "printedPage": 53,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and number.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 59,
+      "printedPage": 54,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and tick."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 59,
+      "printedPage": 54,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Read, think and write. Then report."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "pdfPage": 60,
+      "printedPage": 55,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 60,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 60,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 60,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 66,
+      "printedPage": 61,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 66,
+      "printedPage": 61,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 66,
+      "printedPage": 61,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "CC Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 68,
+      "printedPage": 63,
+      "kind": "listening",
+      "activityHeadings": [
+        "B Listen and number.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 69,
+      "printedPage": 64,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and choose."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 69,
+      "printedPage": 64,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Now, let’s write:"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "pdfPage": 70,
+      "printedPage": 65,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": null,
+      "pdfPage": 73,
+      "printedPage": 68,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number.",
+        "Bill has some new friends. Please listen and find them."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": null,
+      "pdfPage": 75,
+      "printedPage": 70,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and number.",
+        "C Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": null,
+      "pdfPage": 75,
+      "printedPage": 70,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s chant.",
+        "Now, make your own chants"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3a",
+      "unit": null,
+      "pdfPage": 76,
+      "printedPage": 71,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let’s make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant.",
+        "B Ask and answer. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 11,
+      "printedPage": 7,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and say. T",
+        "Listen and circle. T",
+        "Listen, write and say. T",
+        "Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 8,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 9,
+      "kind": "listening",
+      "activityHeadings": [
+        "listen to the tape"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 9,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "do role-plays",
+        "sing songs and say chants"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 9,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "pdfPage": 15,
+      "printedPage": 11,
+      "kind": "listening",
+      "activityHeadings": [
+        "Tim listens to beautiful music."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 14,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 14,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 14,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 15,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 15,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "pdfPage": 21,
+      "printedPage": 17,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and say. D",
+        "B Listen and circle.",
+        "Listen, write and say. T",
+        "Listen and repeat. 1"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "pdfPage": 22,
+      "printedPage": 18,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "pdfPage": 23,
+      "printedPage": 19,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Bi Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "pdfPage": 28,
+      "printedPage": 24,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "pdfPage": 28,
+      "printedPage": 24,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant. (",
+        "B Let's role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "pdfPage": 28,
+      "printedPage": 24,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 25,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 25,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "pdfPage": 31,
+      "printedPage": 27,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and say. T",
+        "Listen and circle.",
+        "Listen, write and say. (",
+        "D Listen and repeat. D"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "pdfPage": 32,
+      "printedPage": 28,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "pdfPage": 33,
+      "printedPage": 29,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": null,
+      "pdfPage": 36,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": null,
+      "pdfPage": 38,
+      "printedPage": 34,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and colour. T",
+        "Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": null,
+      "pdfPage": 38,
+      "printedPage": 34,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's chant.",
+        "Now, make your own chants"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": null,
+      "pdfPage": 39,
+      "printedPage": 35,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let's make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "pdfPage": 44,
+      "printedPage": 40,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "pdfPage": 44,
+      "printedPage": 40,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "pdfPage": 44,
+      "printedPage": 40,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 41,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat. (D"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 41,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "pdfPage": 47,
+      "printedPage": 43,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and say. T",
+        "Listen and circle.",
+        "Listen, write and say. T",
+        "D Listen and repeat. 0"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "pdfPage": 48,
+      "printedPage": 44,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and tick."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "pdfPage": 49,
+      "printedPage": 45,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "pdfPage": 54,
+      "printedPage": 50,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant. (T",
+        "listening to music"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "pdfPage": 54,
+      "printedPage": 50,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant. (T",
+        "B Ask and answer."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "pdfPage": 54,
+      "printedPage": 50,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 51,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat. (",
+        "She's listening to music.",
+        "I'm listening to music."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 51,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "pdfPage": 57,
+      "printedPage": 53,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and say. T",
+        "Listen and circle.",
+        "Listen, write and say. D",
+        "Listen and repeat. D"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "pdfPage": 58,
+      "printedPage": 54,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "pdfPage": 59,
+      "printedPage": 55,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "pdfPage": 64,
+      "printedPage": 60,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and chant. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "pdfPage": 64,
+      "printedPage": 60,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "A Look, listen and chant. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "pdfPage": 64,
+      "printedPage": 60,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 61,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 61,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "pdfPage": 66,
+      "printedPage": 62,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Now write about your new home."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "pdfPage": 67,
+      "printedPage": 63,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and say. D",
+        "B Listen, write and say. T",
+        "Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "pdfPage": 68,
+      "printedPage": 64,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and tick. (T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "pdfPage": 69,
+      "printedPage": 65,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": null,
+      "pdfPage": 72,
+      "printedPage": 68,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": null,
+      "pdfPage": 74,
+      "printedPage": 70,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and trace. T",
+        "Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": null,
+      "pdfPage": 74,
+      "printedPage": 70,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's chant.",
+        "Now, make your own chants"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g3b",
+      "unit": null,
+      "pdfPage": 75,
+      "printedPage": 71,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let's make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 5,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 5,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 5,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 7,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle.",
+        "C Listen and write.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 8,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and tick."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "pdfPage": 14,
+      "printedPage": 9,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 14,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 14,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "pdfPage": 22,
+      "printedPage": 17,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle.",
+        "C Listen and write.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "pdfPage": 23,
+      "printedPage": 18,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "pdfPage": 24,
+      "printedPage": 19,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 24,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 24,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "pdfPage": 30,
+      "printedPage": 25,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "pdfPage": 30,
+      "printedPage": 25,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Do a survey and report."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "pdfPage": 30,
+      "printedPage": 25,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "pdfPage": 32,
+      "printedPage": 27,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle.",
+        "C Listen and write.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "pdfPage": 33,
+      "printedPage": 28,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and tick."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "pdfPage": 34,
+      "printedPage": 29,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": null,
+      "pdfPage": 37,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": null,
+      "pdfPage": 39,
+      "printedPage": 34,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and circle.",
+        "B Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": null,
+      "pdfPage": 40,
+      "printedPage": 35,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": null,
+      "pdfPage": 41,
+      "printedPage": 36,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let’s make a new"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "pdfPage": 46,
+      "printedPage": 41,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "pdfPage": 46,
+      "printedPage": 41,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "pdfPage": 47,
+      "printedPage": 42,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "pdfPage": 48,
+      "printedPage": 43,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle.",
+        "C Listen and write.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "pdfPage": 49,
+      "printedPage": 44,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "pdfPage": 50,
+      "printedPage": 45,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 50,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 50,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "pdfPage": 56,
+      "printedPage": 51,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "pdfPage": 56,
+      "printedPage": 51,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Look, think and role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "pdfPage": 56,
+      "printedPage": 51,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "pdfPage": 57,
+      "printedPage": 52,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s write safety rules."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "pdfPage": 58,
+      "printedPage": 53,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle.",
+        "C Listen and write.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "pdfPage": 59,
+      "printedPage": 54,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and circle."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "pdfPage": 60,
+      "printedPage": 55,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 60,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 60,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "pdfPage": 66,
+      "printedPage": 61,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "pdfPage": 66,
+      "printedPage": 61,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Do a survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "pdfPage": 66,
+      "printedPage": 61,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "pdfPage": 68,
+      "printedPage": 63,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle the odd word out.",
+        "C Listen and write.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "pdfPage": 69,
+      "printedPage": 64,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "pdfPage": 70,
+      "printedPage": 65,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": null,
+      "pdfPage": 73,
+      "printedPage": 68,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and choose."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": null,
+      "pdfPage": 74,
+      "printedPage": 69,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Read, draw and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": null,
+      "pdfPage": 75,
+      "printedPage": 70,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and circle.",
+        "B Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4a",
+      "unit": null,
+      "pdfPage": 76,
+      "printedPage": 71,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "pdfPage": 11,
+      "printedPage": 7,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and repeat. (",
+        "B Read aloud. Then listen and check. T",
+        "Listen and write.",
+        "Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 8,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and fill in the blanks."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 9,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 14,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat. 1"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 14,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Ask and answer."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 14,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "© Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 15,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 15,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's talk. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 15,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "pdfPage": 21,
+      "printedPage": 17,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and repeat.",
+        "Read aloud. Then listen and check. D",
+        "Listen and write.",
+        "Listen and repeat. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "pdfPage": 22,
+      "printedPage": 18,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "pdfPage": 23,
+      "printedPage": 19,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "pdfPage": 28,
+      "printedPage": 24,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat. D"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "pdfPage": 28,
+      "printedPage": 24,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 25,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 25,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Do a survey and report."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 25,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "pdfPage": 31,
+      "printedPage": 27,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and repeat.",
+        "Read aloud. Then listen and check.",
+        "Listen and write.",
+        "Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "pdfPage": 32,
+      "printedPage": 28,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and choose."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "pdfPage": 33,
+      "printedPage": 29,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": null,
+      "pdfPage": 36,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": null,
+      "pdfPage": 38,
+      "printedPage": 34,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and number. C",
+        "B Listen and write. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": null,
+      "pdfPage": 39,
+      "printedPage": 35,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "pdfPage": 44,
+      "printedPage": 40,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "pdfPage": 44,
+      "printedPage": 40,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 41,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 41,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Do a survey and report."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 41,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "pdfPage": 47,
+      "printedPage": 43,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and repeat. C",
+        "listening",
+        "Read aloud. Then listen and check.",
+        "Listen and write.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "pdfPage": 48,
+      "printedPage": 44,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "pdfPage": 49,
+      "printedPage": 45,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "pdfPage": 54,
+      "printedPage": 50,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat. D"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "pdfPage": 54,
+      "printedPage": 50,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Ask and answer."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "pdfPage": 54,
+      "printedPage": 50,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 51,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 51,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Do a survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "pdfPage": 55,
+      "printedPage": 51,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "pdfPage": 57,
+      "printedPage": 53,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and repeat. (",
+        "Read aloud. Then listen and check.",
+        "C Listen and write. D",
+        "Listen and repeat. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "pdfPage": 58,
+      "printedPage": 54,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "pdfPage": 59,
+      "printedPage": 55,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "pdfPage": 64,
+      "printedPage": 60,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and repeat. P"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "pdfPage": 64,
+      "printedPage": 60,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "pdfPage": 64,
+      "printedPage": 60,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 61,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 61,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's role-play. D"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 61,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "pdfPage": 67,
+      "printedPage": 63,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and repeat. T",
+        "B Read aloud. Then listen and check. T",
+        "Listen and write, D",
+        "Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "pdfPage": 68,
+      "printedPage": 64,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "pdfPage": 69,
+      "printedPage": 65,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": null,
+      "pdfPage": 72,
+      "printedPage": 68,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": null,
+      "pdfPage": 74,
+      "printedPage": 70,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and number.",
+        "B Listen and write. (T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g4b",
+      "unit": null,
+      "pdfPage": 75,
+      "printedPage": 71,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 3,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 3,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let’s talk about our         Lily is cute."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 3,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and answer.",
+        "2. Now listen and answer: What is Tom like?",
+        "Yaoyao: Oh, listen, a dog is barking."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 5,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 7,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 7,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 8,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen, colour and repeat.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 14,
+      "printedPage": 9,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 15,
+      "printedPage": 10,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, link and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 16,
+      "printedPage": 11,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let’s write.",
+        "Now, write about your friend/classmate."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "pdfPage": 18,
+      "printedPage": 13,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 21,
+      "printedPage": 16,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and answer.",
+        "2. Now listen and answer: Who is Yaoyao’s favourite teacher?"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 22,
+      "printedPage": 17,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 22,
+      "printedPage": 17,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 24,
+      "printedPage": 19,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 24,
+      "printedPage": 19,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 25,
+      "printedPage": 20,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen, colour and repeat.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 26,
+      "printedPage": 21,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 27,
+      "printedPage": 22,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, choose and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 28,
+      "printedPage": 23,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 28,
+      "printedPage": 23,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Write about your favourite teacher."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 29,
+      "printedPage": 24,
+      "kind": "listening",
+      "activityHeadings": [
+        "hair. She is young and funny.          never listen."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 30,
+      "printedPage": 25,
+      "kind": "listening",
+      "activityHeadings": [
+        "listen!” the students say.",
+        "(     ) All the students study hard and listen to their teacher in class."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "pdfPage": 30,
+      "printedPage": 25,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 32,
+      "printedPage": 27,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 32,
+      "printedPage": 27,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 33,
+      "printedPage": 28,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and answer.",
+        "2. Now listen and answer: What are Linda’s and Binbin’s favourite"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 34,
+      "printedPage": 29,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 36,
+      "printedPage": 31,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 36,
+      "printedPage": 31,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 37,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen, colour and repeat.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 38,
+      "printedPage": 33,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make an animal book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 39,
+      "printedPage": 34,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 40,
+      "printedPage": 35,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 40,
+      "printedPage": 35,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "pdfPage": 42,
+      "printedPage": 37,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": null,
+      "pdfPage": 43,
+      "printedPage": 38,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": null,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, read and write.                                            bl     blow",
+        "B Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": null,
+      "pdfPage": 46,
+      "printedPage": 41,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 50,
+      "printedPage": 45,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 50,
+      "printedPage": 45,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 50,
+      "printedPage": 45,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 51,
+      "printedPage": 46,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and answer.",
+        "2. Now listen and answer: What does Binbin want to buy? How"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 52,
+      "printedPage": 47,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 52,
+      "printedPage": 47,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 54,
+      "printedPage": 49,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 55,
+      "printedPage": 50,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and group.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 56,
+      "printedPage": 51,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "pdfPage": 57,
+      "printedPage": 52,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and put the things into the right bag."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 62,
+      "printedPage": 57,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 62,
+      "printedPage": 57,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 62,
+      "printedPage": 57,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 63,
+      "printedPage": 58,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and answer.",
+        "2. Now listen and answer: What are they talking about?"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 64,
+      "printedPage": 59,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Do a survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 64,
+      "printedPage": 59,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write.",
+        "Now draw and write about your favourite TV shows."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 66,
+      "printedPage": 61,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 67,
+      "printedPage": 62,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen, colour and repeat.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 68,
+      "printedPage": 63,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make a poster."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 69,
+      "printedPage": 64,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 70,
+      "printedPage": 65,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "pdfPage": 72,
+      "printedPage": 67,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 74,
+      "printedPage": 69,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 74,
+      "printedPage": 69,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 75,
+      "printedPage": 70,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and write.",
+        "2. Now listen and answer: What are they talking about?"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 76,
+      "printedPage": 71,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Do a survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 76,
+      "printedPage": 71,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 78,
+      "printedPage": 73,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 79,
+      "printedPage": 74,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen, colour and repeat.",
+        "D Listen, write and say.",
+        "E Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 80,
+      "printedPage": 75,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 81,
+      "printedPage": 76,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 82,
+      "printedPage": 77,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "pdfPage": 82,
+      "printedPage": 77,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": null,
+      "pdfPage": 85,
+      "printedPage": 80,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and circle."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": null,
+      "pdfPage": 86,
+      "printedPage": 81,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Use the information in the questionnaire. Write about you"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": null,
+      "pdfPage": 87,
+      "printedPage": 82,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, read and write.",
+        "B Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": null,
+      "pdfPage": 88,
+      "printedPage": 83,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5a",
+      "unit": null,
+      "pdfPage": 90,
+      "printedPage": 85,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 7,
+      "printedPage": 3,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 7,
+      "printedPage": 3,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 7,
+      "printedPage": 3,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Think and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and say.",
+        "1. Look at the picture. Listen and answer: What's wrong with Frank?"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Think and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 11,
+      "printedPage": 7,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 11,
+      "printedPage": 7,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 8,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "Listen, circle and repeat.",
+        "Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 9,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 14,
+      "printedPage": 10,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number. 0"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "pdfPage": 15,
+      "printedPage": 11,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Choose, think and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 15,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 15,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Ask and answer."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 15,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 16,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and number.",
+        "2. Now listen and number the pictures."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 21,
+      "printedPage": 17,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 23,
+      "printedPage": 19,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 24,
+      "printedPage": 20,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen, circle and repeat. (",
+        "Listen, write and say. T",
+        "Listen and repeat. D"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 25,
+      "printedPage": 21,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 26,
+      "printedPage": 22,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and tick."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "pdfPage": 27,
+      "printedPage": 23,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let's write.",
+        "Write about what you chose in Part C."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 31,
+      "printedPage": 27,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number. O"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 31,
+      "printedPage": 27,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Think and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 32,
+      "printedPage": 28,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and say.",
+        "2. Now listen. What is Joy going to do for her birthday party?"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 33,
+      "printedPage": 29,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Draw and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 35,
+      "printedPage": 31,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Do a survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 35,
+      "printedPage": 31,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 36,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat. D",
+        "B Listen, circle and repeat. D",
+        "C Listen, write and say. T",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 37,
+      "printedPage": 33,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 38,
+      "printedPage": 34,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 39,
+      "printedPage": 35,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's role-play."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 39,
+      "printedPage": 35,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "pdfPage": 41,
+      "printedPage": 37,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Think and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": null,
+      "pdfPage": 42,
+      "printedPage": 38,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number. 4D"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": null,
+      "pdfPage": 44,
+      "printedPage": 40,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and write. (",
+        "® Listen and write. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": null,
+      "pdfPage": 45,
+      "printedPage": 41,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 48,
+      "printedPage": 44,
+      "kind": "listening",
+      "activityHeadings": [
+        "listened to music"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 49,
+      "printedPage": 45,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and tick."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 49,
+      "printedPage": 45,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Chant and say."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 49,
+      "printedPage": 45,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 50,
+      "printedPage": 46,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and number.",
+        "2. Now listen and number the pictures."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 51,
+      "printedPage": 47,
+      "kind": "listening",
+      "activityHeadings": [
+        "listened to music"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 51,
+      "printedPage": 47,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Do a survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 51,
+      "printedPage": 47,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 53,
+      "printedPage": 49,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 53,
+      "printedPage": 49,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 54,
+      "printedPage": 50,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and repeat. D",
+        "B Listen, circle and repeat. D",
+        "Listen, write and say.",
+        "Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 55,
+      "printedPage": 51,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 56,
+      "printedPage": 52,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 57,
+      "printedPage": 53,
+      "kind": "listening",
+      "activityHeadings": [
+        "danced, jumped rope, listened to music,"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 57,
+      "printedPage": 53,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 57,
+      "printedPage": 53,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "pdfPage": 59,
+      "printedPage": 55,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 61,
+      "printedPage": 57,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and tick."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 61,
+      "printedPage": 57,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Chant and say. 4"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 61,
+      "printedPage": 57,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 62,
+      "printedPage": 58,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and number.",
+        "2. Now listen and number the pictures."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 63,
+      "printedPage": 59,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 63,
+      "printedPage": 59,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Think and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 65,
+      "printedPage": 61,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 65,
+      "printedPage": 61,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 66,
+      "printedPage": 62,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat. (",
+        "B Listen, circle and repeat.",
+        "Listen, write and say. 1",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 67,
+      "printedPage": 63,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 68,
+      "printedPage": 64,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 69,
+      "printedPage": 65,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "pdfPage": 69,
+      "printedPage": 65,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let's write.",
+        "How was your trip? Write about it here."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 73,
+      "printedPage": 69,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 73,
+      "printedPage": 69,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 74,
+      "printedPage": 70,
+      "kind": "listening",
+      "activityHeadings": [
+        "Look, listen and number.",
+        "2. Now listen and number the pictures."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 75,
+      "printedPage": 71,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Do a survey and report."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 75,
+      "printedPage": 71,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 77,
+      "printedPage": 73,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 77,
+      "printedPage": 73,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 78,
+      "printedPage": 74,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen, point and repeat. 1",
+        "Listen, circle and repeat. T",
+        "Listen, write and say.",
+        "D Listen and repeat. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 79,
+      "printedPage": 75,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 80,
+      "printedPage": 76,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 81,
+      "printedPage": 77,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "pdfPage": 81,
+      "printedPage": 77,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": null,
+      "pdfPage": 84,
+      "printedPage": 80,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": null,
+      "pdfPage": 85,
+      "printedPage": 81,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Write about your trip."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": null,
+      "pdfPage": 86,
+      "printedPage": 82,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and write. (",
+        "listened jumped",
+        "B Listen and write. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": null,
+      "pdfPage": 87,
+      "printedPage": 83,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g5b",
+      "unit": null,
+      "pdfPage": 89,
+      "printedPage": 85,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Retell the story in groups."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 3,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 3,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and say.",
+        "2. Now listen and say."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 5,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 7,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 8,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 14,
+      "printedPage": 9,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 15,
+      "printedPage": 10,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 15,
+      "printedPage": 10,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 16,
+      "printedPage": 11,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "pdfPage": 18,
+      "printedPage": 13,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 15,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 21,
+      "printedPage": 16,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and say.",
+        "2. Now listen and say."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 22,
+      "printedPage": 17,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write.",
+        "Choose a country and write about it."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 24,
+      "printedPage": 19,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Ask and answer."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 25,
+      "printedPage": 20,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and sort.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 26,
+      "printedPage": 21,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 27,
+      "printedPage": 22,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "pdfPage": 30,
+      "printedPage": 25,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "pdfPage": 32,
+      "printedPage": 27,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "pdfPage": 33,
+      "printedPage": 28,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and say.",
+        "2. Now listen and say."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "pdfPage": 36,
+      "printedPage": 31,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "pdfPage": 37,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and circle the odd word out.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "pdfPage": 38,
+      "printedPage": 33,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "pdfPage": 39,
+      "printedPage": 34,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": null,
+      "pdfPage": 43,
+      "printedPage": 38,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": null,
+      "pdfPage": 45,
+      "printedPage": 40,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and circle.",
+        "B Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": null,
+      "pdfPage": 46,
+      "printedPage": 41,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": null,
+      "pdfPage": 48,
+      "printedPage": 43,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 50,
+      "printedPage": 45,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 50,
+      "printedPage": 45,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 50,
+      "printedPage": 45,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 51,
+      "printedPage": 46,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and number.",
+        "2. Now listen and number the pictures."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 52,
+      "printedPage": 47,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Think and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 53,
+      "printedPage": 48,
+      "kind": "listening",
+      "activityHeadings": [
+        "Jiayi. She likes playing basketball and listening"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 54,
+      "printedPage": 49,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Write about your day."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 55,
+      "printedPage": 50,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen and sort.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 56,
+      "printedPage": 51,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "pdfPage": 57,
+      "printedPage": 52,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 62,
+      "printedPage": 57,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 62,
+      "printedPage": 57,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 62,
+      "printedPage": 57,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 63,
+      "printedPage": 58,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and number.",
+        "2. Now listen and number the pictures."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 66,
+      "printedPage": 61,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write.",
+        "Choose a famous person from Par t B and write about him/her."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 67,
+      "printedPage": 62,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen, underline and repeat.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 68,
+      "printedPage": 63,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 69,
+      "printedPage": 64,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 70,
+      "printedPage": 65,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 70,
+      "printedPage": 65,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "pdfPage": 72,
+      "printedPage": 67,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell one of the stories."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 74,
+      "printedPage": 69,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 74,
+      "printedPage": 69,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let’s talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 74,
+      "printedPage": 69,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 75,
+      "printedPage": 70,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and tick.",
+        "2. Now listen and tick what she is going to do."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 76,
+      "printedPage": 71,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Do a survey and report."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 76,
+      "printedPage": 71,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 78,
+      "printedPage": 73,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Ask and answer."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 78,
+      "printedPage": 73,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 79,
+      "printedPage": 74,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, point and repeat.",
+        "B Listen, repeat and choose.",
+        "C Listen, write and say.",
+        "D Listen and repeat."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 80,
+      "printedPage": 75,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "B Let’s make."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 81,
+      "printedPage": 76,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "pdfPage": 82,
+      "printedPage": 77,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Think and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": null,
+      "pdfPage": 85,
+      "printedPage": 80,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen, write and tick."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": null,
+      "pdfPage": 86,
+      "printedPage": 81,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Think and write.",
+        "Marco Polo was the first westerner to write about China. When"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": null,
+      "pdfPage": 87,
+      "printedPage": 82,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Look, listen and circle.",
+        "B Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": null,
+      "pdfPage": 88,
+      "printedPage": 83,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "C Let’s make a word book."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6a",
+      "unit": null,
+      "pdfPage": 90,
+      "printedPage": 85,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "C Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 6,
+      "printedPage": 2,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 6,
+      "printedPage": 2,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 7,
+      "printedPage": 3,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 8,
+      "printedPage": 4,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 9,
+      "printedPage": 5,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 6,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and fill in the blanks."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 10,
+      "printedPage": 6,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 11,
+      "printedPage": 7,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write.",
+        "Write about yourself."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 12,
+      "printedPage": 8,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Project Time"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 13,
+      "printedPage": 9,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make.",
+        "Let's share."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "pdfPage": 15,
+      "printedPage": 11,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 16,
+      "printedPage": 12,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 16,
+      "printedPage": 12,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 17,
+      "printedPage": 13,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write.",
+        "Draw a map of your neighbourhood and write about it."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 14,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 18,
+      "printedPage": 14,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 19,
+      "printedPage": 15,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write.",
+        "Write about your school."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 16,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and write the names."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 20,
+      "printedPage": 16,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 21,
+      "printedPage": 17,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "D Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 22,
+      "printedPage": 18,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Project Time"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "pdfPage": 23,
+      "printedPage": 19,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make.",
+        "C Let's share."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 26,
+      "printedPage": 22,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and write the times."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 26,
+      "printedPage": 22,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 27,
+      "printedPage": 23,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write.",
+        "What do you do on weekends? Write about your weekends"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 28,
+      "printedPage": 24,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 28,
+      "printedPage": 24,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 29,
+      "printedPage": 25,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 30,
+      "printedPage": 26,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 31,
+      "printedPage": 27,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 32,
+      "printedPage": 28,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Project Time"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 33,
+      "printedPage": 29,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make.",
+        "C Let's share."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "pdfPage": 35,
+      "printedPage": 31,
+      "kind": "listening",
+      "activityHeadings": [
+        "It's good to listen to our mother."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 36,
+      "printedPage": 32,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 36,
+      "printedPage": 32,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 37,
+      "printedPage": 33,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write.",
+        "Write about your free time."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 38,
+      "printedPage": 34,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number. e"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 38,
+      "printedPage": 34,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk.",
+        "Now, do a survey."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 39,
+      "printedPage": 35,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write.",
+        "Now, write about your weekend."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 40,
+      "printedPage": 36,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 40,
+      "printedPage": 36,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 41,
+      "printedPage": 37,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write.",
+        "Now write about your weekend."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 42,
+      "printedPage": 38,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Project Time"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 43,
+      "printedPage": 39,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make.",
+        "Let's share."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "pdfPage": 45,
+      "printedPage": 41,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "pdfPage": 46,
+      "printedPage": 42,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match. T"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "pdfPage": 46,
+      "printedPage": 42,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "pdfPage": 47,
+      "printedPage": 43,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "pdfPage": 48,
+      "printedPage": 44,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and number."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "pdfPage": 50,
+      "printedPage": 46,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and number. ("
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "pdfPage": 50,
+      "printedPage": 46,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "pdfPage": 51,
+      "printedPage": 47,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "pdfPage": 52,
+      "printedPage": 48,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Project Time"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "pdfPage": 53,
+      "printedPage": 49,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make.",
+        "Let's share."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 56,
+      "printedPage": 52,
+      "kind": "listening",
+      "activityHeadings": [
+        "Listen and match."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 56,
+      "printedPage": 52,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 57,
+      "printedPage": 53,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 58,
+      "printedPage": 54,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and circle."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 58,
+      "printedPage": 54,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 59,
+      "printedPage": 55,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 60,
+      "printedPage": 56,
+      "kind": "listening",
+      "activityHeadings": [
+        "A Listen and write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 60,
+      "printedPage": 56,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "B Let's talk."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 61,
+      "printedPage": 57,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's write."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 62,
+      "printedPage": 58,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Project Time"
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 63,
+      "printedPage": 59,
+      "kind": "open-writing-or-drawing",
+      "activityHeadings": [
+        "Let's make.",
+        "Make a postcard to send from one of these cities.",
+        "Let's share."
+      ],
+      "status": "not-imported-as-original-activity"
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "pdfPage": 65,
+      "printedPage": 61,
+      "kind": "oral-or-role-play",
+      "activityHeadings": [
+        "Retell the story."
+      ],
+      "status": "not-imported-as-original-activity"
+    }
+  ]
+}

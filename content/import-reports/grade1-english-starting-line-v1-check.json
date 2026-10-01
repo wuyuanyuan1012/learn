@@ -1,0 +1,27 @@
+{
+  "batch": "grade1-english-starting-line-v1",
+  "mode": "check-only",
+  "checkedAt": "2026-09-30T15:36:14.406Z",
+  "sha256": "f07618cd22916bf7ba431821c8457c03dd80d95ff88960d3e42fa4f32d33b2d1",
+  "before": {
+    "lessons": 172,
+    "questions": 1720
+  },
+  "batchTotal": {
+    "lessons": 15,
+    "questions": 150
+  },
+  "pending": {
+    "lessons": 0,
+    "questions": 0
+  },
+  "inserted": {
+    "lessons": 0,
+    "questions": 0
+  },
+  "after": {
+    "lessons": 172,
+    "questions": 1720
+  },
+  "existingDataPreserved": true
+}

@@ -1,0 +1,4131 @@
+{
+  "entries": [
+    {
+      "book": "g1a",
+      "unit": 1,
+      "word": "book",
+      "meaning": "书",
+      "pdfPages": [
+        10,
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 1,
+      "word": "ruler",
+      "meaning": "尺子",
+      "pdfPages": [
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 1,
+      "word": "pencil",
+      "meaning": "铅笔",
+      "pdfPages": [
+        9,
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 1,
+      "word": "schoolbag",
+      "meaning": "书包",
+      "pdfPages": [
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 1,
+      "word": "teacher",
+      "meaning": "老师",
+      "pdfPages": [
+        11
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 2,
+      "word": "face",
+      "meaning": "脸",
+      "pdfPages": [
+        17,
+        19,
+        24
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 2,
+      "word": "ear",
+      "meaning": "耳朵",
+      "pdfPages": [
+        19,
+        21,
+        23
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 2,
+      "word": "eye",
+      "meaning": "眼睛",
+      "pdfPages": [
+        19,
+        21
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 2,
+      "word": "nose",
+      "meaning": "鼻子",
+      "pdfPages": [
+        18,
+        19,
+        20,
+        23
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 2,
+      "word": "mouth",
+      "meaning": "嘴",
+      "pdfPages": [
+        17,
+        19,
+        20,
+        23
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 3,
+      "word": "dog",
+      "meaning": "狗",
+      "pdfPages": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 3,
+      "word": "bird",
+      "meaning": "鸟",
+      "pdfPages": [
+        27,
+        29,
+        31
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 3,
+      "word": "tiger",
+      "meaning": "老虎",
+      "pdfPages": [
+        25,
+        27,
+        28
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 3,
+      "word": "monkey",
+      "meaning": "猴子",
+      "pdfPages": [
+        27,
+        31
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 3,
+      "word": "cat",
+      "meaning": "猫",
+      "pdfPages": [
+        27
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 4,
+      "word": "one",
+      "meaning": "一",
+      "pdfPages": [
+        37,
+        41,
+        42
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 4,
+      "word": "two",
+      "meaning": "二",
+      "pdfPages": [
+        37,
+        41
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 4,
+      "word": "three",
+      "meaning": "三",
+      "pdfPages": [
+        37,
+        41
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 4,
+      "word": "four",
+      "meaning": "四",
+      "pdfPages": [
+        37
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 4,
+      "word": "five",
+      "meaning": "五",
+      "pdfPages": [
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 5,
+      "word": "black",
+      "meaning": "黑色",
+      "pdfPages": [
+        44,
+        45,
+        47,
+        50
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 5,
+      "word": "yellow",
+      "meaning": "黄色",
+      "pdfPages": [
+        43,
+        45,
+        46,
+        50
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 5,
+      "word": "blue",
+      "meaning": "蓝色",
+      "pdfPages": [
+        45,
+        50
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 5,
+      "word": "red",
+      "meaning": "红色",
+      "pdfPages": [
+        45,
+        49
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 5,
+      "word": "green",
+      "meaning": "绿色",
+      "pdfPages": [
+        45,
+        50
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 6,
+      "word": "apple",
+      "meaning": "苹果",
+      "pdfPages": [
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 6,
+      "word": "pear",
+      "meaning": "梨",
+      "pdfPages": [
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 6,
+      "word": "banana",
+      "meaning": "香蕉",
+      "pdfPages": [
+        51,
+        53,
+        54,
+        55,
+        58
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 6,
+      "word": "orange",
+      "meaning": "橙子",
+      "pdfPages": [
+        53,
+        55
+      ]
+    },
+    {
+      "book": "g1a",
+      "unit": 6,
+      "word": "like",
+      "meaning": "喜欢",
+      "pdfPages": [
+        51,
+        52,
+        54,
+        55,
+        58
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 1,
+      "word": "chair",
+      "meaning": "椅子",
+      "pdfPages": [
+        8
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 1,
+      "word": "desk",
+      "meaning": "课桌",
+      "pdfPages": [
+        6,
+        7,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 1,
+      "word": "blackboard",
+      "meaning": "黑板",
+      "pdfPages": [
+        8
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 1,
+      "word": "on",
+      "meaning": "在……上面",
+      "pdfPages": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 1,
+      "word": "under",
+      "meaning": "在……下面",
+      "pdfPages": [
+        8
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 2,
+      "word": "light",
+      "meaning": "灯",
+      "pdfPages": [
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 2,
+      "word": "bed",
+      "meaning": "床",
+      "pdfPages": [
+        16,
+        20
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 2,
+      "word": "door",
+      "meaning": "门",
+      "pdfPages": [
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 2,
+      "word": "box",
+      "meaning": "盒子",
+      "pdfPages": [
+        16
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 2,
+      "word": "behind",
+      "meaning": "在……后面",
+      "pdfPages": [
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 3,
+      "word": "plane",
+      "meaning": "飞机",
+      "pdfPages": [
+        24,
+        28
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 3,
+      "word": "ball",
+      "meaning": "球",
+      "pdfPages": [
+        24,
+        26,
+        28
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 3,
+      "word": "doll",
+      "meaning": "玩具娃娃",
+      "pdfPages": [
+        24,
+        25,
+        29
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 3,
+      "word": "train",
+      "meaning": "火车",
+      "pdfPages": [
+        24
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 3,
+      "word": "car",
+      "meaning": "小汽车",
+      "pdfPages": [
+        22,
+        24,
+        25,
+        28
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 4,
+      "word": "rice",
+      "meaning": "米饭",
+      "pdfPages": [
+        32,
+        34,
+        35,
+        38
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 4,
+      "word": "noodles",
+      "meaning": "面条",
+      "pdfPages": [
+        33,
+        34,
+        35,
+        38
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 4,
+      "word": "vegetable",
+      "meaning": "蔬菜",
+      "pdfPages": [
+        32,
+        34,
+        35,
+        38
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 4,
+      "word": "fish",
+      "meaning": "鱼肉",
+      "pdfPages": [
+        34,
+        36,
+        39
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 4,
+      "word": "chicken",
+      "meaning": "鸡肉",
+      "pdfPages": [
+        34,
+        39
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 5,
+      "word": "juice",
+      "meaning": "果汁",
+      "pdfPages": [
+        41,
+        42,
+        43,
+        44,
+        47
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 5,
+      "word": "tea",
+      "meaning": "茶",
+      "pdfPages": [
+        40,
+        42,
+        47
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 5,
+      "word": "milk",
+      "meaning": "牛奶",
+      "pdfPages": [
+        42,
+        46
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 5,
+      "word": "water",
+      "meaning": "水",
+      "pdfPages": [
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 5,
+      "word": "thirsty",
+      "meaning": "口渴的",
+      "pdfPages": [
+        41,
+        43,
+        44
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 6,
+      "word": "shirt",
+      "meaning": "衬衫",
+      "pdfPages": [
+        49,
+        50,
+        52,
+        54
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 6,
+      "word": "T-shirt",
+      "meaning": "T恤衫",
+      "pdfPages": [
+        49,
+        50,
+        54
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 6,
+      "word": "skirt",
+      "meaning": "短裙",
+      "pdfPages": [
+        48,
+        50,
+        51,
+        55
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 6,
+      "word": "dress",
+      "meaning": "连衣裙",
+      "pdfPages": [
+        50,
+        51
+      ]
+    },
+    {
+      "book": "g1b",
+      "unit": 6,
+      "word": "socks",
+      "meaning": "袜子",
+      "pdfPages": [
+        50,
+        55
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 1,
+      "word": "father",
+      "meaning": "爸爸",
+      "pdfPages": [
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 1,
+      "word": "mother",
+      "meaning": "妈妈",
+      "pdfPages": [
+        8,
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 1,
+      "word": "brother",
+      "meaning": "兄弟",
+      "pdfPages": [
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 1,
+      "word": "sister",
+      "meaning": "姐妹",
+      "pdfPages": [
+        9,
+        14
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 1,
+      "word": "grandmother",
+      "meaning": "奶奶或外婆",
+      "pdfPages": [
+        9,
+        13
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 2,
+      "word": "classmate",
+      "meaning": "同学",
+      "pdfPages": [
+        17
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 2,
+      "word": "friend",
+      "meaning": "朋友",
+      "pdfPages": [
+        17,
+        22
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 2,
+      "word": "woman",
+      "meaning": "成年女子",
+      "pdfPages": [
+        17
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 2,
+      "word": "girl",
+      "meaning": "女孩",
+      "pdfPages": [
+        15,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 2,
+      "word": "boy",
+      "meaning": "男孩",
+      "pdfPages": [
+        15,
+        17,
+        18,
+        19,
+        21
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "word": "big",
+      "meaning": "大的",
+      "pdfPages": [
+        25,
+        27,
+        30
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "word": "tall",
+      "meaning": "高的",
+      "pdfPages": [
+        23,
+        25,
+        26,
+        27,
+        30
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "word": "pretty",
+      "meaning": "漂亮的",
+      "pdfPages": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "word": "thin",
+      "meaning": "瘦的",
+      "pdfPages": [
+        25
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 3,
+      "word": "short",
+      "meaning": "矮的",
+      "pdfPages": [
+        25
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 4,
+      "word": "bookshop",
+      "meaning": "书店",
+      "pdfPages": [
+        35,
+        37
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 4,
+      "word": "zoo",
+      "meaning": "动物园",
+      "pdfPages": [
+        33,
+        35,
+        36
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 4,
+      "word": "school",
+      "meaning": "学校",
+      "pdfPages": [
+        35
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 4,
+      "word": "supermarket",
+      "meaning": "超市",
+      "pdfPages": [
+        35,
+        39
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 4,
+      "word": "hospital",
+      "meaning": "医院",
+      "pdfPages": [
+        35
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 5,
+      "word": "grass",
+      "meaning": "草",
+      "pdfPages": [
+        43,
+        48
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 5,
+      "word": "tree",
+      "meaning": "树",
+      "pdfPages": [
+        41,
+        43,
+        44,
+        47
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 5,
+      "word": "flower",
+      "meaning": "花",
+      "pdfPages": [
+        43,
+        48
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 5,
+      "word": "boat",
+      "meaning": "小船",
+      "pdfPages": [
+        41,
+        43,
+        44,
+        47
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 5,
+      "word": "lake",
+      "meaning": "湖",
+      "pdfPages": [
+        41,
+        43,
+        44,
+        47
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "word": "Christmas",
+      "meaning": "圣诞节",
+      "pdfPages": [
+        51,
+        53,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "word": "Father Christmas",
+      "meaning": "圣诞老人",
+      "pdfPages": [
+        51,
+        55
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "word": "Christmas tree",
+      "meaning": "圣诞树",
+      "pdfPages": [
+        51
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "word": "card",
+      "meaning": "卡片",
+      "pdfPages": [
+        51,
+        52
+      ]
+    },
+    {
+      "book": "g2a",
+      "unit": 6,
+      "word": "present",
+      "meaning": "礼物",
+      "pdfPages": [
+        49,
+        51,
+        55,
+        56
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "word": "play football",
+      "meaning": "踢足球",
+      "pdfPages": [
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "word": "fly a kite",
+      "meaning": "放风筝",
+      "pdfPages": [
+        8,
+        13
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "word": "ride a bike",
+      "meaning": "骑自行车",
+      "pdfPages": [
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "word": "make a model plane",
+      "meaning": "制作飞机模型",
+      "pdfPages": [
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 1,
+      "word": "swim",
+      "meaning": "游泳",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "word": "rainy",
+      "meaning": "下雨的",
+      "pdfPages": [
+        15,
+        16,
+        17,
+        20
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "word": "cloudy",
+      "meaning": "多云的",
+      "pdfPages": [
+        16,
+        17,
+        20
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "word": "snowy",
+      "meaning": "下雪的",
+      "pdfPages": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "word": "windy",
+      "meaning": "有风的",
+      "pdfPages": [
+        16,
+        17,
+        21
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 2,
+      "word": "sunny",
+      "meaning": "晴朗的",
+      "pdfPages": [
+        14,
+        16,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "word": "spring",
+      "meaning": "春天",
+      "pdfPages": [
+        23,
+        24,
+        25,
+        28
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "word": "summer",
+      "meaning": "夏天",
+      "pdfPages": [
+        24,
+        25,
+        28
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "word": "autumn",
+      "meaning": "秋天",
+      "pdfPages": [
+        22,
+        24,
+        29
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "word": "winter",
+      "meaning": "冬天",
+      "pdfPages": [
+        24,
+        26,
+        29
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 3,
+      "word": "season",
+      "meaning": "季节",
+      "pdfPages": [
+        22,
+        23,
+        25,
+        26
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 4,
+      "word": "eleven",
+      "meaning": "十一",
+      "pdfPages": [
+        34
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 4,
+      "word": "twelve",
+      "meaning": "十二",
+      "pdfPages": [
+        34
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 4,
+      "word": "twenty",
+      "meaning": "二十",
+      "pdfPages": [
+        34
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 4,
+      "word": "thirty",
+      "meaning": "三十",
+      "pdfPages": [
+        34
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 4,
+      "word": "forty",
+      "meaning": "四十",
+      "pdfPages": [
+        34
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "word": "get up",
+      "meaning": "起床",
+      "pdfPages": [
+        41,
+        42,
+        44,
+        46
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "word": "eat breakfast",
+      "meaning": "吃早餐",
+      "pdfPages": [
+        40,
+        42,
+        43,
+        44,
+        46
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "word": "go to school",
+      "meaning": "去上学",
+      "pdfPages": [
+        42,
+        43,
+        44,
+        46,
+        47
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "word": "eat lunch",
+      "meaning": "吃午餐",
+      "pdfPages": [
+        42,
+        47
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 5,
+      "word": "go to bed",
+      "meaning": "上床睡觉",
+      "pdfPages": [
+        42,
+        44
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 6,
+      "word": "Monday",
+      "meaning": "星期一",
+      "pdfPages": [
+        49,
+        50,
+        51,
+        52,
+        54
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 6,
+      "word": "Tuesday",
+      "meaning": "星期二",
+      "pdfPages": [
+        50,
+        54
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 6,
+      "word": "Wednesday",
+      "meaning": "星期三",
+      "pdfPages": [
+        50,
+        54
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 6,
+      "word": "Thursday",
+      "meaning": "星期四",
+      "pdfPages": [
+        50,
+        51,
+        54
+      ]
+    },
+    {
+      "book": "g2b",
+      "unit": 6,
+      "word": "Friday",
+      "meaning": "星期五",
+      "pdfPages": [
+        50,
+        55
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "word": "my",
+      "meaning": "我的",
+      "pdfPages": [
+        7,
+        9,
+        11,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "word": "your",
+      "meaning": "你的",
+      "pdfPages": [
+        7,
+        9,
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "word": "name",
+      "meaning": "名字",
+      "pdfPages": [
+        7,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "word": "class",
+      "meaning": "班级",
+      "pdfPages": [
+        7,
+        8,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 1,
+      "word": "grade",
+      "meaning": "年级",
+      "pdfPages": [
+        11
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "word": "body",
+      "meaning": "身体",
+      "pdfPages": [
+        17,
+        19,
+        23,
+        25
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "word": "head",
+      "meaning": "头",
+      "pdfPages": [
+        18,
+        19,
+        23
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "word": "hair",
+      "meaning": "头发",
+      "pdfPages": [
+        19,
+        23
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "word": "arm",
+      "meaning": "手臂",
+      "pdfPages": [
+        19,
+        23
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 2,
+      "word": "hand",
+      "meaning": "手",
+      "pdfPages": [
+        19,
+        21,
+        23
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "word": "bread",
+      "meaning": "面包",
+      "pdfPages": [
+        27,
+        29,
+        30,
+        31,
+        33,
+        34,
+        36
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "word": "cake",
+      "meaning": "蛋糕",
+      "pdfPages": [
+        29,
+        30,
+        31,
+        36
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "word": "fruit",
+      "meaning": "水果",
+      "pdfPages": [
+        29,
+        31,
+        35
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "word": "potato",
+      "meaning": "土豆",
+      "pdfPages": [
+        28,
+        29,
+        30,
+        33,
+        36
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 3,
+      "word": "tomato",
+      "meaning": "西红柿",
+      "pdfPages": [
+        28,
+        29,
+        30,
+        33
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "word": "duck",
+      "meaning": "鸭子",
+      "pdfPages": [
+        45,
+        46
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "word": "rabbit",
+      "meaning": "兔子",
+      "pdfPages": [
+        43,
+        45,
+        46,
+        51
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "word": "snake",
+      "meaning": "蛇",
+      "pdfPages": [
+        45,
+        52
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "word": "turtle",
+      "meaning": "乌龟",
+      "pdfPages": [
+        45,
+        52
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 4,
+      "word": "tail",
+      "meaning": "尾巴",
+      "pdfPages": [
+        47
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "word": "cap",
+      "meaning": "帽子",
+      "pdfPages": [
+        53,
+        55,
+        56,
+        59,
+        61
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "word": "coat",
+      "meaning": "外套",
+      "pdfPages": [
+        53,
+        55,
+        56,
+        57,
+        59,
+        61
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "word": "shoes",
+      "meaning": "鞋子",
+      "pdfPages": [
+        54,
+        55,
+        61,
+        62
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "word": "sweater",
+      "meaning": "毛衣",
+      "pdfPages": [
+        53,
+        55,
+        56,
+        57,
+        59,
+        60
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 5,
+      "word": "gloves",
+      "meaning": "手套",
+      "pdfPages": [
+        53,
+        55,
+        56,
+        57,
+        59
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "word": "January",
+      "meaning": "一月",
+      "pdfPages": [
+        65,
+        66,
+        67,
+        71
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "word": "February",
+      "meaning": "二月",
+      "pdfPages": [
+        65,
+        66,
+        71
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "word": "March",
+      "meaning": "三月",
+      "pdfPages": [
+        65,
+        66,
+        69,
+        71
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "word": "April",
+      "meaning": "四月",
+      "pdfPages": [
+        65,
+        66,
+        69,
+        71
+      ]
+    },
+    {
+      "book": "g3a",
+      "unit": 6,
+      "word": "May",
+      "meaning": "五月",
+      "pdfPages": [
+        64,
+        65,
+        66,
+        69,
+        70,
+        72
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "word": "Chinese",
+      "meaning": "语文",
+      "pdfPages": [
+        7,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "word": "English",
+      "meaning": "英语",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "word": "science",
+      "meaning": "科学",
+      "pdfPages": [
+        7,
+        8,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "word": "PE",
+      "meaning": "体育",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 1,
+      "word": "music",
+      "meaning": "音乐",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "word": "classroom",
+      "meaning": "教室",
+      "pdfPages": [
+        16,
+        18,
+        19,
+        20,
+        23,
+        24
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "word": "library",
+      "meaning": "图书馆",
+      "pdfPages": [
+        17,
+        18,
+        19,
+        20,
+        23,
+        25
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "word": "toilet",
+      "meaning": "厕所",
+      "pdfPages": [
+        18,
+        19,
+        20,
+        25
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "word": "playground",
+      "meaning": "操场",
+      "pdfPages": [
+        18,
+        20,
+        25
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 2,
+      "word": "floor",
+      "meaning": "楼层",
+      "pdfPages": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "word": "after school",
+      "meaning": "放学后",
+      "pdfPages": [
+        26,
+        27,
+        29,
+        30,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "word": "play sports",
+      "meaning": "做体育运动",
+      "pdfPages": [
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "word": "draw pictures",
+      "meaning": "画画",
+      "pdfPages": [
+        28,
+        34
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "word": "play chess",
+      "meaning": "下棋",
+      "pdfPages": [
+        28,
+        29,
+        30,
+        35
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 3,
+      "word": "sing songs",
+      "meaning": "唱歌",
+      "pdfPages": [
+        28,
+        29
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "word": "uncle",
+      "meaning": "叔伯舅、姑父或姨父",
+      "pdfPages": [
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "word": "aunt",
+      "meaning": "姑妈姨妈、婶婶或舅妈等",
+      "pdfPages": [
+        42,
+        44,
+        45,
+        48
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "word": "cousin",
+      "meaning": "堂或表兄弟姐妹",
+      "pdfPages": [
+        44,
+        45
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "word": "handsome",
+      "meaning": "帅气的",
+      "pdfPages": [
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 4,
+      "word": "beautiful",
+      "meaning": "美丽的",
+      "pdfPages": [
+        42,
+        44,
+        45,
+        48
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "word": "cooking dinner",
+      "meaning": "正在做晚饭",
+      "pdfPages": [
+        54,
+        55
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "word": "walking the dog",
+      "meaning": "正在遛狗",
+      "pdfPages": [
+        54,
+        58
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "word": "watering the plants",
+      "meaning": "正在给植物浇水",
+      "pdfPages": [
+        54,
+        60
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "word": "cleaning the room",
+      "meaning": "正在打扫房间",
+      "pdfPages": [
+        54
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 5,
+      "word": "listening to music",
+      "meaning": "正在听音乐",
+      "pdfPages": [
+        54,
+        55
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "word": "bedroom",
+      "meaning": "卧室",
+      "pdfPages": [
+        64,
+        66,
+        68,
+        71
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "word": "living room",
+      "meaning": "客厅",
+      "pdfPages": [
+        63,
+        64,
+        66
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "word": "bathroom",
+      "meaning": "浴室",
+      "pdfPages": [
+        64,
+        65,
+        66,
+        68,
+        70
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "word": "dining room",
+      "meaning": "餐厅",
+      "pdfPages": [
+        64,
+        66,
+        70
+      ]
+    },
+    {
+      "book": "g3b",
+      "unit": 6,
+      "word": "kitchen",
+      "meaning": "厨房",
+      "pdfPages": [
+        62,
+        64,
+        65,
+        66,
+        70
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "word": "running",
+      "meaning": "跑步",
+      "pdfPages": [
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "word": "basketball",
+      "meaning": "篮球",
+      "pdfPages": [
+        8,
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "word": "roller skating",
+      "meaning": "轮滑",
+      "pdfPages": [
+        7,
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "word": "jumping rope",
+      "meaning": "跳绳",
+      "pdfPages": [
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 1,
+      "word": "ping-pong",
+      "meaning": "乒乓球",
+      "pdfPages": [
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "word": "climb a hill",
+      "meaning": "爬山",
+      "pdfPages": [
+        19,
+        23
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "word": "pick fruit",
+      "meaning": "采摘水果",
+      "pdfPages": [
+        19,
+        20,
+        25,
+        26
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "word": "go fishing",
+      "meaning": "去钓鱼",
+      "pdfPages": [
+        23
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "word": "go to the cinema",
+      "meaning": "去看电影",
+      "pdfPages": [
+        17,
+        19,
+        21,
+        23
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 2,
+      "word": "on the weekend",
+      "meaning": "在周末",
+      "pdfPages": [
+        17,
+        20,
+        21,
+        23,
+        26
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "word": "by bus",
+      "meaning": "乘公交车",
+      "pdfPages": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "word": "by subway",
+      "meaning": "乘地铁",
+      "pdfPages": [
+        27,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "word": "by plane",
+      "meaning": "乘飞机",
+      "pdfPages": [
+        29
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "word": "by train",
+      "meaning": "乘火车",
+      "pdfPages": [
+        29,
+        36
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 3,
+      "word": "on foot",
+      "meaning": "步行",
+      "pdfPages": [
+        27,
+        29,
+        30,
+        33
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "word": "pen",
+      "meaning": "钢笔",
+      "pdfPages": [
+        43,
+        45,
+        47,
+        49
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "word": "knife",
+      "meaning": "小刀",
+      "pdfPages": [
+        45,
+        46,
+        49
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "word": "eraser",
+      "meaning": "橡皮",
+      "pdfPages": [
+        45
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "word": "scissors",
+      "meaning": "剪刀",
+      "pdfPages": [
+        45
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 4,
+      "word": "glue stick",
+      "meaning": "固体胶",
+      "pdfPages": [
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "word": "dangerous",
+      "meaning": "危险的",
+      "pdfPages": [
+        53,
+        55,
+        57,
+        59,
+        60
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "word": "safe",
+      "meaning": "安全的",
+      "pdfPages": [
+        53,
+        54,
+        56,
+        57,
+        59
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "word": "sidewalk",
+      "meaning": "人行道",
+      "pdfPages": [
+        54,
+        56,
+        57,
+        59,
+        62
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "word": "stairs",
+      "meaning": "楼梯",
+      "pdfPages": [
+        53,
+        55,
+        57,
+        61
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 5,
+      "word": "fire",
+      "meaning": "火",
+      "pdfPages": [
+        55,
+        57,
+        60,
+        61
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "word": "doctor",
+      "meaning": "医生",
+      "pdfPages": [
+        64,
+        65,
+        66,
+        67,
+        69
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "word": "nurse",
+      "meaning": "护士",
+      "pdfPages": [
+        64,
+        65,
+        66
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "word": "cook",
+      "meaning": "厨师",
+      "pdfPages": [
+        65,
+        66,
+        69
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "word": "farmer",
+      "meaning": "农民",
+      "pdfPages": [
+        65,
+        66,
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "book": "g4a",
+      "unit": 6,
+      "word": "worker",
+      "meaning": "工人",
+      "pdfPages": [
+        65,
+        66
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "word": "across from",
+      "meaning": "在……对面",
+      "pdfPages": [
+        8,
+        10,
+        15
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "word": "next to",
+      "meaning": "紧挨着",
+      "pdfPages": [
+        7,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "word": "between",
+      "meaning": "在……之间",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "word": "post office",
+      "meaning": "邮局",
+      "pdfPages": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        15
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 1,
+      "word": "bank",
+      "meaning": "银行",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        10,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "word": "city",
+      "meaning": "城市",
+      "pdfPages": [
+        16,
+        18,
+        20,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "word": "street",
+      "meaning": "街道",
+      "pdfPages": [
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        25
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "word": "sports centre",
+      "meaning": "体育中心",
+      "pdfPages": [
+        16,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "word": "hotel",
+      "meaning": "旅馆",
+      "pdfPages": [
+        16,
+        18,
+        19,
+        20,
+        22
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 2,
+      "word": "square",
+      "meaning": "广场",
+      "pdfPages": [
+        18,
+        20,
+        22
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "word": "sea",
+      "meaning": "海",
+      "pdfPages": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "word": "ski",
+      "meaning": "滑雪",
+      "pdfPages": [
+        28,
+        30
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "word": "eat seafood",
+      "meaning": "吃海鲜",
+      "pdfPages": [
+        27,
+        28,
+        29,
+        34,
+        35
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "word": "row a boat",
+      "meaning": "划船",
+      "pdfPages": [
+        28,
+        30,
+        32
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 3,
+      "word": "take photos",
+      "meaning": "拍照",
+      "pdfPages": [
+        28
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "word": "reading",
+      "meaning": "阅读",
+      "pdfPages": [
+        44,
+        47,
+        48
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "word": "skateboarding",
+      "meaning": "玩滑板",
+      "pdfPages": [
+        43,
+        44,
+        46,
+        48
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "word": "singing",
+      "meaning": "唱歌",
+      "pdfPages": [
+        43,
+        44,
+        45,
+        47,
+        50,
+        51
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "word": "dancing",
+      "meaning": "跳舞",
+      "pdfPages": [
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 4,
+      "word": "collecting erasers",
+      "meaning": "收集橡皮",
+      "pdfPages": [
+        42,
+        44,
+        45
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "word": "go for a picnic",
+      "meaning": "去野餐",
+      "pdfPages": [
+        54,
+        55,
+        58
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "word": "play the violin",
+      "meaning": "拉小提琴",
+      "pdfPages": [
+        54,
+        55
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "word": "go skating",
+      "meaning": "去滑冰",
+      "pdfPages": [
+        53,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "word": "go camping",
+      "meaning": "去露营",
+      "pdfPages": [
+        52,
+        55
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 5,
+      "word": "do the housework",
+      "meaning": "做家务",
+      "pdfPages": [
+        54,
+        55
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "word": "Canada",
+      "meaning": "加拿大",
+      "pdfPages": [
+        63,
+        64,
+        66,
+        68,
+        69,
+        71
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "word": "Australia",
+      "meaning": "澳大利亚",
+      "pdfPages": [
+        64,
+        65,
+        66,
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "word": "the UK",
+      "meaning": "英国",
+      "pdfPages": [
+        62,
+        64,
+        65,
+        66,
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "word": "the USA",
+      "meaning": "美国",
+      "pdfPages": [
+        64,
+        65,
+        68,
+        69,
+        71
+      ]
+    },
+    {
+      "book": "g4b",
+      "unit": 6,
+      "word": "China",
+      "meaning": "中国",
+      "pdfPages": [
+        64,
+        65,
+        70,
+        71
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "word": "clever",
+      "meaning": "聪明的",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "word": "careless",
+      "meaning": "粗心的",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        10,
+        15,
+        16,
+        18
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "word": "polite",
+      "meaning": "有礼貌的",
+      "pdfPages": [
+        7,
+        8,
+        10,
+        11,
+        15,
+        16
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "word": "quiet",
+      "meaning": "安静的",
+      "pdfPages": [
+        7,
+        8,
+        10,
+        11,
+        15,
+        16
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 1,
+      "word": "helpful",
+      "meaning": "乐于助人的",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        16,
+        18
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "word": "wear glasses",
+      "meaning": "戴眼镜",
+      "pdfPages": [
+        19,
+        28
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "word": "slim",
+      "meaning": "苗条的",
+      "pdfPages": [
+        19,
+        20,
+        23,
+        28
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "word": "curly",
+      "meaning": "卷曲的",
+      "pdfPages": [
+        19,
+        20,
+        23,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "word": "straight",
+      "meaning": "笔直的",
+      "pdfPages": [
+        19,
+        22,
+        28,
+        29
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 2,
+      "word": "young",
+      "meaning": "年轻的",
+      "pdfPages": [
+        19,
+        20,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "word": "elephant",
+      "meaning": "大象",
+      "pdfPages": [
+        31,
+        32,
+        33,
+        35,
+        36,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "word": "panda",
+      "meaning": "熊猫",
+      "pdfPages": [
+        31,
+        32,
+        35,
+        40
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "word": "horse",
+      "meaning": "马",
+      "pdfPages": [
+        31,
+        33,
+        40
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "word": "cow",
+      "meaning": "奶牛",
+      "pdfPages": [
+        31,
+        37,
+        40
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 3,
+      "word": "sheep",
+      "meaning": "绵羊",
+      "pdfPages": [
+        31,
+        40
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "word": "exercise book",
+      "meaning": "练习本",
+      "pdfPages": [
+        52,
+        53,
+        58
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "word": "pencil sharpener",
+      "meaning": "卷笔刀",
+      "pdfPages": [
+        49,
+        58
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "word": "a pair of scissors",
+      "meaning": "一把剪刀",
+      "pdfPages": [
+        49,
+        58
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "word": "pencil box",
+      "meaning": "铅笔盒",
+      "pdfPages": [
+        49,
+        50,
+        53,
+        58
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 4,
+      "word": "a box of crayons",
+      "meaning": "一盒蜡笔",
+      "pdfPages": [
+        49,
+        50,
+        58
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "word": "cartoons",
+      "meaning": "动画片",
+      "pdfPages": [
+        61,
+        66,
+        70,
+        71
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "word": "news shows",
+      "meaning": "新闻节目",
+      "pdfPages": [
+        61,
+        70
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "word": "nature shows",
+      "meaning": "自然类节目",
+      "pdfPages": [
+        61,
+        64,
+        66,
+        69,
+        70
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "word": "sports shows",
+      "meaning": "体育节目",
+      "pdfPages": [
+        61,
+        63,
+        71
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 5,
+      "word": "music shows",
+      "meaning": "音乐节目",
+      "pdfPages": [
+        61,
+        62,
+        69,
+        70
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "word": "chore",
+      "meaning": "家务活",
+      "pdfPages": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        80,
+        81,
+        82,
+        83,
+        84
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "word": "make the bed",
+      "meaning": "整理床铺",
+      "pdfPages": [
+        73,
+        82
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "word": "take out the rubbish",
+      "meaning": "倒垃圾",
+      "pdfPages": [
+        73,
+        76,
+        81,
+        82,
+        84
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "word": "tidy the desk",
+      "meaning": "整理书桌",
+      "pdfPages": [
+        73,
+        82
+      ]
+    },
+    {
+      "book": "g5a",
+      "unit": 6,
+      "word": "sweep the floor",
+      "meaning": "扫地",
+      "pdfPages": [
+        73,
+        76,
+        80,
+        81,
+        82
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "word": "candy",
+      "meaning": "糖果",
+      "pdfPages": [
+        6,
+        7,
+        8,
+        13,
+        15
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "word": "early",
+      "meaning": "早",
+      "pdfPages": [
+        6,
+        8,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "word": "tired",
+      "meaning": "疲倦的",
+      "pdfPages": [
+        6,
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "word": "headache",
+      "meaning": "头痛",
+      "pdfPages": [
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 1,
+      "word": "toothache",
+      "meaning": "牙痛",
+      "pdfPages": [
+        9,
+        15
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "word": "Tree Planting Day",
+      "meaning": "植树节",
+      "pdfPages": [
+        18,
+        19,
+        20,
+        21,
+        26,
+        27
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "word": "Mother's Day",
+      "meaning": "母亲节",
+      "pdfPages": [
+        18,
+        19,
+        21,
+        22,
+        23,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "word": "Children's Day",
+      "meaning": "儿童节",
+      "pdfPages": [
+        18,
+        19,
+        21,
+        22,
+        26,
+        27
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "word": "Teachers' Day",
+      "meaning": "教师节",
+      "pdfPages": [
+        18,
+        19,
+        21,
+        22,
+        26,
+        27
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 2,
+      "word": "National Day",
+      "meaning": "国庆节",
+      "pdfPages": [
+        18,
+        19,
+        26,
+        27
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "word": "send an email",
+      "meaning": "发电子邮件",
+      "pdfPages": [
+        30,
+        31,
+        33,
+        39
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "word": "write a letter",
+      "meaning": "写信",
+      "pdfPages": [
+        30,
+        31,
+        39
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "word": "make a phone call",
+      "meaning": "打电话",
+      "pdfPages": [
+        30,
+        31,
+        35,
+        39
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "word": "send a short message",
+      "meaning": "发短信",
+      "pdfPages": [
+        30,
+        31,
+        39
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 3,
+      "word": "make a video call",
+      "meaning": "打视频电话",
+      "pdfPages": [
+        30,
+        31,
+        39
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "word": "cleaned the window",
+      "meaning": "擦了窗户",
+      "pdfPages": [
+        48,
+        57
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "word": "watched TV",
+      "meaning": "看了电视",
+      "pdfPages": [
+        48,
+        53,
+        57
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "word": "climbed a hill",
+      "meaning": "爬了山",
+      "pdfPages": [
+        48,
+        49,
+        51,
+        52,
+        56,
+        57
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "word": "visited grandparents",
+      "meaning": "看望了祖辈",
+      "pdfPages": [
+        48,
+        51,
+        57
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 4,
+      "word": "stayed at home",
+      "meaning": "待在了家里",
+      "pdfPages": [
+        48,
+        49,
+        57
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "word": "went to the beach",
+      "meaning": "去了海滩",
+      "pdfPages": [
+        60,
+        61,
+        69
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "word": "drank cold drinks",
+      "meaning": "喝了冷饮",
+      "pdfPages": [
+        60,
+        69
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "word": "swam",
+      "meaning": "游了泳",
+      "pdfPages": [
+        60,
+        61,
+        64,
+        69,
+        71
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "word": "bought some gifts",
+      "meaning": "买了一些礼物",
+      "pdfPages": [
+        60,
+        61,
+        64,
+        69
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 5,
+      "word": "took photos",
+      "meaning": "拍了照片",
+      "pdfPages": [
+        60,
+        61,
+        69
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "word": "was born",
+      "meaning": "出生了",
+      "pdfPages": [
+        72,
+        76,
+        77,
+        79,
+        80,
+        81
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "word": "started to speak",
+      "meaning": "开始说话了",
+      "pdfPages": [
+        72,
+        75,
+        81
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "word": "learned to walk",
+      "meaning": "学会走路了",
+      "pdfPages": [
+        72,
+        75,
+        76,
+        81
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "word": "went to kindergarten",
+      "meaning": "上幼儿园了",
+      "pdfPages": [
+        72,
+        74,
+        75,
+        81
+      ]
+    },
+    {
+      "book": "g5b",
+      "unit": 6,
+      "word": "learned to swim",
+      "meaning": "学会游泳了",
+      "pdfPages": [
+        72,
+        74,
+        75,
+        76,
+        81
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "word": "morning tea",
+      "meaning": "早茶",
+      "pdfPages": [
+        7,
+        16
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "word": "soup",
+      "meaning": "汤",
+      "pdfPages": [
+        7,
+        10,
+        16
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "word": "garden",
+      "meaning": "花园",
+      "pdfPages": [
+        7,
+        10,
+        11,
+        16
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "word": "the Potala Palace",
+      "meaning": "布达拉宫",
+      "pdfPages": [
+        7,
+        10,
+        15,
+        16
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 1,
+      "word": "the Terracotta Army",
+      "meaning": "兵马俑",
+      "pdfPages": [
+        7,
+        8,
+        10,
+        16
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "word": "London",
+      "meaning": "伦敦",
+      "pdfPages": [
+        19,
+        23,
+        24,
+        27,
+        28
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "word": "Toronto",
+      "meaning": "多伦多",
+      "pdfPages": [
+        19,
+        21,
+        22,
+        23,
+        28
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "word": "Sydney",
+      "meaning": "悉尼",
+      "pdfPages": [
+        19,
+        21,
+        23,
+        28
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "word": "the British Museum",
+      "meaning": "大英博物馆",
+      "pdfPages": [
+        19,
+        27,
+        28
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 2,
+      "word": "the White House",
+      "meaning": "白宫",
+      "pdfPages": [
+        19,
+        20,
+        24,
+        28
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "word": "reptile",
+      "meaning": "爬行动物",
+      "pdfPages": [
+        31,
+        34,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "word": "mammal",
+      "meaning": "哺乳动物",
+      "pdfPages": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "word": "insect",
+      "meaning": "昆虫",
+      "pdfPages": [
+        31,
+        32,
+        34,
+        38,
+        40
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "word": "penguin",
+      "meaning": "企鹅",
+      "pdfPages": [
+        31,
+        32,
+        39,
+        40
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 3,
+      "word": "whale",
+      "meaning": "鲸",
+      "pdfPages": [
+        31,
+        39,
+        40
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "word": "scared",
+      "meaning": "害怕的",
+      "pdfPages": [
+        49,
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "word": "worried",
+      "meaning": "担心的",
+      "pdfPages": [
+        49,
+        51,
+        53,
+        58,
+        60
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "word": "angry",
+      "meaning": "生气的",
+      "pdfPages": [
+        49,
+        53,
+        56,
+        58,
+        59
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "word": "proud",
+      "meaning": "自豪的",
+      "pdfPages": [
+        49,
+        50,
+        51,
+        53,
+        57,
+        58
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 4,
+      "word": "excited",
+      "meaning": "兴奋的",
+      "pdfPages": [
+        49,
+        53,
+        57,
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "word": "inventor",
+      "meaning": "发明家",
+      "pdfPages": [
+        61,
+        64,
+        70,
+        72
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "word": "artist",
+      "meaning": "艺术家",
+      "pdfPages": [
+        61,
+        62,
+        64,
+        70
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "word": "scientist",
+      "meaning": "科学家",
+      "pdfPages": [
+        61,
+        63,
+        64,
+        65,
+        69,
+        70
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "word": "poet",
+      "meaning": "诗人",
+      "pdfPages": [
+        61,
+        62,
+        64,
+        70
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 5,
+      "word": "writer",
+      "meaning": "作家",
+      "pdfPages": [
+        61,
+        63,
+        64,
+        70,
+        72
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "word": "winter vacation",
+      "meaning": "寒假",
+      "pdfPages": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "word": "Spring Festival",
+      "meaning": "春节",
+      "pdfPages": [
+        73,
+        82,
+        84
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "word": "dumpling",
+      "meaning": "饺子",
+      "pdfPages": [
+        73,
+        74,
+        75,
+        82
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "word": "match",
+      "meaning": "比赛",
+      "pdfPages": [
+        73,
+        74,
+        81
+      ]
+    },
+    {
+      "book": "g6a",
+      "unit": 6,
+      "word": "plan",
+      "meaning": "计划",
+      "pdfPages": [
+        73,
+        74,
+        75,
+        82
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "word": "live",
+      "meaning": "居住",
+      "pdfPages": [
+        7,
+        14
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "word": "scarf",
+      "meaning": "围巾",
+      "pdfPages": [
+        14
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "word": "airport",
+      "meaning": "机场",
+      "pdfPages": [
+        8,
+        11
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "word": "pupil",
+      "meaning": "小学生",
+      "pdfPages": [
+        10,
+        11
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 1,
+      "word": "arrive",
+      "meaning": "到达",
+      "pdfPages": [
+        11
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "word": "art gallery",
+      "meaning": "美术馆",
+      "pdfPages": [
+        16
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "word": "public library",
+      "meaning": "公共图书馆",
+      "pdfPages": [
+        16
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "word": "downtown",
+      "meaning": "市中心",
+      "pdfPages": [
+        17
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "word": "stadium",
+      "meaning": "体育场",
+      "pdfPages": [
+        17
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 2,
+      "word": "Lake Ontario",
+      "meaning": "安大略湖",
+      "pdfPages": [
+        17
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "word": "volunteer",
+      "meaning": "志愿者",
+      "pdfPages": [
+        27
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "word": "sandwich",
+      "meaning": "三明治",
+      "pdfPages": [
+        29,
+        31
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "word": "habit",
+      "meaning": "习惯",
+      "pdfPages": [
+        31
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "word": "at least",
+      "meaning": "至少",
+      "pdfPages": [
+        31
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 3,
+      "word": "less",
+      "meaning": "更少",
+      "pdfPages": [
+        26,
+        28,
+        30,
+        31,
+        35
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "word": "hockey",
+      "meaning": "冰球",
+      "pdfPages": [
+        37,
+        42
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "word": "talk about",
+      "meaning": "谈论",
+      "pdfPages": [
+        38
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "word": "together",
+      "meaning": "一起",
+      "pdfPages": [
+        39
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "word": "beaver",
+      "meaning": "河狸",
+      "pdfPages": [
+        41
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 4,
+      "word": "raccoon",
+      "meaning": "浣熊",
+      "pdfPages": [
+        41
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "word": "countryside",
+      "meaning": "乡村",
+      "pdfPages": [
+        47
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "word": "Thanksgiving",
+      "meaning": "感恩节",
+      "pdfPages": [
+        49
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "word": "roast turkey",
+      "meaning": "烤火鸡",
+      "pdfPages": [
+        49
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "word": "squirrel",
+      "meaning": "松鼠",
+      "pdfPages": [
+        51
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 5,
+      "word": "swan",
+      "meaning": "天鹅",
+      "pdfPages": [
+        51
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "word": "English-Chinese dictionary",
+      "meaning": "英汉词典",
+      "pdfPages": [
+        59
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "word": "shopping centre",
+      "meaning": "购物中心",
+      "pdfPages": [
+        59
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "word": "amazing",
+      "meaning": "令人惊叹的",
+      "pdfPages": [
+        60,
+        61
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "word": "hot pot",
+      "meaning": "火锅",
+      "pdfPages": [
+        61
+      ]
+    },
+    {
+      "book": "g6b",
+      "unit": 6,
+      "word": "diary",
+      "meaning": "日记",
+      "pdfPages": [
+        59
+      ]
+    }
+  ],
+  "unmatched": []
+}
